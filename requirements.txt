@@ -1,0 +1,8 @@
+dash
+pandas
+requests
+elasticsearch
+plotly
+dash-table
+gunicorn  # Pour le déploiement en production
+python-dotenv  # Pour gérer les variables d'environnement

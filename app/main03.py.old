@@ -1,0 +1,86 @@
+import dash
+from dash import html, dcc
+import sys
+from app.layouts.index import create_index_layout
+from app.layouts.statistics import create_statistics_layout
+from app.layouts.skills import create_skills_layout
+from app.callbacks.statistics_callbacks import register_statistics_callbacks
+from app.callbacks.skills_callbacks import register_skills_callbacks
+from app.utils.elastic_helpers import es
+
+# Configuration des feuilles de style externes
+external_stylesheets = [
+    'https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap',
+    'https://codepen.io/chriddyp/pen/bWLwgP.css'
+]
+
+# Initialisation de l'application
+app = dash.Dash(
+    __name__,
+    external_stylesheets=external_stylesheets,
+    suppress_callback_exceptions=True,
+    meta_tags=[
+        {"name": "viewport", "content": "width=device-width, initial-scale=1"}
+    ]
+)
+
+# Configuration du serveur
+server = app.server
+
+# Vérification de la connexion à Elasticsearch
+try:
+    if es:
+        es.info()
+        print("Connected to Elasticsearch")
+    else:
+        print("Failed to create Elasticsearch client")
+        sys.exit(1)
+except Exception as e:
+    print(f"Error connecting to Elasticsearch: {e}")
+    sys.exit(1)
+
+# Layout principal de l'application
+app.layout = html.Div([
+    # Store pour stocker des données si nécessaire
+    dcc.Store(id='session-store'),
+    
+    # URL Location
+    dcc.Location(id='url', refresh=False),
+    
+    # Contenu principal
+    html.Div(id='page-content')
+], style={
+    'fontFamily': 'Roboto, sans-serif',
+    'margin': '0',
+    'padding': '0',
+    'minHeight': '100vh'
+})
+
+# Callback pour la navigation
+@app.callback(
+    dash.dependencies.Output('page-content', 'children'),
+    [dash.dependencies.Input('url', 'pathname')]
+)
+def display_page(pathname):
+    """
+    Gère la navigation entre les différentes pages de l'application.
+    """
+    if pathname == '/page-1':
+        return create_statistics_layout()
+    elif pathname == '/page-2':
+        return create_skills_layout()
+    else:
+        return create_index_layout()
+
+# Enregistrement des callbacks
+register_statistics_callbacks(app)
+register_skills_callbacks(app)
+
+# Point d'entrée de l'application
+if __name__ == '__main__':
+    app.run_server(
+        debug=True,
+        host='0.0.0.0',
+        port=8050,
+        dev_tools_hot_reload=True
+    )
