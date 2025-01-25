@@ -3,7 +3,8 @@ from dash import html
 from dash import dcc
 import os
 import sys
-import dash_table
+#import dash_table
+from dash import dash_table
 from dash.dash_table.Format import Group
 from dash.dependencies import Output, Input
 import plotly.express as px

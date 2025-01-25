@@ -6,7 +6,7 @@ from elasticsearch import Elasticsearch
 # Configuration pour le conteneur
 ES_HOST = "elasticsearch:9200"
 JOBMARKET_INDEX = "jobmarket"
-DATA_PATH = "/app/data/*.json"
+DATA_PATH = "/app/ETL/data/*.json"
 
 def get_es_client():
     try:
