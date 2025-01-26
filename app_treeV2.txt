@@ -1,0 +1,60 @@
+.
+├── Dockerfile
+├── ETL
+│   ├── Load
+│   │   │
+│   │   └── ...
+│   └── data
+│       ├── ...
+│       └── ok
+│           └── ...
+├── JobMarketLogo.png
+├── app
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-39.pyc
+│   │   ├── elastic.cpython-39.pyc
+│   │   └── main.cpython-39.pyc
+│   ├── assets
+│   │   ├── JobMarketLogo.png
+│   │   └── style.css
+│   ├── callbacks
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-39.pyc
+│   │   │   ├── skills_callbacks.cpython-39.pyc
+│   │   │   └── statistics_callbacks.cpython-39.pyc
+│   │   ├── skills_callbacks.py
+│   │   └── statistics_callbacks.py
+│   ├── elastic.py
+│   ├── init_es.py
+│   ├── layouts
+│   │   ├── __init__.py
+│   │   ├── __pycache__
+│   │   │   ├── __init__.cpython-39.pyc
+│   │   │   ├── index.cpython-39.pyc
+│   │   │   ├── skills.cpython-39.pyc
+│   │   │   └── statistics.cpython-39.pyc
+│   │   ├── elastic_helpers.py
+│   │   ├── index.py
+│   │   ├── skills.py
+│   │   └── statistics.py
+│   ├── main.py
+│   ├── main.py.old
+│   ├── old main
+│   │   ├── main02.py.old
+│   │   ├── main03.py.old
+│   │   ├── main05.py.old
+│   │   ├── main06.py.old
+│   │   ├── main08.py.old
+│   │   └── main09.py.old
+│   └── utils
+│       ├── __init__.py
+│       ├── __pycache__
+│       │   ├── __init__.cpython-39.pyc
+│       │   └── elastic_helpers.cpython-39.pyc
+│       └── elastic_helpers.py
+├── app_tree.txt
+├── docker-compose.yml
+├── init_es.sh
+└── requirements.txt

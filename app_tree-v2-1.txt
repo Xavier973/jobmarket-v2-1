@@ -1,0 +1,83 @@
+jobmarket-v2-1/
+├── data/
+│   ├── raw/                    # Données brutes du scraping
+│   │   ├── francetravail/
+│   │   ├── wttj/
+│   │   ├── indeed/
+│   │   └── linkedin/
+|   ├── transformed/            # Données transformées
+|   │   └── ...
+|   ├── processed/              # Données chargées dans Elasticsearch
+|   |   └── ...                            
+│   └── logs/
+├── Extract/
+│   ├── FranceTravail/
+│   │   ├── src/
+│   │   │   ├── __init__.py
+│   │   │   ├── main.py
+│   │   │   ├── constants.py
+│   │   │   ├── utils.py
+│   │   ├── Dockerfile
+│   │   └── requirements.txt
+│   ├── Wttj/
+│   │   ├── src/
+│   │   │   ├── __init__.py
+│   │   │   ├── main.py
+│   │   │   ├── constants.py
+│   │   │   ├── utils.py
+│   │   ├── Dockerfile
+│   │   └── requirements.txt
+|   ├── Indeed/
+│   │   ├── src/
+│   │   │   ├── __init__.py
+│   │   │   └── main.py
+│   │   ├── Dockerfile
+│   │   └── requirements.txt
+│   └── LinkedIn/
+│       ├── src/
+│       │   ├── __init__.py
+│       │   └── main.py
+│       ├── Dockerfile
+│       └── requirements.txt
+├── transform/
+│   ├── src/
+│   │   ├── __init__.py
+│   │   └── transform.py
+|   |
+│   ├── Dockerfile
+│   └── requirements.txt
+├── load/
+│   ├── src/
+│   │   ├── __init__.py
+│   │   ├── load_to_elasticsearch.py
+│   │   ├── constants.py
+│   │   ├── utils.py
+│   ├── Dockerfile
+│   └── requirements.txt
+├── api/
+│   ├── src/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── routes.py
+│   │   ├── constants.py
+│   │   ├── utils.py
+│   ├── Dockerfile
+│   └── requirements.txt
+├── dashboard/
+│   ├── src/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── constants.py
+│   │   ├── elastic.py
+│   ├── Dockerfile
+│   └── requirements.txt
+├── tests/
+│   ├── extract/
+│   ├── transform/
+│   ├── load/
+│   ├── api/
+│   └── dashboard/
+├── docker-compose.yml
+├── .env
+└── README.md
+
