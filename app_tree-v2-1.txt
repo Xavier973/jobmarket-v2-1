@@ -77,6 +77,7 @@ jobmarket-v2-1/
 │   ├── load/
 │   ├── api/
 │   └── dashboard/
+├── Elasticsearch
 ├── docker-compose.yml
 ├── .env
 └── README.md

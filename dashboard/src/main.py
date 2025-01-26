@@ -9,7 +9,8 @@ from dash.dash_table.Format import Group
 from dash.dependencies import Output, Input
 import plotly.express as px
 import pandas as pd
-from app.elastic import get_es_client, JOBMARKET_INDEX
+# from dashboard.src.elastic import get_es_client, JOBMARKET_INDEX
+from Elasticsearch.src.elastic import get_es_client, JOBMARKET_INDEX
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets, suppress_callback_exceptions=True)

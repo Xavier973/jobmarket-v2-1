@@ -1,4 +1,4 @@
-from app.elastic import get_es_client, JOBMARKET_INDEX
+from Elasticsearch.src.elastic import get_es_client, JOBMARKET_INDEX
 
 es = get_es_client()
 

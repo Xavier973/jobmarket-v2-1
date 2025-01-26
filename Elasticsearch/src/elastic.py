@@ -3,6 +3,7 @@ from elasticsearch import Elasticsearch
 from elasticsearch.exceptions import ConnectionError
 import time
 
+print(f"Execution : {__file__}")
 JOBMARKET_INDEX = "jobmarket"
 
 def get_es_client():

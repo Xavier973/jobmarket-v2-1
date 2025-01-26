@@ -1,4 +1,5 @@
 from elastic import get_es_client, JOBMARKET_INDEX
+from Elasticsearch.src.elastic import get_es_client, JOBMARKET_INDEX
 
 def create_index():
     es = get_es_client()
@@ -69,4 +70,5 @@ def create_index():
         print(f"Index {JOBMARKET_INDEX} existe déjà")
 
 if __name__ == "__main__":
+    print(f"Execution : {__file__}")
     create_index()

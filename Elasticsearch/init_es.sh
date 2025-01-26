@@ -7,7 +7,8 @@ while ! curl -s http://elasticsearch:9200 > /dev/null; do
 done
 
 # Initialiser l'index
-python /app/app/init_es.py
+python /app/Elasticsearch/src/init_es.py
 
 # Démarrer l'application
-exec gunicorn --bind 0.0.0.0:8050 app.main:server
+cd /app/dashboard/src
+exec gunicorn --bind 0.0.0.0:8050 main:server

@@ -30,7 +30,9 @@ services:
       retries: 3
 
   dash:
-    build: .
+    build:
+      context: .
+      dockerfile: dashboard/Dockerfile
     ports:
       - "8050:8050"
     environment:
