@@ -1,0 +1,43 @@
+[
+    {
+        "source": "France Travail",
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0645535",
+        "title": "Ingénieur(e) Data Scientist confirmé(e) - Industrie - Toulouse (H/F)",
+        "company": null,
+        "location": "TOULOUSE 31",
+        "remote": null,
+        "publication_date": "2025-01-12",
+        "details": {
+            "TypeContract": "CDI",
+            "Salary": null,
+            "Experience": "Expérience exigée de 2 An(s)",
+            "Level": null
+        },
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "turnover_in_millions": null
+        },
+        "description": "Nous recrutons un.e Ingénieur.e Data Scientist confirmé.e pour rejoindre notre Business Unit INDUSTRIE au sein de l\\'agence Data & Process Intelligence, spécialisée dans l\\'accompagnement de nos clients dans leurs problématiques associées à la transformation digitale. Nos offres se déclinent autour de la data intelligence & de la maintenance prédictive, de la digitalisation des processus industriels et du SI Métiers.\nVotre mission :\nEn tant que Data Scientist, vous aurez la charge de :\n * Développer et mettre en œuvre des modèles de data mining / machine learning sur des données complexes.\n * Concevoir et optimiser des architectures Big Data, notamment sur Foundry® (Palantir).\n * Piloter des projets de bout en bout et assurer une veille technologique active.\n * Collaborer avec les équipes métiers pour répondre à leurs besoins.\n * Contribuer aux activités de prospection et d'avant-vente de l'offre 'Maintenance Prédictive' (compréhension du besoin, proposition de solutions techniques, réalisation de missions d'audit, .).\nUn niveau d'anglais courant est requis.\nL'environnement technique :\n * Python / Java / Framework Big Data Spark\n * Time Series\n * Solution Foundry® (Palantir)\nVous êtes un Data Scientist passionné.e par l\\'exploitation de données massives. Fort d\\'au moins 3 ans d\\'expérience, vous avez développé.e une solide expertise en Data mining et Machine Learning.\nVotre maîtrise de la plateforme BigData, Foundry® (Palantir) vous permet de concevoir et de mettre en œuvre des solutions innovantes. Vous êtes reconnu.e pour votre capacité à fédérer des équipes et à piloter des projets ambitieux.\nVous êtes autonome et vous savez faire preuve d'initiative ? Vous êtes doté d'un bon relationnel et avez le sens du service ? Alors vous êtes la pépite que nous recherchons !..."
+    }
+, {
+    "source": "France Travail",
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/0645129",
+    "title": "Technical leader Data scientist F/H (H/F)",
+    "company": null,
+    "location": "MAGNY LES HAMEAUX 78",
+    "remote": null,
+    "publication_date": "2025-01-12",
+    "details": {
+        "TypeContract": "CDI",
+        "Salary": null,
+        "Experience": "Débutant accepté",
+        "Level": null
+    },
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "turnover_in_millions": null
+    },
+    "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l\\'aéronautique (propulsion, équipements et intérieurs), de l\\'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l\\'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 79 000 collaborateurs pour un chiffre d\\'affaires de 16,5 milliards d\\'euros en 2020, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s\\'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d\\'innovation technologique.\nSafran est classé meilleur employeur mondial 2020 dans son secteur par le magazine Forbes.\nSafran Engineering Services offre des services en ingénierie de haute technologie dans les domaines de l\\'aéronautique, de l\\'énergie et du transport terrestre. Avec 30 ans d\\'expérience, la société s\\'appuie sur 3 000 ingénieurs répartis dans 9 pays à travers le monde.\nLa data science est au coeur de la transformation industrielle chez Safran et se met au service de nos métiers de la production (manufacturing 4.0) ou de la surveillance de nos systèmes en vol (Service 4.0).\nEn intégrant Safran Engineering Services vous aurez l\\'opportunité de pouvoir répondre aux problématiques industrielles actuelles en utilisant les données métier issues des machines de production, des capteurs embarqués, des opérations de maintenance, etc et mettant en oeuvre les technologies algorithmiques de l\\'état de l\\'art.\nDans ce cadre et au sein du pôle Data de Safran Engineering Services, votre mission consistera à intervenir sur toutes les phases du cycle de vie d\\'un projet data (Prise de besoin métier, Proof of Concept, industrialisation). Vous aurez la responsabilité d\\'encadrer techniquement les jeunes data scientist de l\\'équipe sur leur projet, d\\'assurer leur montée en compétence et de supporter le management sur la structuration de l\\'équipe dans sa croissance. \nConcrètement, vous aurez trois principaux volets de responsabilité : \n*Production technique\n- Définir le besoin en échangeant avec les métiers\n- Appliquer des techniques d\\'extraction et d\\'analyse d\\'informations, obtenues à partir de différentes sources de données industrielles, \n- Evaluer la qualité et la richesse des données, les analyses et en restitue les résultats vers le Métier, \n- Analyser les données pour traduire une problématique Métier en problème mathématiques/statistiques et réciproquement,\n- Comparer et évaluer différents modèles ou méthodes de calcul (Machine Learning, deep learning) et anticiper les avantages et inconvénients dans un environnement Métier,\n- Concevoir et développer des visualisations impactantes pour le métier\n- Utiliser les infrastructures cloud de Safran (AWS)\n- Spécifier les solutions retenues et accompagner l\\'équipe dans l\\'industrialisation des traitements de données dans un logiciel industriel.\n*Support au cadrage des projets\n- Contribuer à l\\'élaboration des réponses techniques aux des appels d\\'offres \n- Identifier les work pakages des projets en phase de démarrage\n*Mentoring technique des profils junior et mentoring technique\n- Participer à l\\'évolution et l\\'amélioration continue de l\\'équipe Data (nouvelles offres, méthodes, pratiques de code, .)\n- Assurer la montée en compétences des data scientists (veille technique et scientifique, animation de l\\'équipe)\nDe formation scientifique en informatique, développement logiciel, mathématiques / statistiques, algorithmique ou physique. \nVous faites preuve d\\'un intérêt particulier et justifiez d\\'au moins 5 années expériences dans des applications industrielles.\nVous possédez des compétences dans les domaines suivants :\n*Connaissance Métier et de son environnement industriel \n*Conception d\\'algorithmes et Programmation en Python\n*Veille technologique et Innovation \n*Statistiques et Machine Learning \n*Manipulation des Data set et bases de données (type SQL, et NoSQL)\n*Data Visualisation - Exploration (PowerBI)\n*Développement sur Architecture Cloud (en particulier AWS)\n*Méthodologies Agile et Cycle V \nVos soft skills : \n*Capacité d\\'adaptation, Curiosité \n*Force de proposition, prise d\\'initiatives, \n*Esprit de synthèse \n*Bon relationnel, \n*Bonne communication, \n*Sens du service client..."
+}]
