@@ -1,0 +1,116 @@
+20240822_154734 - Term: data architect - Jobs added: 12
+20240822_154734 - Term: data engineer - Jobs added: 66
+20240822_154734 - Term: data scientist - Jobs added: 40
+20240822_154734 - Term: data analyst - Jobs added: 60
+20240822_154734 - Term: software engineer - Jobs added: 6
+20240822_154734 - Term: Machine Learning Engineer - Jobs added: 2
+20240822_154734 - Term: cloud architect - Jobs added: 23
+20240822_154734 - Term: solution architect - Jobs added: 3
+20240822_154734 - Term: cloud engineer - Jobs added: 5
+20240822_154734 - Term: big data engineer - Jobs added: 5
+20240823_100520 - Term: data architect - Jobs added: 10
+20240823_104131 - Term: data architect - Jobs added: 10
+20240823_104131 - Term: data engineer - Jobs added: -1
+20240823_104131 - Term: data scientist - Jobs added: 17
+20240823_104727 - Term: data architect - Jobs added: -1
+20240823_104727 - Term: data engineer - Jobs added: -1
+20240823_104727 - Term: data scientist - Jobs added: -1
+20240823_105646 - Term: data architect - Jobs added: -1
+20240823_105646 - Term: data engineer - Jobs added: -1
+20240823_105646 - Term: data scientist - Jobs added: -1
+20240823_110346 - Term: data architect - Jobs added: 10
+20240823_110346 - Term: data engineer - Jobs added: 40
+20240823_110346 - Term: data scientist - Jobs added: 17
+20240823_110346 - Term: data analyst - Jobs added: 20
+20240823_110346 - Term: software engineer - Jobs added: 5
+20240823_110346 - Term: cloud architect - Jobs added: 20
+20240823_110346 - Term: solution architect - Jobs added: 4
+20240823_110346 - Term: cloud engineer - Jobs added: 4
+20240823_110346 - Term: big data engineer - Jobs added: 2
+20240823_114458 - Term: data architect - Jobs added: 10
+20240823_114458 - Term: data engineer - Jobs added: 40
+20240823_114458 - Term: data scientist - Jobs added: 17
+20240823_114458 - Term: data analyst - Jobs added: 40
+20240823_114458 - Term: software engineer - Jobs added: 5
+20240823_114458 - Term: cloud architect - Jobs added: 20
+20240823_114458 - Term: solution architect - Jobs added: 4
+20240823_114458 - Term: cloud engineer - Jobs added: 4
+20240823_114458 - Term: big data engineer - Jobs added: 2
+20240824_194443 - Term: data architect - Jobs added: 9
+20240824_194443 - Term: data engineer - Jobs added: 52
+20240824_194443 - Term: data scientist - Jobs added: 40
+20240824_194443 - Term: data analyst - Jobs added: 40
+20240824_194443 - Term: software engineer - Jobs added: 4
+20240824_194443 - Term: Machine Learning Engineer - Jobs added: 1
+20240824_194443 - Term: cloud architect - Jobs added: 42
+20240824_194443 - Term: solution architect - Jobs added: 6
+20240824_194443 - Term: cloud engineer - Jobs added: 2
+20240824_194443 - Term: big data engineer - Jobs added: 1
+20240825_025955 - Term: data architect - Jobs added: 6
+20240825_025955 - Term: data engineer - Jobs added: 39
+20240825_025955 - Term: data scientist - Jobs added: 40
+20240825_025955 - Term: data analyst - Jobs added: 40
+20240825_025955 - Term: software engineer - Jobs added: 2
+20240825_025955 - Term: Machine Learning Engineer - Jobs added: 1
+20240825_025955 - Term: cloud architect - Jobs added: 23
+20240825_025955 - Term: solution architect - Jobs added: 3
+20240825_025955 - Term: big data engineer - Jobs added: 1
+20240825_124858 - Term: data architect - Jobs added: 291
+20240825_124858 - Term: data engineer - Jobs added: 1000
+20240825_124858 - Term: data scientist - Jobs added: 400
+20240825_124858 - Term: data analyst - Jobs added: 460
+20240825_124858 - Term: software engineer - Jobs added: 87
+20240825_124858 - Term: Machine Learning Engineer - Jobs added: 9
+20240825_124858 - Term: cloud architect - Jobs added: 408
+20240825_124858 - Term: solution architect - Jobs added: 153
+20240825_124858 - Term: cloud engineer - Jobs added: 83
+20240825_124858 - Term: big data engineer - Jobs added: 44
+20240825_124858 - Term: Data Infrastructure Engineer - Jobs added: 1
+20250110_203526 - Term: data architect - Jobs added: 12
+20250110_203526 - Term: data engineer - Jobs added: 0
+20250110_203526 - Term: data scientist - Jobs added: 0
+20250110_203526 - Term: data analyst - Jobs added: 0
+20250110_203526 - Term: software engineer - Jobs added: 0
+20250110_203526 - Term: cloud architect - Jobs added: 0
+20250110_203526 - Term: solution architect - Jobs added: 0
+20250110_203526 - Term: cloud engineer - Jobs added: 0
+20250110_203526 - Term: big data engineer - Jobs added: 0
+20250110_203526 - Term: Data Infrastructure Engineer - Jobs added: 0
+20250110_225316 - Term: data architect - Jobs added: 13
+20250110_225316 - Term: data engineer - Jobs added: 50
+20250110_225316 - Term: data scientist - Jobs added: 14
+20250110_225316 - Term: data analyst - Jobs added: 40
+20250110_225316 - Term: software engineer - Jobs added: 8
+20250110_225316 - Term: Machine Learning Engineer - Jobs added: 1
+20250110_225316 - Term: cloud architect - Jobs added: -1
+20250110_225316 - Term: solution architect - Jobs added: 6
+20250110_225316 - Term: cloud engineer - Jobs added: 4
+20250110_225316 - Term: big data engineer - Jobs added: 6
+20250110_225316 - Term: Data Infrastructure Engineer - Jobs added: 1
+20250111_001541 - Term: Machine Learning Engineer - Jobs added: 2
+20250111_001541 - Term: cloud architect - Jobs added: 21
+20250111_003012 - Term: data architect - Jobs added: 422
+20250111_003012 - Term: data engineer - Jobs added: 999
+20250111_003012 - Term: data scientist - Jobs added: 428
+20250111_003012 - Term: data analyst - Jobs added: 518
+20250111_003012 - Term: software engineer - Jobs added: 111
+20250111_003012 - Term: Machine Learning Engineer - Jobs added: 15
+20250111_003012 - Term: cloud architect - Jobs added: 576
+20250111_003012 - Term: solution architect - Jobs added: 195
+20250111_003012 - Term: cloud engineer - Jobs added: 78
+20250111_003012 - Term: big data engineer - Jobs added: 95
+20250111_003012 - Term: Data Infrastructure Engineer - Jobs added: 3
+20250111_181544 - Term: data architect - Jobs added: 40
+20250111_181544 - Term: data engineer - Jobs added: 145
+20250111_181544 - Term: data scientist - Jobs added: 61
+20250111_181544 - Term: data analyst - Jobs added: 33
+20250111_203132 - Term: data scientist - Jobs added: 41
+20250111_203132 - Term: data analyst - Jobs added: 41
+20250111_203132 - Term: software engineer - Jobs added: 16
+20250111_203132 - Term: Machine Learning Engineer - Jobs added: 4
+20250111_203132 - Term: cloud architect - Jobs added: 35
+20250111_203132 - Term: solution architect - Jobs added: 24
+20250111_203132 - Term: cloud engineer - Jobs added: 4
+20250111_203132 - Term: big data engineer - Jobs added: 10
+20250111_203132 - Term: Data Infrastructure Engineer - Jobs added: 2
+20250112_222608 - Term: data architect - Jobs added: 2
