@@ -1,0 +1,75 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data Architect H/F (H/F)",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : à définir selon profil",
+        "company": "SNCF GARE DE ST DENIS STADE DE FRANCE ",
+        "location": "75",
+        "remote": null,
+        "experience": "3 An(s)",
+        "education_level": "Bac+5 et plus ou équivalents",
+        "publication_date": "2025-01-29",
+        "company_data": {
+            "sector": "Transport ferroviaire interurbain de voyageurs",
+            "company_size": "50 à 99 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187HVMC",
+        "description": "Description du poste\nEn tant que Data Architect vous serez amené à :\n\nDéfinir et formaliser l'architecture en collaboration avec les métiers et les équipes projet.\n\nRecueillir les attentes utilisateurs et définir les briques répondant à leurs besoins en données.\n\nPréconiser des solutions techniques pour la collecte, le stockage, et la continuité de service des données.\n\nAnalyser l'impact des choix technologiques sur les besoins métier.\n\nPiloter et documenter les projets, notamment en matière d'architecture (DAL, DAT, DEX, catalogue de données).\n\nOptimiser les consommations cloud (démarche FinOps).\n\nAssurer le support N3 pour les équipes DevOps et développeurs et faciliter l'intégration des architectures.\n\nHarmoniser les pratiques de développement et aligner les architectures avec la gouvernance des données.\n\nAssurer la conformité avec les réglementations (SSI, RGPD) et contribuer à l'évolution des standards et méthodes.\n\nEffectuer une veille technologique sur les solutions big data et rester en contact avec les éditeurs pour le suivi des fonctionnalités et anomalies.\n\nCe poste est ouvert à Nantes et Lyon.\n\n\nProfil recherché\nVous êtes titulaire d'un Bac +5 en informatique et disposez d'une très solide expérience dans la structuration de projets « DATA » ainsi que des technologies Databricks, Microsoft, en particulier sur le Cloud MS Azure.\n\nRejoignez-nous si vous savez :\n\nMaîtriser l'écosystème Microsoft : Cloud MS Azure, Azure Data Factory, LogicApp, Azure Functions, SQL Server (SSMS, Azure Data Studio), Azure Synapse Analytics, Databricks (Lakehouse), Power BI (Service et Desktop)\n\nMaîtriser Power Platform et DataBricks (notamment avec Spark)\n\nMaîtriser les outils de versioning : Git (GitHub Cloud, Azure DevOps Git)\n\nMaîtriser DevOps et FinOps : Connaissance des bonnes pratiques et expérience sur l'environnement Azure DevOps\n\nUne appétence pour la Sécurité informatique : Sensibilisation aux bonnes pratiques de sécurité\n\nMaîtriser les outils agiles et collaboratifs : Connaissance approfondie de JIRA/Confluence ; expérience des pratiques agiles (ScrumBan) et des cérémonies\n\nMaîtriser la langue anglaise à l'écrite et à l'orale",
+        "job_reference": "187HVMC"
+    }
+, {
+    "source": "France Travail",
+    "job_title": "Data Engineer Junior F/H (H/F)",
+    "contract_type": "CDI",
+    "salary": null,
+    "company": null,
+    "location": "MASSY 91",
+    "remote": null,
+    "experience": "Expérience exigée de 5 An(s)",
+    "education_level": null,
+    "publication_date": "2025-01-29",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/1452855",
+    "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l\\'aéronautique (propulsion, équipements et intérieurs), de l\\'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l\\'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 92 000 collaborateurs pour un chiffre d\\'affaires de 23,2 milliards d\\'euros en 2023, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s\\'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d\\'innovation technologique.\nSafran est la 1ère entreprise du secteur aéronautique et défense du classement « World\\'s Best Companies 2023 » du magazine TIME.\nSafran Electronics & Defense est une entreprise internationale de plus de 12 000 collaboratrices et collaborateurs, qui mobilisent expertises et esprit de corps pour concevoir des solutions de haute technologie dans les domaines de l\\'aéronautique, de la défense et du spatial. En combinant intelligence humaine et technologique, l\\'entreprise développe les produits et services pour aider les acteurs civils et militaires à observer, décider et guider sur terre, en mer, dans le ciel et dans l\\'espace. Et ainsi contribuer à un monde plus sûr.\nAu sein de la direction Achats SED, dans le pôle data du département Méthodes et outils, votre mission consiste à collecter, préparer, mettre en qualité, sécuriser et faire converger les données achats SED afin de les mettre à disposition des data analysts et data scientists et accompagner la transformation data des équipes.\nLes données de nos ERP sont actuellement analysées dans un datawarehouse BI Hana. Le groupe est en train de déployer une plateforme data AWS pour élargir les types et les possibilités d\\'exploitation de nos données. En collaboration étroite avec les équipes de la Direction informatique vous serez chargé de développer et maintenir l\\'infrastructure des données Achats SED sur AWS, d\\'optimiser et automatiser les flux de données du datawarehouse ou d\\'autres sources vers la plateforme, d\\'en assurer la qualité et la fiabilité et de mettre en place des bonnes pratiques en matière de gestion et de sécurité des données. \nA partir des besoins exprimés par le métier, vous collaborerez également avec les data analysts, les data scientists et les métiers pour comprendre leurs besoins et mettre à disposition des données exploitables dans le cadre de POC, de MVP ou de use case. Vous participerez à des ateliers afin d\\'identifier les données pertinentes, de les modéliser, de transformer, de mettre en qualité et de faire converger les données au sein de la plateforme data. Ponctuellement, vous serez également amené à concevoir et réaliser des analyses sous forme de reports\nAu sein de la direction Achats SED, dans le pôle data du département Méthodes et outils, votre mission consiste à collecter, préparer, mettre en qualité, sécuriser et faire converger les données achats SED afin de les mettre à disposition des data analysts et data scientists et accompagner la transformation data des équipes.\nIngénieur(e)/cadre et avec sin possible connaissance d\\'un environnement industriel\nDiplôme en informatique, data ingénierie ou dans un domaine connexe.\nExcellentes compétences en développement SQL et en conception de bases de données. \nExpérience avec les services AWS (Redshift, S3, Lambda, Glue.)\nCompétences avancées en programmation (Python)\nMaîtrise de PowerBI et Dataiku\nUne connaissance des systèmes ERP SAP serait un plus\nCapacités à travailler en équipe et à communiquer efficacement. \nEsprit d\\'analyse, forte autonomie, rigueur...",
+    "job_reference": "1452855"
+}, {
+    "source": "France Travail",
+    "job_title": "Développeur Big Data (H/F)",
+    "contract_type": "CDI",
+    "salary": null,
+    "company": "KLANIK ",
+    "location": "69",
+    "remote": null,
+    "experience": "Expérience exigée de 5 An(s)",
+    "education_level": null,
+    "publication_date": "2025-01-29",
+    "company_data": {
+        "sector": null,
+        "company_size": "KLANIK",
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/1443783",
+    "description": "KLANIK est une société de conseil en Ingénierie IT qui accompagne ses clients dans leurs projets digitaux et technologiques.\nLe groupe KLANIK compte désormais plus de 750 talents, évoluant dans 16 agences en Europe, Amérique du Nord, Afrique et Moyen-Orient. Des experts engagés, atypiques et passionnés, impliqués dans des projets stratégiques grâce à leur haut niveau de compétences en Software, DevOps, Cloud, Agilité, Cybersécurité, Big Data & IA.\nEn parallèle de leurs métiers, les collaborateurs du groupe KLANIK sont accompagnés au quotidien dans leur développement personnel et professionnel, via différentes initiatives engageantes et innovantes :\nKONSCIOUS : communauté interne engagée dans les enjeux écologiques, sociaux et environnementaux\nKAMPUS : institut de formation technique certifié\nKORNER : incubateur de start-ups technologiques\nKLANIK ESPORT : club professionnel e-sport ouvert aux collaborateurs\nLe poste : \n\nKlanik recherche pour l'un de ses clients, un développeur Big Data confirmé/senior pour intégrer une équipe qui se compose de plus de quarante compétences, réparties en six sous équipes, qui a comme périmètre un ensemble de thématiques métiers et une plateforme technique.\nMISSIONS ET ROLE\nLes missions tournent autour de 4 axes :\no Apporter une expertise en Big Data (Spark) pour faciliter la manipulation des données\no Définir les solutions techniques permettant le traitement massif de données\no Mettre en place des solutions de stockage de données (SQL, NoSQL, etc.)\no Veiller la sécurisation et la clarté des pipelines de données pour faciliter l'analyse et la transformation\nActivités principales\no Assure la création, la maintenance, l'optimisation et la sécurité des bases de données\no Détecte, propose et suit les optimisations des requêtes SQL, PL/SQL afin de garantir les meilleures performances de nos applications métier\no Assure le support aux équipes de développement afin d'identifier et proposer des solutions performantes SGBD les mieux adaptées d'un point de vue métier\no Apporte une expertise transverse sur Spark\nActivités secondaires\no Veille technologique sur les outils utilisés au sein du projet\no Partage et formation sur les guides de bonnes conduites\no Accompagnement des autres développeurs Spark sur le projet\nStack technique de l'équipe\no Big Data?: Spark, Hive, Indexima.\no Stockage?: Oracle, CEPH S3 (parquet).\no Langages': Java, Python, PL/SQL, Shell.\no CI/CD': Ansible, Terraform, Jenkins, GIT.\no ETL': Informatica.\no Dataviz?: Tableau Server.\no Ordonnanceur?: Control-M.\nProfil recherché : \n\nVous êtes titulaire d'un BAC+5 et justifiez d'une expérience de 4 à 5 ans sur ce rôle et notamment autour de spark.\nVous faîtes preuve d'autonomie, de rigueur et êtes force de proposition.\nVous avez une bonne capacité d'analyse et de synthèse ainsi qu'un fort esprit d'équipe.\nVous êtes capable de challenger les solutions et architectures techniques permettant le traitement de volumes importants de pipelines de données suffisamment sécurisés et lisibles.\nLes solutions de stockage de données n'ont pas de secret pour vous ainsi que les technologies du Big Data permettant le traitement et la manipulation de données.\nVous vous reconnaissez dans cette description, n'hésitez pas à postuler !",
+    "job_reference": "1443783"
+}]

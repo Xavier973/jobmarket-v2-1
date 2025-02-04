@@ -152,10 +152,10 @@ def get_total_offers(url, collect_all):
 def click_show_more_offers(driver, times_to_click):
     try:
         for n in range(times_to_click):
+            # Find and click on the "Show next 20 offers" button item
             print("Chargement de la page d'annonces ", n+1, "sur ", times_to_click)
-            # Utilisation d'un sélecteur plus précis qui cible le bouton dans la section results-more
             show_more_button = WebDriverWait(driver, 5).until(
-                EC.element_to_be_clickable((By.CSS_SELECTOR, "p.results-more.text-center a.btn-primary"))
+                EC.element_to_be_clickable((By.XPATH, "//p[@class='results-more text-center']//a[@role='button']"))
             )
             show_more_button.click()
             time.sleep(4)
