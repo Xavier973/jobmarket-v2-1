@@ -11,7 +11,9 @@ JOBS = {
     "data architect": (("data", "architect"), ("architect", "si"), ("architect", "it")),
     "data scientist": (("data", "scientist"), ("science", "donnée")),
     "data analyst": (("data", "analyst"), ("data", "analytics")),
-    "software engineer": (("software", "engineer"), ("software", "developer"), ("développeur", "logiciel"), ("ingénieur", "logiciel")),
+    "data steward": (("data", "steward"), ("data", "stewardship")),
+    "data manager": (("data", "manager"), ("data", "management")),
+    "software engineer": (("software", "engineer"), ("software", "developer"), ("développeur", "logiciel"), ("ingénieur", "logiciel"), ("Fullstack",)),
     "devops": ("devops",),
     "data warehousing engineer": ("data", "warehouse", "engineer"),
     "machine learning engineer": (("machine", "learning", "engineer"), ("ml", "engineer")),
@@ -19,15 +21,16 @@ JOBS = {
     "solution architect": ("solution", "architect"),
     "big data engineer": (("big", "data", "engineer"), ("ingénieur", "big", "data")),
     "big data developer": (("big", "data", "developer"), ("développeur", "big", "data")),
-    "data infrastructure engineer": ("data", "infrastructure", "engineer"),
-    "data pipeline engineer": ("data", "pipeline", "engineer"),
+    "data infrastructure engineer": (("data", "infrastructure", "engineer"), ("ingénieur", "infrastructure", "data")),
+    "data pipeline engineer": (("data", "pipeline", "engineer"), ("ingénieur", "pipeline", "data")),
     "etl developer": ("etl",),
     "business developer": (("business", "developer"), ("sales", "developer")),
     "business analyst": ("business", "analyst"),
     "cybersecurity": (("cyber", "security"), ("cyber", "sécurité"), ("cyber", "risk"), ("cyber", "risque")),
-    "sysops": ("sysops",),
+    "sysops": (("sysops",), ("it", "operations"), ("it", "operation"), ("it", "opération"), ("it", "opérations")),
     "consultant data": ("data", "consultant"),
 }
+
 
 # Dictionnaire des variables et leurs mots-clés correspondants
 skills = {

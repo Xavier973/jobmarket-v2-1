@@ -74,7 +74,8 @@ Search_term = [
     "big data engineer",
     "Data Infrastructure Engineer",
     "Data Pipeline Engineer",
-    "ETL Developer"
+    "ETL Developer",
+    "sysops"
 ]
 # log function
 def log_scraping_results(log_file_path, term, num_jobs, status="success", error_message=""):
@@ -168,6 +169,9 @@ def click_show_more_offers(driver, times_to_click):
     
 def scraping_and_process(term, driver, collect_all=False):
     try:
+        # Définir filename au début de la fonction
+        filename = os.path.join(json_raw_directory, f'ft_jobs_{time_file}.json')
+        
         # Fetch the total number of offers
         url = base_url.format(term.replace(" ", "+"))
         total_offers = get_total_offers(url, collect_all)
@@ -329,12 +333,14 @@ def scraping_and_process(term, driver, collect_all=False):
                 nb_annonce = 0
             log_scraping_results(log_file_path, term, nb_annonce)
         elif total_offers is None:
-            nb_annonce = 0
-            log_scraping_results(log_file_path, term, nb_annonce, status="no_offers")
+            print(f"{term} - aucune annonce")
+            log_scraping_results(log_file_path, term, 0, status="no_offers")
+            return
         else:
             nb_annonce = 0
             log_scraping_results(log_file_path, term, nb_annonce, status="error", error_message="Unable to get total offers")
     except Exception as e:
+        print(f"Erreur lors du scraping pour {term}: {str(e)}")
         log_scraping_results(log_file_path, term, 0, status="error", error_message=str(e))
     # Nettoyage des donnée
     try:
