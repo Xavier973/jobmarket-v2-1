@@ -20,8 +20,9 @@ import argparse
 import time
 import json
 import os
-from transform import transform_date
+from ETL.Transform.transform_date_ft import transform_date
 from datetime import datetime
+from ETL.Transform.data_cleaning_ft import transform_json_file
 
 start_time = time.time()
 base_url = "https://candidat.francetravail.fr/offres/recherche?motsCles={}&offresPartenaires=true&rayon=10&tri=0"
@@ -33,26 +34,27 @@ jobs = []
 time_file = datetime.now().strftime("%Y%m%d_%H%M%S")
 time_offer = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
-#filename = "PE_scrapping_" + time_file + ".json"
-
 # Définir les chemins de sauvegarde à partir des variables d'environnement
-json_scraping_directory = os.getenv('DATA_RAW_DIR', '/app/data/raw/francetravail')
+json_raw_directory = os.getenv('DATA_RAW_DIR', '/app/data/raw/francetravail')
+json_transformed_directory = os.getenv('DATA_TRANSFORMED_DIR', '/app/data/transformed/francetravail')
 log_file_path = os.path.join(
     os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail'),
     'ft_scraping_log.txt'
 )
 
 # Créer les dossiers s'ils n'existent pas
-os.makedirs(json_scraping_directory, exist_ok=True)
+os.makedirs(json_raw_directory, exist_ok=True)
+os.makedirs(json_transformed_directory, exist_ok=True)
 os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
 
 print("================================================================\n\n")
-print("******* Scraping de France Travail - Projet JobMarket V2 *******\n")
+print("******* Scraping de France Travail - Projet JobMarket V2.1 *******\n")
 print("================================================================\n")
 
 # Debug info
 print("\n========== Configuration ==========")
-print(f"Dossier de sauvegarde : {json_scraping_directory}")
+print(f"Dossier de sauvegarde : {json_raw_directory}")
+print(f"Dossier transformé : {json_transformed_directory}")
 print(f"Fichier de log : {log_file_path}")
 print(f"ES_HOST : {os.getenv('ES_HOST')}")
 print("=====================================\n")
@@ -195,13 +197,13 @@ def scraping_and_process(term, driver, collect_all=False):
                 for offer_element in offer_elements:
                     # Extraction of offer data from the results page.
                     try:
-                        Job_ref = offer_element.get_attribute('data-id-offre')
+                        job_ref = offer_element.get_attribute('data-id-offre')
                     except:
-                        Job_ref = None
+                        job_ref = None
                     try:
-                        Job_url = Racine_url + Job_ref
+                        job_url = Racine_url + job_ref
                     except:
-                        Job_url = None
+                        job_url = None
                     try:
                         job_title = offer_element.find_element(By.CSS_SELECTOR, 'h2[data-intitule-offre]').text
                     except:
@@ -233,7 +235,7 @@ def scraping_and_process(term, driver, collect_all=False):
                     driver.execute_script("window.open();")
                     driver.switch_to.window(driver.window_handles[1])
                     try :
-                        driver.get(Job_url)
+                        driver.get(job_url)
                     except :
                         print("erreur dans l'URL")
                         break
@@ -268,13 +270,17 @@ def scraping_and_process(term, driver, collect_all=False):
                     job = {
                         "source": "France Travail",
                         "job_title": job_title,
+                        "job": "",
                         "contract_type": Contract_type,
                         "salary": salary,
                         "company": Company,
-                        "location": Location,
+                        "location_raw": Location,
+                        "location": None,
                         "remote": None,
-                        "experience": experience,
-                        "education_level": education_level,
+                        "experience_raw": experience,
+                        "experience": None,
+                        "education_level_raw": education_level,
+                        "education_level": None,
                         "publication_date": Date,
                         "company_data":{
                             "sector": sector,
@@ -286,17 +292,17 @@ def scraping_and_process(term, driver, collect_all=False):
                             "proportion_female": None,
                             "proportion_male": None
                             },
-                        "link": Job_url,
+                        "link": job_url,
                         "description": description,
                         #"skills": extracted_skills,          
                         #"search_term": term,
-                        "job_reference": Job_ref,                
+                        "ft_reference": job_ref,                
                         #"createdAt": time_offer
                     }
                     jobs.append(job)
 
                     # Enregistrement des données
-                    filename = os.path.join(json_scraping_directory, "FT_scrapping_" + time_file + "_" + term + ".json")
+                    filename = os.path.join(json_raw_directory, "FT_" + time_file + "_" + term + ".json")
                     file_exists = os.path.isfile(filename)
                     if not file_exists or os.stat(filename).st_size == 0:
                         with open(filename, 'w', encoding='utf-8') as f:
@@ -314,7 +320,7 @@ def scraping_and_process(term, driver, collect_all=False):
                                 f.write('[')
                             json.dump(job, f, ensure_ascii=False, indent=4)
                             f.write(']')  # Ajouter le crochet fermant pour clôturer le tableau JSON
-                    print("Annonce", nb_annonce,"sur", total_offers,  Job_url, "OK")
+                    print("Annonce", nb_annonce,"sur", total_offers,  job_url, "OK")
                     job = {}
                     nb_annonce += 1
                     time.sleep(2)
@@ -330,6 +336,28 @@ def scraping_and_process(term, driver, collect_all=False):
             log_scraping_results(log_file_path, term, nb_annonce, status="error", error_message="Unable to get total offers")
     except Exception as e:
         log_scraping_results(log_file_path, term, 0, status="error", error_message=str(e))
+    # Nettoyage des donnée
+    try:
+        # Création du nom du fichier transformé
+        output_filename = os.path.join(
+            json_transformed_directory,
+            os.path.splitext(os.path.basename(filename))[0] + "_transformed.json"
+        )
+        
+        # Création du chemin pour le fichier de log de transformation
+        transform_log_path = os.path.join(
+            os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail'),
+            'ft_transform_log.txt'
+        )
+        
+        transform_json_file(
+            input_file=filename,
+            output_folder=os.path.dirname(output_filename),
+            log_file_path=transform_log_path
+        )
+        print(f"Nettoyage des données terminé pour {term}")
+    except Exception as e:
+        print(f"Erreur lors du nettoyage des données pour {term}: {e}")
 
 if __name__ == "__main__":
     #log_file_path = os.path.join(current_directory, "scraping_log.txt")
@@ -353,6 +381,6 @@ if __name__ == "__main__":
 end_time = time.time()
 execution_time = end_time - start_time
 minutes, seconds = divmod(execution_time, 60)
-print("Scrapping France Travail terminé")
+print("Scraping France Travail terminé")
 
 print("Durée d'exécution :", int(execution_time), "secondes ({} minutes et {} secondes)".format(int(minutes), int(seconds)))

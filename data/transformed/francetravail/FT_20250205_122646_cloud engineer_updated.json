@@ -1,0 +1,185 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "���� Titre du poste : Ingénieur de Cloud processing support engineer ���� ������������ F/H - Système, réseaux, données (H/F)",
+        "job": "cloud architect /engineer ",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : 35 - 50 k€ brut annuel",
+        "company": "VEONUM ",
+        "location_raw": "35",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-05",
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "VeoNum.Tu en a déjà entendu parler ? un peu, beaucoup, pas encore suffisamment ?\n\n\nPeu importe ta réponse à la question, je te laisse poursuivre ta lecture et t'immerger dans l'environnement Human First, valeur fondamentale de l'entreprise.\n\n\nVeoNum, entreprise rennaise, regroupe aujourd'hui 45 consultants dont plusieurs dotés d'un doctorat. Elle est le fruit de l'engagement de ses trois fondateurs dont les valeurs sont basées sur la bienveillance, le partage, le bien-être et...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1791598",
+        "description": "Descriptif du poste:\n\nPour Supporter les clients (niveau de support 2/3) dans le domaine des systèmes de mesure d'audience (technologie d'appariement audio/watermarking) :  \n* Analyser et reproduire les problèmes des clients, diagnostiquer et résoudre les problèmes par le biais de solutions temporaires ou techniques. \n* Assurer le suivi des problèmes via un outil de gestion des tickets en dialoguant régulièrement avec les clients. \n* Assister les clients dans l'installation et la maintenance de leurs systèmes. \n* Installer et tester les nouvelles versions du produit et s'assurer que les versions sont correctement testées avant leur déploiement chez les clients. \n* Rédiger des procédures et des notes informatives (FAQ, guides, notes techniques) relatives à la configuration, la mise en service et le support des systèmes de mesure d'audience afin d'aider les clients dans la configuration et la maintenance de leurs systèmes. \n* Fournir un support technique lors des activités de prévente, lorsque cela est nécessaire. \n* Une bonne communication écrite et orale en anglais est requise pour ce poste. \n* Les activités de support peuvent nécessiter des déplacements à l'étranger de temps en temps. \n* Ce poste peut impliquer la participation à une permanence téléphonique de support 24/7/365 si nécessaire (rémunération spécifique pour cette activité).\n\n\nProfil recherché:\n \n* Expérience technique liée à la mise en œuvre de systèmes en temps réel dans des architectures cloud basées sur Docker/Kubernetes/Linux, de préférence dans le domaine des applications multimédias. \n* Idéalement, une première expérience en tant qu'ingénieur de support, ingénieur de test ou ingénieur sur le terrain pour un intégrateur de systèmes ou un fabricant. \n* Compétences techniques :  \n* Déploiement et support de clusters Azure Kubernetes System (AKS), \n* Connaissance de Docker/Linux, Elastic Search/Logstash/Kibana, Promotheus/Grafana. \n* Bases de l'administration du cloud Azure. \n* Connaissance de l'administration Linux et des réseaux. \n* Notions de base du multicast IP appliquées au transport audio/vidéo sur un réseau IP.   \n*  \nConnaissance des bases de l'architecture réseau (configuration des commutateurs, utilisation des VPN, routage) et expérience de dépannage des problèmes réseau.  \n* Programmation Python ou Shell dans un environnement Linux. \n* Compétences supplémentaires souhaitables :  \n* Expérience dans les technologies audio et analyse audio de base (outils Audacity). \n* Architecture de réception télévisuelle (TNT, SAT, IP) utilisant des diffuseurs en continu IP ou des architectures de diffusion multicast IP utilisées par les opérateurs de diffusion. \n* Connaissance des outils de surveillance système tels que Zabbix.  \n \nCompétences Complémentaire :   \n* Bonne communication écrite et orale en anglais (niveau B2). \n* Orientation vers la satisfaction client avec une capacité à maintenir de bonnes relations avec nos clients quelles que soient les circonstances. \n* Esprit d'équipe au sein d'une organisation internationale et multiculturelle. \n* Grande organisation et capacité à gérer simultanément les demandes des clients. \n* Orientation vers l'analyse des problèmes et rigueur technique. \n* Autonomie pour enquêter sur des problèmes complexes et gérer les actions correctives.",
+        "job_reference": "1791598",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "OS": [
+                "Linux"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "NetworkSecurty": [
+                "VPN"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "GROUPE MENTOR ",
+        "location_raw": "54",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-05",
+        "company_data": {
+            "sector": null,
+            "company_size": "Le Groupe Mentor accompagne la création et la reprise d'entreprises pour accélérer leur développement.\nAvec 7 secteurs, 15 pays et 2400 collaborateurs, nous sommes une ruche de savoir-faire.\nNous offrons un environnement de travail agréable, propice à l'entraide, avec des missions à forte valeur ajoutée. Nous cherchons des personnes motivées et enthousiastes.\nEngagés pour l'environnement, nous favorisons la digitalisation et le recyclage.\nRejoignez nous comme Da...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1793532",
+        "description": "RESPONSABILITÉS : \n\nEn tant que Data Engineer, vous serez responsable de la conception, de la construction et de la maintenance des infrastructures de données, surtout en l'absence d'un data architect. Vous veillerez à ce que les données soient facilement accessibles, de haute qualité et bien organisées pour répondre aux besoins des équipes d'analyse, des data scientists, ainsi qu'aux exigences transversales du groupe et de ses filiales.\nVos missions :\n1- Conception et développement des pipelines de données\n - Construire et maintenir des pipelines ETL (Extract, Transform, Load)\n - Intégrer des données provenant de diverses sources (BDD, API, fichiers, etc)\n2- Gestion des BDD\n - Configurer et gérer les bases de données relationnelles et NoSQL\n - Assurer l'optimisation et la performance des systèmes de stockage de données\n3- Qualité et intégrité des données\n - Mettre en place des processus pour garantir la qualité, la cohérence et l'intégrité des données\n - Automatiser les processus de nettoyage et de transformation des données\n4- Collaboration avec les équipes\n - Travailler en étroite collaboration avec les Data Scientist et Analyst pour comprendre leurs besoins en données\n - Supporter les équipes de développement en fournissant des solutions de gestions de données efficaces\n5- Support\n - Surveiller les flux de données et résoudre les problèmes techniques\n - Maintenir et documenter les flux et l'infrastructure des données\n\nPROFIL RECHERCHÉ : \n\nDiplôme : \nBAC+3/5  en Informatique, Ingénierie de la donnée, Mathématiques ou domaine connexe.\nVos compétences techniques :\n -  Python, Java, Scala\n - Systèmes de gestion des BDD ( SQL, NoSQL ) MySQL, PostrgreSQL, MongoDB, Cassandra, Parquet\n - Outils d' ETL : NiFi, Talend, Informatica, etc\n - Big Data (Hadoop, Spark, Kafka)\n - Cloud ? (AWS, GCP, Azure)\nAnalytiques :\n - Capacité à comprendre et manipuler des ensembles de données complexes\n - Compétences résolution de problèmes et optimisation des flux de données\nCommunication :\n - Excellentes  compétences en communication orale et écrite\n - Capacité à travailler en équipe et à collaborer avec des parties prenantes non techniques\nOrganisationnelles :\n - Gestion de projet et priorités simultanément\n - Attention aux détails et souci de la précision\nQualités personnelles :\n - Curiosité, désir d'apprendre, esprit analytique et rigoureux\n - Capacité à travailler en équipe et de manière autonome\n - Adaptabilité et flexibilité",
+        "job_reference": "1793532",
+        "skills": {
+            "ProgLanguage": [
+                "Scala",
+                "Python",
+                "Java"
+            ],
+            "DataBase": [
+                "Cassandra",
+                "NoSQL",
+                "MongoDB",
+                "SQL"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "CloudComputing": [
+                "Azure",
+                "AWS",
+                "GCP"
+            ],
+            "DBMS": [
+                "MySQL"
+            ],
+            "SoftBigDataProcessing": [
+                "Cassandra"
+            ],
+            "Other": [
+                "Big Data",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Micropole - Architecte de données informatiques (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "MICROPOLE ",
+        "location_raw": "92",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-05",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Micropole est accélérateur des transformations Data, Cloud et Digital.\nDepuis les phases de conseil jusqu'à la mise en place opérationnelle, nous accompagnons nos clients dans leurs transformations technologiques, digitales et humaines.\nNotre mission : aider nos clients à garder un temps d'avance grâce aux innovations quelles soit technologiques, de process ou de méthodes.\nNos 1200 experts en technologie et process, répartis dans 6 pays, accompagnent leurs clients dans...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1782286",
+        "description": "Vous êtes convaincus que l'optimisation du patrimoine data des entreprises est la clé de leur performance ? Vous voulez aider les entreprises à devenir plus agiles, et à améliorer leur niveau de performance grâce à la puissance du Cloud ? Vous voulez rendre les entreprises data intelligentes et les aider à se transformer au travers des nouvelles technologies qu'amène le cloud ? Vous souhaitez rejoindre un groupe pionnier des grandes innovations data, cloud et digitales ?\nSi vous avez répondu « Oui » à chacune de ces questions alors devenez Consultant Senior pour l'un de nos clients grands-comptes.\nPrêt(e) à rejoindre l'aventure Micropole ? N'attendez plus !\nDans le cadre du développement de notre entité Cloud4Data, nous recherchons nos futurs collaborateurs souhaitant developper leur carrière professionnelle dans les enjeux de la Data. Cloud4Data est spécialisée dans la transformation des entreprises par la Data en utilisant toute la puissance des solutions Cloud.\nNous accompagnons nos clients par du conseil (stratégie de transformation par la Data) et par de l'expertise (projet de Data Platform) sur leurs principaux enjeux BI, décisionnelles, analytiques, Big Data, AI/ML/GenAI. Nos expertises sont principalement sur AWS, GCP, Microsoft Azure, Snowflake et Databricks. Nos équipes sont principalement constituées d'architecte Data/Cloud, Data ingénieur, Data analyste, Data scientiste et DevOps/SRE.\nEn tant que Consultant Sénior :\nAu sein de notre agence basée à Levallois-Perret, vous rejoindrez nos experts Cloud4Data . En tant que Senior Data Engineer AWS, vous accompagnerez les directions métiers dans l'évaluation de l'efficacité de leur processus et dans leur stratégie pour optimiser leur performance.\nDans vos missions quotidiennes, vous serez amené(e) à :\n· 40% : développer et maintenir des cas d'usages clients avec les outils et les infrastructures Big Data / Cloud AWS. Modéliser et analyser des données dans le Cloud. Garantir la sécurité / compliance des données ;\n· 40% : apporter votre réflexion sur des problématiques métiers à travers l'exploitation et la compréhension des données. Identifier les sources de données les plus pertinentes et restituer des résultats de façon concise et visuelle ;\n· 10% : réaliser une veille technologique pour être à la pointe sur les solutions cloud &amp; Data ;\n· 10% : participer au développement de notre entité Cloud4Data\nVos compétences techniques :\nVous avez un minimum de 3 années d'expérience sur des projets Data et idéalement au moins une année d'expérience sur des projets Cloud AWS (EC2, RDS, Lambda, Kinesis, Redshift, EMR, Connect, SageMaker etc),\nVous maîtrisez au minimum un langage de programmation (Spark, Scala, Python, Java, R) ;\nVous avez une maitrise des théories et outils de modélisation de données,\nVous maitrisez des outils et framework d'industrialisation, IaC, CI/CD et/ou gestion de version,\nVous avez passé au moins une certification AWS technique, et vous avez l'ambition de vous préparer à d'autres.\nVos atouts :\nVous êtes passionné(e), rigoureux(se), curieux(se) et à l'écoute ;\nVous avez un bon niveau d'anglais qui vous permet d'intervenir sur des projets à dimension internationale ;\nVous développerez votre créativité et votre curiosité grâce à une veille technologique accrue qui vous permettra de challenger les besoins de vos clients.\nVous souhaitez vous impliquer dans le développement d'équipes et de communautés techniques autour du Cloud AWS et des solutions Data.\nDevenir #INNOVATIVEPEOPLE, c'est :\nIntégrer une communauté de 1100 experts passionnés répartis entre la France, la Belgique, le Luxembourg, la Suisse, l'Espagne et la Chine ;\nConstruire ensemble les solutions stratégiques et innovantes de demain pour accompagner nos clients dans leur transformation data et digitale ;\nParticiper au développement de notre entité Cloud4Data qui regroupe les 3 clouds : AWS, Microsoft Azure, GCP ;\nEvoluer continuellement au travers de formations et de certifications sur les plus grandes technologies grâce à Micropole Campus.\nS'assurer d'une innovation continue grâce à : notre écosystème de partenaires technologiques ; notre accélérateur de start'up databoost'R ; nos lieux d'innovations « innovativeSpaces » et de co-construction avec les clients ; notre management par les talents naturels.\nLe processus de recrutement :\nChez Micropole, le processus de recrutement est réactif et transparent.\nEtape 1 - Si votre profil correspond à nos besoins, vous êtes recontactés dans les 72 heures qui suivent votre candidature par Lamia notre Talent Specialist dédiée à l'entité Cloud4Data chez Micropole ;\nEtape 2 - Un premier entretien est programmé avec Lamia en physique ou visio ;\nEtape 3 - Vous rencontrez",
+        "job_reference": "1782286",
+        "skills": {
+            "ProgLanguage": [
+                "Scala",
+                "Python",
+                "Java",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Databricks",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "Azure",
+                "AWS",
+                "GCP"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "Other": [
+                "Big Data",
+                "Cloud",
+                "ML",
+                "CI/CD",
+                "DevOps"
+            ]
+        }
+    }
+]

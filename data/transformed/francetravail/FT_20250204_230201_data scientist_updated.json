@@ -1,0 +1,677 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Selon profil et expérience",
+        "company": "SPVIE ",
+        "location_raw": "92",
+        "location": null,
+        "remote": null,
+        "experience": "2 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agents et courtiers d'assurances",
+            "company_size": "100 à 199 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187PRYM",
+        "description": "Au sein de la Direction Technique et Produit et sous la responsabilité du Responsable Actuariat, vos principales missions pour le périmètre santé/prévoyance seront :   \n\n- Participer à la conception, au développement et à l'évaluation des outils métiers : création d'un datamart et d'un outil d'aide à la décision, automatisation des comptes techniques, modèle de rentabilité produit, analyse fraude, etc.\n- Effectuer des analyses exploratoires de données afin de repérer les tendances, les comportements des clients, ainsi que les données explicatives pertinentes pour évaluer la rentabilité.\n- Collaborer avec les équipes interfonctionnelles pour comprendre les besoins métier et formuler des solutions basées sur les données.\n- Documenter les processus, les méthodologies et les résultats de manière claire et précise.\n- Etre en veille concernant les meilleures pratiques en matière d'analyse des données.\n\nProfil recherché :\n\n- Vous êtes Bac+5 (université, école d'ingénieur) en informatique, statistiques, mathématiques appliquées ou dans un domaine connexe\n- Vous avez une première expérience réussie sur un poste similaire\n- Vous êtes passionné(e) par l'analyse des données\n- Vous connaissez les langages de programmation Python ou R\n- Vous avez la capacité à travailler efficacement en équipe\n- Vous bénéficiez d'excellentes compétences en communication verbale et écrite\n- Vous avez de fortes compétences analytiques, avec une attention particulière aux détails et à la qualité des données\n- Vous souhaitez monter en compétence dans le domaine de la science des données\n\nInformations complémentaires :\n- CDI à pourvoir dès que possible à Suresnes (92)\n- Poste à temps plein 39h par semaine\n\nAvantages :\n\n- Accord interne de participation\n- Contrat mutuelle, prévoyance et PERO,\n- Remboursement du Pass Navigo à 60%,\n- Carte ticket restaurant,\n- Accès possible à notre salle de sport interne\n\nNotre politique de recrutement est engagée en faveur de l'égalité des chances, ainsi tous nos postes sont ouverts aux personnes en situation de handicap.\n\nTélétravail :\n- 1 jour de télétravail par semaine",
+        "job_reference": "187PRYM",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "STRASBOURG 67",
+        "location": null,
+        "remote": null,
+        "experience": "expérience exigée",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1716017",
+        "description": "Qui sommes-nous ?Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.Les activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.Première Banque à adopter le statut d'entreprise à mission, le Crédit Mutuel Alliance Fédérale s'investit et s'engage dans différentes missions sociales et environnementales :L'accompagnement de tous par notre organisation coopérative et mutualiste reste au cœur de notre ADN.La technologie au service de l'humain est une référence dans notre monde connecté.La solidarité et l'éco-responsabilité deviennent des axes clés dans notre développement.Notre raison d'être : Ensemble, Ecouter et Agir. Vos missionsNous recherchons actuellement un(e) Datascientist pour le secteur Solutions Cognitives. Notre équipe est en charge de la R&D et de la création des modèles d'IA pour le traitement automatique du langage (dont l'IA générative).Nous développons notamment des modèles pour : l'analyse des e-mails, les chatbots à destination des clients et collaborateurs, les outils pour l'aide aux développeurs avec l'IA générative.Nous travaillons sur les dernières technologies à l'état de l'art (Finetuning de Large language models open source, Llama, Mixtral etc.) avec une capacité de calcul sur GPU installé dans nos datacenters.Nous recherchons une personne capable de travailler de l'étude d'un sujet R&D jusqu'à sa mise à disposition en production dans le cloud. Nous recherchons quelqu'un qui s'intéresse au sujet, se renseigne, aime apprendre et surtout, aime concevoir et développer des modèles et des services.Dans ce contexte, en tant que Data Scientist, vous aurez à charge de développer des modèles et services d'intelligence artificielle dans un mode de fonctionnement agile (Scrum).Plus précisément, vous aurez à :Créer des modèles de machine learning (Deep Learning, IA générative)Réaliser de la veille technologique afin de rester à l'état de l'art.Développer des services en PythonRédiger des spécificationsRespecter les normes de développement et suivre des jalons définis dans les outils internesDéploiements sur le cloud interneSuivre les cérémonies de la méthodologie Scrum (planification de sprint, mêlée journalière etc...) Ce que vous allez vivre chez nousTélétravail (2 jours par semaine)Rémunération fixe versée sur 13 moisRTTIntéressement, participation et abondementPlan épargne entreprise et PERCOContrat de santé collectifPrévoyanceRetraite supplémentaire prise en charge à 100% par l'employeurConditions bancaires et assurances préférentiellesPolitique parentale avantageuse Ce que nous allons aimer chez vousDe formation bac +4/5, vous avez les compétences suivantes :Une solide compréhension de l'intelligence artificielleUne capacité d'analyse et de veille afin de réaliser des études R&DUne bonne connaissance du développement en Python et déploiement sur le cloud.Bonne communicationMéthodologie de développement agileConnaissance d'autres langages objets (C#, Java)Vous maîtrisez l'anglais écrit et parlé.Autonome et organisé(e), vous faites preuve d'initiatives et d'esprit de synthèse.Une capacité à généraliser les concepts et à voir des similarités là où tout le monde ne voit que des différences sera très appréciée.Vous avez le souci du respect des normes et standards qualité.",
+        "job_reference": "1716017",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Marketing Data Scientist F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "SOFT COMPUTING",
+        "location_raw": "EPSILON FRANCE ",
+        "location": null,
+        "remote": null,
+        "experience": "3 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "EPSILON France en quelques mots\nEPSILON France est l entité Datamarketing de Publicis Groupe avec 700 experts data, marketing et technologiques et plus de 40 métiers représentés. Avec pour claim « Every Interaction Counts », la mission d EPSILON est de conjuguer les pouvoirs de la data, du marketing et de la technologie pour rendre les interactions entre les marques et leurs clients toujours plus justes et pertinentes. EPSILON intervient sur l ensemble des étapes-clé d un projet...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1709703",
+        "description": "Descriptif du poste:\n\nAu sein du Pôle Data & IA, constitué de 200 talents issus d'exertises et de profils variés, rejoignez le département Data Marketing Intelligence, son objectif : faire de la donnée un insight pour les équipes sales & marketing de nos clients.\n \nChez Epsilon nous sommes convaincus que chaque donnée raconte une histoire !\n \nNous accompagnons nos clients, sur toutes les problématiques métiers pour les aider à prendre des décisions éclairées en donnant du sens aux données : de la collecte des données et de leur analyse jusqu'à leur restitution en recommandations opérationnelles ou en dataViz.\n \nVotre quotidien en tant que Marketing Data Scientist,  vous gérez vos missions Data Science en toute autonomie :\nCadrez et challengez les besoins métiers\nMettez en place des rétroplanning adaptés aux contraintes, anticipez les besoins et les risques pour garantir des délais réalistes.\nAnalysez et synthétisez les informations pertinentes pour fournir des insights & recommandations : profil client, étude adhoc sur les comportements d'achats, parcours de navigation, impact d'un programme de fidélité, mesures de campagnes, études d'impact, MMM, géomarketing ...\nProposez les outils adéquats et nécessaires aux métiers pour accompagner les annonceurs dans la personnalisation de leurs actions CRM : dashboards, score d'appétence / Churn, segmentation RFM/comportementale \nRestituez les résultats et apportez les recommandations écrites \nAccompagnez et conseillez les équipes business (marketing, CRM, data science, IT, .)\nEt toutes ces missions sont réalisées auprès d'experts data et dans un cadre de partage, d'écoute et d'audace ! Vous pouvez participer activement à la vie transverse du pôle Data & IA.\n\nProfil recherché:\n\nVous avez acquis au moins 5 ans d'expériences en Data Science pour le Marketing, chez l'annonceur ou en prestation de services.  \n \nVous êtes orienté métier : vous cadrez avec force de proposition les besoins de vos clients, vous interpréter les datas et présentez les résultats de façon claire et convaincantes afin d'alimenter la compréhension et la réflexion au sein de l'entreprise.\n \nVous avez déjà géré des projets Data Marketing en autonomie du cadrage à la restitution.\n \nVous maîtrisez les méthodes statistiques et leurs applications opérationnelles, ainsi que l'un des principaux outils statistiques du marché : Python, R, Dataiku, SAS, .\n \nVos +\nVous n'hésitez pas à proposer de nouvelles idées et vous avez envie d'intégrer une équipe de consultants et de participer à l'animation transverse.\nVous avez envie d'encadrer des consultants plus jeunes et transmettre vos connaissances.\n \nChoisissez :\nUne entreprise pionnière dans le domaine des données depuis plus de 30 ans : nous appréhendons pleinement la valeur des données et les exploitons à leur plein potentiel.\nUn centre de compétences spécialisé en Data Analyse et Data Science, au sein du Pôle Data & IA\nDe la diversité en termes de projets et de clients qui vous stimuleront quotidiennement (Renault, FDJ, ENGIE, SNCF, Chanel, Leclerc, Leroy Merlin et bien d'autres !)\nUn parcours collaborateur dédié et de nombreuses possibilités d'évolutions\nNotre forte ouverture à l'international à travers les opportunités offertes par le Groupe Publicis\nNotre laboratoire NEXT qui nous maintient constamment à la pointe de l'innovation, avec plus de 20 projets R&D initiés chaque année\nDe nombreuses formations : Machine Learning, DataViz, Dataiku, R, Python, Agilité.qui vous permettront de monter en compétences et d'évoluer constamment !\nLocalisation :  Campus Bastille (Paris 11e) jusqu'en avril 2025, puis Campus 145 (rue de Courcelles, Paris 17e)\nRémunération : Nous savons que le salaire est un élément essentiel pour vous ! C'est pourquoi nous en parlerons sans tabou dès les premiers échanges. \n \nLes + EPSILON France : \nAccès Restaurant d'Entreprise (Campus Bastille) \nTravail Hybride grâce à notre Accord Télétravail qui autorise jusqu'à 2 jours par semaine \nEngagé avec le Forfait Mobilité Durable \nDispositif d'Epargne Salariale (Accord d'intéressement et de participation) \nWork Your World : travailler dans le monde entier jusqu'à 6 semaines continues chaque année à partir d'un an d'ancienneté \nFormation : +30.000 modules accessibles en e-learning, et comprenant des certifications, en partenariat avec LinkedIn Learning sur la plateforme propriétaire Marcel Classes ",
+        "job_reference": "1709703",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist - Unité Mixte de Services (UMS) F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDD",
+        "salary": "Salaire brut : 30 - 40 k€ brut annuel",
+        "company": "UNIVERSITÉ PARIS-SACLAY ",
+        "location_raw": "75",
+        "location": null,
+        "remote": null,
+        "experience": "débutant accepté",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Enseignement supérieur",
+            "company_size": "Née de la volonté conjuguée d'universités, de grandes écoles et d'organismes de recherche, l'Université Paris-Saclay compte parmi les grandes universités européennes et mondiales, couvrant les secteurs des Sciences et Ingénierie, des Sciences de la Vie et Santé, et des Sciences Humaines et Sociales. Sa politique scientifique associe étroitement recherche et innovation, et s'exprime à la fois en sciences fondamentales et en sciences appliquées pour répondre aux grands enjeux s...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1709689",
+        "description": "Descriptif du poste:\n\nDurée du contrat : 1 an\nL'UMS : France Cohortes constitue une plateforme nationale de services aux cohortes inscrite sur la feuille de route nationale des infrastructures de recherche. Cette infrastructure distribuée associe plusieurs tutelles académiques dans le cadre d'une unité mixte de services (UMS). France Cohortes vise à apporter des services mutualisés aux cohortes épidémiologiques sur les aspects réglementaires, de système d'information, et sur les outils, méthodes et standards adéquats de production, de diffusion et d'exploitation de données. L'UMS France Cohortes est structurée d'une cellule centrale coordonnant plusieurs cellules de site.\nMissions et positionnement de l'agent·e :\nL'un des enjeux majeurs sur lequel les équipes sont en attente de soutien méthodologique est la mise en œuvre de traitement en grande dimension, faisant intervenir des méthodes d'apprentissage statistique sur les infrastructures de France Cohortes.\nL'expert·e en information statistique sera placé·e sous la responsabilité hiérarchique de la direction de France Cohortes.\nActivités principales :\nL'expert-e en information statistique apportera son expertise méthodologique auprès des chercheurs·es et ingénieurs·es analysant les données au sein de France Cohortes.\nIl/elle déclinera les activités suivantes :\n* Assurer et coordonner une veille scientifique, l'expression de besoin et/ou le développement et la maintenance des outils d'exploitation des données longitudinales à des fins de description, de prédiction ou d'inférence causale, en collaboration avec les agents de France Cohortes et les ingénieurs et chercheurs travaillant sur les données des cohortes,\n* Animer des partenariats avec des équipes de recherche du domaine en France et à l'international,\n* Coordonner et organiser l'animation et la formation de la communauté des statisticiens et data scientists autour de l'exploitation des données longitudinales en présence de données riches (notamment cohortes et SNDS) et avec le recours aux méthodes (intelligence artificielle) et infrastructures (GPU) de la science des données,\n* Participer au recueil du besoin et des questions émanant de chercheurs concernant la mise en œuvre de démarche de science des données, pour orienter sur l'utilisation d'outils et de méthodes adaptés, et rédiger des expressions de besoins pour améliorer les infrastructures de France Cohortes/\n* Mettre en cohérence la démarche méthodologique de l'inférence causale et de l'apprentissage statistique avec les enjeux de la documentation et de la qualité des données en vie réelle, et ainsi contribuer à la dissémination de la démarche FAIR au sein des cohortes,\n* Élaborer et réaliser des programmes permettant d'automatiser certains traitements communs à toutes les cohortes,\n* Assurer une veille méthodologique et rédiger des fiches méthodologiques,\n* Identifier, analyser et comprendre les besoins,\n* Effectuer des présentations et des formations pour assurer un transfert de compétences.\n\nProfil recherché:\n\nConnaissance, savoir :\n* Connaissance experte des langages Python et R,\n* Connaissance approfondie de la méthodologie et des techniques statistiques et informatique de traitement de données, notamment des méthodes d'échantillonnage, de modélisation et d'analyse de données observationnelles, les méthodes d'analyses adaptées aux données longitudinales (analyses de survie et données répétées) et les méthodes de sélection de variables et d'apprentissages statistiques (supervisées ou non),\n* Bonne connaissance des études de cohortes et de l'épidémiologie, et notamment des problématiques liées à la qualité des données et des protocoles de recueil,\n* La connaissance de la structure des données du SNDS : Datamart de Consommation Inter-Régime (DCIR), Programme de médicalisation des systèmes d'information (PMSI), causes médicales de décès, serait un plus,\n* Langue Anglaise : niveau B1 à B2 (CECRL).\nSavoir-faire :\n* Concevoir une démarche de traitement et d'analyse de données observationnelles,\n* Mettre en œuvre et évaluer les performances d'un modèle d'apprentissage statistique,\n* Synthétiser la littérature scientifique,\n* Rédiger de la documentation technique et méthodologique (rapport, article),\n* Piloter un projet,\n* Gérer et animer un groupe transversal.\nSavoir-être :\n* Bon relationnel et sens du travail en équipe,\n* Organisation de son temps entre de nombreux projets,\n* Disponibilité et réactivité,\n* Rigueur,\n* Sens du service public,\n* Sens des responsabilités,\n* Esprit d'initiative, d'analyse et de synthèse.",
+        "job_reference": "1709689",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Senior Data scientist F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "DOGFINANCE ",
+        "location_raw": "92",
+        "location": null,
+        "remote": null,
+        "experience": "4 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Dogfinance est une plateforme de recrutement et de networking spécialisée dans les métiers de la finance, de la banque, de l'audit, et de l'assurance. Créée pour répondre aux besoins spécifiques des professionnels et entreprises du secteur financier, elle offre une interface unique où candidats et recruteurs peuvent interagir de manière ciblée et efficace.\nLes services de Dogfinance vont au-delà du recrutement traditionnel. La plateforme propose également des événements de n...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1709480",
+        "description": "Descriptif du poste:\n\nDescription de l'entreprise\nNotre raison d'être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte. Une mission qui donne le sourire et envie de se lever le matin !\n \nUn des leaders mondiaux de l'assurance dans la protection des biens, des personnes et des actifs, AXA c'est 147 000 collaborateurs et contributeurs qui s'engagent au quotidien pour nos clients, c'est 51 pays dans lesquels nous distribuons nos produits et services et plus de 94 millions de client qui nous font confiance dans le monde. Employeur citoyen et responsable, AXA s'engage au quotidien pour des causes sociétales & environnementales. Nous menons une politique inclusive engagée pour reconnaître et valoriser les différences individuelles. Ces ambitions vous parlent ? Alors venez changer le monde avec nous !\n \nMissions\nVOTRE FUTUR ENVIRONNEMENT :\nAXA France accompagne ses clients, particuliers et entreprises, à toutes les étapes de leur vie. Aujourd'hui, 9 millions de clients en France font confiance à AXA pour assurer leurs biens; protéger leur famille ou leurs collaborateurs en matière de santé et de prévoyance; gérer leur patrimoine ou les actifs de leur entreprise. La Direction de la Sûreté a pour missions de (1) Traiter des incidents susceptibles de porter atteinte à la notoriété ou à l'image de l'entreprise ; (2) MEP des solutions pour la Prévention de la fraude interne; Gérer les dispositifs pour garantir la résilience opérationnelle.\nCette couverture dans les missions réalisées par la Direction de la sûreté permet d'avoir une vision large des activités et des processus métiers d'AXA France.\nVOS MISSIONS PRINCIPALES :\nAu sein de la Direction de la sûreté d'AXA France, votre rôle principal en tant que Senior Data Scientist (F/H) sera de comprendre et cadrer les besoins de détection de fraude internes par un travail collaboratif avec les équipes métier. \n \nEn rejoignant l'équipe prévention des risques opérationnels qui est composé de 6 personnes, vos missions seront :\nLa conception et construction de la solution : \nDéfinir des schémas de fraude, en collaboration avec les équipes métiers et les équipes sûreté investigation ;  \nRechercher la DATA pour implémenter le schéma de fraude et si besoin, en collaboration avec la DT2, exprimer le besoin pour enrichir la base sûreté des DATA manquantes ;\nImplémenter le schéma de fraude, sous l'outil ACL/Diligent via des algorithmes d'analyse classique et/ou intégrant également des algorithmes IA, le calibrer et optimiser le script jusqu'à obtention de résultats satisfaisants ; \nMettre en exploitation le scénario développé en intégrant les résultats dans l'outil de traitements des dossiers résultant des algorithmes ; \n Le Suivi du traitement des dossiers d'alertes fraude : \nSuivre l'activités des équipes chargées de l'analyse des dossiers (niveau 1 et 2) ; \n\nProfil recherché:\n\nProfil recherché\nCompétences techniques recherchées : \nDe formation Bac+5 en école d'ingénieur ou université, master en informatique avec dans le domaine de la DATA Scientist ; \nAvoir 4 ans d'expérience minimum dans le domaine de l'analyse et l'audit de données (une expérience dans le secteur de la banque assurance serait un plus) ; \nMaîtriser les concepts traditionnels en analyse des données, ainsi que des notions et algorithmes classiques de machine learning (classification et régression, clustering, surapprentissage, régularisation, etc.) comme de deep learning (CNN, RNN, transformers, etc.) ; \nDisposer d'excellente connaissance de Python, SQL, SAS ; \nAvoir une connaissance des métiers de l'assurance et des risques opérationnels ; \nAvoir un niveau d'anglais professionnel. \nCompétences relationnelles recherchées : \nSavoir présenter clairement ses sujets devant un auditoire varié ;\nSavoir conduire et animer des réunions ;\nAvoir la capacité à expliquer et à convaincre ;\nAvoir une capacité d'écoute et une aisance relationnelle avec vos interlocuteurs ;\nSavoir communiquer par écrit de façon claire et avoir un esprit de de synthèse ;\nAvoir la capacité à construire un plan d'actions cohérent et coordonner la réalisation d'actions transversales ;\nAvoir la capacité à mener plusieurs problèmes en parallèle et à organiser ses priorités ;\nSavoir développer et entretenir des relations efficaces et productives avec ses interlocuteurs ;\nSavoir expliquer sa démarche et accompagner ses interlocuteurs / transversalité ;\nSavoir faire respecter ses décisions et défendre ses positions et pouvoir convaincre que ses choix sont les bons.\n\n \nNous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs ! Les avantages que nous proposons à nos salariés sont nombreux.\nNous choisir, c'est bénéficier par exemple :\nD'un packag",
+        "job_reference": "1709480",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "Other": [
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Data Science F/H - Système, réseaux, données (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "SOFT COMPUTING",
+        "location_raw": "EPSILON FRANCE ",
+        "location": null,
+        "remote": null,
+        "experience": "3 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "EPSILON France en quelques mots\nEPSILON France est l entité Datamarketing de Publicis Groupe avec 700 experts data, marketing et technologiques et plus de 40 métiers représentés. Avec pour claim « Every Interaction Counts », la mission d EPSILON est de conjuguer les pouvoirs de la data, du marketing et de la technologie pour rendre les interactions entre les marques et leurs clients toujours plus justes et pertinentes. EPSILON intervient sur l ensemble des étapes-clé d un projet...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1708942",
+        "description": "Descriptif du poste:\n\nAu sein du Pôle Data & IA, constitué de 200 talents aux profils complémentaires, rejoignez le département « Intelligence Artificielle et advanced modeling », son objectif : favoriser le déploiement de l'IA pour augmenter la performance business, automatiser et industrialiser les processus opérationnels de nos clients.\n \nNous accompagnons des clients de divers secteurs d'activités (Grande distribution, Retail, Luxe, Assurance, Automobile, etc.) et ce sur toutes les problématiques métiers pour démocratiser l'accès à l'IA et accompagner la réalisation et l'intégration de projets data science et IA du \"proof of value\" jusqu'au déploiement.\n \nVotre quotidien en tant que Consultant Data Scientist :\n \nParticiper au cadrage des projets de Data Science & IA,\nCollecter, explorer & auditer de grands volumes de données,\nMettre en place des pipelines de préparation de données,\nConcevoir et entrainer des algorithmes de Machine Learning / Deep Learning,\nEvaluer, analyser, synthétiser et expliquer les résultats de vos modèles,\nRestituer et valoriser les résultats de manière vulgarisée aux équipes métier,\nIndustrialiser vos modèles et mettre en place des pratiques MLOps et DevOps,\nIntervenir sur notre laboratoire Next by Epsilon pour travailler sur des sujets R&D ou intégrer l'équipe de veille technologique et méthodologique,\nParticiper aux REX de projets et aux hackathons.\n \nExemple de missions confiées à un Consultant Data Scientist :\n \nGrande distribution : Mise en place d'un moteur de substitution pour le Drive favorisant les produits selon leur valeur nutritionnelle et leur empreinte carbone.\nAssurance : mettre en œuvre une solution de NLP permettant de router automatiquement les emails des clients vers les bons services en tenant compte du niveau d'urgence.\nTelco: Développement d'algorithme de forecasting pour prédire le nombre d'appels au service client et anticiper le nombre de conseillers à mobiliser.\nRetail : Mise en place d'une solution multi-IA (NLP, Computer Vision, IA générative) permettant d'automatiser l'extraction et la génération de descriptif produit à partir d'une image du packaging.\nJeu en ligne : Mise en œuvre d'un moteur de recommandation sur le site et l'application du client afin de personnaliser les jeux proposés selon le profil des joueurs.\nAutomobile : Mise en œuvre de score d'appétences aux véhicules hybrides et électriques afin d'optimiser le ciblage des clients\n \nEt toutes ces missions sont réalisées en collaboration avec des experts data science & IA dans un cadre d'écoute et de partage.\n\nProfil recherché:\n\nNous recherchons avant tout quelqu'un qui :\nEst orienté résultat,\nA la volonté de construire des solutions sur mesure pour le métier,\nSait s'adapter à différents environnements,\nSait se former sur de nouvelles technos et méthodes au sujet de l'IA,\nA un fort esprit d'analyse et de synthèse,\nEst bon communiquant et sait vulgariser ses résultats,\nSait travailler en anglais.\n \nDiplômé d'un master à l'université ou école d'ingénieur vous :\nAvez au moins 3 ans d'expérience en Data Science en interne ou dans le conseil, \nAvez une forte expérience sur l'ensemble des étapes d'un projet data science de la préparation de données, modélisation à l'industrialisation des modèles,\nSavez programmer en Python,\nMaîtrisez les principes des bases de données et le langage SQL,\nMaitrisez les principales méthodes de data science (Machine Learning, séries temporelles, ...),\nMaitrisez les méthodes avancées de data science (Deep Learning, NLP, Computer Vision, IA Générative, Information retrieval),\nAvez utilisé les services IA d'un des principaux cloud provider : GCP, Azure, AWS,\nSouhaitez aller jusqu'à l'industrialisation de vos modèles (Git, Docker, DAG).\nVous ne cochez pas toutes les cases mais êtes motivé à apprendre et progresser : n'hésitez pas à postuler.\n \nVotre truc en +\n \nVous aimez transmettre vos savoir-faire sur des sujets de data science (rédaction d'articles, animation de formation, conférences, .)\nChoisissez :\nUn groupe qui investit massivement sur l'IA avec le lancement de la solution CoreAI et la mise à disposition de dizaines d'outils d'IA et des centaines de cas d'usage IA déployés,\nUn centre de compétences spécialisé en Data Science au sein d'une entreprise pionnière et spécialisée dans le domaine de la data depuis plus de 30 ans,\nDe la diversité en termes de projets et de clients qui vous stimuleront quotidiennement (Renault, FDJ, EDF, SNCF, Chanel, Leclerc, Leroy Merlin et bien d'autres !),\nUn management de proximité par un expert Data Science et IA,\nNotre laboratoire NEXT d'accélération de projets d'IA, avec plus de 20 projets R&D initiés chaque année,\nNos partenariats technologiques : Google, Microsoft,\nNotre forte ouverture à l'international à travers les opportunités offe",
+        "job_reference": "1708942",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "GCP",
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Machine Learning",
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Consultant(e) Scientist / Cloud F/H (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "CONSORTGROUP ",
+        "location_raw": "75",
+        "location": null,
+        "remote": null,
+        "experience": "débutant accepté",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Autres activités informatiques",
+            "company_size": "Acteur de référence des systèmes d'information augmentés par l'intégration stratégique de la data, Consort Group accompagne depuis plus de 30 ans les entreprises pour leur permettre de valoriser leurs patrimoines données et informatiques à leur plein potentiel. \nIntégrer Consortia, filiale de Consort Group, et communauté d'expertise Data, c'est rejoindre un projet d'entreprise qui met l'humain et la responsabilité sociétale au cœur de ses préoccupations.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1699566",
+        "description": "Mission \n \nVous êtes Informatics lover et le monde de la Data vous passionne ? Rejoignez Consortia en qualité de Consultant(e) Data Scientist /Cloud.\n \nVotre mission principale consiste à intervenir en clientèle sur des demandes d'expertise solution/méthodologie.\n \nGrâce à votre expertise en Data Science, vous concevez des plateformes permettant de traiter des volumes importants de données et vous transformez ces dernières en leviers stratégiques; en développant des modèles prédictifs, des algorithmes automatisés, et en apportant des solutions sur mesure pour répondre aux problématiques de nos clients.\n \nVous interviendrez dans divers secteurs d'activités en fournissant des analyses poussées et des recommandations basées sur les données afin d'aider nos clients à prendre les bonnes décisions.\nProfil \n \nDiplômé(e) d un Bac +5 en Ecole d ingénieurs ou Master 2 en statistiques et/ou data, vous avez un intérêt prononcé pour les nouvelles approches et outils de la Data Science.\n \nFort d'une solide expérience en Data Science (3 ans minimum) acquise en cabinet de conseil ou en entreprise, vous avez développé une expertise sur des outils comme Python, Scala, Spark et l'utilisation du Machine Learning, ainsi que sur des environnements Hadoop et/ou Cloud (GCP, AWS ou Azure). Vous êtes à l aise sur des environnements SQL et NoSQL.\n \nVous avez une bonne connaissance de l'anglais et avez idéalement une sensibilité aux méthodes agiles.\n \nVous faites preuve de dynamisme, êtes un(e) adepte du travail en équipe et accordez une grande importance à la qualité & la fiabilité de vos livrables. En outre, vous avez un sens du service client développé et une capacité à communiquer, vulgariser et présenter votre travaille.\n \n#IDannonceJob1",
+        "job_reference": "1699566",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "DataBase": [
+                "NoSQL",
+                "SQL"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "GCP",
+                "Azure"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Steward F/H - Système, réseaux, données (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "INSTITUT DU CERVEAU ET DE LA MOELLE EPINIERE ",
+        "location_raw": "75",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Recherche-développement en biotechnologie",
+            "company_size": "L'Institut du Cerveau est une Fondation privée reconnue d'utilité publique dont l'objet est la recherche fondamentale et clinique sur le système nerveux.\nSur un même lieu, 850 chercheurs, ingénieurs et médecins couvrent l'ensemble des disciplines de la neurologie, dans le but d'accélérer les découvertes sur le fonctionnement du cerveau et les développements de traitements sur les maladies comme : Alzheimer, Parkinson, Sclérose en plaques, épilepsie, dépression, paraplégies, ...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1705470",
+        "description": "Descriptif du poste:\n\nCONTEXTE\nLe Data Analysis Core facility (DAC) est un centre d'analyse et de gestion des données de recherche à l'Institut du Cerveau de Paris, composé d'une équipe enthousiaste d'experts en analyse omique, analyse d'images, apprentissage automatique, méthodologie statistique et gestion de données. \nDESCRIPTION DU POSTE\nNous recherchons des personnes pour soutenir la mise en œuvre de la stratégie de l'Institut visant à collecter, traiter et publier des données « aussi ouvertes que possible, aussi fermées que nécessaire ». En tant que responsable open science, vous assurerez le support et serez chargé d'élaborer la documentation et les lignes directrices relatives à la diversité des données collectées par l'institut. Vous défendrez la stratégie de l'institut au sein des réseaux nationaux et internationaux et veillerez à ce que l'institut devienne une référence en matière de gouvernance des données pratique et fondée sur des données probantes dans le domaine des neurosciences. En bref, vous devrez :\n* Servir de contact principal pour les chercheurs et les fonctions supports en ce qui concerne les bonnes pratiques data, de la collecte à la réutilisation, en fournissant des lignes directrices, de la documentation et une assistance pratique pour les plans de gestion des données.\n* Sensibiliser et impliquer la communauté locale des chercheurs par le biais d'ateliers, de formations et de symposiums.\n* En étroite collaboration avec le Chief Data Officer, fournir des spécifications et effectuer des tests d'utilisation pour le développement de solutions de gestion des données par l'équipe de développement informatique.\n* Favoriser la collaboration entre les équipes de recherche, le CDO, le département informatique, le RSSI, le bureau juridique, le DPO, l'assurance des risques, le responsable de l'intégrité scientifique et les autres membres de l'équipe de développement informatique.\n* Participer à des initiatives nationales et mondiales en matière de gestion des données et de science ouverte, notamment l'INBS, l'IFB, le réseau français de reproductibilité et la RDA.\n* Participer à des collaborations en matière de gestion des données avec des institutions de recherche nationales et internationales pour aligner les meilleures pratiques et faciliter le partage de données conformes.\n* Aborder les questions de gouvernance des données avec toutes les parties prenantes.\n* Communiquer et défendre la stratégie et les réalisations de l'institut en matière de science ouverte en collaboration avec le département des affaires scientifiques et médicales, le département de communication et la direction de l'institut.\n\nProfil recherché:\n\nSavoir-faire :\n* Expérience dans un environnement de recherche (académique ou industriel)\n* Expérience dans la mise en œuvre et la promotion de la gouvernance des données et de la science ouverte auprès de différentes parties prenantes, notamment des scientifiques, des étudiants, des ingénieurs, des gestionnaires et des décideurs politiques\n* Expérience dans la création de ressources pédagogiques, l'organisation de formations, d'ateliers et de conférences.\n* Expérience en matière de réglementation sur la protection des données (RGPD), de droit français de la santé, d'évaluation de la protection des données et de procédures éthiques réglementaires (par exemple, CNIL, APAFIS, CODECOH)\nSavoir :\n* Doctorat en neurosciences (cognitives), biologie ou domaine connexe\n* Large compréhension des best practises en matière de gestion des données en recherche humaine et/ou animale, telles que la neuroimagerie, la microscopie, l'électrophysiologie, les tests cognitifs, les protocoles d'essais de recherche clinique, les échantillons biologiques et les préparations d'échantillons ou les données de séquençage\n* Compréhension des solutions numériques (logiciels et outils) pour la gestion des données et les bases de données de recherche (clinique) (par exemple, REDCap, LIMS, ELN, OMERO, XNAT) souhaitée mais non obligatoire\n* Niveau académique en anglais (obligatoire) et en français conversationnel (souhaitable)\nSavoir-être :\n* Affinité avérée pour FAIR, pour l'open science et la protection des données personnelles\n* Compétences avérées en matière d'organisation et de gestion de projet\n* Capacité à communiquer avec différentes parties prenantes, en respectant des contextes, des besoins, des calendriers et des expertises différents\n* Affinité pour l'animation et la coordination de réseaux (inter)nationaux dans le domaine de la science ouverte, de la gestion des données ou de la reproductibilité scientifique\n* Flexible, orienté vers les solutions, avec autonomie et initiative, et une attitude pratique\n* Excellentes compétences interpersonnelles\n \n \nL'Institut du cerveau s'engage pour lutter contre toute forme de discrimination. Nous",
+        "job_reference": "1705470",
+        "skills": {
+            "EnSoftSkils": [
+                "Initiative",
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "DATA-MANAGER DEVELOPPEUR (H/F)",
+        "job": "Other",
+        "contract_type": "CDD",
+        "salary": null,
+        "company": null,
+        "location_raw": "PUY DE DÔME 63",
+        "location": null,
+        "remote": null,
+        "experience": "2 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": null,
+            "company_size": "Centre Hospitalier Universitaire de Clermont-Ferrand",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1702610",
+        "description": "Référence CSP: 2025-1820721 \n DEFINITION DU POSTE\nLe poste proposé de data-manager se place dans une politique de qualité de la gestion des données des projets de recherche en santé visant à : piloter la gestion de circuits de données complexes et leur traitement et garantir leur cohérence et leur qualité.\nMISSIONS PRINCIPALES\n\n1)       Gestion de circuits de données complexes\n-          Programmation pour connexion de bases de données existantes : développement d'une base de données principale (organiser et mettre en œuvre la migration des données de l'existant vers la base principale), mettre en place l'intégration de données de manière automatisée pour l'alimentation de la base commune (configurer les formulaires de saisie, les requêtes et les fonctionnalités) sur des projets multi-cohortes.\n-          Gestion de la structuration et organisation du circuit de données des études cliniques (conformité RGPD, PAI, Archivage et détermination de l'outil de récolte des données selon les prérequis).\n-          Gestion de la communication autour de multiples bases (API, etc.) et de capteurs/appareillages divers (capteur de mouvement, ECG, etc.).\n-          Développement et maintenance des outils spécifiques liés à la collecte de données (Solutions complémentaires aux eCRF, scripts spécifiques).\n-          Traitement des dysfonctionnements, paramétrages des outils, sécurisation.\n\n \n2)      Traitement des données en accord avec bonnes pratiques de recherche clinique\n-          Conception des cahiers d'observations des projets CHU en lien avec les équipes investigatrices et les partenaires privés, contrôle de la documentation des études (élaboration du plan de data-management, rédaction des conventions de saisie).\n-          Validation des bases de données : mise en œuvre des contrôles de cohérence des données, programmation des tests de validation, gel de la base de données, transfert, exportation des données cliniques.\n-          Participation à la politique d'assurance de qualité de l'établissement en matière de gestion de données et à la réflexion concernant la structuration de la gestion des données hospitalières.\n\nDes activités complémentaires peuvent être confiées en fonction des besoins du service.",
+        "job_reference": "1702610",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Responsable Data - Marketing Client H/F",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "DOCAPOSTE ",
+        "location_raw": "94",
+        "location": null,
+        "remote": null,
+        "experience": "expérience exigée",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des sièges sociaux",
+            "company_size": "Référent de la confiance numérique en France et filiale du groupe La Poste, Docaposte accompagne toutes les entreprises et institutions publiques dans leur transformation et leur permet de l'accélérer, en confiance.\n\nL'entreprise se compose de filiales, marques et Business Units qui adressent de nombreux secteurs : banque/finance, assurance, santé, secteur public, Small & Midsize Business (TPE, PME), commerce, industries, services, utilities et telecom.\n\nDocaposte c...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1692855",
+        "description": "POSTE : Responsable Data - Marketing Client H/F\nDESCRIPTION : Description de la mission\n\nPilotage de la data clients\n- Mettre en place une gouvernance transverse de la data client dans une démarche de co construction avec les parties prenantes, acculturation et formation, accompagnement et pilotage de sa mise en place avec la mise en place d'instance et outils, reporting de suivi\n- Etre garant de la qualité et de la conformité de la base de données Contacts et Leads et mise en oeuvre des actions permettant de l'améliorer (SI CRM) et de l'enrichir, en collaboration avec les équipes commerciales, digitales, CRM ou les prestataires externes.\n- Définir les évolutions et architectures cibles, la roadmap et piloter sa mise en place en coordination avec la direction informatique, la DAF, les équipes commerciales\n- Exploitation et roadmap évolutive (bild et run) des outils en place : CRM Salesforce et outil de gestion de campagne HubSpot entre autres.\n- Veuille aux respects des règles RGPD et met en place en transverse les actions correctives et de communications pour assurer la conformité, en lien avec la direction juridique notamment.\n- Piloter la qualité de la donnée client, définir les actions correctives, suivi et réalisation/diffusion de dashboards de suivi\n- Piloter les études et analyses à partir de la data client à des fins marketing produits, marketing stratégique et marketing client.\n\nPilotage des outils (CRM Salesforce, outil de gestion de Campagne HupSpot notamment, BI)\n- Assurer la bonne utilisation des outils data clients ; proposer et mettre en place les évolutions fonctionnelles avec une vision transversale Docaposte d'optimisation des outils ; formation, acculturation\n- Définir les évolutions nécessaires et les bénéfices de l'architecture de la donnée client\n- Documenter\n- Veiller à la conformité des outils.\n\nConception de la stratégie marketing acquisition et fidélisation client\n- Définition des stratégies de marketing acquisition pour Docaposte selon les demandes de la direction commerciale ou des BU et en lien avec la stratégie de Docaposte et des priorités définies : concevoir, optimiser et mettre en place les dispositifs de génération de lead (campagnes emailing, inbound marketing, campagnes digitales, sales automation) : conception, ciblages, paramétrage, mise en place des dispositifs.\n- Définition de la stratégie de fidélisation de la base clients Docaposte : conception, ciblages, paramétrage\n- Identifier les canaux de fidélisations et de génération de lead (courrier, e-mail, SMS, téléphone, réseaux sociaux, paid) et évaluer leur performance\n- Pilotage des analyses et recommandations basées sur des datas\n- Identification des opportunités business et recommandation de plan d'action et performances (KPI's)\n- Management d'une équipe dédiée profils data manager, chargé de campagne et gestion de projet.\n- Pilotage de son budget.\n\nVotre nouvel environnement\nUn programme de formation et d'accompagnement est prévu en fonction de vos compétences précédemment acquises et de votre expérience.\n\nNous vous accompagnons\nAu sein du CSP Docaposte :\n- 12 Jours d'RTT\n- 2 Jours de télétravail\n- RIE + Carte tickets restaurants\n- 67% de prise en charge sur votre titre de transport\n- Mutuelle pour vous et votre famille\n- Onboarding\nPROFIL : Savoir-faire :\n- Niveau Bac +4/5\n- Expert en communication et marketing relationnel dans le secteur du BtB, avec une solide expérience dans la mise en place et le pilotage de stratégie de marketing relationnel (fidélisation et acquisition) chez l'annonceur ou dans des startups successful\n- Aisance avec les datas, analyses/étude marketing, statistiques (segmentation, churn, upsell cross sell)\n- Bon rédactionnel et sens du marketing des solutions / messages\n- Connaissance des outils digitaux notamment de tracking on line\n- Esprit de synthèse, orienté ROI\n- Très forte sensibilité client et business\n- Gestion de projets\n- Esprit de synthèse.\n Savoir être :\n- Rigoureux et autonome, solution maker\n- A l'écoute et ouvert, solution maker\n- Sens de l'équipe et agilité, travail collaboratif et en transverse\n- Très bon relationnel, sens du contact\n- Curieux\n- Force de proposition et implication.",
+        "job_reference": "1692855",
+        "skills": {
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "92",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739171",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739171",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "75",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739125",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739125",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "78",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739091",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739091",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "91",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739077",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739077",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "77",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739046",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739046",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "94",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739037",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739037",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "95",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739035",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1739035",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien Data Center (H/F)",
+        "job": "Other",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "LTD ",
+        "location_raw": "93",
+        "location": null,
+        "remote": null,
+        "experience": "1 an(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "LTd",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1738989",
+        "description": "LTd est une agence de travail temporaire et un cabinet de recrutement spécialisé dans le domaine des Travaux Publics VRD, de la topographie, et des Télécoms riche de 20 ans d'expérience sur toute la France.\nLe poste : \n\nNous recherchons pour l'un de nos clients, société spécialisée dans les Télécoms, un Technicien Data Center H/F.\nEn tant que Technicien Datacenter, vous jouerez un rôle clé dans la gestion et la maintenance des infrastructures critiques du site.\nSupervision et maintenance :\n- Contrôler et garantir le bon fonctionnement des infrastructures.\n- Effectuer des rondes régulières pour prévenir les anomalies.\n- Assurer la maintenance préventive des équipements.\nInstallation et configuration :\n- Installer et racker les équipements (serveurs, dispositifs de stockage, etc.).\n- Réaliser le câblage et connecter les équipements réseau et électriques.\n- Configurer les dispositifs selon les besoins opérationnels.\nIntervention et dépannage :\n- Diagnostiquer les pannes matérielles ou liées à l'infrastructure.\n- Effectuer les réparations ou remplacements nécessaires.\nGestion logistique et documentation :\n- Gérer les stocks de matériel et veiller à leur disponibilité.\n- Documenter les interventions et maintenir à jour les bases de données techniques.\n- Mettre à jour les schémas et rapports d'infrastructure.\nConformité et sécurité :\n- Appliquer les règles de sécurité spécifiques à l'environnement datacenter.\n- Veiller au respect des normes techniques et des procédures internes.\nProfil recherché : \n\nProfil recherché\nCompétences techniques :\n- Bonne connaissance des infrastructures datacenter (racks, serveurs, câblage).\n- Maîtrise des outils de diagnostic et des procédures de maintenance.\n- Gestion des câbles réseau et électriques.\nQualités organisationnelles :\n- Capacité à gérer plusieurs tâches simultanément tout en respectant les priorités.\n- Rigueur dans la documentation technique et les rapports d'intervention.\nSavoir-être :\n- Rigueur et organisation dans l'exécution des tâches.\n- Réactivité et autonomie pour intervenir efficacement en cas d'incident.\n- Esprit d'équipe et communication claire.\n- Adaptabilité aux évolutions technologiques et contraintes opérationnelles.\nExpérience : Minimum 2 ans sur un poste similaire.",
+        "job_reference": "1738989",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    }
+]

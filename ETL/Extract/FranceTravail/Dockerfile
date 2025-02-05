@@ -1,3 +1,4 @@
+# Scraping France Travail
 FROM python:3.9-slim
 
 # Installation des dépendances système nécessaires
@@ -21,13 +22,14 @@ COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Création des répertoires nécessaires
-RUN mkdir -p json_temp
+# RUN mkdir -p json_temp
 
 # Définition des variables d'environnement
 ENV PYTHONUNBUFFERED=1
 ENV DISPLAY=:99
 ENV CHROME_BIN=/usr/bin/chromium
 ENV ES_HOST=elasticsearch:9200
+ENV PYTHONPATH=/app
 
 # Script de démarrage
 COPY start.sh /start.sh

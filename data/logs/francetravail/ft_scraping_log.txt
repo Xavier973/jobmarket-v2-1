@@ -1,37 +1,53 @@
-20250129_140939 - Term: data architect - Jobs added: 0
-20250129_140939 - Term: data engineer - Jobs added: 117
-20250129_140939 - Term: data scientist - Jobs added: 41
-20250129_140939 - Term: data analyst - Jobs added: 61
-20250129_140939 - Term: software engineer - Jobs added: 6
-20250129_140939 - Term: cloud architect - Jobs added: 40
-20250129_140939 - Term: solution architect - Jobs added: 8
-20250129_140939 - Term: cloud engineer - Jobs added: 7
-20250129_140939 - Term: big data engineer - Jobs added: 20
-20250130_012539 - Term: data architect - Jobs added: 0 - Status: success
-20250130_012539 - Term: data engineer - Jobs added: 48 - Status: success
-20250130_012539 - Term: data scientist - Jobs added: 12 - Status: success
-20250130_012539 - Term: data analyst - Jobs added: 41 - Status: success
-20250130_012539 - Term: software engineer - Jobs added: 2 - Status: success
-20250130_012539 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
-20250130_012539 - Term: Machine Learning Engineer - Jobs added: 0 - Status: no_offers
-20250130_012539 - Term: cloud architect - Jobs added: 10 - Status: success
-20250130_012539 - Term: solution architect - Jobs added: 4 - Status: success
-20250130_012539 - Term: cloud engineer - Jobs added: 3 - Status: success
-20250130_012539 - Term: big data engineer - Jobs added: 4 - Status: success
-20250130_012539 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
-20250130_012539 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
-20250130_012539 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
-20250130_024651 - Term: data architect - Jobs added: 20 - Status: success
-20250130_024651 - Term: data engineer - Jobs added: 63 - Status: success
-20250130_024651 - Term: data scientist - Jobs added: 19 - Status: success
-20250130_024651 - Term: data analyst - Jobs added: 41 - Status: success
-20250130_024651 - Term: software engineer - Jobs added: 4 - Status: success
-20250130_024651 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
-20250130_024651 - Term: Machine Learning Engineer - Jobs added: 0 - Status: no_offers
-20250130_024651 - Term: cloud architect - Jobs added: 18 - Status: success
-20250130_024651 - Term: solution architect - Jobs added: 5 - Status: success
-20250130_024651 - Term: cloud engineer - Jobs added: 4 - Status: success
-20250130_024651 - Term: big data engineer - Jobs added: 3 - Status: success
-20250130_024651 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
-20250130_024651 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
-20250130_024651 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+Avant transformation: 67
+Après transformation: Bas-Rhin
+Avant transformation: 92
+Après transformation: Hauts-de-Seine
+Avant transformation: BORDEAUX 33
+Après transformation: Bordeaux
+Avant transformation: BORDEAUX 33
+Après transformation: Bordeaux
+20250204_183933 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
+20250204_183933 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250204_183933 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+20250204_213058 - Term: data architect - Jobs added: 0 - Status: success
+20250204_213058 - Term: data engineer - Jobs added: 94 - Status: success
+20250204_213058 - Term: data scientist - Jobs added: 41 - Status: success
+20250204_213058 - Term: data analyst - Jobs added: 61 - Status: success
+20250204_213058 - Term: software engineer - Jobs added: 7 - Status: success
+20250204_213058 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
+20250204_213058 - Term: Machine Learning Engineer - Jobs added: 0 - Status: no_offers
+20250204_213058 - Term: cloud architect - Jobs added: 43 - Status: success
+20250204_213058 - Term: solution architect - Jobs added: 11 - Status: success
+20250204_213058 - Term: cloud engineer - Jobs added: 2 - Status: success
+20250204_213058 - Term: big data engineer - Jobs added: 7 - Status: success
+20250204_213058 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
+20250204_213058 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250204_213058 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: data architect - Jobs added: 0 - Status: success
+20250204_230201 - Term: data engineer - Jobs added: 65 - Status: success
+20250204_230201 - Term: data scientist - Jobs added: 19 - Status: success
+20250204_230201 - Term: data analyst - Jobs added: 41 - Status: success
+20250204_230201 - Term: software engineer - Jobs added: 3 - Status: success
+20250204_230201 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: Machine Learning Engineer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: cloud architect - Jobs added: 27 - Status: success
+20250204_230201 - Term: solution architect - Jobs added: 7 - Status: success
+20250204_230201 - Term: cloud engineer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: big data engineer - Jobs added: 5 - Status: success
+20250204_230201 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250204_230201 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+20250205_122646 - Term: data architect - Jobs added: 0 - Status: success
+20250205_122646 - Term: data engineer - Jobs added: 102 - Status: success
+20250205_122646 - Term: data scientist - Jobs added: 399 - Status: success
+20250205_122646 - Term: data analyst - Jobs added: 61 - Status: success
+20250205_122646 - Term: software engineer - Jobs added: 5 - Status: success
+20250205_122646 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
+20250205_122646 - Term: Machine Learning Engineer - Jobs added: 0 - Status: no_offers
+20250205_122646 - Term: cloud architect - Jobs added: 46 - Status: success
+20250205_122646 - Term: solution architect - Jobs added: 12 - Status: success
+20250205_122646 - Term: cloud engineer - Jobs added: 4 - Status: success
+20250205_122646 - Term: big data engineer - Jobs added: 14 - Status: success
+20250205_122646 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
+20250205_122646 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250205_122646 - Term: ETL Developer - Jobs added: 0 - Status: no_offers

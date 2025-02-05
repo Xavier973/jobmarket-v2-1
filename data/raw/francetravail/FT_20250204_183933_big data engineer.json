@@ -1,0 +1,99 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Expert Data (H/F)",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : selon profil",
+        "company": "ITEA ",
+        "location": "67",
+        "remote": null,
+        "experience": "3 An(s)",
+        "education_level": null,
+        "publication_date": "2025-02-03",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "20 à 49 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187NVLL",
+        "description": "Plus qu'un métier, itéa a pour vocation de déceler et révéler les bons profils, avec une curiosité qui va souvent au-delà des compétences, et parfois entre les lignes d'un CV.\n\nAujourd'hui, nous recherchons pour l'un de nos clients, un Expert Data H/F et vous présentons les points clés du poste :\n\n- Poste en CDI\n- Basé à Strasbourg\n- Secteur public\n- Modélisation et architecture des données : Expertise dans la création et la gestion de modèles de données complexes (conceptuel, logique, physique).\n\nTechnologies et outils :\n- Expérience souhaitée sur des plateformes de virtualisation des données comme Denodo, Tibco ou Informatica.\n- Maîtrise des environnements et des technologies de stockage et de traitement des données (bases relationnelles, entrepôts de données, Data Lake, etc.).\n- Bonne connaissance des ETL/ELT, et d'outils BI comme BO, Power BI ou Superset.\n- Gouvernance des données : Compétence en mise en œuvre de processus liés à la qualité des données, la sécurité, et la gestion des métadonnées.\n\nVos missions seront de :\n\n- Concevoir et superviser l'architecture globale des flux de données au sein de la collectivité.\n- Participer activement à la gouvernance des données et accompagner les chefs de projet dans leurs choix technologiques.\n- Proposer des solutions innovantes pour optimiser la gestion des données et leur exploitation.\n- Travailler en collaboration avec le service AI pour garantir une cohérence entre l'architecture data et l'architecture globale de la collectivité.\n- Contribuer à la stratégie Data Mesh et à l'amélioration continue des infrastructures et procédures naissantes.\n\nEt vous ?\n\n- Vous êtes diplômé Bac + 5 en informatique\n- Vous avez déjà une expérience de 3 à 7 ans sur un poste similaire\n- Vous êtes spécialiste dans la création et la gestion de modèles de données complexes\n- Vous maîtrisez des outils BI comme BO, Power BI ou Superset\n- Vous maîtrisez des outils de traitement de données et de stockage (Data Lake) et des plateformes de virtualisation (Denodo, Tibco ou Informatica)\n- Vous avez des connaissances au sujet de la sécurisation des données, leurs traitements et la gestion des métadonnées\n- Vous êtes capable de simplifier des concepts techniques \n- Vous avez une bonne capacité d'analyse, de communication et d'esprit d'initiative\n \n\nVous vous retrouvez dans ces critères, vous avez le goût du travail bien accompli et appréciez la diversité des tâches, prenez le temps de postuler afin d'échanger avec nous sur cette opportunité.\n\nDans le fond, c'est toujours une belle histoire de rencontres, de connexions et de valeurs.",
+        "job_reference": "187NVLL"
+    }
+, {
+    "source": "France Travail",
+    "job_title": "Ingénieur Data (H/F)",
+    "contract_type": "CDI",
+    "salary": "Salaire brut : Annuel de 40000.0 Euros à 49920.0 Euros sur 12.0 mois",
+    "company": "OPCO MOBILITES ",
+    "location": "92",
+    "remote": null,
+    "experience": "2 An(s)",
+    "education_level": null,
+    "publication_date": "2025-02-03",
+    "company_data": {
+        "sector": "Formation continue d'adultes",
+        "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/187NSWP",
+    "description": "OPCO Mobilités est un opérateur de compétences et a pour objectif de contribuer à structurer l'emploi et les compétences des métiers de la mobilité, comprenant notamment les secteurs de l'urbain, le ferroviaire, l'automobile, le transport, la logistique, les services et la RATP, tout en s'inscrivant pleinement dans les enjeux de transitions numériques, énergétiques et écologiques. Le périmètre d'intervention d'OPCO Mobilités est défini par 17 branches et RATP qui représentent 87 000 entreprises et 1,4M salariés.\n\nNotre rôle est de conseiller et d'informer les entreprises adhérentes sur les différents dispositifs de formation en vigueur, mais surtout promouvoir leurs métiers pour répondre aux besoins de recrutement.\n\nAujourd'hui, nous sommes environ 500 collaborateurs, répartis dans toute la France et les DROM, à travers 33 délégations et antennes régionales, engagés dans une même ambition : développer les compétences ! Plus d'une trentaine de métiers composent l'OPCO Mobilités, innovent, expérimentent, conseillent, financent dans le respect de nos valeurs : Service, Qualité, Proximité, Performance.\n\nAu sein de la Direction des Systèmes d'Information, vos missions sont les suivantes :\n\nDévelopper des flux d'ingestion de données (intégration), s'assurer de leur bon fonctionnement (performance / temps de traitement) et effectuer les livraisons sur nos différents environnements\nManipuler les données et participer à la conception du DataWareHouse/ Datamart\nMettre en place des indicateurs KPI\nParticiper à la recette et garantir la qualité des données produites\nAnalyser et évaluer la faisabilité technique des demandes des clients et estimer l'effort des demandes clients.\nSupporter les utilisateurs : prise en charge des incidents niveau 3 et des demandes d'évolution\nParticiper à la réalisation de rapports Dataviz (Power Bi / SSRS)\nContribuer au développement d'OPCO MOBILITES en participant au déploiement des projets internes et externes de la structure.\n\nCes missions ne sont pas limitatives, elles pourront s'étoffer selon les besoins d'OPCO MOBILITES\nProfil Recherché\n\nDe formation supérieure de type Bac +4 / Bac +5 avec une spécialisation en informatique décisionnelle / gestion de la donnée, vous disposez au minimum de 3 ans d'expérience professionnelle dans le traitement de données et l'informatique décisionnelle.\n\nVous maîtrisez la suite informatique décisionnelle de Microsoft (Power BI, SSIS, SSRS, SSAS) ainsi que d'autres outils de Data Visualisation et de requêtage (bonnes pratiques et optimisation).\n\nVous êtes reconnu(e) pour votre rigueur, votre curiosité, vos qualités d'analyse ainsi que vos qualités rédactionnelles et relationnelles.\n\nVous présentez un réel sens du service et appréciez travailler en équipe et en mode collaboratif.\n\nVous êtes autonome, rigoureux (-se) et vous avez déjà eu l'opportunité de démontrer vos capacités d'organisation et d'adaptation dans un environnement en mutation.\n\nEn tant qu'entreprise inclusive, OPCO Mobilités s'engage pour la Diversité et accorde la même considération à toutes les candidatures, sans discrimination. Chez OPCO Mobilités, seules les compétences font la différence !\n\nPoste basé à Boulogne Billancourt (92)\n\nCDI à pourvoir à partir du 03/02/2024\n\nAvantages :\n\nSur site :\n\n- Restaurant Inter-Entreprise\n- Salle de Sport avec des tarifs avantageux\n- Service de conciergerie\n- Formations internes\n- Parking sécurisé",
+    "job_reference": "187NSWP"
+}, {
+    "source": "France Travail",
+    "job_title": "Ingénieur Big Data (H/F)",
+    "contract_type": "CDI",
+    "salary": null,
+    "company": null,
+    "location": "BORDEAUX 33",
+    "remote": null,
+    "experience": "Expérience exigée de 3 An(s)",
+    "education_level": null,
+    "publication_date": "2025-02-04",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/1733370",
+    "description": "Description du poste :\nEn tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Sopra Steria recherche actuellement des profils :\nDescription de l'entreprise\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables.\nLe Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif.\nEn 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape it\nLa division « Services financiers » s'est développée autour des métiers de la banque de détail, de la banque privée et des services financiers spécialisés. Nous participons à la révolution digitale grâce à notre expertise en automatisation des processus, Big Data, IA, Cloud. Nous accompagnons la transformation de nos clients en y associant nos compétences dans les domaines fonctionnels des Crédits, des Risques/Conformité et des Moyens de Paiement.\nDescription du poste\nVotre futur environnement de travail :\nIntégré(e) au sein de notre Data Factory de plus de 120 Data Ingénieurs, vous contribuez à un projet Big Data, et intervenez en tant que référent technique pour un de nos Grands Comptes.\nVotre rôle et missions :\nA cette occasion vous serez amené(e) à :***Apporter votre expertise et votre expérience à votre équipe lors des phases de conception et développement ;\n* Définir et implémenter des solutions d'ingestion, de préparation, de stockage, de calcul et d'exposition - sur l'ensemble du pipeline de données ;\n* Proposer des idées d'amélioration continue à votre client et à votre équipe - revue de procédures, mise en place de nouveaux outils dans le cadre de livraison, test ou qualimétrie ;\n* Concevoir et développer des solutions complexes ;\n* Industrialisation, mise en place de CI/CD ;\n* Accompagner vos collaborateurs dans leur montée en compétence au sein du projet ;\n* Vous êtes membre actif de la communauté Data Sopra Steria ;\n* Vous maintenez vos compétences en suivant les parcours de certification avec nos partenaires Editeurs et Cloud Provider.\nEnvironnement technique :***Solutions du marché :\n  - ETL/ELT : Datastage, Talend, Informatica, Semarchy\n  - Data Solution : Databricks, Snowflake, Cloudera, BigQuery\nVous maitrisez et êtes certifié(e) sur au moins l'une de ces solutions du marché.***Langages :\n  - PySpark, Spark-Scala, Java-Spark\n  - Python, Shell, SQL\nUne maitrise de ces langages est attendue.\nQualifications\nVotre profil :\nVous aimez travailler en équipe, relever les défis techniques, conseiller et apporter votre valeur ajoutée à une équipe.\nVous savez être challengeant et leader envers le client et l'équipe de développement en ce qui concerne l'amélioration continue (processus de livraison, automatisation du testing/validation, maintenance des bonnes pratiques et performance des runs).\nVous êtes curieux et en veille technologique continue.\nDe formation Bac+5, école d'ingénieur université ou équivalent, vous avez au moins 5 ans d'expérience en Big Data sur les technologies mentionnées ci-dessus.\n#LI-HYBRID #PF\nInformations supplémentaires\n* Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.\n* Un accompagnement individualisé avec un mentor.\n* Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.\n* Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.\n* La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».\n* L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).\nEmployeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, atta",
+    "job_reference": "1733370"
+}, {
+    "source": "France Travail",
+    "job_title": "Ingénieur Big Data (H/F)",
+    "contract_type": "CDI",
+    "salary": null,
+    "company": null,
+    "location": "BORDEAUX 33",
+    "remote": null,
+    "experience": "Expérience exigée de 3 An(s)",
+    "education_level": null,
+    "publication_date": "2025-02-04",
+    "company_data": {
+        "sector": null,
+        "company_size": null,
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/1733299",
+    "description": "Description du poste :\nEn tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums.\nL'entreprise Sopra Steria recherche actuellement des profils :\nDescription de l'entreprise\nSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables.\nLe Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif.\nEn 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape it\nLa division « Services financiers » s'est développée autour des métiers de la banque de détail, de la banque privée et des services financiers spécialisés. Nous participons à la révolution digitale grâce à notre expertise en automatisation des processus, Big Data, IA, Cloud. Nous accompagnons la transformation de nos clients en y associant nos compétences dans les domaines fonctionnels des Crédits, des Risques/Conformité et des Moyens de Paiement.\nDescription du poste\nVotre futur environnement de travail\nIntégré(e) au sein d'une équipe Sopra Steria, pour un de nos Grands Comptes Bancaires, vous participerez à un projet Big Data, en mode Agile, et interviendrez en tant que référent technique au sein de votre équipe.\nVotre rôle et missions :\nA cette occasion vous serez amené à :***Apporter votre expertise et votre expérience à vos collègues lors des phases de conception et développement ;\n* Accompagner vos collègues dans leur montée en compétence technique au sein du projet ;\n* Définir et implémenter des solutions au sein d'un périmètre applicatif existant ;\n* Proposer des idées d'amélioration continue à votre client et à votre équipe (revue de procédures, mise en place de nouveaux outils dans le cadre de livraison, test ou qualimétrie) ;\n* Concevoir et développer des sujets complexes.\nEnvironnement du projet :***Méthodologie projet : Mode Agile (Framework Scrum).\nEnvironnement technique :***Hdfs, hive, spark, oozie\n* Scala, HQL, Shell\n* GitLab, Nexus, Maven, Jenkins, Sonar\nEnvironnement fonctionnel :***Alimentation d'un DataLake jusqu'au build d'un moteur de calcul\n* Intervention sur la mise en place de règles relatives aux normes Bâloises\nQualifications\nDe formation Bac+5 ou équivalent, vous avez au moins 5 ans d'expérience dans la data dont 3 ans en Big Data, notamment sur les technologies mentionnées ci-dessus.\nVous aimez travailler en équipe, relever les défis techniques, conseiller et apporter votre valeur ajoutée à une équipe.\nVous savez être challengeant et leader envers le client et l'équipe de développement en ce qui concerne l'amélioration continue (processus de livraison, automatisation du testing/validation, maintenance des bonnes pratiques et performance des runs).\nVous aimez vous tenir informé des nouveautés technologiques et êtes à la recherche d'une évolution de carrière basée sur l'expérience projet et l'acquisition de nouvelles compétences.\nInformations supplémentaires\n* Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.\n* Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.\n* Un accompagnement individualisé avec un mentor.\n* Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.\n* Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.\n* La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».\n* L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).\nEmployeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.***",
+    "job_reference": "1733299"
+}]
