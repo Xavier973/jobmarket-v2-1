@@ -12,6 +12,7 @@ def create_index():
                 "properties": {
                     "source": {"type": "keyword"},
                     "job_title": {"type": "text"},
+                    "job": {"type": "keyword"},
                     "contract_type": {"type": "keyword"},
                     "salary": {"type": "keyword"},
                     "company": {"type": "keyword"},

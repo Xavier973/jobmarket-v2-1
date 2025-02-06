@@ -44,5 +44,32 @@ services:
     volumes:
       - ./app:/app/app
 
+  francetravail:
+    build:
+      context: ./ETL/Extract/FranceTravail
+      dockerfile: Dockerfile
+    environment: # A définir dans .env
+      - ES_HOST=${ES_HOST}
+      - DATA_RAW_DIR=${DATA_RAW_DIR}
+      - DATA_LOG_DIR=${DATA_LOG_DIR}
+    volumes:
+      # - ./ETL/Extract/FranceTravail/src:/app/src
+      # - ./ETL/Transform:/app/ETL/Transform
+      - ./ETL:/app/ETL
+      - ./data/raw/francetravail:/app/data/raw/francetravail
+      - ./data/transformed/francetravail:/app/data/transformed/francetravail
+      - ./data/logs/francetravail:/app/data/logs/francetravail
+    networks:
+      - default
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    entrypoint: ["tail", "-f", "/dev/null"]
+
+networks:
+  default:
+    name: jobmarket-network
+
 volumes:
   es_data:
+    name: jobmarket_elasticsearch_data

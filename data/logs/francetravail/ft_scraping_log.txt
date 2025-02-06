@@ -1,9 +1,17 @@
-20250129_140939 - Term: data architect - Jobs added: 0
-20250129_140939 - Term: data engineer - Jobs added: 117
-20250129_140939 - Term: data scientist - Jobs added: 41
-20250129_140939 - Term: data analyst - Jobs added: 61
-20250129_140939 - Term: software engineer - Jobs added: 6
-20250129_140939 - Term: cloud architect - Jobs added: 40
-20250129_140939 - Term: solution architect - Jobs added: 8
-20250129_140939 - Term: cloud engineer - Jobs added: 7
-20250129_140939 - Term: big data engineer - Jobs added: 20
+20250206_000811 - Term: data architect - Jobs added: 0 - Status: error - Error: Message: timeout: Timed out receiving message from renderer: -0.003
+20250206_000811 - Term: data engineer - Jobs added: 1000 - Status: success
+20250206_000811 - Term: data scientist - Jobs added: 392 - Status: success
+20250206_000811 - Term: data analyst - Jobs added: 467 - Status: success
+20250206_000811 - Term: software engineer - Jobs added: 108 - Status: success
+20250206_000811 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
+20250206_000811 - Term: Machine Learning Engineer - Jobs added: 15 - Status: success
+20250206_000811 - Term: cloud architect - Jobs added: 555 - Status: success
+20250206_000811 - Term: solution architect - Jobs added: 176 - Status: success
+20250206_000811 - Term: cloud engineer - Jobs added: 79 - Status: success
+20250206_000811 - Term: big data engineer - Jobs added: 98 - Status: success
+20250206_000811 - Term: Data Infrastructure Engineer - Jobs added: 4 - Status: success
+20250206_000811 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250206_000811 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+20250206_000811 - Term: sysops - Jobs added: 63 - Status: success
+20250206_041007 - Term: data architect - Jobs added: 0 - Status: success
+20250206_041244 - Term: data architect - Jobs added: 444 - Status: success

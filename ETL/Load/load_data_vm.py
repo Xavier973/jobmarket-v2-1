@@ -6,7 +6,7 @@ from elasticsearch import Elasticsearch
 # Configuration pour la VM
 ES_HOST = "localhost:9200"
 JOBMARKET_INDEX = "jobmarket"
-DATA_PATH = "/home/ubuntu/JobmarketV2/ETL/data/*.json"
+DATA_PATH = "/home/ubuntu/JobmarketV2/data/transformed/francetravail/*.json"
 
 def get_es_client():
     try:
