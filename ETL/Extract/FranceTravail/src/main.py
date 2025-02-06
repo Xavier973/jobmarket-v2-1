@@ -47,42 +47,45 @@ os.makedirs(json_raw_directory, exist_ok=True)
 os.makedirs(json_transformed_directory, exist_ok=True)
 os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
 
-print("================================================================\n\n")
-print("******* Scraping de France Travail - Projet JobMarket V2.1 *******\n")
-print("================================================================\n")
+print("====================================================================\n")
+print("******* Scraping de France Travail - Projet JobMarket V2.2 *******\n")
+print("====================================================================\n")
 
 # Debug info
-print("\n========== Configuration ==========")
+print("\n================= Configuration =================\n")
 print(f"Dossier de sauvegarde : {json_raw_directory}")
 print(f"Dossier transformé : {json_transformed_directory}")
 print(f"Fichier de log : {log_file_path}")
 print(f"ES_HOST : {os.getenv('ES_HOST')}")
-print("=====================================\n")
+print("==================================================\n")
 
 # List of search terms for web scraping.
 Search_term = [
     "data architect",
-    "data engineer",
-    "data scientist",
-    "data analyst",
-    "software engineer",
-    "Data Warehousing Engineer",
-    "Machine Learning Engineer",
-    "cloud architect",
-    "solution architect",
-    "cloud engineer",
-    "big data engineer",
-    "Data Infrastructure Engineer",
-    "Data Pipeline Engineer",
-    "ETL Developer",
-    "sysops"
+    #"data engineer",
+    #"data scientist",
+    #"data analyst",
+    #"software engineer",
+    #"Data Warehousing Engineer",
+    #"Machine Learning Engineer",
+    #"cloud architect",
+    #"solution architect",
+    #"cloud engineer",
+    #"big data engineer",
+    #"Data Infrastructure Engineer",
+    #"Data Pipeline Engineer",
+    #"ETL Developer",
+    #"sysops"
 ]
 # log function
 def log_scraping_results(log_file_path, term, num_jobs, status="success", error_message=""):
     with open(log_file_path, 'a') as log_file:
         log_entry = f"{time_file} - Term: {term} - Jobs added: {num_jobs} - Status: {status}"
         if error_message:
-            log_entry += f" - Error: {error_message}"
+            # Ne garder que la première ligne du message d'erreur si elle ne contient pas "<unknown>"
+            error_lines = [line for line in error_message.split('\n') if "<unknown>" not in line]
+            if error_lines:
+                log_entry += f" - Error: {error_lines[0]}"
         log_entry += "\n"
         log_file.write(log_entry)
 
@@ -157,7 +160,7 @@ def click_show_more_offers(driver, times_to_click):
         for n in range(times_to_click):
             print("Chargement de la page d'annonces ", n+1, "sur ", times_to_click)
             # Utilisation d'un sélecteur plus précis qui cible le bouton dans la section results-more
-            show_more_button = WebDriverWait(driver, 5).until(
+            show_more_button = WebDriverWait(driver, 10).until(
                 EC.element_to_be_clickable((By.CSS_SELECTOR, "p.results-more.text-center a.btn-primary"))
             )
             show_more_button.click()
@@ -191,7 +194,7 @@ def scraping_and_process(term, driver, collect_all=False):
             if click_result:
                 if clicks_needed != 0:
                     print(f"Bouton 'show more offers' cliqué avec succès {clicks_needed} fois.")
-                print("début de scraping")
+                print("début du scraping")
                 try:
                     offer_elements = driver.find_elements(By.CSS_SELECTOR, 'li.result')
                 except:
@@ -220,8 +223,6 @@ def scraping_and_process(term, driver, collect_all=False):
                         if Company.isdigit():
                             Location += ' ' + Company
                             Company = None
-                        Full_contract_type = offer_element.find_element(By.CSS_SELECTOR, 'div.media-right.media-middle.hidden-xs p.contrat').text
-                        Contract_type = Full_contract_type.split()[0]
                     except:
                         Company = Location = None
                     try:
@@ -331,6 +332,7 @@ def scraping_and_process(term, driver, collect_all=False):
             else:
                 print("Erreur lors du clic sur le bouton.")
                 nb_annonce = 0
+                log_scraping_results(log_file_path, term, nb_annonce, status="error", error_message="Unable to click on the button")
             log_scraping_results(log_file_path, term, nb_annonce)
         elif total_offers is None:
             print(f"{term} - aucune annonce")

@@ -21,8 +21,6 @@ COPY requirements.txt .
 # Installation des dépendances Python
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Création des répertoires nécessaires
-# RUN mkdir -p json_temp
 
 # Définition des variables d'environnement
 ENV PYTHONUNBUFFERED=1

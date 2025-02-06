@@ -224,7 +224,7 @@ def transform_json_file(input_file, output_folder, log_file_path):
                 # entry['title'] = entry.pop('job_title')
 
                 if 'location_raw' in entry:
-                    entry['location'] = process_location(entry['location'], location_dict)
+                    entry['location'] = process_location(entry['location_raw'], location_dict)
                 else:
                     entry['location'] = None
                 """ if "details" not in entry or entry["details"] is None:
