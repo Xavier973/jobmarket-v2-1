@@ -62,20 +62,20 @@ print("==================================================\n")
 # List of search terms for web scraping.
 Search_term = [
     "data architect",
-    #"data engineer",
-    #"data scientist",
-    #"data analyst",
-    #"software engineer",
-    #"Data Warehousing Engineer",
-    #"Machine Learning Engineer",
-    #"cloud architect",
-    #"solution architect",
-    #"cloud engineer",
-    #"big data engineer",
-    #"Data Infrastructure Engineer",
-    #"Data Pipeline Engineer",
-    #"ETL Developer",
-    #"sysops"
+    "data engineer",
+    "data scientist",
+    "data analyst",
+    "software engineer",
+    "Data Warehousing Engineer",
+    "Machine Learning Engineer",
+    "cloud architect",
+    "solution architect",
+    "cloud engineer",
+    "big data engineer",
+    "Data Infrastructure Engineer",
+    "Data Pipeline Engineer",
+    "ETL Developer",
+    "sysops"
 ]
 # log function
 def log_scraping_results(log_file_path, term, num_jobs, status="success", error_message=""):
@@ -218,8 +218,10 @@ def scraping_and_process(term, driver, collect_all=False):
                     try:
                         company_location_element = offer_element.find_element(By.CSS_SELECTOR, 'p.subtext')
                         company_and_location = company_location_element.text.split(' - ')
+                        # La localisation est toujours le dernier élément
+                        Location = company_and_location[-1]
+                        # L'entreprise est le premier élément
                         Company = company_and_location[0]
-                        Location = company_and_location[1]
                         if Company.isdigit():
                             Location += ' ' + Company
                             Company = None
@@ -352,10 +354,11 @@ def scraping_and_process(term, driver, collect_all=False):
             os.path.splitext(os.path.basename(filename))[0] + "_transformed.json"
         )
         
-        # Création du chemin pour le fichier de log de transformation
+        # Génération du nom de fichier log avec timestamp
+        timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         transform_log_path = os.path.join(
             os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail'),
-            'ft_transform_log.txt'
+            f"transform_ft_{timestamp}.txt"
         )
         
         transform_json_file(
