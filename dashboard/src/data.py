@@ -43,7 +43,7 @@ def get_title_options():
         "aggs": {
             "postes": {
                 "terms": {
-                    "field": "job_title.keyword",
+                    "field": "job.keyword",
                     "size": 50
                 }
             }

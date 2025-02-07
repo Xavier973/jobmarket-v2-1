@@ -48,7 +48,7 @@ os.makedirs(json_transformed_directory, exist_ok=True)
 os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
 
 print("====================================================================\n")
-print("******* Scraping de France Travail - Projet JobMarket V2.2 *******\n")
+print("******* Scraping de France Travail - Projet JobMarket V2.2.1 *******\n")
 print("====================================================================\n")
 
 # Debug info
@@ -111,33 +111,74 @@ def get_total_offers(url, collect_all):
     driver.get(url)
     time.sleep(8)
     wait = WebDriverWait(driver, 10)
+    
     #fermeture de la fenetre cookies
     try:
         pe_cookies_element = wait.until(EC.presence_of_element_located((By.TAG_NAME, "pe-cookies")))
-        shadow = driver.execute_script('return arguments[0].shadowRoot', pe_cookies_element) # Obtenir l'ombre DOM
+        shadow = driver.execute_script('return arguments[0].shadowRoot', pe_cookies_element)
         button_inside_shadow = shadow.find_element(By.ID, "pecookies-accept-all")
         button_inside_shadow.click()
         print(" --- cookies fermés ---")
-        time.sleep(10) # ToTest
+        time.sleep(5)
     except Exception as e:
         print("--- Pas de fenetre des cookies - ")
 
     # Click on 'Date de creation' then 'Un jour'
     if not collect_all:
         try:
-            driver.find_element(By.CSS_SELECTOR, "#filter-date-creation").click()
-            time.sleep(3)
-            driver.find_element(By.CSS_SELECTOR, ".radio:nth-child(1) > .control-label").click()
-            time.sleep(3)
-            driver.find_element(By.CSS_SELECTOR, "#btnSubmitDateCreation").click()
-            time.sleep(5)
+            # Attendre que le bouton de filtre soit cliquable
+            filter_button = wait.until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, "#filter-date-creation"))
+            )
+            
+            # Faire défiler jusqu'au bouton
+            driver.execute_script("arguments[0].scrollIntoView(true);", filter_button)
+            time.sleep(5) # ToTest
+            
+            # Essayer de cliquer avec différentes méthodes
+            try:
+                # Méthode 1: Clic normal
+                filter_button.click()
+            except:
+                try:
+                    # Méthode 2: Clic JavaScript
+                    driver.execute_script("arguments[0].click();", filter_button)
+                except:
+                    # Méthode 3: Actions chains
+                    actions = webdriver.ActionChains(driver)
+                    actions.move_to_element(filter_button).click().perform()
+            
+            time.sleep(5) # ToTest
+            
+            # Sélectionner "Un jour"
+            one_day_option = wait.until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, ".radio:nth-child(1) > .control-label"))
+            )
+            driver.execute_script("arguments[0].click();", one_day_option)
+            time.sleep(5) # ToTest
+            
+            # Cliquer sur le bouton de validation
+            submit_button = wait.until(
+                EC.element_to_be_clickable((By.CSS_SELECTOR, "#btnSubmitDateCreation"))
+            )
+            driver.execute_script("arguments[0].click();", submit_button)
+            time.sleep(5) # ToTest
+            
             print("Filtre 'Un jour' selectionné")
+            
         except Exception as e:
+            # Enregistrement de screenshots dans logs/francetravail/screenshots/
+            screenshot_dir = os.path.join(os.getenv('DATA_LOG_DIR'), 'screenshots')
+            os.makedirs(screenshot_dir, exist_ok=True)          
             screenshot_name = f"error_screenshot_{time_file}_{term.replace(' ', '_')}.png"
+            screenshot_path = os.path.join(screenshot_dir, screenshot_name)
+            
             print(f"impossible d'appliquer le filtre 'Un jour' pour '{term}'. Erreur : {e}")
-            print(f"Screenshot sauvegardé : {screenshot_name}")
-            driver.save_screenshot(os.path.join(os.getenv('DATA_LOG_DIR'), screenshot_name))
-        
+            print(f"Screenshot sauvegardé : {screenshot_path}")
+            
+            driver.save_screenshot(screenshot_path)
+            return None
+    
     try:
         # Find the number of job offers for the search term
         if driver.find_elements(By.XPATH, "//div[@id='zoneAfficherListeOffres']//h1[contains(@class, 'title')]"):
@@ -156,18 +197,51 @@ def get_total_offers(url, collect_all):
         return None
 
 def click_show_more_offers(driver, times_to_click):
+    wait = WebDriverWait(driver, 10)
+    max_retries = 3  # Nombre maximum de tentatives par clic
+    
     try:
         for n in range(times_to_click):
-            print("Chargement de la page d'annonces ", n+1, "sur ", times_to_click)
-            # Utilisation d'un sélecteur plus précis qui cible le bouton dans la section results-more
-            show_more_button = WebDriverWait(driver, 10).until(
-                EC.element_to_be_clickable((By.CSS_SELECTOR, "p.results-more.text-center a.btn-primary"))
-            )
-            show_more_button.click()
-            time.sleep(4)
+            print(f"Chargement de la page d'annonces {n+1} sur {times_to_click}")
+            
+            for attempt in range(max_retries):
+                try:
+                    # Attendre que le bouton soit visible et cliquable
+                    show_more_button = wait.until(
+                        EC.element_to_be_clickable((By.CSS_SELECTOR, "p.results-more.text-center a.btn-primary"))
+                    )
+                    
+                    # Faire défiler jusqu'au bouton
+                    driver.execute_script("arguments[0].scrollIntoView(true);", show_more_button)
+                    time.sleep(1)  # Petit délai pour le défilement
+                    
+                    # Tenter le clic avec JavaScript si le clic normal échoue
+                    try:
+                        show_more_button.click()
+                    except:
+                        driver.execute_script("arguments[0].click();", show_more_button)
+                    
+                    # Attendre que la page se mette à jour
+                    time.sleep(4)
+                    
+                    # Vérifier que de nouvelles offres sont chargées
+                    wait.until(
+                        lambda d: len(d.find_elements(By.CSS_SELECTOR, 'li.result')) > (n + 1) * 20
+                    )
+                    
+                    break  # Sortir de la boucle de tentatives si le clic réussit
+                    
+                except Exception as e:
+                    if attempt == max_retries - 1:  # Dernière tentative
+                        print(f"Échec après {max_retries} tentatives pour le clic {n+1}: {str(e)}")
+                        return False
+                    print(f"Tentative {attempt + 1} échouée pour le clic {n+1}, nouvelle tentative...")
+                    time.sleep(2)  # Attendre avant la prochaine tentative
+        
         return True
+        
     except Exception as e:
-        print(f"Une erreur s'est produite lors du clic sur le bouton - Afficher les 20 offres suivantes : {e}")
+        print(f"Erreur lors du chargement des offres: {str(e)}")
         return False
     
 def scraping_and_process(term, driver, collect_all=False):
@@ -366,9 +440,9 @@ def scraping_and_process(term, driver, collect_all=False):
             output_folder=os.path.dirname(output_filename),
             log_file_path=transform_log_path
         )
-        print(f"Nettoyage des données terminé pour {term}")
+        print(f"---> Nettoyage des données terminé pour {term} <---")
     except Exception as e:
-        print(f"Erreur lors du nettoyage des données pour {term}: {e}")
+        print(f"ERREUR lors du nettoyage des données pour {term}: {e}")
 
 if __name__ == "__main__":
     #log_file_path = os.path.join(current_directory, "scraping_log.txt")

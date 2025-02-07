@@ -1,0 +1,2 @@
+FT_20250207_025549_solution architect.json : Aucune correspondance trouvée pour location_raw: SEINE-SAINT-DENIS
+FT_20250207_025549_solution architect.json : Aucune correspondance trouvée pour location_raw: NANTES

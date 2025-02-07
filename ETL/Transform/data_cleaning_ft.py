@@ -111,8 +111,9 @@ def charger_dictionnaire_villes(chemin_fichier):
         print(f"Erreur: Le fichier {chemin_fichier} n'est pas un JSON valide")
         return {}
 
-# Charger le dictionnaire avec le chemin complet
-location_dict = charger_dictionnaire_villes("ETL/Transform/villes_departements.json")
+# Modifier le chargement du dictionnaire
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+location_dict = charger_dictionnaire_villes(os.path.join(SCRIPT_DIR, "villes_departements.json"))
 
 # 📌 Fonction pour convertir une ville en son département
 def process_location(nom_location, location_dict):
@@ -127,11 +128,19 @@ def process_location(nom_location, location_dict):
         
     # Nettoyer la chaîne d'entrée
     nom_location = str(nom_location).strip()
-    print(f"Processing location: {nom_location}")  # Debug print
+    print(f"Processing location: {nom_location}")
+    
+    # Debug: afficher la version normalisée
+    nom_normalise = normaliser_nom_ville(nom_location)
+    print(f"Nom normalisé: {nom_normalise}")
+    
+    # Debug: vérifier si la clé existe dans le dictionnaire
+    print(f"Clés similaires dans le dictionnaire: {[k for k in location_dict.keys() if nom_normalise in k]}")
+    print(f"Valeur dans le dictionnaire: {location_dict.get(nom_normalise)}")
     
     # Si c'est déjà un numéro de département seul
     if re.match(r'^\d{2,3}$', nom_location) or nom_location in ['2A', '2B']:
-        print(f"Found direct department number: {nom_location}")  # Debug print
+        print(f"Found direct department number: {nom_location}")
         return nom_location
     
     # Chercher le pattern (XX) ou (XXX)
