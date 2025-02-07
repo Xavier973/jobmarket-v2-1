@@ -1,0 +1,69 @@
+Transforming France Travail data : 2025-02-07 15:03:22
+--------------------------------------------------
+
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: BILLY-BERCLAU
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: NOISY LE GRAND
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: LA MOTTE SERVOLEX
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data analyst.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: AVARAY
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: BESSINES
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FONTANIL CORNILLON
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: NOISY LE SEC
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: BOURG
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data architect.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: BEGLES
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: CASTELNAU LE LEZ
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: AUXERRE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: CONCHES EN OUCHE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: VILLENEUVE D ASCQ
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: AVARAY
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: BESSINES
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FONTANIL CORNILLON
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: NOISY LE SEC
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: BOURG
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data engineer.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_big data engineer.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: MONTBONNOT ST MARTIN
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: BOULOGNE BILLANCOURT
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: MALAKOFF
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: ISSY LES MOULINEAUX
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: RUNGIS
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: MALAKOFF
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: ISSY LES MOULINEAUX
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: RUNGIS
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_data scientist.json : Aucune correspondance trouvée pour location_raw: EVRY COURCOURONNES
+FT_20250207_025549_cloud architect.json : Aucune correspondance trouvée pour location_raw: BOIS COLOMBES
+FT_20250207_025549_cloud architect.json : Aucune correspondance trouvée pour location_raw: BOIS COLOMBES
+FT_20250207_025549_cloud architect.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_cloud architect.json : Aucune correspondance trouvée pour location_raw: NEUILLY SUR SEINE
+FT_20250207_025549_cloud architect.json : Aucune correspondance trouvée pour location_raw: GUYANCOURT
+FT_20250207_025549_Machine Learning Engineer.json : Aucune correspondance trouvée pour location_raw: RUEIL MALMAISON

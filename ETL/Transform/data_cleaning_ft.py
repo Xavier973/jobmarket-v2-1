@@ -3,6 +3,8 @@ import os
 import json
 import re
 import unicodedata
+from datetime import datetime
+from pathlib import Path
 
 
 # Dictionnaire des métiers
@@ -109,16 +111,63 @@ def charger_dictionnaire_villes(chemin_fichier):
         print(f"Erreur: Le fichier {chemin_fichier} n'est pas un JSON valide")
         return {}
 
-# Charger le dictionnaire avec le chemin complet
-location_dict = charger_dictionnaire_villes("ETL/Transform/villes_departements.json")
+# Modifier le chargement du dictionnaire
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
+location_dict = charger_dictionnaire_villes(os.path.join(SCRIPT_DIR, "villes_departements.json"))
 
 # 📌 Fonction pour convertir une ville en son département
 def process_location(nom_location, location_dict):
-    """ Convertit un nom de ville en son numéro de département, renvoie None si non trouvé. """
+    """ 
+    Convertit une localisation en numéro de département.
+    - Si c'est déjà un numéro de département (XX), le retourne
+    - Si c'est une ville avec un département (VILLE XX), retourne XX
+    - Si c'est un nom de ville ou de département, utilise le dictionnaire
+    """
     if nom_location is None:
         return None
+        
+    # Nettoyer la chaîne d'entrée
+    nom_location = str(nom_location).strip()
+    print(f"Processing location: {nom_location}")
+    
+    # Debug: afficher la version normalisée
     nom_normalise = normaliser_nom_ville(nom_location)
-    return location_dict.get(nom_normalise, None)
+    print(f"Nom normalisé: {nom_normalise}")
+    
+    # Debug: vérifier si la clé existe dans le dictionnaire
+    print(f"Clés similaires dans le dictionnaire: {[k for k in location_dict.keys() if nom_normalise in k]}")
+    print(f"Valeur dans le dictionnaire: {location_dict.get(nom_normalise)}")
+    
+    # Si c'est déjà un numéro de département seul
+    if re.match(r'^\d{2,3}$', nom_location) or nom_location in ['2A', '2B']:
+        print(f"Found direct department number: {nom_location}")
+        return nom_location
+    
+    # Chercher le pattern (XX) ou (XXX)
+    match = re.search(r'\((\d{2,3})\)', nom_location)
+    if match:
+        result = match.group(1)
+        print(f"Found department in parentheses: {result}")  # Debug print
+        return result
+    
+    # Chercher un numéro de département à la fin de la chaîne
+    match = re.search(r'\s(\d{2,3})$', nom_location)
+    if match:
+        result = match.group(1)
+        print(f"Found department at end: {result}")  # Debug print
+        return result
+        
+    # Normaliser le nom pour la recherche dans le dictionnaire des villes
+    nom_normalise = normaliser_nom_ville(nom_location)
+    
+    # Chercher dans le dictionnaire des villes
+    departement = location_dict.get(nom_normalise)
+    if departement is not None:
+        print(f"Found in dictionary: {nom_normalise} -> {departement}")  # Debug print
+        return str(departement)
+    
+    print(f"No match found for: {nom_location}")  # Debug print
+    return None
 
 
 
@@ -225,42 +274,12 @@ def transform_json_file(input_file, output_folder, log_file_path):
 
                 if 'location_raw' in entry:
                     entry['location'] = process_location(entry['location_raw'], location_dict)
+                    # Ajouter un log si location_raw existe mais pas de correspondance trouvée
+                    if entry['location'] is None and entry['location_raw']:
+                        log_file.write(f"{os.path.basename(input_file)} : Aucune correspondance trouvée pour location_raw: {entry['location_raw']}\n")
                 else:
                     entry['location'] = None
-                """ if "details" not in entry or entry["details"] is None:
-                    entry["details"] = {}
-                details = entry["details"]
-                if "job_detail" in entry:
-                    details["JoDetail"] = entry.pop("job_detail")
-                if "contract_type" in entry:
-                    details["TypeContract"] = entry.pop("contract_type")
-                if "salary" in entry:
-                    details["Salary"] = entry.pop("salary")
-                if "education_level" in entry:
-                    details["Level"] = entry.pop("education_level")
-                if "experience" in entry:
-                    details["Experience"] = entry.pop("experience")
-                if "skills" in entry:
-                    del entry["skills"]
-                if "link" not in entry:
-                    entry["link"] = None
-                if "details" in entry and "Experience" in entry["details"] and not isinstance(entry["details"]["Experience"], list):
-                    entry["details"]["Experience"] = [entry["details"]["Experience"]]
-                if "details" in entry and "Experience" in entry["details"]:
-                    experience_list = entry["details"]["Experience"]
-                    cleaned_experience = nettoyer_experience(experience_list)
-                    if isinstance(cleaned_experience, list):
-                        transformed_experience = [process_experience(exp) for exp in cleaned_experience]
-                        entry["details"]["Experience"] = ', '.join(set(exp.lower() for exp in transformed_experience if exp))
-                if "details" in entry:
-                    for key in ["Experience", "TypeContract", "Salary", "Level"]:
-                        if key in entry["details"] and entry["details"][key] == "":
-                            entry["details"][key] = None
-                if "details" in entry:
-                    for key in ["TypeContract", "Salary", "Level"]:
-                        if key in entry["details"]:
-                            entry["details"][key] = transform_list_to_string(entry["details"][key]) """
-                
+                                
                 if "experience_raw" in entry and entry["experience_raw"] is not None:
                     # experience_clean = clean_experience(entry["experience_raw"])
                     #experience_transformed = [transform_list_to_string(exp) for exp in experience_clean]
@@ -292,7 +311,16 @@ if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Transformation des fichiers JSON.")
     parser.add_argument("input_file", type=str, help="Chemin du fichier JSON d'entrée")
     parser.add_argument("output_folder", type=str, help="Chemin du dossier de sortie pour les fichiers JSON transformés")
-    parser.add_argument("log_file", type=str, help="Chemin du fichier de log")
 
     args = parser.parse_args()
-    transform_json_file(args.input_file, args.output_folder, args.log_file)
+    
+    # Utiliser les mêmes variables d'environnement que main.py
+    log_dir = os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail')
+    Path(log_dir).mkdir(parents=True, exist_ok=True)
+    
+    # Génération du nom de fichier log avec timestamp
+    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
+    log_file_path = os.path.join(log_dir, f"transform_ft_{timestamp}.txt")
+    
+    print(f"Création du fichier log: {log_file_path}")
+    transform_json_file(args.input_file, args.output_folder, log_file_path)

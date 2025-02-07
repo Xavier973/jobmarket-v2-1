@@ -1,0 +1,31 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer Maitrisant - BigQuery/SQL/Pipeline (H/F)",
+        "job": "",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "LILLE 59",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": null,
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1844237",
+        "description": "ASFOTEC - Make IT Simple\nNous sommes une entreprise de services numériques Lilloise créée en 2017, à taille humaine et qui met l'humain au centre de sa préoccupation.\nGrâce aux compétences et à l'expérience de notre équipe, nous accompagnons aujourd'hui nos clients grands comptes et PME de la région Lilloise dans leurs défis numériques et nous créons également nos propres solutions BtoB et BtoC dans notre pôle de Recherche et Développement.\nMission :\n* Il est garant de l'accès qualitatif aux sources de données.\n* Il s'assure de la maîtrise de la donnée et est garant de la qualité de son utilisation (référencement, normalisation, et qualification) afin d'en faciliter l'exploitation par les équipes (Data Analysts et Data Scientists).\n* Il contribue également à la définition de la politique de la donnée et à la structuration de son cycle de vie dans le respect des réglementations en vigueur, en collaboration avec le Chief Data Officer.\n* Son périmètre d'intervention est axé sur les systèmes applicatifs autour de la gestion de la donnée et du traitement, et sur les plateformes Big Data, IoT,\n* Il assure la supervision et l'intégration des données de diverse nature qui proviennent de ces sources multiples et vérifie la qualité des données qui entrent dans le Data Lake (il recette de la donnée, supprime les doublons, ).\nSon activité :\nQUALIFICATION ET GESTION DES DONNÉES :\n* Capte les données (structurées et non structurées) produites dans les différentes applications ou à l'extérieur de l'entité\n* Intègre les éléments\n* Structure la donnée (sémantique, etc.)\n* Cartographie les éléments à disposition\n* Nettoie la donnée (élimination des doublons, )\n* Valide la donnée\n* Éventuellement, il crée le référentiel de données\nSES LIVRABLES :\n* Data Lake approprié et partagé et son dimensionnement\n* Cartographie des données\n* Les éléments permettant de garantir la qualité de la donnée\nCompétences techniques :\n* BigQuery - Expert - Impératif\n* BiqQuery, SQL, Pipeline, Data Quality, FinOps - Confirmé - Important\nLien du test : https://candidate.evalil.com/test/673bce6a479e8a95a59714bf\n\"Le passage de ce test est impératif pour l'évaluation de votre profil. Merci pour votre compréhension.\"\nConnaissances linguistiques :\n* Anglais Professionnel (Impératif)\n* Français Professionnel (Impératif)\nLieu : Lille Fr\nA bientôt !\nType d'emploi : Temps plein, CDI\nStatut : Cadre\nAvantages :\n* Intéressement et participation\n* Prise en charge du transport quotidien\n* RTT\n* Travail à domicile occasionnel\nHoraires :\n* Du lundi au vendredi\n* Flextime\n* Période de travail de 8 Heures\nRémunération supplémentaire :\n* Heures supplémentaires majorées\n* Primes\nLieu du poste : Télétravail hybride (Lille)\nDate de début prévue : 06/02/2025",
+        "ft_reference": "1844237"
+    }
+]

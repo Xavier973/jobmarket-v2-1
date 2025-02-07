@@ -120,7 +120,7 @@ def process_location(nom_location, location_dict):
     Convertit une localisation en numéro de département.
     - Si c'est déjà un numéro de département (XX), le retourne
     - Si c'est une ville avec un département (VILLE XX), retourne XX
-    - Si c'est un nom de ville ou département, utilise le dictionnaire
+    - Si c'est un nom de ville ou de département, utilise le dictionnaire
     """
     if nom_location is None:
         return None
