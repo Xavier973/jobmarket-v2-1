@@ -301,11 +301,11 @@ def scraping_and_process(term, driver, collect_all=False):
                             Company = None
                     except:
                         Company = Location = None
-                    try:
-                        Full_contract_type = offer_element.find_element(By.CSS_SELECTOR, 'div.media-right.media-middle.hidden-xs p.contrat').text
-                        Contract_type = Full_contract_type.split()[0]
-                    except:
-                        Contract_type = None
+                    #try:
+                    #    Full_contract_type = offer_element.find_element(By.CSS_SELECTOR, 'div.media-right.media-middle.hidden-xs p.contrat').text
+                    #    Contract_type = Full_contract_type.split()[0]
+                    #except:
+                    #    Contract_type = None
                     try :
                         Date = offer_element.find_element(By.CSS_SELECTOR, 'p.date').text
                         Date = transform_date(Date)
@@ -333,6 +333,13 @@ def scraping_and_process(term, driver, collect_all=False):
                         education_level = driver.find_element(By.CSS_SELECTOR, 'span[itemprop="educationRequirements"].skill-name').text
                     except:
                         education_level = None
+                    try:
+                    # Trouver l'élément span avec le titre "Type de contrat"
+                        contract_element = offer_element.find_element(By.CSS_SELECTOR, 'span[title="Type de contrat"]')
+                        if contract_element:
+                            Contract_type = contract_element.find_element(By.XPATH, "following-sibling::span[@class='sr-only']").text
+                    except:
+                        Contract_type = None
                     try:
                         description = driver.find_element(By.CSS_SELECTOR, 'div.description.col-sm-8.col-md-7').text
                     except:

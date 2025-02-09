@@ -4,20 +4,20 @@ import json
 # Détection du chemin de base en fonction de l'environnement
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))  # Chemin du script actuel
 BASE_PATH = os.path.dirname(os.path.dirname(SCRIPT_DIR))  # Remonte de 2 niveaux
-DATA_FOLDER = os.path.join(BASE_PATH, "data", "transformed", "francetravail")
+DATA_TRANSFORM_FOLDER = os.path.join(BASE_PATH, "data", "transformed", "francetravail")
 
-print(f"📂 Dossier de données : {DATA_FOLDER}")
+print(f"📂 Dossier de données : {DATA_TRANSFORM_FOLDER}")
 
 # Dictionnaire pour stocker les offres uniques basées sur ft_reference
 unique_offers = {}
 duplicate_references = []
 
 # Liste des fichiers JSON à traiter
-json_files = [f for f in os.listdir(DATA_FOLDER) if f.endswith(".json")]
+json_files = [f for f in os.listdir(DATA_TRANSFORM_FOLDER) if f.endswith(".json")]
 
 # Parcours des fichiers JSON
 for json_file in json_files:
-    file_path = os.path.join(DATA_FOLDER, json_file)
+    file_path = os.path.join(DATA_TRANSFORM_FOLDER, json_file)
     
     with open(file_path, "r", encoding="utf-8") as f:
         try:
