@@ -15,7 +15,7 @@ def create_header():
                 [
                     dbc.NavItem(dbc.NavLink("Accueil", href="/", style=nav_link_style, className="nav-link-custom")),
                     dbc.NavItem(dbc.NavLink("Marché de l'emploi", href="/market", style=nav_link_style, className="nav-link-custom")),
-                    dbc.NavItem(dbc.NavLink("Compétences", href="/competences", style=nav_link_style, className="nav-link-custom")),
+                    dbc.NavItem(dbc.NavLink("Compétences", href="/skills", style=nav_link_style, className="nav-link-custom")),
                     dbc.NavItem(dbc.NavLink("Salaires", href="/salaires", style=nav_link_style, className="nav-link-custom")),
                     dbc.NavItem(dbc.NavLink("Offres d'emploi", href="/offres", style=nav_link_style, className="nav-link-custom")),
                 ],

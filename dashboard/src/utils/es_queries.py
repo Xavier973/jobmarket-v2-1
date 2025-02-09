@@ -109,3 +109,125 @@ def get_offers_by_job():
     except Exception as e:
         print(f"Erreur lors de la récupération des offres par job: {e}")
         return [], [] 
+
+def get_offers_by_department():
+    """Récupère la répartition des offres par département"""
+    es = get_es_client()
+    try:
+        result = es.search(
+            index="jobmarket",
+            body={
+                "size": 0,
+                "aggs": {
+                    "departments": {
+                        "terms": {
+                            "field": "location",
+                            "size": 100  # Pour avoir tous les départements
+                        }
+                    }
+                }
+            }
+        )
+        
+        departments = {}
+        for bucket in result['aggregations']['departments']['buckets']:
+            dept_code = bucket['key']
+            count = bucket['doc_count']
+            departments[str(dept_code)] = count
+            
+        return departments
+        
+    except Exception as e:
+        print(f"Erreur lors de la récupération des offres par département: {e}")
+        return {} 
+
+def get_offers_by_contract():
+    """Récupère la répartition des offres par type de contrat"""
+    es = get_es_client()
+    try:
+        result = es.search(
+            index="jobmarket",
+            body={
+                "size": 0,
+                "aggs": {
+                    "contracts": {
+                        "terms": {
+                            "field": "contract_type",
+                            "size": 10
+                        }
+                    }
+                }
+            }
+        )
+        
+        contracts = []
+        counts = []
+        for bucket in result['aggregations']['contracts']['buckets']:
+            contracts.append(bucket['key'])
+            counts.append(bucket['doc_count'])
+            
+        return contracts, counts
+        
+    except Exception as e:
+        print(f"Erreur lors de la récupération des offres par contrat: {e}")
+        return [], [] 
+
+def get_all_skills(selected_job=None):
+    """Récupère toutes les compétences et leurs fréquences avec filtre optionnel par job"""
+    es = get_es_client()
+    skills_categories = [
+        "ProgLanguage", "DataBase", "DataAnalytics", "BigData", 
+        "MachineLearning", "DataSerialization", "DataVisualisation",
+        "Statistics", "CloudComputing", "DevTools", "OS", "DBMS",
+        "SoftBigDataProcessing", "Automation", "InfrastructureAsCode",
+        "NetworkSecurty", "Virtualisation", "Containers", "Collaboration",
+        "Other", "EnSoftSkils"
+    ]
+    
+    try:
+        # Construire la requête
+        query = {
+            "size": 0,
+            "aggs": {
+                category: {
+                    "nested": {
+                        "path": "skills"
+                    },
+                    "aggs": {
+                        f"{category}_values": {
+                            "terms": {
+                                "field": f"skills.{category}",
+                                "size": 50
+                            }
+                        }
+                    }
+                } for category in skills_categories
+            }
+        }
+        
+        # Ajouter le filtre si un job est sélectionné
+        if selected_job and selected_job != 'all':
+            query["query"] = {
+                "term": {
+                    "job": selected_job
+                }
+            }
+        
+        result = es.search(
+            index="jobmarket",
+            body=query
+        )
+        
+        # Structurer les résultats par catégorie
+        categorized_results = {}
+        for category in skills_categories:
+            if category in result['aggregations']:
+                categorized_results[category] = {
+                    'buckets': result['aggregations'][category][f'{category}_values']['buckets']
+                }
+        
+        return {'aggregations': categorized_results}
+        
+    except Exception as e:
+        print(f"Erreur lors de la récupération des compétences: {e}")
+        return {'aggregations': {}} 
