@@ -1,0 +1,97 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Architecte cloud h/f",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "PARIS (DEPT.) 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1996695",
+        "description": "Architecte CLOUD AWS F/H \n\nDescription de poste\n Vous intégrez notre centre d'excellence de prestation de services à Paris spécialisé dans le l'infrastructure et Cloud.\n\nAu sein de nos différents centres, nous proposons à nos clients une approche stratégique de bout en bout, de la définition du projet d'externalisation à sa mise en œuvre. Nous intervenons auprès de grands acteurs dans des domaines variés tels que l'infrastructure, le développement et la maintenance applicative, le support, le testing ou encore le cloud et les ERP.\n\nStack technique / Environnement projet : Architecture, Cloud, AWS \n\n\nFonctions et responsabilités\n En tant qu'architecte cloud, vous aurez pour mission de:\n\n- Concevoir, développer et transformer des solutions cloud sur des périmètres full ou hybride.\n- Connaitre les risques métiers et techniques liés au Cloud et savoir mettre en œuvre les politiques de sécurités et de performances attendues.\n- Suivre les documentations techniques, leurs évolutions et leurs mises en œuvres.\n- Assurer le déploiement, la conformité et la sécurité répondant aux normes avec les équipes techniques.\n- Communiquer les évolutions technologiques au sein de l'organisation et capitaliser en faisant évoluer les normes et standards en vigueur.\n- Accompagner les choix techniques du client dans la gestion de ses projets vers le Cloud avec une approche novatrice et créative.\n- Organiser et contribuer aux comités techniques.\n\nEn rejoignant CGI, vous bénéficiez notamment d'une offre complète de formations (techniques, métiers, développement personnel,.), de flexibilité grâce à notre accord télétravail (jusqu'à 3 jours de télétravail par semaine), d'une politique de congés avantageuse (27 jours de congés payés, RTT, congés ancienneté et enfant malade,.) et d'un package d'avantages intéressant (régime d'achats d'actions, participation, CSE,...). \n\n\nQualités requises pour réussir dans ce rôle\n De formation supérieure Bac+5 option informatique en école d'ingénieurs avec une expérience d'au moins 2 ans pour les juniors et plus de 5 ans pour les profils expérimentés au sein d'une équipe client ou projet dans l'analyse, la spécification, la mise en œuvre ou l'exploitation de solutions cloud.\n\nVous maitrisez les compétences techniques suivantes :\nCloud (AWS, Azure, GCP) : bonne connaissances, expériences et certifications.\nDevops (Terraform, GIT, Ansible, Jenkins, CI/CD) : bonne connaissances, expériences.\nConteneurisation : bonne connaissances.\n\nVous êtes ou vous avez :\n- Bonne communication\n- Sens du service\n- Anglais niveau B2\n\n« CGI est un employeur inclusif et attentif aux candidatures des personnes en situation de handicap, à l'évolution de carrières des hommes et des femmes et au bien-être de nos salariés LGBT+. Dans un souci d'accessibilité et de clarté, le point médian n'est pas utilisé dans cette annonce. Tous les termes employés se réfèrent aussi bien au genre féminin que masculin. » \n\n\n Ensemble, en tant que propriétaires, mettons notre savoir-faire à l'œuvre.\n\nLa vie chez CGI est ancrée dans l'actionnariat, le travail d'équipe, le respect et un sentiment d'appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que. \n\nNous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C'est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l'orientation et à la stratégie de notre entreprise.\n\nVotre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d'une expertise sectorielle et technologique de pointe.  \n\nVous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.\n\nJoignez-vous à nous, l'une des plus importantes entreprises de conseil en technologie de l'information (TI) et en management au monde. \n\n\n\n\n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi.",
+        "ft_reference": "1996695",
+        "skills": {
+            "CloudComputing": [
+                "GCP",
+                "Azure",
+                "AWS"
+            ],
+            "DevTools": [
+                "Git",
+                "Jenkins"
+            ],
+            "Automation": [
+                "Ansible"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud",
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte cloud h/f",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "GRENOBLE 38",
+        "location": "38",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1995636",
+        "description": "Architecte solution F/H \n\nDescription de poste\n Vous rejoignez CGI, leader mondial du conseil et des services numériques à Grenoble et accompagnez nos clients dans le secteur de l'industrie et de la télécommunication.\n\nPartenaires de grands comptes de la région Grenobloise, nos équipes accompagnent nos clients dans des domaines variés tels que l'industrie, l'énergie, les transports, ou les télécommunications offrant ainsi à nos collaborateurs un cadre favorisant l'évolution de chacun dans les métiers du conseil, de l'expertise technique et de la gestion de projet.\n\nStack technique : Java ou .Net / Cloud ou AWS / Angular, Vue, React ou Svelte \n\n\nFonctions et responsabilités\n En tant qu'architecte solution ou d'entreprise, vous intervenez depuis la phase d'avant-vente ou de cadrage jusqu'à l'accompagnement des projets de nos clients. \nSur les projets, vous êtes un acteur clé pour définir les orientations technologiques et sécuriser la production en réduisant les risques techniques.\nPour nos clients, vous êtes un interlocuteur privilégié pour les sujets d'architecture d'applications ou du Système d'Information.\nNos besoins sont multiples et nombreux. Les missions précises dépendront de vos domaines de compétences.\n\nEn rejoignant CGI, vous bénéficiez notamment d'une offre complète de formations/certifications (techniques, métiers, développement personnel,.), de flexibilité grâce à notre accord télétravail (jusqu'à 3 jours de télétravail par semaine), d'une politique de congés avantageuse (27 jours de congés payés, RTT, congés ancienneté et enfant malade,.) et d'un package d'avantages intéressant (régime d'achats d'actions, participation, CSE,...). \n\n\nQualités requises pour réussir dans ce rôle\n De formation Bac+5 en école d'ingénieur ou d'informatique avec une expérience d'au moins 5 ans sur le poste.\n\nVous maitrisez les compétences techniques suivantes : \n- Environnement Java ou .Net\n- Environnement Cloud AWS ou Azure\n- Maîtrise d'une technologie front-end : Angular , Vue, React ou Svelte\n- Définition d'architecture, écriture de dossier d'architecture\n- Des notions d'urbanisation d'un SI / Architecture d'entreprise\n\nVous êtes ou avez les qualités suivantes : \n- Bon communicant / Capacité à convaincre\n- Organisé, rigoureux et précis\n- flexible et dynamique, doté d'une forte orientation vers la satisfaction client et capable de s'adapter efficacement aux évolutions du marché.\n- Anglais : courant\n\n\nCGI est un employeur inclusif et attentif aux candidatures des personnes en situation de handicap, à l'évolution de carrières des hommes et des femmes et au bien-être de nos salariés LGBT+. Dans un souci d'accessibilité et de clarté, le point médian n'est pas utilisé dans cette annonce. Tous les termes employés se réfèrent aussi bien au genre féminin que masculin. » \n\n\n Ensemble, en tant que propriétaires, mettons notre savoir-faire à l'œuvre.\n\nLa vie chez CGI est ancrée dans l'actionnariat, le travail d'équipe, le respect et un sentiment d'appartenance. Chez nous, vous pourrez exploiter votre plein potentiel parce que. \n\nNous vous invitons à devenir propriétaire dès le jour 1 alors que nous travaillons ensemble à faire de notre rêve une réalité. C'est pourquoi nous nous désignons comme associés de CGI, plutôt que comme employés. Nous tirons profit des retombées de notre succès collectif et contribuons activement à l'orientation et à la stratégie de notre entreprise.\n\nVotre travail crée de la valeur. Vous élaborerez des solutions novatrices et développerez des relations durables avec vos collègues et clients, tout en ayant accès à des capacités mondiales pour concrétiser vos idées, saisir de nouvelles opportunités, et bénéficier d'une expertise sectorielle et technologique de pointe.  \n\nVous ferez évoluer votre carrière en vous joignant à une entreprise bâtie pour croître et durer. Vous serez soutenus par des leaders qui ont votre santé et bien-être à cœur et qui vous permettront de saisir des occasions afin de parfaire vos compétences et élargir les horizons.\n\nJoignez-vous à nous, l'une des plus importantes entreprises de conseil en technologie de l'information (TI) et en management au monde. \n\n\n\n\n\nA compétences égales, priorité aux travailleurs handicapés et autres bénéficiaires de l'obligation d'emploi.",
+        "ft_reference": "1995636",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "CloudComputing": [
+                "Azure",
+                "AWS"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    }
+]

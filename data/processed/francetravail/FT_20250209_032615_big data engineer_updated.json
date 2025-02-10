@@ -1,0 +1,55 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer Expérimenté(e) - Databricks & Snowflake - Industrie & Services - Clermont-Ferrand (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "CLERMONT FERRAND 63",
+        "location": "63",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1994508",
+        "description": "Au sein du vertical Industrie & Services de Clermont-Ferrand, nous accompagnons des grandes entreprises dans leurs projets de data.\nNous sommes notamment en charge de créer des nouvelles solutions de data dans le cadre d\\'activités de supply chain ou encore de manufacturing.\nDans ce cadre, nous recrutons des Data Engineer Expérimenté(e) afin d\\'intégrer nos équipes.\nEn rejoignant notre entreprise, vous avez la chance de pogresser à une vistesse remarquable et d\\'avoir un réel impact sur les projets de nos clients.\n \nVotre rôle et vos missions :\nVous remplissez les missions suivantes (non-exhaustif) :\n * Vous êtes participez au développement et à la maintenance de plateformes data ;\n * Vous partagez votre énergie contagieuse et votre passion de l'excellence technique aux équipes ;\n * Vous êtes force de proposition et apportez une vision nouvelle et innovante ;\n * Vous collaborez avec des esprits brillants pour transformer les idées en produits concrets ;\n * Vous brisez les barrières et repoussez les limites de ce qui est possible dans le monde de la data.\nTechnologies : Databricks, Snowflake, Python, PySpark, SQL, Gitlab CI/CD, Azure DevOps, etc.\nVos compétences techniques :\n * Indispensable : vous avez à minima 3 ans d\\'expérience sur des technologies de data \\\"modernes\\\" telles que Databricks ou encore Snowflake par exemple.\n * Indispensable également : vous maîtrisez les outils d\\'industrialisation et / ou d\\'automatisation tels que Gitlab CI/CD, Azure DevOps, etc.\n * Est un \\\"+\\\" : vous connaissez les secteurs de la supply chain et / ou du manufacturing.\n \nVos compétences comportementales :\n * Vous savez rechercher des solutions et faire preuve d\\'initiative :\nVous ne fermez pas les yeux sur les problèmes que vous détectez. Vous alertez et proposez des solutions. Voir même, selon votre séniorité, vous corrigez directement les problèmes.\n * Vous faîtes preuve d\\'ouverture professionnelle :\nVous êtes toujours motivé(e) pour acquérir des nouvelles compétences. Vous n\\'êtes pas dépassé(e) par un nouveau sujet, mais vous prenez bien le temps de vous renseigner afin d\\'être en maîtrise.\n * Vous avez le sens du collectif :\nVous partagez avec transparence, les difficultés que vous rencontrez à vos collègues afin d\\'obtenir de l\\'aide. Vous restez attentif/ve aux besoins de vos collègues afin de les aider lorsque vous êtes légitime pour....",
+        "ft_reference": "1994508",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "Other": [
+                "CI/CD",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    }
+]

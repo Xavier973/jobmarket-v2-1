@@ -2,11 +2,16 @@ import json
 import glob
 import os
 from elasticsearch import Elasticsearch
+import shutil
 
 # Configuration pour le conteneur
 ES_HOST = "elasticsearch:9200"
 JOBMARKET_INDEX = "jobmarket"
-DATA_PATH = "/app/data/transformed/francetravail/*.json"
+# DATA_PATH = "/app/data/transformed/francetravail/*.json"
+SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) 
+BASE_PATH = os.path.dirname(os.path.dirname(SCRIPT_DIR))
+DATA_PROCESSED_FOLDER = os.path.join(BASE_PATH, "data", "processed", "francetravail")
+DATA_TRANSFORM_FOLDER = os.path.join(BASE_PATH, "data", "transformed", "francetravail")
 
 def get_es_client():
     try:
@@ -35,13 +40,15 @@ def load_json_files():
     success_docs = 0
     
     # Parcourir tous les fichiers JSON
-    for file_path in glob.glob(DATA_PATH):
+    for file_path in glob.glob(os.path.join(DATA_TRANSFORM_FOLDER, "*.json")):
         try:
             print(f"\nTraitement du fichier : {os.path.basename(file_path)}")
             
             # Lire le fichier JSON
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
+                
+                file_processed_successfully = True  # Flag pour suivre le succès du traitement
                 
                 # Si le fichier contient une liste
                 if isinstance(data, list):
@@ -56,6 +63,7 @@ def load_json_files():
                                 print(f"Progression : {success_docs}/{total_docs}")
                         except Exception as e:
                             print(f"Erreur lors de l'indexation du document {total_docs}: {e}")
+                            file_processed_successfully = False
                 else:
                     # Si le fichier contient un seul document
                     total_docs += 1
@@ -66,6 +74,18 @@ def load_json_files():
                             print("Document unique indexé avec succès")
                     except Exception as e:
                         print(f"Erreur lors de l'indexation du document: {e}")
+                        file_processed_successfully = False
+                
+                # Déplacer le fichier si le traitement est réussi
+                if file_processed_successfully:
+                    try:
+                        filename = os.path.basename(file_path)
+                        destination = os.path.join(DATA_PROCESSED_FOLDER, filename)
+                        os.makedirs(DATA_PROCESSED_FOLDER, exist_ok=True)
+                        shutil.move(file_path, destination)
+                        print(f"Fichier déplacé vers : {destination}")
+                    except Exception as e:
+                        print(f"Erreur lors du déplacement du fichier : {e}")
                     
         except Exception as e:
             print(f"Erreur lors du traitement du fichier {file_path}: {e}")

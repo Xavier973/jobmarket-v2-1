@@ -4,5 +4,6 @@ requests
 elasticsearch
 plotly
 dash-table
-gunicorn  # Pour le déploiement en production
-python-dotenv  # Pour gérer les variables d'environnement
+gunicorn
+python-dotenv
+dash_bootstrap_components

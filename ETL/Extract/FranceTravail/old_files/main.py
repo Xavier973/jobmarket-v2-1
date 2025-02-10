@@ -20,7 +20,7 @@ import argparse
 import time
 import json
 import os
-from transform import transform_date
+# from transform import transform_date
 from datetime import datetime
 
 start_time = time.time()
@@ -194,7 +194,13 @@ def scraping_and_process(term, driver, collect_all=False):
                 try:
                     company_location_element = offer_element.find_element(By.CSS_SELECTOR, 'p.subtext')
                     company_and_location = company_location_element.text.split(' - ')
+                except:
+                    Company = Location = None
+                try:
                     Company = company_and_location[0]
+                except:
+                    Location = None
+                try:
                     Location = company_and_location[1]
                     if Company.isdigit():
                         Location += ' ' + Company
@@ -202,10 +208,12 @@ def scraping_and_process(term, driver, collect_all=False):
                     Full_contract_type = offer_element.find_element(By.CSS_SELECTOR, 'div.media-right.media-middle.hidden-xs p.contrat').text
                     Contract_type = Full_contract_type.split()[0]
                 except:
-                    Company = Location = None
+                    Location = None
                 try:
-                    Full_contract_type = offer_element.find_element(By.CSS_SELECTOR, 'div.media-right.media-middle.hidden-xs p.contrat').text
-                    Contract_type = Full_contract_type.split()[0]
+                    # Trouver l'élément span avec le titre "Type de contrat"
+                    contract_element = offer_element.find_element(By.CSS_SELECTOR, 'span[title="Type de contrat"]')
+                    if contract_element:
+                        Contract_type = contract_element.find_element(By.XPATH, "following-sibling::span[@class='sr-only']").text
                 except:
                     Contract_type = None
                 try :

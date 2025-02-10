@@ -1,0 +1,59 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Développeur Python / Data scientist H/F",
+        "job": "",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "BORDEAUX 33",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": null,
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": "A propos de Hays Hays, leader mondial du recrutement spécialisé, est expert du recrutement des professionnels qualifiés et compétents à travers le monde. Nous comptons 10 000 salariés dans 253 bureaux à travers 32 pays et 20 divisions. Fort de son développement et de sa croissance, Hays France compte aujourd'hui plus de 1000 salariés répartis au sein de 21 bureaux. En tant qu'entreprise qui place l'humain au premier plan, nous donnons aux personnes talentueuses les moyens d'avancer...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1990893",
+        "description": "Nous recherchons pour notre client, un acteur majeur du secteur bancaire, des Développeurs Python avec des compétences en data science.Vous intégrez une équipe pluridisciplinaire de 8 Développeurs, 1 PO, 1 Scrum master sous la responsabilité d'un Lead développeur.Missions :\nDéveloppement et maintenance : développer, maintenir et améliorer les applications Python existantes.\nAnalyse de données : concevoir et mettre en œuvre des modèles de data science pour répondre aux besoins des utilisateurs.\nTraitement des données : collecter, nettoyer et transformer les données pour les rendre exploitables.\nVisualisation des données : créer des visualisations de données pour aider à la prise de décision.\nCollaboration avec l'équipe de développement : travailler en étroite collaboration avec l'équipe pour concevoir et mettre en place des solutions techniques.\nTests, débogage et documentation : participer activement aux activités de test, de débogage et de documentation pour garantir la qualité du code.\nSécurité et fiabilité : veiller à la sécurité et à la fiabilité des applications en appliquant régulièrement les mises à jour et correctifs nécessaires.\nOptimisation des performances : surveiller les performances des applications et apporter des optimisations lorsque cela est nécessaire.\nVeille technologique : rester informé des dernières tendances et innovations en matière de développement Python et data science.",
+        "ft_reference": "1990893"
+    }
+, {
+    "source": "France Travail",
+    "job_title": "OPERATEUR DEBIT H/F",
+    "job": "",
+    "contract_type": null,
+    "salary": null,
+    "company": null,
+    "location_raw": "THONON LES BAINS 74",
+    "location": null,
+    "remote": null,
+    "experience_raw": "Débutant accepté",
+    "experience": null,
+    "education_level_raw": null,
+    "education_level": null,
+    "publication_date": "2025-02-09",
+    "company_data": {
+        "sector": null,
+        "company_size": "Créé en 2002, Menway couvre l'ensemble des prestations RH pour permettre aux entreprises une gestion optimale de leurs effectifs et accompagner efficacement chaque candidat/salarié dans les différentes étapes de sa vie professionnelle.Acteur majeur de l'emploi en France, Menway Emploi est un trait d'union efficace et dynamique entre tous ceux qui recherchent un travail ou de nouveaux talents.",
+        "creation_date": null,
+        "address": null,
+        "average_age_of_employees": null,
+        "turnover_in_millions": null,
+        "proportion_female": null,
+        "proportion_male": null
+    },
+    "link": "https://candidat.francetravail.fr/offres/recherche/detail/1989670",
+    "description": "Dans une entreprise à taille humaine, vous interviendrez en tant qu'opérateur de débit, vous travaillerez principalement sur de longues barres métalliques.A ce titre, vous prenez en charge les activités suivantes :Préparer les outillages et pièces types nécessaires à la production ;Réaliser le débit matière - découpe- perçage",
+    "ft_reference": "1989670"
+}]
