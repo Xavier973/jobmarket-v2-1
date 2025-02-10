@@ -5,6 +5,7 @@ import dash_bootstrap_components as dbc
 from Page.home import create_home_page
 from Page.market import create_market_page
 from Page.skills import create_skills_page
+from Page.jobs import create_jobs_page
 
 # Initialisation de l'application Dash
 app = dash.Dash(
@@ -32,6 +33,8 @@ def display_page(pathname):
         return create_market_page()
     elif pathname == '/skills':
         return create_skills_page()
+    elif pathname == '/jobs':
+        return create_jobs_page()
     else:  # Page d'accueil par défaut
         return create_home_page()
 

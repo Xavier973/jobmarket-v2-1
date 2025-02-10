@@ -1,0 +1,3 @@
+FT_20250210_042925_data analyst.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250210_042925_data analyst.json : Aucune correspondance trouvée pour location_raw: PROVENCE-ALPES-CÔTE D'AZUR
+FT_20250210_042925_data analyst.json : Aucune correspondance trouvée pour location_raw: LIMONEST

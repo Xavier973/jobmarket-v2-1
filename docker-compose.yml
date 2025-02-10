@@ -58,6 +58,7 @@ services:
       - ./ETL:/app/ETL
       - ./data/raw/francetravail:/app/data/raw/francetravail
       - ./data/transformed/francetravail:/app/data/transformed/francetravail
+      - ./data/processed/francetravail:/app/data/processed/francetravail
       - ./data/logs/francetravail:/app/data/logs/francetravail
     networks:
       - default

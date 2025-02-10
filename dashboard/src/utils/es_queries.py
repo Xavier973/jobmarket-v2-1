@@ -199,7 +199,7 @@ def get_all_skills(job_filter=None):
                 category: {
                     "terms": {
                         "field": f"skills.{category}",
-                        "size": 50
+                        "size": 25
                     }
                 } for category in skills_categories
             }

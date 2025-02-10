@@ -2,6 +2,7 @@ import json
 import glob
 import os
 from elasticsearch import Elasticsearch
+import shutil
 
 # Configuration pour le conteneur
 ES_HOST = "elasticsearch:9200"
@@ -77,11 +78,14 @@ def load_json_files():
                 
                 # Déplacer le fichier si le traitement est réussi
                 if file_processed_successfully:
-                    filename = os.path.basename(file_path)
-                    destination = os.path.join(DATA_PROCESSED_FOLDER, filename)
-                    os.makedirs(DATA_PROCESSED_FOLDER, exist_ok=True)  # Créer le dossier s'il n'existe pas
-                    os.rename(file_path, destination)
-                    print(f"Fichier déplacé vers : {destination}")
+                    try:
+                        filename = os.path.basename(file_path)
+                        destination = os.path.join(DATA_PROCESSED_FOLDER, filename)
+                        os.makedirs(DATA_PROCESSED_FOLDER, exist_ok=True)
+                        shutil.move(file_path, destination)
+                        print(f"Fichier déplacé vers : {destination}")
+                    except Exception as e:
+                        print(f"Erreur lors du déplacement du fichier : {e}")
                     
         except Exception as e:
             print(f"Erreur lors du traitement du fichier {file_path}: {e}")
