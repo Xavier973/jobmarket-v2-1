@@ -5,6 +5,7 @@ import dash_bootstrap_components as dbc
 from Page.home import create_home_page
 from Page.market import create_market_page
 from Page.skills import create_skills_page
+
 # Initialisation de l'application Dash
 app = dash.Dash(
     __name__, 

@@ -208,30 +208,27 @@ def create_department_map():
         style={'height': '600px'}
     )
 
-def create_wordcloud():
-    """Création du nuage de mots des compétences"""
+def create_wordcloud(job_filter=None):
+    """Création du nuage de mots des compétences avec filtre optionnel par métier"""
     import plotly.graph_objects as go
     from random import randint
     
-    # Récupérer les données
-    skills_count = get_all_skills()
+    # Récupérer les données avec le filtre
+    skills_count = get_all_skills(job_filter)
     
-    # Normaliser les tailles des mots (entre 15 et 50)
-    max_count = max(skills_count.values())
-    min_count = min(skills_count.values())
+    # Le reste de la fonction reste identique
+    max_count = max(skills_count.values()) if skills_count else 1
+    min_count = min(skills_count.values()) if skills_count else 0
     
     def normalize_size(count):
-        return 15 + ((count - min_count) * 35) / (max_count - min_count)
+        return 15 + ((count - min_count) * 35) / (max_count - min_count) if max_count != min_count else 25
     
-    # Créer les traces pour chaque mot
     words = list(skills_count.keys())
     counts = list(skills_count.values())
     
-    # Générer des positions aléatoires pour chaque mot
     x_positions = [randint(-50, 50) for _ in words]
     y_positions = [randint(-50, 50) for _ in words]
     
-    # Créer le graphique
     trace = go.Scatter(
         x=x_positions,
         y=y_positions,
@@ -261,94 +258,4 @@ def create_wordcloud():
             'layout': layout
         },
         style={'height': '600px'}
-    )
-
-def create_skills_by_category(selected_job=None):
-    """Création des graphiques de compétences par catégorie avec filtre optionnel"""
-    import plotly.graph_objects as go
-    from plotly.subplots import make_subplots
-    
-    # Définition des catégories principales et leurs titres en français
-    categories = {
-        "ProgLanguage": "Langages de Programmation",
-        "DataBase": "Bases de Données",
-        "DataAnalytics": "Analyse de Données",
-        "BigData": "Big Data",
-        "MachineLearning": "Machine Learning",
-        "CloudComputing": "Cloud Computing",
-        "DevTools": "Outils de Développement",
-        "Containers": "Conteneurisation",
-        "Collaboration": "Collaboration",
-        "EnSoftSkils": "Soft Skills"
-    }
-    
-    # Récupérer les données avec le filtre
-    result = get_all_skills(selected_job)
-    
-    # Créer un subplot pour chaque catégorie
-    fig = make_subplots(
-        rows=len(categories), 
-        cols=1,
-        subplot_titles=list(categories.values()),
-        vertical_spacing=0.03
-    )
-    
-    row = 1
-    for category, title in categories.items():
-        # Filtrer les compétences pour cette catégorie
-        if category in result['aggregations']:
-            skills_data = {
-                bucket['key']: bucket['doc_count']
-                for bucket in result['aggregations'][category]['buckets']
-            }
-            
-            if skills_data:
-                # Trier par nombre d'occurrences
-                sorted_skills = dict(sorted(skills_data.items(), 
-                                         key=lambda x: x[1], 
-                                         reverse=True)[:10])
-                
-                fig.add_trace(
-                    go.Bar(
-                        x=list(sorted_skills.keys()),
-                        y=list(sorted_skills.values()),
-                        name=title,
-                        hovertemplate="<b>%{x}</b><br>" +
-                                    "Nombre d'offres: %{y}<br>" +
-                                    "<extra></extra>",
-                        marker_color='#1f77b4'
-                    ),
-                    row=row, 
-                    col=1
-                )
-                
-                # Personnaliser l'axe Y
-                fig.update_yaxes(title_text="Nombre d'offres", row=row)
-        
-        row += 1
-    
-    # Créer le titre avec le filtre sélectionné
-    title_suffix = f" pour {selected_job}" if selected_job and selected_job != 'all' else ""
-    
-    # Mise à jour du layout global
-    fig.update_layout(
-        height=250 * len(categories),
-        showlegend=False,
-        margin={'l': 50, 'r': 20, 't': 50, 'b': 20},
-        title={
-            'text': f"Top 10 des compétences les plus demandées{title_suffix}",
-            'y': 0.99,
-            'x': 0.5,
-            'xanchor': 'center',
-            'yanchor': 'top'
-        }
-    )
-    
-    # Rotation des labels sur l'axe X pour une meilleure lisibilité
-    fig.update_xaxes(tickangle=45)
-    
-    return dcc.Graph(
-        id='skills-by-category',
-        figure=fig,
-        style={'height': f'{250 * len(categories)}px'}
     )

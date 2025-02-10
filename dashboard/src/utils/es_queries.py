@@ -172,8 +172,8 @@ def get_offers_by_contract():
         print(f"Erreur lors de la récupération des offres par contrat: {e}")
         return [], [] 
 
-def get_all_skills(selected_job=None):
-    """Récupère toutes les compétences et leurs fréquences avec filtre optionnel par job"""
+def get_all_skills(job_filter=None):
+    """Récupère toutes les compétences et leurs fréquences avec filtre optionnel par métier"""
     es = get_es_client()
     skills_categories = [
         "ProgLanguage", "DataBase", "DataAnalytics", "BigData", 
@@ -185,49 +185,39 @@ def get_all_skills(selected_job=None):
     ]
     
     try:
-        # Construire la requête
+        # Construire la requête avec filtre optionnel
         query = {
             "size": 0,
+            "query": {
+                "match_all": {}
+            } if job_filter is None else {
+                "term": {
+                    "job": job_filter
+                }
+            },
             "aggs": {
                 category: {
-                    "nested": {
-                        "path": "skills"
-                    },
-                    "aggs": {
-                        f"{category}_values": {
-                            "terms": {
-                                "field": f"skills.{category}",
-                                "size": 50
-                            }
-                        }
+                    "terms": {
+                        "field": f"skills.{category}",
+                        "size": 50
                     }
                 } for category in skills_categories
             }
         }
         
-        # Ajouter le filtre si un job est sélectionné
-        if selected_job and selected_job != 'all':
-            query["query"] = {
-                "term": {
-                    "job": selected_job
-                }
-            }
+        result = es.search(index="jobmarket", body=query)
         
-        result = es.search(
-            index="jobmarket",
-            body=query
-        )
-        
-        # Structurer les résultats par catégorie
-        categorized_results = {}
+        # Le reste de la fonction reste identique
+        skills_count = {}
         for category in skills_categories:
             if category in result['aggregations']:
-                categorized_results[category] = {
-                    'buckets': result['aggregations'][category][f'{category}_values']['buckets']
-                }
+                for bucket in result['aggregations'][category]['buckets']:
+                    skill = bucket['key']
+                    count = bucket['doc_count']
+                    skills_count[skill] = skills_count.get(skill, 0) + count
         
-        return {'aggregations': categorized_results}
+        return skills_count
         
     except Exception as e:
         print(f"Erreur lors de la récupération des compétences: {e}")
-        return {'aggregations': {}} 
+        return {}
