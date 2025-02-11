@@ -29,7 +29,7 @@ services:
       interval: 30s
       timeout: 10s
       retries: 3
-
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
   dash:
     build:
       context: .
@@ -43,6 +43,7 @@ services:
         condition: service_healthy
     volumes:
       - ./dashboard:/app/dashboard
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
 
   francetravail:
     build:
@@ -66,6 +67,7 @@ services:
       elasticsearch:
         condition: service_healthy
     entrypoint: ["tail", "-f", "/dev/null"]
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
 
 networks:
   default:
