@@ -7,7 +7,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "CAPGEMINI SERVICE ",
         "location_raw": "AIX EN PROVENCE",
-        "location": null,
+        "location": 13,
         "remote": null,
         "experience_raw": "Expérience exigée de 7 An(s)",
         "experience": "7 an(s)",
