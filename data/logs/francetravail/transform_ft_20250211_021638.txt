@@ -1,0 +1,2 @@
+FT_20250211_021548_data architect.json : Aucune correspondance trouvée pour location_raw: AIX EN PROVENCE
+FT_20250211_021548_data architect.json : Aucune correspondance trouvée pour location_raw: CLERMONT FERRAND
