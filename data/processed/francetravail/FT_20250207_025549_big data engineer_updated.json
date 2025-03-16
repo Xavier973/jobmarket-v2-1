@@ -70,9 +70,9 @@
         "ft_reference": "1851951",
         "skills": {
             "ProgLanguage": [
-                "Scala",
+                "Java",
                 "Python",
-                "Java"
+                "Scala"
             ],
             "DataBase": [
                 "SQL"
@@ -87,8 +87,8 @@
             ],
             "Other": [
                 "Cloud",
-                "CI/CD",
-                "Big Data"
+                "Big Data",
+                "CI/CD"
             ]
         }
     },
@@ -387,6 +387,43 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Architecte BI Data H/F",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "LE MANS 72",
+        "location": "72",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": "Nos missions :\nMichael Page recrute des cadres confirmés en CDI et CDD grâce à l'expertise de consultants répartis au sein de 17 divisions spécialisées : Achats & Logistique, Assurance, Audit, Conseil & Expertise, Banque, Commercial, Digital, Médias & Communication, Distribution & Commerce, Finance & Comptabilité, Hôtellerie & Tourisme, Immobilier & Construction, Ingénieurs, Juridique & Fiscal, Marketing, Public & Parapublic, Ressources Humaines, Santé et Systèmes d'Informat...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1852636",
+        "description": "Le client est un acteur majeur dans le secteur des services à la personne en France. Fort d'une longue expérience et d'une solide réputation, cette entreprise s'est spécialisée dans l'accompagnement quotidien des familles et des individus, offrant une gamme complète de services allant de l'aide à domicile au soutien de leurs clients.\nL'entreprise se distingue par son engagement en faveur de la qualité de vie et du bien-être de ses clients, tout en plaçant l'innovation au cœur de sa stratégie. Elle investit activement dans la transformation numérique pour améliorer l'efficacité de ses opérations et offrir des solutions modernes adaptées aux besoins de ses usagers.En tant qu'Architecte BI/Data, vos missions seront les suivantes :\nSpécification et Choix des Composants Techniques : Élaborer l'architecture technique et fonctionnelle du SI en intégrant des composants logiciels, bases de données, et développements spécifiques\nConception de l'Architecture Data : Travailler sur la plateforme Data pour intégrer diverses sources de données et les intégrer dans une structure unifiée et modélisée (Data Vault)\nIntégration et Validation : Effectuer des tests et recettes avant la mise en production\nSuivi et Review de Code : Superviser le développement des solutions et valider la review du code\nOptimisation des Processus : Participer à l'amélioration des processus de ticketing, notamment en vue de la révision de l'outil Freshservice l'année prochaine, et s'assurer de l'application des bonnes pratiques\nCollaboration avec les Métiers et Support Inter-filiales : Fournir un support aux filiales utilisant différents outils (ex : PowerBI) et collaborer étroitement avec les équipes en Tunisie et en France pour garantir l'uniformité des solutions\nOptimisation et Evolution de l'Architecture\n&nbsp;\nTélétravail : Jusqu'à deux jours par semaine\nEnvironnement Technique : Travail au sein d'une équipe dynamique, sous la supervision de l'Architecte Logiciel, dans un environnement technique axé sur le Cloud et les solutions Data.",
+        "ft_reference": "1852636",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Ingénieur Data Confirmé - Services Financiers - Bordeaux (H/F)",
         "job": "data engineer",
         "contract_type": "CDI",
@@ -471,17 +508,17 @@
         "ft_reference": "1848944",
         "skills": {
             "DataBase": [
-                "NoSQL",
-                "MongoDB",
                 "Cassandra",
-                "Neo4j"
+                "NoSQL",
+                "Neo4j",
+                "MongoDB"
             ],
             "BigData": [
                 "Spark"
             ],
             "SoftBigDataProcessing": [
-                "Apache Kafka",
-                "Cassandra"
+                "Cassandra",
+                "Apache Kafka"
             ],
             "Other": [
                 "Cloud",

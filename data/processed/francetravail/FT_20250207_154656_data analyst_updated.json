@@ -368,8 +368,8 @@
                 "NumPy"
             ],
             "DataVisualisation": [
-                "Matplotlib",
-                "Plotly"
+                "Plotly",
+                "Matplotlib"
             ],
             "DevTools": [
                 "Git"
@@ -391,7 +391,7 @@
         "salary": null,
         "company": "SODIAAL",
         "location_raw": "PARIS 14",
-        "location": "14",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience souhaitée de 1 An(s)",
         "experience": "1 an(s)",
@@ -615,8 +615,8 @@
             ],
             "DBMS": [
                 "BigQuery",
-                "SQL Server",
-                "Snowflake"
+                "Snowflake",
+                "SQL Server"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -665,7 +665,7 @@
         "salary": null,
         "company": "PROPULSE IT ",
         "location_raw": "PARIS 01",
-        "location": "01",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience souhaitée de 1 An(s)",
         "experience": "1 an(s)",
@@ -745,7 +745,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "GROUPE ALLIANCE ",
         "location_raw": "PARIS 09",
-        "location": "09",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -813,8 +813,8 @@
                 "Azure"
             ],
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ]
         }
     },
@@ -858,8 +858,8 @@
                 "Google Cloud Platform"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -992,12 +992,12 @@
                 "Snowflake"
             ],
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
-                "Statistiques",
-                "Machine Learning"
+                "Machine Learning",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1042,7 +1042,7 @@
         "salary": "Salaire brut : Annuel de 45000.0 Euros à 55000.0 Euros sur 12.0 mois",
         "company": "LUCKY CART ",
         "location_raw": "PARIS 02",
-        "location": "02",
+        "location": "75",
         "remote": null,
         "experience_raw": "3 An(s)",
         "experience": "3 an(s)",
@@ -1065,9 +1065,9 @@
         "skills": {
             "ProgLanguage": [
                 "Python",
+                "Java",
                 "Scala",
-                "R",
-                "Java"
+                "R"
             ],
             "DataBase": [
                 "SQL",
@@ -1077,21 +1077,21 @@
                 "R"
             ],
             "BigData": [
-                "Spark",
-                "Hadoop"
+                "Hadoop",
+                "Spark"
             ],
             "DataVisualisation": [
                 "Tableau"
             ],
             "CloudComputing": [
-                "Azure",
+                "AWS",
                 "GCP",
-                "AWS"
+                "Azure"
             ],
             "Other": [
-                "Statistiques",
+                "Big Data",
                 "Cloud",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -1173,15 +1173,15 @@
                 "Python"
             ],
             "DataBase": [
-                "HBase",
-                "SQL"
+                "SQL",
+                "HBase"
             ],
             "DataAnalytics": [
                 "Pandas"
             ],
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "MachineLearning": [
                 "Scikit-Learn"
@@ -1206,9 +1206,9 @@
                 "Docker"
             ],
             "Other": [
-                "CI/CD",
                 "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -1224,7 +1224,7 @@
         "salary": "Salaire brut : Annuel de 45000.0 Euros à 55000.0 Euros sur 12.0 mois",
         "company": "EUKLID ",
         "location_raw": "PARIS 02",
-        "location": "02",
+        "location": "75",
         "remote": null,
         "experience_raw": "5 An(s)",
         "experience": "5 an(s)",
@@ -1340,11 +1340,55 @@
                 "Tableau"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Expert Power BI (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 35000.0 Euros à 70000.0 Euros sur 12.0 mois",
+        "company": "PREREQUIS ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "7 An(s)",
+        "experience": "7 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "0 salarié (n'ayant pas d'effectif au 31/12 mais ayant employé des salariés au cours de l'année de référence)",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187SLCG",
+        "description": "Votre mission :\n\nVous participerez à la mise en place de solutions basées sur l'outil POWER BI dans divers domaines et secteurs d'activité (Finance, RH, Retail, BTP, etc.) ;\nVous contribuerez au développement de PREREQUIS en renforçant l'expertise Power BI, en acquérant de nouvelles compétences et en prenant part à la vie de l'entreprise.\n\nVotre profil :\n\nVous avez acquis depuis au moins 4 ans des compétences techniques et fonctionnelles autour de l'outil Power BI / Suite Microsoft (SSRS, SSIS,  ) , dans un cabinet de conseil, une ESN ou chez un client final de cet outil ;\nUne maitrise technique et fonctionnelle de Power BI, DAX, appels API et des architectures de flux de données AZURE ;\nUne expérience antérieure d'un ou plusieurs composants de la suite Microsoft (SSIS, SSAS, SSRS, SQL Server) (optionnel) ;\nUne connaissance d'un ou plusieurs domaines d'activité de l'entreprise : achats, finance, logistique, retail, BTP, banques, etc ;\nUne compréhension globale d'un projet de déploiement / migration BI (la connaissance d'autres outils BI du marché serait un plus : Microstrategy, Tableau, etc.) ;\nUne capacité à rédiger : des spécifications techniques et fonctionnelles, des plans de test liés aux spécifications réalisées ;\nÊtre capable de réaliser les tests / valider les projets réalisés.",
+        "ft_reference": "187SLCG",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Power BI",
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DBMS": [
+                "SQL Server"
             ]
         }
     },
@@ -1459,7 +1503,7 @@
         "salary": "Salaire brut : Selon expérience",
         "company": "55 SAS ",
         "location_raw": "PARIS 09",
-        "location": "09",
+        "location": "75",
         "remote": null,
         "experience_raw": "Débutant accepté",
         "experience": "débutant accepté",
@@ -1482,6 +1526,244 @@
         "skills": {
             "EnSoftSkils": [
                 "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Analyst Senior (H/F)",
+        "job": "data analyst",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 52000,00 Euros à 58000,00 Euros",
+        "company": "ANAFI CONSULTING ",
+        "location_raw": "TOURS",
+        "location": "37",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1916694",
+        "description": "Projets : Domaine Réglementaire\nLieu de prestation : Tours, 6ere semaine en 100% présentiel\nPrestations attendues :\nNotre client est une mutuelle de santé prévoyance soumise à un cadre réglementaire exigeant, notamment en matière de lutte anti-blanchiment de capitaux et financement du terrorisme (LCB-FT), de lutte contre la fraude (LAF), de qualité des données dans le cadre de Solvabilité 2, de purge des données RGPD et bien d'autres sujets tels que gel des avoirs, Ficovie, Pasrau, Eckert. Dans ce contexte, nous recherchons une personne expérimentée pour renforcer notre service data et nous accompagner dans la gestion de ces enjeux réglementaires, tant sur des volets build que run : \n- Production d'analyses et diagnostics à destination des métiers : évaluer l'existant en matière de données, d'outils et de processus,\n- Superviser les traitements du run réglementaire, en assurer la veille, la gestion des incidents et la communication associée,\n- Traitement de données sur diverses sources (outils: cf périmètre d'intervention)\n- Compréhension des enjeux métiers,\n- Documentation,\n- Conception et mise en œuvre de solutions : proposer et mettre en œuvre des solutions techniques et organisationnelles adaptées aux spécificités de notre mutuelle et à nos obligations réglementaires,\n- Gestion des données : mettre en place des procédures de collecte, de stockage, de traitement et de sécurisation des données, en conformité avec les réglementations en vigueur (RGPD, etc.), et en tenant compte des exigences spécifiques de chaque domaine (qualité des données pour Solvabilité 2, purge pour RGPD, etc.). \n- Faire preuve de qualités relationnelles et de communication pour faciliter la collaboration avec nos équipes.\n- Posséder les compétences techniques nécessaires pour concevoir, mettre en œuvre et maintenir les solutions proposées\n- Idéalement, une expérience significative dans le secteur de la santé ou de la prévoyance.\n- Etre en mesure d'appréhender et comprendre les contraintes des interlocuteurs de la Direction des Risques.\nLivrables attendus :\n- Spécifications, \n- Développements d'extractions,\n- Documentation des travaux réalisés\n- Analyse et correction d'incidents\nCommunication adaptée et réactivité\nPérimètre de l'intervention :\nLes technologies à utiliser seront particulièrement Dataiku, SqlDeveloper, DBvisualizer (Connaissance impérative de SQL).",
+        "ft_reference": "1916694",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Analyst (H/F)",
+        "job": "data analyst",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "NORD ",
+        "location_raw": "LILLE",
+        "location": "59",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "Qui sommes-nous ? \nACENSI-NORD accompagne ses clients dans la gestion de leur projet IT. Nous sommes une entreprise innovante, qui aide ses collaborateurs à évoluer et monter en compétences. Notre équipe travaille sur des projets excitants et à la pointe de la technologie, offrant ainsi un environnement stimulant et propice au développement professionnel.\nPour vous raconter notre histoire, ACENSI NORD fait partie intégrante du Groupe ACENSI, fondé en 2003 et présent dans ...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1916426",
+        "description": "CONTEXTE DE LA MISSION :\n- Analyser les besoins et optimiser les données publiées dans BigQuery.\n- Concevoir et implémenter des dashboards corporate pour une visualisation efficace des données.\n- Vulgariser et documenter les usages pour accompagner les utilisateurs.\n- Gérer le reporting direct depuis ServiceNow à l'aide d'outils de datavisualisation corporate.\nENVIRONNEMENT TECHNIQUE :\n- Base de données & Cloud : BigQuery, GCP \n- Datavisualisation: Tableau, Looker, PowerBI\n- Reporting: ServiceNow\n- Langages & outils de manipulation des données : SQL, Python\n- Notions en Documentation & Vulgarisation : Confluence, Notion ou SharePoint \nLieu : Villeneuve d'Ascq \nType de contrat : CDI\nSalaire : À négocier selon l'expérience \nExpérience : 6 ans minimum sur un type de poste\nVOTRE PROFIL :\n- Expérience confirmée en analyse et visualisation de données.\n- Maîtrise de BigQuery et des outils de dataviz\n- Capacité à rendre les données accessibles et compréhensibles pour les utilisateurs.\n- Expérience confirmée avec ServiceNow\n✨ Avantages :\nLe savoir-faire de nos 1650 collaborateurs passionnés et notre expertise dans les domaines d'activité de nos clients. À l'international (USA, Canada, Europe et Île Maurice) et en France, nous façonnons un numérique conscient. \nRejoindre ACENSI-NORD c'est : \n- Plonger dans l'univers d'une entreprise engagée et dotée d'une démarche RSE collective et participative, attachée à des valeurs environnementales, d'inclusion et de diversité (Ecovadis niveau Gold, Course Odysséa, Women in IT.). \n- Bénéficier dès votre arrivée d'un accompagnement sur-mesure et de formations pour développer votre expertise et vous certifier. \n- Vous lancer dans une aventure professionnelle, supervisé(e) par nos tribus d'experts et votre manager. \n- Intégrer un groupe soucieux de votre épanouissement et de votre équilibre vie privée - vie professionnelle. \n- Faire partie d'une entreprise à votre écoute qui vous accompagne pour mener à bien des projets variés (environnementaux, associatifs, humanitaires). \nAutres avantages : Participation, RTT, Tickets restaurants , prise en charge de 50% des titres de transports, mutuelle d'entreprise",
+        "ft_reference": "1916426",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "GCP"
+            ],
+            "DBMS": [
+                "BigQuery"
+            ],
+            "Collaboration": [
+                "Confluence"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer/Analyst SENIOR (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "ENOVA CONSULTING ",
+        "location_raw": "CHARENTON LE PONT",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "Fondé à Genève en 2018, Enova Group offre des services informatiques en Suisse, au Luxembourg, en France et prochainement à Monaco. Spécialisé en conseil stratégique numérique, performance opérationnelle et technologies de l'information. Nous nous concentrons sur les compétences IT les plus recherchées et la gestion complète de projets.\nNotre expertise holistique nous permet d'accompagner efficacement nos clients dans leurs projets, en cultivant des partenariats solides et e...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1915944",
+        "description": "Les principales missions consistent à : \n- produire des analyses permettant de construire des visions enrichies du marché, des tendances/benchmark pour aider la prise de décisions et favoriser les initiatives sur les axes stratégiques majeurs. \n- construire des algorithmes, élaborer des modèles prédictifs permettant d'anticiper des tendances relatives à l'activité des paiements ou d'améliorer significativement certains processus de production et commerciaux. \n- d'alimenter et d'assister les équipes métiers en données de paiement et clients permettant de mener les analyses, \n- de générer et diffuser des reportings et des états Power BI aux équipes métiers, aux établissements du Groupe et aux régulateurs nationaux et européens \n- être force de proposition sur les méthodes / techniques à mettre en place pour répondre aux demandes d'études.\nLe consultant sera également en charge de modéliser ses résultats d'analyse pour les rendre lisibles et exploitables par les managers. Il participe à la collecte, à la transformation et à la gestion des données pour en assurer l'intégrité, la sécurité et la qualité dans le cadre de la gouvernance Data du Groupe. \nEnvironnement technique:\n- Environnements et outils de Google Cloud Platform : \n- BigQuery, \n- Airflow, \n- Vertex Ai/Notebook Jupyter \n- Langages : SQL, Python (Pandas, Scikit learn) \n- Delivery : Git \n- Connaissance approfondie du Data Engineering fortement appréciée\n- Une expérience similaire est requis.6 ans Minimum \n- Compétences métiers en moyens de paiements appréciées\n- Rigueur dans le développement, les stratégies de recette et de qualification de ses travaux\n- Méthodologies : Scrum, Kanban, SAFe \n- Maitrise des méthodes agiles et des rituels associés.\n- Capacité à gérer plusieurs sujets en même temps et de travailler en équipe.",
+        "ft_reference": "1915944",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "Pandas"
+            ],
+            "DataVisualisation": [
+                "Power BI"
+            ],
+            "CloudComputing": [
+                "Google Cloud Platform"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "DBMS": [
+                "BigQuery"
+            ],
+            "Automation": [
+                "Airflow"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data analyst - Département Santé F/H - Système, réseaux, données (H/F)",
+        "job": "data analyst",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "AKKODIS TALENT ",
+        "location_raw": "MONTIGNY LE BRETONNEUX",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 3 An(s)",
+        "experience": "3 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "Akkodis Talent est la ligne de service d'Akkodis en France qui combine tout le savoir-faire en termes de recrutement du groupe Adecco avec l'expertise technologique d'Akkodis. Les équipes d'Akkodis Talent répondent aux enjeux RH de leurs clients en les accompagnant sur leurs projets de recrutement temporaire via l'intérim ou CDD, ou permanents via des recrutements en CDI.\n \n ",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1913329",
+        "description": "Descriptif du poste:\n\nLa ligne de service Akkodis Talent recrute pour son client un(e) Data Analyst en CDI à Montigny-Le-Bretonneux.\nNotre client, un leader mondial dans la conception, la fabrication et la distribution de verres, de montures et de lunettes de soleil, offre à ses partenaires dans plus de 150 pays l'accès à une plateforme mondiale d'équipements de santé visuelle de haute qualité. Rejoignez leur communauté mondiale pour participer à la transformation de leur industrie !\nEn tant que Data Analyst, voici vos missions :\n* Garantir le contrôle de chaque étape métier du département Santé.\n* Identifier les problèmes de recouvrement et proposer des pistes de gestion de la performance.\n* Exploiter les modèles de données, proposer des solutions d'extraction et d'exploitation novateurs.\n* Créer des tableaux de bord.\n* Veiller à la qualité des données transcrites.\n* Apporter votre expertise sur les différents projets liés au développement du département et de l'entreprise.\nConditions :\nLe poste est basé à Saint Quentin en Yvelines (78), avec possibilité de télétravail. La rémunération sera évaluée selon le profil + intéressement et participation + tickets restaurant + remboursement de 50 % de votre abonnement transports en commun + mutuelle et prévoyance.\n \n\nProfil recherché:\n\n﻿Profil recherché :\nSavoir-être :\n* Vous êtes responsable et contribuez à apporter la vision nécessaire pour le pilotage du département Santé.\n* Vous êtes pionnier et agile, avec une passion et une orientation solution qui permettent le développement du service.\n* Vous favorisez la collaboration au sein d'une équipe unie, votre adaptabilité et votre communication assurent une bonne productivité.\nSavoir-faire :\n* Maîtrise des outils informatiques (Power BI, VBA, Python, SQL).\nJe vous invite à postuler et nous prendrons connaissance de votre candidature.",
+        "ft_reference": "1913329",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Power BI"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur BI/Data Analyst H/F",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 45000,00 Euros à 50000,00 Euros",
+        "company": "MICHAEL PAGE ",
+        "location_raw": "FRANCE",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Activités de soutien à l'extraction d'hydrocarbures",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1910385",
+        "description": "En tant qu'Ingénieur BI/Data Analyst, vous serez chargé de : \n * Piloter les initiatives de gestion et d'analyse des données pour l'entreprise ;\n * Créer et gérer des tableaux de bord interactifs et des rapports à l'aide de Talend et Power BI ;\n * Maintenir et optimiser le CRM afin d'assurer une gestion efficace des relations clients ;\n * Participer à la mise en place de l'ERP et veiller à son intégration harmonieuse avec les systèmes existants ;\n * Analyser les données pour fournir des insights exploitables et soutenir la prise de décision stratégique ;\n * Améliorer les processus de collecte et d'analyse des données ;\n * Collaborer avec les différents départements pour identifier et répondre à leurs besoins en matière de données ;\n * Élaborer des stratégies visant à améliorer la qualité des données ;\n * Produire des rapports et des tableaux de bord facilitant la prise de décision ;\n * Former les équipes à l'importance et à l'utilisation efficace des données ;\n * Veiller à la conformité avec les réglementations sur la protection des données.\nTitulaire d'une formation supérieure en informatique, vous justifiez d'au moins 4 ans d'expérience en tant qu'Ingénieur BI/Data Analyst, avec une maîtrise avancée de Talend Cloud, Power BI et SQL, notamment sur Azure SQL.\nVous possédez une bonne connaissance des systèmes ERP et CRM, ainsi qu'une expertise en analyse et gestion de bases de données. Votre rigueur, votre autonomie et vos excellentes capacités de communication vous permettent de collaborer efficacement et de gérer plusieurs projets simultanément.\n* Un salaire attractif, avec une fourchette estimée entre 45000 € et 50000 € par an ;\n * Des avantages supplémentaires qui reflètent l'engagement de l'entreprise envers ses employés ;\n * Un environnement de travail stimulant et innovant ;\n * Un contrat à durée indéterminée.",
+        "ft_reference": "1910385",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Power BI"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
                 "Communication"
             ]
         }

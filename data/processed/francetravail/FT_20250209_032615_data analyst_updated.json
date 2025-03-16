@@ -29,8 +29,8 @@
         "ft_reference": "1974459",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -45,8 +45,8 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -165,7 +165,7 @@
         "salary": null,
         "company": "SODIAAL",
         "location_raw": "PARIS 14",
-        "location": "14",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience souhaitée de 1 An(s)",
         "experience": "1 an(s)",
@@ -233,6 +233,110 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Data analyst (H/F)",
+        "job": "data analyst",
+        "contract_type": "Profession",
+        "salary": null,
+        "company": "NEXORIS ",
+        "location_raw": "FRANCE",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1949609",
+        "description": "Notre client recherche un Senior Data Analyst - Alteryx (H/F) dans le cadre d'une longue mission.\nPilotage du projet réglementaire Valuation Data Set, visant à produire des extractions de données de gestion à destination du régulateur (SRB), avec un impact transverse sur les établissements du Groupe BPCE.\n- Assurer la gestion du projet en lien avec les équipes Finance, Risque et IT\n- Définir les besoins métiers et les traduire en spécifications fonctionnelles\n- Piloter l?implémentation des workflows Alteryx pour les extractions de données\n- Coordonner les interactions entre les établissements du Groupe et leur SIR\n- Suivre les impacts sur les processus opérationnels et les échanges de données\n- Travailler en étroite collaboration avec la DSI et les équipes Résilience Financière\nLivrables\n- Spécifications fonctionnelles détaillées\n- Workflows Alteryx optimisés et documentés\n- Reporting sur l?avancement du projet et suivi des impacts",
+        "ft_reference": "1949609",
+        "skills": {
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data analyst (H/F)",
+        "job": "data analyst",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 10000,00 Euros à 52000,00 Euros",
+        "company": "PROXIAD ",
+        "location_raw": "FRANCE",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1949532",
+        "description": "Au sein du Département Marketing et Veille stratégique du groupes, l?équipe Digital and Payments met de la science dans l?art des pratiques business, dans un contexte où il est nécessaire de s?adapter à des outils DATA en constante évolution, apprendre des best in class et saisir les opportunités data en terme d?innovation.\nLe Data Analyst interviendra principalement sur l?accompagnement des phases d?avant-vente et sur l?implémentation d?analyses à destination de sociétés, clientes. \nLa ressource recherchée pourra le cas échéant intervenir sur la partie Observatoires, pour mettre à disposition des visions enrichies du marché, des tendances pour aider la prise de décisions et favoriser les initiatives sur les axes stratégiques majeurs, grâce à une meilleure autonomie dans la consommation de data.\nDescription : \n? Mettre en ?uvre des outils informatiques, des techniques et des méthodes statistiques pour permettre d?organiser, synthétiser et traduire efficacement des données \n? Fournir un appui analytique à la conduite d?exploration et à l?analyse complexe de données \n? Créer des algorithmes de recherche de données qui permettent d'explorer les données utiles \n? Procéder aussi à l'industrialisation du procédé pour les données les plus intéressantes. Et organiser, synthétise et traduit les informations pour faciliter la prise de décision. \n? Gérer les opérations et l'administration, la modélisation et l'architecture des gisements de données. Et s'assurer que les bases de données existantes fonctionnent bien et en cohérence \n? Donner un sens aux données à l?aide de ses connaissances analytiques (SQL, analytics/BI, statistiques basiques) \n? Travailler en collaboration avec le management pour résoudre des questions business en se focalisant sur l?analyse du passé",
+        "ft_reference": "1949532",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data analyst (H/F)",
+        "job": "data analyst",
+        "contract_type": "CDD",
+        "salary": null,
+        "company": "GRLCI ",
+        "location_raw": "BOULOGNE BILLANCOURT",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1949096",
+        "description": "Dans le cadre d'un nouveau projet, nous recherchons un stagiaire pour intégrer l'équipe en place et réaliser les missions suivantes :\nObjectifs du Stage\nExplorer et organiser des données numériques.\nAnalyser les variations des données en fonction des différents critères.\nIdentifier des tendances et schémas récurrents dans les données pour identifier des insights opérationnels.\n Votre formation académique en mathématiques appliquées vous permettra de développer des modélisations et des analyses pertinentes",
+        "ft_reference": "1949096",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
         "job_title": "Consultant.e Data Analyst (H/F)",
         "job": "data analyst",
         "contract_type": "CDI",
@@ -261,8 +365,8 @@
         "ft_reference": "1942051",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -271,12 +375,12 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -310,8 +414,8 @@
         "ft_reference": "1942037",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -320,12 +424,12 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -398,6 +502,80 @@
         "skills": {
             "EnSoftSkils": [
                 "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "company": "AVA6 ",
+        "location_raw": "LIMONEST",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1991390",
+        "description": "Ton défi en tant que Data Engineer sera de répondre aux missions suivantes :     Construire      et optimiser des pipelines de données : extraction, transformation, ingestion et stockage des      données.   Assurer      la fiabilité et la performance des systèmes data : supervision,      monitoring, sauvegardes et documentation.   Automatiser      et industrialiser : mise en place de solutions CI/CD, infrastructure as      code et tests automatisés.   Gérer      les bases de données et les entrepôts data : implémentation et optimisation      (Snowflake, BigQuery, Redshift, Databricks).   Collaborer      avec les équipes Data Science et DevOps pour garantir l'intégration des modèles      et leur exploitation efficace.   Veille      technologique et amélioration continue : participation aux choix      technologiques et à l'évolution des architectures.  \n\n     \n\n  \n Issu(e) d'une formation orientée en systèmes d'information, tu disposes d'une expérience de minimum 3 ans sur un poste équivalent.   Tu maîtrises les éléments suivants :      Compétences techniques :    Maîtrise des langages : Python, SQL, Scala.    Expertise en pipelines de données et ETL : Airflow, Talend, DBT.    Expérience sur AWS, Azure et/ou GCP.    Connaissances en Spark, Hadoop, Kafka et bases de données cloud (Snowflake, BigQuery, Redshift, Databricks).    Approche DevOps & automatisation : CI/CD, Terraform, Docker, Kubernetes.   \n\n    Soft skills :    Esprit analytique et capacité à résoudre des problèmes complexes.    Expérience en méthodologies agiles.    Autonomie, rigueur et esprit d'initiative.    Capacité à travailler en équipe et à accompagner des projets clients.   \n\n   \n\n  Tu es passionné(e) par l'innovation, tu as un bon sens du service et une belle capacité d'écoute.",
+        "ft_reference": "1991390",
+        "skills": {
+            "ProgLanguage": [
+                "Scala",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "BigData": [
+                "Databricks",
+                "Hadoop",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "Azure",
+                "AWS"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "Snowflake",
+                "BigQuery"
+            ],
+            "Automation": [
+                "Kubernetes",
+                "Airflow"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud",
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
             ]
         }
     },
@@ -508,8 +686,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "DBMS": [
                 "SQL Server"
@@ -524,7 +702,7 @@
         "salary": null,
         "company": "UNIVERSITÉ JEAN MOULIN LYON 3",
         "location_raw": "LYON 08",
-        "location": "08",
+        "location": "69",
         "remote": null,
         "experience_raw": "Débutant accepté",
         "experience": "débutant accepté",

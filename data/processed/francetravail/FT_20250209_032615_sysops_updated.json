@@ -85,15 +85,15 @@
                 "Docker"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "DBMS": [
                 "MySQL"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "Virtualisation": [
                 "VMware"
@@ -174,8 +174,8 @@
         "ft_reference": "1937658",
         "skills": {
             "CloudComputing": [
-                "AWS",
-                "GCP"
+                "GCP",
+                "AWS"
             ],
             "DevTools": [
                 "Docker"
@@ -184,16 +184,16 @@
                 "Linux"
             ],
             "Automation": [
-                "Puppet",
-                "Kubernetes"
+                "Kubernetes",
+                "Puppet"
             ],
             "Containers": [
                 "Kubernetes",
                 "Docker"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -227,8 +227,8 @@
         "ft_reference": "1937612",
         "skills": {
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "Automation": [
                 "Ansible"
@@ -269,25 +269,25 @@
                 "Bash"
             ],
             "DevTools": [
-                "Jenkins",
                 "Git",
+                "Jenkins",
                 "Docker"
             ],
             "OS": [
                 "Linux"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "Containers": [
                 "Kubernetes",
-                "OpenShift",
-                "Docker"
+                "Docker",
+                "OpenShift"
             ],
             "Other": [
-                "CI/CD",
-                "DevOps"
+                "DevOps",
+                "CI/CD"
             ]
         }
     },
@@ -415,28 +415,28 @@
                 "Bash"
             ],
             "DevTools": [
-                "Jenkins",
-                "Docker"
+                "Docker",
+                "Jenkins"
             ],
             "OS": [
                 "Linux"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
                 "Kubernetes",
-                "OpenShift",
-                "Docker"
+                "Docker",
+                "OpenShift"
             ],
             "Other": [
-                "CI/CD",
+                "DevOps",
                 "Cloud",
-                "DevOps"
+                "CI/CD"
             ]
         }
     },
@@ -474,28 +474,28 @@
                 "Bash"
             ],
             "DevTools": [
-                "Jenkins",
-                "Docker"
+                "Docker",
+                "Jenkins"
             ],
             "OS": [
                 "Linux"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
                 "Kubernetes",
-                "OpenShift",
-                "Docker"
+                "Docker",
+                "OpenShift"
             ],
             "Other": [
-                "CI/CD",
+                "DevOps",
                 "Cloud",
-                "DevOps"
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -538,9 +538,9 @@
                 "Linux"
             ],
             "Automation": [
-                "Puppet",
+                "Kubernetes",
                 "Ansible",
-                "Kubernetes"
+                "Puppet"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -593,8 +593,8 @@
                 "GCP"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "Automation": [
                 "Ansible"

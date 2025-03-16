@@ -1,0 +1,110 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Data Aix-en-Provence F/H - Système, réseaux, données (H/F)",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "CAPGEMINI SERVICE ",
+        "location_raw": "AIX EN PROVENCE",
+        "location": "13",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 7 An(s)",
+        "experience": "7 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Capgemini Choisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2008826",
+        "description": "Descriptif du poste:\nContexte   En pleine transformation digitale, les grands comptes du secteur d'Aix-en-Provence font appel à notre entité afin de concevoir des solutions adaptées aux enjeux de demain. Dans ce contexte, nous recherchons notre futur(e) Architecte Data F/H qui intégrera nos équipes aixoises pilotées par Rémi JOLIVALT https://www.linkedin.com/in/jolivaltremi/       L'environnement technique   DataHub :  \n* ETL (Talend, Informatica ou SSIS) \n* Traitement de données Spark, Python, Scala ... \n* Bases de données (Oracle, SQL Sever, Postgres) \n* Datalake / BigData : Horton Works, Cloudera, ELK  Data Viz & IA / Machine Learning :  \n* Qlik, Tableau \n* Python, R          3 raisons de nous rejoindre: Qualité de vie au travail : accord de télétravail en France et à l'international, accord sur l'égalité professionnelle, la parentalité, l'équilibre des temps et la mobilité durable. Apprentissage en continu : certifications et formations en libre accès, accompagnement sur mesure avec votre Career Manager, parcours d'intégration sur 9 mois.Avantages groupe & CSE : plan actionnariat, activités à tarifs préférentiels, remboursement partiel vacances, remboursement de votre abonnement sportif ou culturel.\n\nProfil recherché:\nVotre rôle    \n* Préconiser une architecture et des technologies \n* Elaborer des standards technologiques internes \n* Garantir la cohérence technique de la solution et son évolution \n* Prototyper les solutions techniques préconisées \n* Assister l'équipe de développement dans la mise en oeuvre des solutions techniques préconisées \n* Développer des composants techniques \n* Encadrer les équipes de consultants grâce à la formation et au coaching  Dans votre quotidien, vous contribuerez au partage et à la capitalisation des savoirs et des pratiques au sein de la communauté des Architectes de Capgemini. Vous participerez à la construction de points de vue par l'expérience et le savoir-faire reconnu dans un domaine technique.",
+        "ft_reference": "2008826",
+        "skills": {
+            "ProgLanguage": [
+                "Scala",
+                "R",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Python / Azure - Tech Lead Data (h/f) - TM20818 F/H - Informatique de gestion",
+        "job": "cloud architect /engineer ",
+        "contract_type": null,
+        "salary": "Salaire brut : 40 - 44 k€ brut annuel",
+        "company": "KODERS ",
+        "location_raw": "CLERMONT FERRAND",
+        "location": "63",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Pourquoi rejoindre Koders :\nKODERS est une ESN en plein développement qui accompagne ses clients au national, dans la mise en place de solutions digitales.\n\nNous opérons dans divers secteurs Startups & Innovation, Industrie, Transport, Medical, Finance, Micro-électronique, secteur public, energie, ...\n\n ",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2003874",
+        "description": "Descriptif du poste:\n\nMots clés: SQL, Python, PySpark, PowerShell, R, DevOps, Kafka, Kubernetes, Data Science, Azure, Anglais, 5 ans d'exp minimum, Clermont-Ferrand.\n\n \nKoders cherche pour un de ses clients un Tech Lead Data (H/F).\n\n \nLe poste est à pourvoir à Clermont-Ferrand.\n\n \nVos principales missions:\n* Support des équipes sur les composants Azure (DataFactory, Databricks, Datalake, Synapse)\n* Encadrement des projets autour de la Power Platform, Machine Learning\n* Participation à la mise en place des frameworks CDL et gestion des données du domaine\n\n \nEnvironnement technique:\n\n \nSQL, Python, PySpark, PowerShell, R\nDevOps, Kafka, Kubernetes, Data Science\nMicrosoft Azure \n\nProfil recherché:\n\nDoté d'une grande aisance relationnelle, vous saurez faire preuve d'organisation, de méthode, et d'une forte capacité d'adaptation.\n* Vous êtes issu d'une formation supérieure, ingénieur ou universitaire avec 5 ans d'expérience minimum sur un poste similaire.\n* Vous avez une bonne maîtrise de SQL, Python, PySpark, PowerShell, R.\n* Vous avez une bonne connaissance des concepts DEVOPS, Kafka, Kubernetes, Data Science.\n* Vous avez une parfaite maîtrise de Microsoft AZURE.\n* Vous avez un Anglais courant. \n ",
+        "ft_reference": "2003874",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "DevOps",
+                "Machine Learning"
+            ]
+        }
+    }
+]

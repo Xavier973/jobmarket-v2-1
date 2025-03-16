@@ -12,7 +12,7 @@ def get_offers_by_source():
         "aggs": {
             "sources": {
                 "terms": {
-                    "field": "source",
+                    "field": "source.keyword",
                     "size": 10
                 }
             }
@@ -45,7 +45,7 @@ def get_offers_evolution():
                 "aggs": {
                     "by_source": {
                         "terms": {
-                            "field": "source"
+                            "field": "source.keyword"
                         }
                     }
                 }
@@ -90,8 +90,8 @@ def get_offers_by_job():
                 "aggs": {
                     "jobs": {
                         "terms": {
-                            "field": "job",
-                            "size": 10  # Top 10 des postes les plus demandés
+                            "field": "job.keyword",
+                            "size": 10 # Top 10 des postes les plus demandés
                         }
                     }
                 }
@@ -121,8 +121,8 @@ def get_offers_by_department():
                 "aggs": {
                     "departments": {
                         "terms": {
-                            "field": "location",
-                            "size": 100  # Pour avoir tous les départements
+                            "field": "location.keyword",
+                            "size": 100
                         }
                     }
                 }
@@ -152,7 +152,7 @@ def get_offers_by_contract():
                 "aggs": {
                     "contracts": {
                         "terms": {
-                            "field": "contract_type",
+                            "field": "contract_type.keyword",
                             "size": 10
                         }
                     }
@@ -192,13 +192,13 @@ def get_all_skills(job_filter=None):
                 "match_all": {}
             } if job_filter is None else {
                 "term": {
-                    "job": job_filter
+                    "job.keyword": job_filter
                 }
             },
             "aggs": {
                 category: {
                     "terms": {
-                        "field": f"skills.{category}",
+                        "field": f"skills.{category}.keyword",
                         "size": 25
                     }
                 } for category in skills_categories

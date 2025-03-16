@@ -7,7 +7,7 @@
         "salary": null,
         "company": "MATMUT ",
         "location_raw": "RUEIL MALMAISON",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -38,8 +38,8 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
                 "Cloud",
+                "Machine Learning",
                 "DevOps"
             ],
             "EnSoftSkils": [

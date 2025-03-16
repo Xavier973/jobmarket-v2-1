@@ -130,31 +130,44 @@ def process_location(nom_location, location_dict):
     nom_location = str(nom_location).strip()
     print(f"Processing location: {nom_location}")
     
-    # Debug: afficher la version normalisée
+    # Traitement spécial pour Marseille, Lyon et Paris. Résolution des problemes d'arrondissement
+    if nom_location.lower().startswith('marseille'):
+        print(f"Found Marseille: returning 13")
+        return "13"
+    
+    if nom_location.lower().startswith('lyon'):
+        print(f"Found Lyon: returning 69")
+        return "69"
+        
+    if nom_location.lower().startswith('paris'):
+        print(f"Found Paris: returning 75")
+        return "75"
+    
+    # Normaliser le nom pour la recherche dans le dictionnaire des villes
     nom_normalise = normaliser_nom_ville(nom_location)
-    print(f"Nom normalisé: {nom_normalise}")
+    # print(f"Nom normalisé: {nom_normalise}")
     
     # Debug: vérifier si la clé existe dans le dictionnaire
-    print(f"Clés similaires dans le dictionnaire: {[k for k in location_dict.keys() if nom_normalise in k]}")
-    print(f"Valeur dans le dictionnaire: {location_dict.get(nom_normalise)}")
+    # print(f"Clés similaires dans le dictionnaire: {[k for k in location_dict.keys() if nom_normalise in k]}")
+    # print(f"Valeur dans le dictionnaire: {location_dict.get(nom_normalise)}")
     
     # Si c'est déjà un numéro de département seul
     if re.match(r'^\d{2,3}$', nom_location) or nom_location in ['2A', '2B']:
-        print(f"Found direct department number: {nom_location}")
+        # print(f"Found direct department number: {nom_location}")
         return nom_location
     
     # Chercher le pattern (XX) ou (XXX)
     match = re.search(r'\((\d{2,3})\)', nom_location)
     if match:
         result = match.group(1)
-        print(f"Found department in parentheses: {result}")  # Debug print
+        # print(f"Found department in parentheses: {result}")  # Debug print
         return result
     
     # Chercher un numéro de département à la fin de la chaîne
     match = re.search(r'\s(\d{2,3})$', nom_location)
     if match:
         result = match.group(1)
-        print(f"Found department at end: {result}")  # Debug print
+        # print(f"Found department at end: {result}")  # Debug print
         return result
         
     # Normaliser le nom pour la recherche dans le dictionnaire des villes
@@ -163,7 +176,7 @@ def process_location(nom_location, location_dict):
     # Chercher dans le dictionnaire des villes
     departement = location_dict.get(nom_normalise)
     if departement is not None:
-        print(f"Found in dictionary: {nom_normalise} -> {departement}")  # Debug print
+        # print(f"Found in dictionary: {nom_normalise} -> {departement}")  # Debug print
         return str(departement)
     
     print(f"No match found for: {nom_location}")  # Debug print
@@ -183,7 +196,7 @@ def find_job_title(title, jobs_dict):
                     return job
         else:
             if all(word in title_lower for word in keywords):
-                print("Job trouvé : ", job)
+                # print("Job trouvé : ", job)
                 return job
     print("Job non trouvé = other")
     return "Other"

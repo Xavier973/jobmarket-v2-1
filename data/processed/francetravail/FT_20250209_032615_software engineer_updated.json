@@ -7,7 +7,7 @@
         "salary": null,
         "company": "AXA FRANCE ",
         "location_raw": "WASQUEHAL",
-        "location": null,
+        "location": "59",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -57,7 +57,7 @@
         "salary": null,
         "company": "AXA FRANCE ",
         "location_raw": "WASQUEHAL",
-        "location": null,
+        "location": "59",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -123,12 +123,12 @@
         "ft_reference": "1938567",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "Automation": [
                 "Ansible",
@@ -371,8 +371,8 @@
         "ft_reference": "1933607",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "CloudComputing": [
                 "Azure"
@@ -421,8 +421,8 @@
         "ft_reference": "1933015",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "CloudComputing": [
                 "Azure"
@@ -438,6 +438,60 @@
             ],
             "EnSoftSkils": [
                 "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Data et Logiciel Senior - F/H (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "COVAGE INFRA ",
+        "location_raw": "MONT ST AIGNAN",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Du Très Haut Débit pour toutes les entreprises, voilà notre mission !\nCovage, qui compte près de 400 collaborateurs, est un opérateur d'infrastructure de gros, spécialiste sur le marché de la fibre optique pour les entreprises. Filiale B2B du Groupe Altitude, plus de 200 opérateurs s'appuient sur ses réseaux neutres et ouverts, pour fournir des services de connectivité très haut débit et à valeur ajoutée aux entreprises et sites publics.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1975971",
+        "description": "RESPONSABILITÉS : \n\nVos missions :\nRattaché à l'équipe DATA, l'objectif sera de gérer, maintenir et améliorer les différentes applications traitant de grandes quantités de données.\nLes 2 principales applications sont :\n - L'éligibilité de l'entreprise, qui comporte les 30 millions d'adresses françaises sur lesquelles on vient raccrocher à quelle technologie chacune de ces adresses est éligible, ainsi qu'un volet cartographie basé sur les résultats d'éligibilités.\n - Le système de gestion des évènements, avec des données temps réel autour d'un Kafka, mais aussi une partie stockage de ces évènements pour répondre à des besoins d'historisation et de suivi de la vie de nos commandes.\nLes missions sont les suivantes :\n - Concevoir et optimiser l'architecture de base de données\n - Développer et maintenir l'architecture logicielle\n - Garantir la qualité et la cohérence des données enregistrées en base\n - Assurer la maintenance et l'évolution des applications\n - Rédiger et maintenir une documentation technique claire et structurée pour assurer la pérennité et la compréhension des solutions développées.\nLa stack technique actuelle est orientée SQL (majoritairement SQL Server et PostgreSQL), Python pour les webservices (FastAPI et Django), Kafka pour les évènements, Docker dans un environnement Kubernetes pour les déploiements.\n\nPROFIL RECHERCHÉ : \n\nLes atouts pour réussir sur ce poste :\nVous justifiez d'au moins 4 ans d'expérience dans un poste similaire, où vous avez contribué à la création et à la maintenance de logiciels et de bases de données en environnement de production. Vous avez également conçu des systèmes stables et maintenables, en mettant en place des indicateurs et des outils de monitoring.\nVotre maîtrise d'au moins un langage de programmation, idéalement Python, est requise. Une solide expérience en SQL et en bases de données relationnelles est primordiale. La connaissance d'un outil de data streaming, tel que Kafka, constitue un atout. Une communication claire et précise, tant à l'écrit qu'à l'oral, ainsi qu'une forte capacité de résolution de problèmes, sont essentielles.\nLes + chez Covage :\n - Cadre de travail agréable au sein de locaux flambants neufs situés dans le parc d'entreprise de la Vatine à Mont Saint Aignan\n - Politique de mobilité interne favorisant l'évolution professionnelle avec des opportunités de mobilité en interne et/ou au sein du Groupe Altitude, accessible après deux ans d'expérience\n - Possibilité d'avoir recours à 1 journée de télétravail par semaine après 3 mois d'ancienneté dans son poste\n - Régime de travail de 37h par semaine octroyant 14 jours de RTT\n - Titres restaurants\n - Mutuelle d'entreprise obligatoire prise en charge par l'entreprise",
+        "ft_reference": "1975971",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "SQL Server",
+                "PostgreSQL"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "EnSoftSkils": [
+                "Communication"
             ]
         }
     }

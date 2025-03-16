@@ -30,8 +30,8 @@
         "skills": {
             "ProgLanguage": [
                 "Scala",
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB"
@@ -45,12 +45,12 @@
                 "Git"
             ],
             "DBMS": [
-                "MySQL",
-                "PostgreSQL"
+                "PostgreSQL",
+                "MySQL"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication",
@@ -66,7 +66,7 @@
         "salary": null,
         "company": "WHEEL OF WORK ",
         "location_raw": "LILLE",
-        "location": null,
+        "location": "59",
         "remote": null,
         "experience_raw": "Expérience exigée de 2 An(s)",
         "experience": "2 an(s)",
@@ -103,7 +103,7 @@
         "salary": null,
         "company": "INFOGENE ",
         "location_raw": "PARIS 01",
-        "location": "01",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -137,7 +137,7 @@
         "salary": null,
         "company": "LHH ",
         "location_raw": "BOULOGNE BILLANCOURT",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -214,7 +214,7 @@
         "salary": "Salaire brut : Annuel de 35000,00 Euros à 40000,00 Euros",
         "company": "AMILTONE ",
         "location_raw": "LILLE",
-        "location": null,
+        "location": "59",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -240,16 +240,16 @@
                 "Spark"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DevTools": [
                 "Git"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "ML"
+                "ML",
+                "Cloud"
             ]
         }
     },
@@ -283,23 +283,23 @@
         "ft_reference": "1867445",
         "skills": {
             "ProgLanguage": [
-                "R",
                 "Scala",
+                "Java",
                 "Python",
-                "Java"
+                "R"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "BigData": [
-                "Hadoop",
                 "Flink",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "Other": [
-                "Machine Learning",
+                "Big Data",
                 "Statistiques",
-                "Big Data"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -525,8 +525,8 @@
                 "Spark"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "TensorFlow"
+                "TensorFlow",
+                "Scikit-Learn"
             ],
             "DevTools": [
                 "Docker"
@@ -539,13 +539,13 @@
                 "Airflow"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Machine Learning",
+                "ML",
                 "Cloud",
-                "ML"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication",
@@ -561,7 +561,7 @@
         "salary": null,
         "company": "BESSÉ ",
         "location_raw": "NANTES",
-        "location": null,
+        "location": "44",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -618,7 +618,7 @@
         "salary": null,
         "company": "KPMG ",
         "location_raw": "COURBEVOIE",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -656,8 +656,8 @@
             ],
             "Other": [
                 "Cloud",
-                "DevOps",
-                "Statistiques"
+                "Statistiques",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Leadership"
@@ -672,7 +672,7 @@
         "salary": null,
         "company": "COOPÉRATIVE U ",
         "location_raw": "RUNGIS",
-        "location": null,
+        "location": "94",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -707,8 +707,8 @@
                 "Big Query"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -742,8 +742,8 @@
         "ft_reference": "1848024",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -777,8 +777,8 @@
         "ft_reference": "1847292",
         "skills": {
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Big Data"
@@ -815,8 +815,8 @@
         "ft_reference": "1846956",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -852,13 +852,382 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Data Scientist Santé Sénior (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "CAYENNE 973",
+        "location": "973",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": "Cerba HealthCare s'est donné pour mission d'accompagner l'évolution d'un système de santé curatif vers un système plus préventif. Il s'appuie sur plus de 50 ans d'expertise en biologie médicale pour révéler tout le potentiel du diagnostic.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1847300",
+        "description": "Missions :Envie de rejoindre un groupe qui contribue à améliorer la santé de tous ?Cerba HealthCare, acteur de référence du diagnostic médical, a pour ambition d'accompagner l'évolution des systèmes de santé vers plus de prévention. Il s'appuie sur plus de 50 ans d'expertise en biologie médicale pour mieux évaluer le risque de développement des maladies, dépister et diagnostiquer plus en amont les pathologies et optimiser l'efficacité des traitements en les personnalisant. Description de la mission Le Groupe Cerba, un leader de la biologie médicale et de l'innovation en santé, vous propose de rejoindre sa holding Cerba Healthcare pour apporter votre expertise au service des patientsDans le cadre de la croissance de notre équipe Data, nous recherchons un(e) Data Scientist pour renforcer notre capacité à extraire de la valeur des données de santé et optimiser l'utilisation secondaire des données pour améliorer la qualité de vie des patients et l'efficacité des soins.En tant que Data Scientist au sein de l'équipe Data, vous contribuerez à la mise en œuvre de la roadmap data de l'entreprise et serez responsable de l'analyse, de l'exploitation des données pour divers projets stratégiques. Votre rôle principal sera de réaliser des analyses exploratoires avancées, contrôler la qualité des données, développer des modèles de machine learning et produire des visualisations efficaces pour éclairer les décisions de l'entreprise et des équipes métiers. Basé à Issy-les-Moulineaux (92) Ce que vous développerez chez nous :Contrôle et qualité des données : Assurer la fiabilité des données, détecter et corriger les anomalies, garantir l'intégrité des flux de données. Analyse et modélisation : Réaliser des analyses exploratoires avancées et développer des modèles de machine learning et de séries temporelles pour des prévisions et applications cliniques.Analyse et chainage de données multisources : Intégrer et lier des données provenant de multiples bases, en harmonisant et enrichissant les jeux de données pour des analyses complètes et cohérentes.Data Visualisation : Concevoir des visualisations et des dashboards pour communiquer les insights de manière impactante.Veille technologique et conformité : Assurer une veille sur les évolutions des technologies liées aux données de santé.",
+        "ft_reference": "1847300",
+        "skills": {
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Pricing Actuary / Data Scientist F/M (H/F)",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AXA ",
+        "location_raw": "MALAKOFF",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1846492",
+        "description": "L'ambition d'AXA Partners est de construire un leader mondial de la distribution pour compte de tiers afin de contribuer à la croissance du Groupe AXA sur le marché de la distribution. AXA Partners contribue à enrichir l'offre d'assurance de base d'AXA avec des assurances spécialisées et des services innovants aux clients finaux, contribuant ainsi à la transformation du Groupe AXA de payeur à partenaire.\n Afin de garantir la rentabilité des activités d'AXA Partners P&C et de s'assurer que les questions techniques sont abordées de manière cohérente, une équipe centrale d'excellence technique travaille en étroite collaboration avec l'équipe de gestion des risques pour soutenir le développement de l'activité.  \n Le Département Central Technical Excellence d'AXA Partners P&C comprend 13 experts techniques (équipes centrales de souscription et de réassurance, de sinistres techniques et de science des données) travaillant pour les différentes lignes d'activité d'assistance : Automobile, Habitation, Voyage et Santé.\nAu sein de cette équipe Central Technical Excellence, le/la Data Scientist / Pricing Actuary est responsable :\n-          Du développement de modèles de tarification sophistiqués pour soutenir à la fois les équipes TEX locales et l'excellence technique de la ligne d'activité.\n-          De l'analyse des données pour traiter d'autres sujets commerciaux (élargir l'utilisation de l'analyse des données pour inclure l'analyse opérationnelle, l'analyse des fraudes et des demandes d'indemnisation).\n-          D'effectuer des analyses pour évaluer l'impact financier des nouveaux modèles de tarification.\n-          De fournir un soutien actuariel technique aux lignes d'activité et aux équipes TEX locales. \nVos principales missions seront les suivantes :\n·       Modèles de tarification\n- Élaborer de modèles de tarification pour soutenir l'excellence technique au niveau local et dans les secteurs d'activité.\n- Effectuer le traitement préparatoire des données.\n- Développer des modèles en R / Python.\n- Documenter les résultats.\n- Développer une analyse d'impact pour évaluer l'impact de l'utilisation du nouveau modèle de tarification.\n- Soutenir les équipes informatiques dans la mise en œuvre du modèle de tarification.\n- Communiquer les résultats aux parties prenantes des équipes commerciales et de souscription.\n·       Analyse des données\n- Appliquer l'analyse des données à d'autres sujets non liés à la tarification.\n- Préparer des données et créer de modèles prédictifs.\n- Communiquer des résultats à l'ensemble de l'entreprise.",
+        "ft_reference": "1846492",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist Expérimenté H/F",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "EY ",
+        "location_raw": "75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1845183",
+        "description": "Au sein de Technology Consulting, Data & Analytics renforce ses équipes. Ses domaines d'interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l'analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l'encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d'être rapidement formées aux nouvelles méthodes et outils.\n \nEn outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l'innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.\n \nVous êtes Data Scientist, dataminer, architecte Big Data, consultant BI... H/F à la recherche d'une équipe dynamique, à la pointe des technologies et des innovations en Data Science, au service des entreprises les plus data driven, n'hésitez pas à nous contacter pour se rencontrer.\n \nVos missions  :\n \nPour soutenir notre développement dans les domaines « Analytics » (Analyse quantitative de données, datamining, Big data, Data Science.), vous êtes responsable de la réalisation de projet d'analyse quantitative de données, datamining dans un contexte souvent CRM - Marketing : segmentations, scores d'appétence, reportings analytiques, prévisions ...\n \nVous intervenez sur la définition de la stratégie en matière de gestion des données de nos clients ou sur le pilotage du déploiement de solutions technologiques Big Data. A partir de besoins métiers exprimés, vous encadrez l'équipe-projet et conduisez personnellement les aspects les plus sensibles de la mission client.\n \nGrâce à votre expérience, vous devez être en mesure de proposer et mettre en œuvre des méthodologies susceptibles de répondre efficacement et opérationnellement aux attentes du client dans le respect des délais et du budget prévu.\n \nVous développez une expertise sectorielle et devez être force de proposition sur les sujets et offres à présenter à nos clients pour les accompagner dans l'excellence de leur activité.",
+        "ft_reference": "1845183",
+        "skills": {
+            "Other": [
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Stagiaire Data scientist (H/F)",
+        "job": "data scientist",
+        "contract_type": "Intérim",
+        "salary": null,
+        "company": "FORUM EMPLOI-FORMATION-ALTERNANCE: TALENTS HANDICAP ",
+        "location_raw": "ISSY LES MOULINEAUX",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités des agences de travail temporaire",
+            "company_size": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. \n        L'entreprise Capgemini recherche actuellement des profils : \n     Capgemini est un leader mondial, responsable et multiculturel, regroupant 360 000 personnes dans plus de 50 pays. Partenaire stratégique des entreprises pour ...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1844949",
+        "description": "  Au sein d'un ensemble de laboratoire autonome, nous soutenons et développons des projets de Recherche & Innovation. Axé sur l'utilisation des nouvelles technologies au service de nos clients et partenaires, nous investissons pour développer nos connaissances en Data-science, Cloud computing, la VR, l'IOT et dans les technologies du web.     Vous intégrerez le projet de recherche WaveCare, vise à détecter le cancer du sein en utilisant la technologie d'imagerie micro-onde et l'intelligence artificielle (IA). Votre rôle, en tant que Stagiaire Data Scientist,vous aurez comme tâches :  Traiter les données brutes Extraire des caractéristiques via des outils de traitement de signal. Proposer une approche d'apprentissage automatisé une approche quantitative  Concevoir des solutions algorithmiques qui répondent problématiques du projet Évaluer les travaux réalisés et mettre en valeur les résultats obtenus.        ",
+        "ft_reference": "1844949",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Senior data scientist - network - h/f",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1836633",
+        "description": "Description\nDans un contexte où les données réseau sont de plus en plus abondantes et complexes, Free met en place une plateforme de centralisation des données réseau pour offrir une analyse fine et transversale des performances des différents réseaux (Free Réseaux, Free Mobile, fibre).\nEn tant que Senior Data Scientist Network, vous jouerez un rôle clé dans la conception et la mise en œuvre de modèles visant à améliorer la performance des réseaux et lefficacité opérationnelle des équipes métiers réseau. Vous collaborerez étroitement avec les ingénieurs réseau pour garantir limplémentation des solutions de data science.\nVOS MISSIONS:\n- Exploiter et analyser de grandes quantités de données issues des réseaux (fixe, mobile, fibre) pour identifier des tendances, résoudre des problèmes complexes et améliorer les performances réseau.\n- Développer des modèles dapprentissage automatique et des algorithmes prédictifs pour optimiser la supervision, la gestion et l'exploitation des réseaux (gestion du trafic, détection danomalies, optimisation des performances, etc.).\n- Proposer des solutions innovantes et des stratégies de modélisation.\n- Encadrer et guider une équipe de data scientists sur les problématiques spécifiques au réseau. En tant que référent, vous prendrez des initiatives pour répondre aux besoins métiers et améliorer lefficacité des opérations.\n- Produire une documentation technique claire et pertinente pour assurer une compréhension commune et la pérennité des solutions mises en place.\nSTACK TECHNIQUE :\n- Connaissance approfondie en manipulation de données avec Apache Spark.\n- Maîtrise de Python, SQL et des outils d'analyse de données.\n- Expertise en frameworks AI/ML tels que TensorFlow et Scikit-learn.\n- Compétence en déploiement de modèles à l'échelle avec Kubernetes et Docker.\n- Expérience en gestion des processus MLOps (MLflow, Kubeflow).\n- Compétences en analyse de données réseau avec des outils spécifiques pour la collecte et l'analyse de données réseau.\nProfil recherché\nVous êtes diplômé dun Bac+5 ou équivalent en Data Science, Informatique, ou Télécom, avec une solide expérience en data science appliquée aux environnements réseau. Une expérience en network est indispensable.\nHARD-SKILLS :\n- Vous maîtrisez les algorithmes de machine learning (supervisé et non supervisé), notamment pour des applications réseau : classification, clustering, régression, détection danomalies.\n- Vous avez une expérience en modélisation des données idéalement des données réseau pour la détection de pannes, la gestion du trafic et loptimisation de la qualité de service.\n- Vous êtes à laise avec les pipelines de traitement de données sous Apache Kafka, Airflow, et Prefect.\n- Vous travaillez en collaboration étroite avec les ingénieurs data pour garantir une infrastructure adéquate pour les charges de travail IA/ML.\n- Vous avez une bonne maîtrise des bases de données telles que ClickHouse et des plateformes cloud.\n- Vous avez la capacité à réduire la complexité des projets et à prioriser les tâches critiques pour lentreprise. Apte à définir létendue des travaux, les prioriser et les assigner efficacement au sein dune équipe.\nSOFT-SKILLS :\n- Vous avez dexcellentes compétences en communication pour travailler avec des équipes multidisciplinaires.\n- Vous êtes orienté vers linnovation et lamélioration continue.\n- Vous avez la capacité de proposer des solutions créatives et efficaces pour résoudre des problématiques complexes.\nVous rejoindrez une équipe d'ingénieurs passionnés par linnovation et l'automatisation au sein de Free. Vous travaillerez dans un environnement stimulant basé à Paris, avec des opportunités dévolution au sein de léquipe data.\nÉTAPES DU RECRUTEMENT\n- Call avec un Tech Recruiter : 30 min\n- Call en visio avec le Head of Network Automation : 30 min\n- Évaluation technique et test pratique à distance : 1H\n- Immersion dans nos locaux pour rencontrer des personnes de léquipe et découvrir les locaux : 1H30\nFree est un acteur majeur des télécommunications, reconnu pour son esprit dinnovation et son ambition de transformer le secteur avec des solutions techniques avancées. En rejoignant Free, vous participerez à des projets de grande envergure dans un environnement où les défis sont constants et où lesprit déquipe et linnovation sont encouragés.\nRejoignez-nous !",
+        "ft_reference": "1836633",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "MachineLearning": [
+                "TensorFlow",
+                "Scikit-Learn"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "SoftBigDataProcessing": [
+                "Apache Kafka"
+            ],
+            "Automation": [
+                "Kubernetes",
+                "Airflow"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "ML",
+                "Cloud",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist H/F",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "BESSÉ ",
+        "location_raw": "NANTES",
+        "location": "44",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités des agents et courtiers d'assurances",
+            "company_size": "Les hommes et les femmes de Bessé sont des experts du conseil et du courtage en assurances auprès des entreprises.\n\nAu quotidien, ce sont 500 collaborateurs qui s'appuient sur leur capacité d'innovation et sur leur spécialisation pour accompagner leurs clients, ETI et Grandes Entreprises, dans la protection de leurs activités et de leurs salariés.\n\nDepuis plus de 60 ans, avec les mêmes valeurs et la même indépendance, Bessé s'est imposé au fil du temps comme l'...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1828502",
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Vous travaillez au sein de la Direction des Opérations et vos clients sont les pôles d'activités du Groupe. Vos responsabilités sont de concevoir, développer et mettre en oeuvre des modèles prédictifs et des algorithmes avancés pour résoudre des problèmes commerciaux complexes dans le domaine de l'assurance IARDT. Vous utilisez les technologies de Data Fabric de Microsoft, en particulier le langage DAX, pour la modélisation et le développement.\n\nVous travaillez en étroite collaboration avec les membres de l'équipe DATA (Data Analyst, Statistitien, Chef de Projet Data et Architecte Data) et la Direction des Systèmes d'Information pour garantir l'intégration harmonieuse des solutions de data science dans notre infrastructure existante. Les solutions élaborées doivent permettre d'effectuer des analyses approfondies pour extraire des insights exploitables et recommander des actions stratégiques basées sur les données.\n\nLes productions devront être documentées techniquement et fonctionnellement : \n- Claires, concises et faciles à comprendre. \n- Tenir à jour un registre des modifications apportées aux applications, facilitant ainsi les audits et les références futures. \n- Préparer des supports de formation pour les ateliers internes, aidant les autres employés à comprendre et à adopter les nouvelles solutions de reporting.\nPROFIL : Formation requise Diplôme universitaire en informatique, statistiques, mathématiques, sciences des données ou domaine connexe.  \nExpérience professionnelle préalable : 3 à 5 ans en tant que Data Scientist, idéalement dans le secteur de l'assurance ou des services financiers. \n \nQualités / compétences requises : \n- Expertise avancée en Power BI, y compris Power Query et DAX, avec une solide expérience dans la modélisation en étoile. \n- Expertise en optimisation de requêtes DAX est essentielle.\n\nLe collaborateur devra prouver sa capacité à diagnostiquer et améliorer les performances de modèles Power BI existants, en réduisant les temps de chargement et en améliorant la réactivité des rapports.\n\nLa programmation en Python dans l'exploitation de la Data Connaissance avancée du portail Power BI Service est nécessaire, incluant la configuration des workspaces, la gestion des applications et la maîtrise de la distribution de contenu aux différentes audiences. Le collaborateur devra avoir une capacité éprouvée à s'approprier, analyser et optimiser des systèmes complexes. Il devra avoir d'excellentes compétences interpersonnelles et de communication, capable d'agir en tant que partenaire stratégique pour les équipes métier.\n\nProactif, orienté solution avec un fort esprit d'équipe et une passion pour le transfert de connaissances Aptitude à travailler dans un environnement dynamique où les priorités peuvent évoluer rapidement. Les outils utilisés dans le cadre des missions sont les suivants :\n- PowerBI Desktop - DAX Studio - Tabular Editor - SQL Server Management Studio - Confluence / Jira.",
+        "ft_reference": "1828502",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Power BI"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "Automation": [
+                "Chef"
+            ],
+            "Collaboration": [
+                "JIRA",
+                "Confluence"
+            ],
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Lead Data Scientist H/F",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "KPMG ",
+        "location_raw": "COURBEVOIE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités comptables",
+            "company_size": "A propos de KPMG :\n\n* Premier cabinet pluridisciplinaire en France\n* Employeur préféré du secteur audit & conseil (selon le classement Universum Business 2023)\n* Support aux 4 métiers d'excellence : Audit, Conseil, Expertise Services Conseil & Gestion Sociale, Droit & Fiscalité (KPMG Avocats) ainsi que leurs fonctions supports & transverses, pour répondre, entre autres, aux enjeux d'innovation et de transformation de ses clients - du CAC 40 aux TPE/PME\n* Des é...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1827201",
+        "description": "POSTE : Lead Data Scientist H/F\nDESCRIPTION : Vos challenges\n\nSous la responsabilité opérationnelle du AI Lab Manager et rattaché au Head Of Data & IA, votre mission, en tant que Lead Data Scientist F/H consistera à :\n\n* Gérer l'équipe de datascience au quotidien\n* Adapter si nécessaire le modèle opérationnel de l'équipe et ses outils de production et de suivi.\n* Définir une stratégie adaptée de traitement de la donnée\n* Challenger et valider les algorithmes d'apprentissage automatique\n* Travailler avec les équipes de developpement logiciels et DEVOPS pour mettre en place le MLOPS\n* Aligner les projets de données sur les objectifs de l'entreprise\n\nVous travaillerez afin que votre équipe puisse assurer les responsabilités suivantes :\n\n* Analyser conseiller et déterminer le plan d'action des projets métiers data science.\n\n* Participer aux ateliers d'expression des besoins\n* Comprendre les problématiques métiers\n* Communiquer les résultats et accompagner les équipes en charge de l'implémentation des modèles IA\n\n* Extraction et structuration des données :\n\n* Elaboration des algorithmes d'intelligence artificielle\n* Analyser les données et construire les données d'entrainement des modèles\n* Créer et tester des algorithmes d'apprentissage automatique\n* Amélioration continue des modèles\n\n* Industrialisation des modèles d'IA dans les applications\n* Veille technologique sur les outils de data science\nPROFIL : Issu d'une formation supérieure (Bac +5), en ingénierie des données, en statistiques ou niveau équivalent, vous justifiez d'au minimum cinq années d'expérience sur un poste similaire.\n\nExcellent communicant, et parfait diplomate, vous avez le sens du service et vous savez vous adapter pour répondre aux exigences des clients. Vos excellentes capacités rédactionnelles et votre sens de l'organisation seront des atouts au quotidien. Vous démontrez une curiosité intellectuelle qui vous amène à être au courant des nouvelles technologies de traitement de la donnée, d'analyse et d'IA. Vous repérez les innovations et vous êtes en mesure de les évaluer. Votre leadership vous permet de piloter fonctionnellement et sereinement les datascientist et ingénieurs IA qui vous accompagneront.\n\nUn niveau d'anglais professionnel est indispensable pour mener à bien vos missions.\n\nCompétences techniques recherchées\n\n* Langage de programmation : Python, C#, VueJS, react, SQL, MDX, DAX\n* Librairies : Pytorch, Langchain, Yolo\n* Cloud : Azure\n* LLM : OpenAI, Mistral, LLAMA, Claude,\n* Database : SQL, CosmoDB\n* Outil de Dev : Visual Studio, Visual Code, Azure DEVOPS, Jira, Github\n* Ops : CICD, MLFlow, PyTorch\n\nEnfin une maîtrise des notions d'économie de marché, de finance d'entreprise et de gestion des entreprises est un atout indispensable pour la réussite de vos projets.",
+        "ft_reference": "1827201",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "MachineLearning": [
+                "PyTorch"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "Cloud",
+                "Statistiques",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Leadership"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist H/F",
+        "job": "data scientist",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "COOPÉRATIVE U ",
+        "location_raw": "RUNGIS",
+        "location": "94",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Centrales d'achat non alimentaires",
+            "company_size": "La Coopérative U regroupe l'ensemble des activités commerciales et des fonctions supports au service des Magasins U. Ainsi, c'est au sein de la Coopérative que sont gérés les achats des filières alimentaire, textile, bazar et les achats non marchands. La Coopérative U  regroupe aussi les fonctions transversales telles que la communication, le merchandising, le marketing, la finance, les relations avec l'environnement institutionnel et professionnel",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1825627",
+        "description": "POSTE : Data Scientist H/F\nDESCRIPTION : Sous la Responsabilité du Responsable Datascience et Data Analyse vous valorisez les données de nos clients. Vous intervenez dans des démarches de construction d'outils et d'analyse sur des sujets très variés autour du CRM, de l'animation, des performances produits, de la connaissance clients.\n\nVos  principales missions sont les suivantes :\nAnalyser le(s) besoin(s) :\n\n- Réceptionner et analyser le besoin avec le métier\n- Définir le périmètre et les sources de données pertinentes pour le bon fonctionnement des algorithmes\n- Valider la pertinence des données utilisées\n\nDéfinir, proposer et déployer de nouvelles méthodes de modélisation et d'analyse des données :\n\n- Mettre en oeuvre les algorithme d'IA machine learning efficaces au regard des problématiques abordées\n- Développer des algorithmes d'apprentissage et scénarios prédictifs des comportements clients.\n- Optimiser la segmentation client à l'aide des statistiques et données de consommation\n\nUtiliser des algorithmes d'IA générative pour des problématiques liées aux verbatims clients, au traitement de l'image\nLes + de la Coopérative U\n\nL'ensemble des avantages est soumis à éligibilité selon les accords de l'entreprise.\n\nCette année nous avons accueilli de nouveaux U au sein de nos équipes Coopérative U et c'est avec un immense honneur et beaucoup de fierté que nous annonçons le succès de leur parcours d'intégration. Et oui, on vous chouchoute dès votre arrivée chez Coopérative U en vous préparant, en vous accompagnant avec PEPS avant, pendant et après votre arrivée.\n\nDes collaborateurs bien intégrés sont des collaborateurs sereins et épanouis chez U ;-) !\nPROFIL : Rigoureux, réactif, curieux et sensible aux problématiques marketing, vous trouverez chez nous les données, les outils et l'équipe pour vous épanouir.\n\nVous êtes doté(e) d'un excellent relationnel, et vous avez déjà travaillé en équipe. \nVous avez des compétences en algorithmes de machine learning et en IA générative, en  SQL, Python ou R ; la connaissance de dataiku et/ou de Google Big Query serait un plus.",
+        "ft_reference": "1825627",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "DBMS": [
+                "Big Query"
+            ],
+            "Other": [
+                "Statistiques",
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Data Scientist Senior Banque - Assurance H/F",
         "job": "data scientist",
         "contract_type": "CDI",
         "salary": "Salaire brut : Annuel de 50000,00 Euros à 80500,00 Euros",
         "company": "DEMETER ",
         "location_raw": "NEUILLY SUR SEINE",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -890,9 +1259,9 @@
                 "Spark"
             ],
             "Other": [
-                "Machine Learning",
+                "Big Data",
                 "Statistiques",
-                "Big Data"
+                "Machine Learning"
             ]
         }
     },
@@ -904,7 +1273,7 @@
         "salary": null,
         "company": "VIVERIS ",
         "location_raw": "STRASBOURG",
-        "location": null,
+        "location": "67",
         "remote": null,
         "experience_raw": "Expérience exigée de 1 An(s)",
         "experience": "1 an(s)",
@@ -926,24 +1295,24 @@
         "ft_reference": "1802867",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "DataAnalytics": [
-                "Pandas",
-                "NumPy"
+                "NumPy",
+                "Pandas"
             ],
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "Keras",
                 "TensorFlow",
+                "Keras",
+                "Scikit-Learn",
                 "PyTorch"
             ],
             "Other": [
@@ -959,7 +1328,7 @@
         "salary": null,
         "company": "INFOGENE ",
         "location_raw": "NEUILLY SUR SEINE",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -992,16 +1361,16 @@
             ],
             "CloudComputing": [
                 "AWS",
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "Other": [
                 "Cloud",
-                "DevOps",
+                "ML",
                 "CI/CD",
                 "Machine Learning",
-                "Statistiques",
-                "ML"
+                "DevOps",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1016,7 +1385,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "ACM GIE ",
         "location_raw": "STRASBOURG",
-        "location": null,
+        "location": "67",
         "remote": null,
         "experience_raw": "Expérience exigée de 3 An(s)",
         "experience": "3 an(s)",
@@ -1095,8 +1464,8 @@
                 "Spark"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "TensorFlow"
+                "TensorFlow",
+                "Scikit-Learn"
             ],
             "Statistics": [
                 "Statistiques Bayésiennes"
@@ -1108,12 +1477,12 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication",
@@ -1129,7 +1498,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "CREDIT MUTUEL LEASING ",
         "location_raw": "COURBEVOIE",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée de 3 An(s)",
         "experience": "3 an(s)",
@@ -1157,8 +1526,8 @@
                 "SQL"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1173,7 +1542,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "CRÉDIT AGRICOLE RÉGIONS CENTRE ",
         "location_raw": "POITIERS",
-        "location": null,
+        "location": "86",
         "remote": null,
         "experience_raw": "Expérience exigée de 3 An(s)",
         "experience": "3 an(s)",
@@ -1205,9 +1574,9 @@
                 "Spark"
             ],
             "Other": [
-                "Machine Learning",
+                "Big Data",
                 "Statistiques",
-                "Big Data"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1244,8 +1613,8 @@
         "ft_reference": "1753589",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -1280,15 +1649,15 @@
         "skills": {
             "ProgLanguage": [
                 "R",
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -1300,7 +1669,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "SOFT COMPUTING",
         "location_raw": "PARIS 11",
-        "location": "11",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 3 An(s)",
         "experience": "3 an(s)",
@@ -1329,8 +1698,8 @@
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -1342,7 +1711,7 @@
         "salary": "Salaire brut : 30 - 40 k€ brut annuel",
         "company": "UNIVERSITÉ PARIS-SACLAY ",
         "location_raw": "PARIS 13",
-        "location": "13",
+        "location": "75",
         "remote": null,
         "experience_raw": "Débutant accepté",
         "experience": "débutant accepté",
@@ -1387,7 +1756,7 @@
         "salary": "Salaire brut : A négocier",
         "company": "DOGFINANCE ",
         "location_raw": "NANTERRE",
-        "location": null,
+        "location": "92",
         "remote": null,
         "experience_raw": "Expérience exigée de 4 An(s)",
         "experience": "4 an(s)",

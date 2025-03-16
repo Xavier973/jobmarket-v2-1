@@ -1,1 +1,54 @@
-[]
+[
+    {
+        "source": "France Travail",
+        "job_title": "Architecte BI Data H/F",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "LE MANS 72",
+        "location": "72",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités des agences de placement de main-d'œuvre",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1852636",
+        "description": "Le client est un acteur majeur dans le secteur des services à la personne en France. Fort d\\'une longue expérience et d\\'une solide réputation, cette entreprise s\\'est spécialisée dans l\\'accompagnement quotidien des familles et des individus, offrant une gamme complète de services allant de l\\'aide à domicile au soutien de leurs clients.\nL\\'entreprise se distingue par son engagement en faveur de la qualité de vie et du bien-être de ses clients, tout en plaçant l\\'innovation au cœur de sa stratégie. Elle investit activement dans la transformation numérique pour améliorer l\\'efficacité de ses opérations et offrir des solutions modernes adaptées aux besoins de ses usagers.\nEn tant qu\\'Architecte BI/Data, vos missions seront les suivantes :\n * Spécification et Choix des Composants Techniques : Élaborer l\\'architecture technique et fonctionnelle du SI en intégrant des composants logiciels, bases de données, et développements spécifiques\n * Conception de l\\'Architecture Data : Travailler sur la plateforme Data pour intégrer diverses sources de données et les intégrer dans une structure unifiée et modélisée (Data Vault)\n * Intégration et Validation : Effectuer des tests et recettes avant la mise en production\n * Suivi et Review de Code : Superviser le développement des solutions et valider la review du code\n * Optimisation des Processus : Participer à l\\'amélioration des processus de ticketing, notamment en vue de la révision de l\\'outil Freshservice l\\'année prochaine, et s\\'assurer de l\\'application des bonnes pratiques\n * Collaboration avec les Métiers et Support Inter-filiales : Fournir un support aux filiales utilisant différents outils (ex : PowerBI) et collaborer étroitement avec les équipes en Tunisie et en France pour garantir l\\'uniformité des solutions\n * Optimisation et Evolution de l\\'Architecture\n* Télétravail : Jusqu\\'à deux jours par semaine\n * Environnement Technique : Travail au sein d\\'une équipe dynamique, sous la supervision de l\\'Architecte Logiciel, dans un environnement technique axé sur le Cloud et les solutions Data.\nCompétences demandées :\nMaîtrise du Cloud : Expertise en AWS, Snowflake... Bonne connaissance des environnements Cloud et des outils de transformation de données.\nProgrammation : Excellente maîtrise de SQL, avec des compétences en Python pour le développement de solutions analytiques et d\\'intégration de données\nModélisation et Intégration\nOutils de Data Visualisation : Tableau, Qlik, PowerBI\nGestion de Projets : Expérience en gestion de projets, avec une compréhension des méthodologies Scrum et une capacité à piloter les sprints\nExpérience : Minimum 3 ans d\\'expérience sur des projets similaires...",
+        "ft_reference": "1852636",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

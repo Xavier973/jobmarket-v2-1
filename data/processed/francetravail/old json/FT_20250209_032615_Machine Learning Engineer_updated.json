@@ -1,0 +1,170 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Machine Learning Engineer PYTHON (IT) / Freelance (H/F)",
+        "job": "machine learning engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "BORDEAUX 33",
+        "location": "33",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1939055",
+        "description": "Client : Commerce en ligne\nPoste : Ingenieur d'Etudes\nExpérience : 3 à 6 ans\nLocalisation : Bordeaux\nMission\nau débogage et l'assistance auprès de nos équipes DataScience\n- à l'industrialisation des processus de déploiement des modèles de machine Learning\n- à la conception et animations de formations auprès des Data Scientists\n- à l?automatisation des tests fonctionnels\n- à l'optimisation de code python\n- à l?industrialisation du déploiement des applications en utilisant les bonnes pratiques de la CICD\n- à former et accompagner les datascientist aux bonnes pratiques de développement\n- à sensibiliser aux bonnes pratiques de developpement (Clean Code, SOLID, Refactoring...)\nCompétences techniques requises :\n- Très bon niveau en Python, SQL\n- Connaissance Datascience,Docker et Kubernetes\nBonus : Connaissance Concept MLOps\nProfil candidat:\nSavoir-être attendu :\n- Sens du service et de la relation client\n- Pédagogie, vulgarisation\n- Curiosité, autonomie\n- Intérêt pour le domaine de la data science\n- Aisance relationnelle et capacité d?écoute\nCompétences techniques :\nPython (2 à 5 ans d'expérience)\nSQL (2 à 5 ans d'expérience)\nDeep learning / machine Learning (junior )\nBonne connaissance du cycle de dev, du build jusqu'à la livraison en production ( 2 à 5 ans d'expérience)\nDocker/ kubernetes (junior )\nLes points importants à connaitre sur ce poste :\n- Expertise en développement Python nécessaire\n- Présence sur site à Bordeaux indispensable les lundi/ mardi et jeudi\n- Mission longue",
+        "ft_reference": "1939055",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "POT8227-Un Machine Learning Engineer sénior Sur la défense (IT) / Freelance (H/F)",
+        "job": "machine learning engineer",
+        "contract_type": "Profession",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1933262",
+        "description": "Amatek recherche pour l'un de ses clients ,Un Machine Learning Engineer sénior Sur la défense\nVOTRE ROLE\nEn tant que Machine Learning Engineer (F/H), vous aurez pour premier rôle l'industrialisation de\nprojets de Data Science pour la direction OPEX France,, autour des Use Cases de type\nDocument Processing / Understanding, afin d'automatiser des processus Métier. Pour y parvenir\nil sera nécessaire de collaborer avec les Data Scientists de l'équipe pour industrialiser les projets\nen Production, ainsi que de contribuer aux outils de monitoring nécessaires pour suivre la\nperformance des IA livrées.\nVOTRE MISSION\nVous serez intégré au sein d?une équipe composée de Data Scientists et de ML Engineers pour\ngarantir la livraison d?IAs de haute qualité, innovants et alignés à l?état de l?Art du marché.\nVotre rôle de Machine Learning Engineer est clé car il doit permettre à notre structure d?accélérer\nsa transformation en utilisant la Data et l?IA comme un levier stratégique.\nVous jouerez un rôle clé dans l'industrialisation des produits IA, le MLOps, la gouvernance de\nl'IA, la mise en place d'un socle technologique pour l'innovation et le delivery de projets à forte\nvaleur ajoutée.\nVous aurez la charge d?accompagner l'équipe dans le cadrage des projets et dans la mise en\nplace des bonnes pratiques de qualité logicielle et d?architecture, de contribuer à la mise en\nproduction automatisée des modèles de Machine Learning en vous assurant du maintien de leur\nfonctionnement et d?être garant de l?application des pratiques ML OPS.\nEn tant que Machine Learning Engineer, votre maitrise avancée des technologies et pratiques\nvous permettent de travailler sur des projets stratégiques et à fort impact pour l?entreprise. Vos\ncompétences dans le domaine de l?IA vous permettent de définir les pratiques ML OPS et LLM\nOPS et d?identifier les nouvelles technologies et pratiques de demain en respectant les principes\nd?architectures et la conformité aux enjeux de sécurité de l?entreprise.\nProfil candidat:\nExpertise souhaitée\nVOTRE PROFIL\nVous êtes issue d'une formation scientifique universitaire ou d'école d'ingénieur (Bac +5), vous\navez plusieurs années d?expérience (+ de 4 ans) en tant que Machine Learning Engineer dans le\ndomaine de la Data Science et du Machine Learning appliqué en entreprise, avec plusieurs\nmodèles mis en Production.\nVous disposez d?une expertise en Software Engineering et en Data Science et souhaitez les\nmettre en application dans un contexte riche et challengeant.\nPython n?a plus de secrets pour vous, et vous êtes une Software Craftsperson reconnue qui\nutilise le BDD, le TDD et les revues de code pour écrire du code Clean avec une maitrise des\ndifférents types d?architecture logicielle et patterns pour répondre aux besoins métiers.\nLa tête dans le Cloud, vous avez contribué à définir des bonnes pratiques dans le cadre du ML\nOPS / LLM OPS au sein de votre entreprise et vous êtes un utilisateur aguerri de Docker et\nKubernetes.\nVous pensez  Client  et vous valorisez au même niveau les Soft Skills et les Hard Skills et\nvous êtes reconnu pour votre leadership, votre capacité à communiquer et votre assertivité.\nCompétence interpersonnelles :\nCapacité à vulgariser des concepts IA\nBonne capacité de communication : tant à l'oral qu'à l'écrit\nNICE TO HAVE\nUne expérience avec le cloud Azure notamment le service Azure Machine Learning.\nDes connaissances Databricks / pySpark.\nUne sensibilité particulière à avoir une approche pour IA \"Responsable\".",
+        "ft_reference": "1933262",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "ML",
+                "Cloud",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Leadership"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Machine Learning Engineer (IT) / Freelance (H/F)",
+        "job": "machine learning engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1933167",
+        "description": "A PROPOS DU POSTE\nBasé sur notre site de Nanterre ou de Wasquehal, vous intégrerez l?AI Factory, qui fait partie intégrante du Data Office d?AXA France. Cette AI Factory a pour but d?implémenter et d?aider à industrialiser les projets s?appuyant sur l?intelligence artificielle au c?ur des activités d?AXA France.\nL?AI Factory et ses équipes contribuent au Delivery de bout en bout de projets intégrant de l?IA, de l?idéation à la mise en production jusqu?au monitoring des cas d?usage.\nVOTRE ROLE\nEn tant que Machine Learning Engineer (F/H), vous aurez pour premier rôle l'industrialisation de projets de Data Science pour la direction OPEX d'AXA France, autour des Use Cases de type Document Processing / Understanding, afin d'automatiser des processus Métier. Pour y parvenir il sera nécessaire de collaborer avec les Data Scientists de l'équipe pour industrialiser les projets en Production, ainsi que de contribuer aux outils de monitoring nécessaires pour suivre la performance des IA livrées.\nVOTRE MISSION\nVous serez intégré au sein d?une équipe composée de Data Scientists et de ML Engineers pour garantir la livraison d?IAs de haute qualité, innovants et alignés à l?état de l?Art du marché.\nVotre rôle de Machine Learning Engineer est clé car il doit permettre à AXA d?accélérer sa transformation en utilisant la Data et l?IA comme un levier stratégique.\nVous jouerez un rôle clé dans l'industrialisation des produits IA, le MLOps, la gouvernance de l'IA, la mise en place d'un socle technologique pour l'innovation et le delivery de projets à forte valeur ajoutée.\nVous aurez la charge d?accompagner l'équipe dans le cadrage des projets et dans la mise en place des bonnes pratiques de qualité logicielle et d?architecture, de contribuer à la mise en production automatisée des modèles de Machine Learning en vous assurant du maintien de leur fonctionnement et d?être garant de l?application des pratiques ML OPS.\nEn tant que Machine Learning Engineer, votre maitrise avancée des technologies et pratiques vous permettent de travailler sur des projets stratégiques et à fort impact pour l?entreprise. Vos compétences dans le domaine de l?IA vous permettent de définir les pratiques ML OPS et LLM OPS et d?identifier les nouvelles technologies et pratiques de demain en respectant les principes d?architectures et la conformité aux enjeux de sécurité de l?entreprise.\nProfil candidat:\nxpertise souhaitée\nVOTRE PROFIL\nVous êtes issue d'une formation scientifique universitaire ou d'école d'ingénieur (Bac +5), vous avez plusieurs années d?expérience (+ de 4 ans) en tant que Machine Learning Engineer dans le domaine de la Data Science et du Machine Learning appliqué en entreprise, avec plusieurs modèles mis en Production.\nVous disposez d?une expertise en Software Engineering et en Data Science et souhaitez les mettre en application dans un contexte riche et challengeant.\nPython n?a plus de secrets pour vous, et vous êtes une Software Craftsperson reconnue qui utilise le BDD, le TDD et les revues de code pour écrire du code Clean avec une maitrise des différents types d?architecture logicielle et patterns pour répondre aux besoins métiers.\nLa tête dans le Cloud, vous avez contribué à définir des bonnes pratiques dans le cadre du ML OPS / LLM OPS au sein de votre entreprise et vous êtes un utilisateur aguerri de Docker et Kubernetes.\nVous pensez  Client  et vous valorisez au même niveau les Soft Skills et les Hard Skills et vous êtes reconnu pour votre leadership, votre capacité à communiquer et votre assertivité.\nCompétence interpersonnelles :\nCapacité à vulgariser des concepts IA\nBonne capacité de communication : tant à l'oral qu'à l'écrit\nNICE TO HAVE\nUne expérience avec le cloud Azure notamment le service Azure Machine Learning.\nDes connaissances Databricks / pySpark.\nUne sensibilité particulière à avoir une approche pour IA \"Responsable\".\nMobilité\nDes déplacements entre les sites de Nanterre et le site de Wasquehal (Lille) sont à prévoir",
+        "ft_reference": "1933167",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "BigData": [
+                "Databricks"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "ML",
+                "Cloud",
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Leadership"
+            ]
+        }
+    }
+]

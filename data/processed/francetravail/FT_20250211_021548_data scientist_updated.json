@@ -1,0 +1,409 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "EXPERT DATA H/F (H/F)",
+        "job": "Other",
+        "contract_type": null,
+        "salary": "Salaire brut : Annuel de 54000.0 Euros sur 13.5 mois",
+        "company": "GESTIMAT ",
+        "location_raw": "VINCENNES",
+        "location": "94",
+        "remote": null,
+        "experience_raw": "3 Mois",
+        "experience": "3 mois",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Traitement de données, hébergement et activités connexes",
+            "company_size": "50 à 99 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187XQCQ",
+        "description": "Depuis 1874, le Groupe DEHON, société familiale, est le spécialiste des fluides frigorigènes pour les métiers du froid et de la climatisation. Fort de ce développement, le groupe s'est diversifié, se positionnant en leader du marché des produits chimiques de spécialités. \nComposé de plus de 500 salariés en Europe, en Asie et en Amérique du Sud, il distribue ses produits dans le monde entier. Il dispose de sites d'exploitation pour 7 sites en France regroupant plus de 300 personnes.\n\nGESTIMAT est la société de services du Groupe DEHON, qui regroupe l'ensemble des fonctions support du Groupe DEHON.\n\nLA RESPONSABILITE / FINALITE\n\nEn tant qu'expert data, vous devrez participer à l'organisation et aux traitements des données.\nVous prendrez part au projets autours de la donnée, principalement sont transport et sa consommation par les applications du goupe. Dans l'équipe MiddleWare, vous travaillerez en étroite collaboration avec les équipes techniques, collaborateurs métiers et data management. Vous prendrez part aux projets pour garantir le succès de leur mise en œuvre et serez force de proposition pour toutes évolutions et optimisations de notre système et de la stratégie data de notre système d'information.Il peut vous être demandé de participer à des déplacements en filiales et à l'international\n\nLES ACTIVITES PRINCIPALES\n\n- Recueil et analyse des besoins métiers \n- Rédaction des spécifications techniques et fonctionnelles\n- Développement de flux de données. Etl Talend \n- Suivi de mise en production\n- Maintien en condition opérationnelle de la plate-forme Talend\n- Développement de flux d'intégration à la plate-forme SalesForce\n- Assurer en collaboration avec les autres métiers de la DSI une intégration fluide du système\n- Assurer le support technique et la résolution des problèmes aux utilisateurs après mise en production\n- Participation et force de proposition aux évolutions technologiques de la DSI.\n- Participation aux projets d'I.A  (L.L.M., Machine Learning, Deep Learning)\n- Innovation et veille technologique sur les standards et outils de l'équipe MiddleWare \n\nLES COMPETENCES REQUISES\n\n- 5 ans d'expérience avérée de développement en ETL - Talend (Batch et API)\n- Connaissance et expérience de flux et des process SalesForce \n- Maîtrise du SQL, Java, Python. \n- Maitrise des concepts d'urbanisation de la donnée\n- Expérience Cloud et Big Data \n- Maitrise des outils de DataViz, (env  qlik serait un plus)\n- Notion des concepts des données en Business Intelligence \n- Fortes compétences analytiques et de résolution de problèmes.\n- Compétences sur la gestion des données pour la production de service en Intelligence Artificielle \n- Capacité à travailler en équipe et bonne communication \n\nQUALIFICATION REQUISE\n\n- Ingénieur/ M.I.A.G.E. ou master data et Intelligence artificielle ou ingénierie mathématique et informatique \n- Conduite de projets\n- Anglais et Français obligatoire (travail en anglais avec différentes filiales du groupe)\n\nL'ENVIRONNEMENT\n\n- Intégré à la DSI  -  Vincennes France \n- Déplacements en France et à l'international\n- Possibilité de télétravail après période d'essais et d'intégration. \n- Talend Cloud, TMC, Api, Batch , Stream,  Gitlab, Sql Server, SalesForce, QlikSense,  SGBDr, MongoDb, Amazon S3,  Java, Sql, Python, LLM, Xml , Json, xlsx, csv, dbeaver, Azure",
+        "ft_reference": "187XQCQ",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java"
+            ],
+            "DataBase": [
+                "MongoDB",
+                "SQL"
+            ],
+            "DataSerialization": [
+                "Json",
+                "XML"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Cloud",
+                "Big Data"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technicien droits des sols analyse de données (H/F)",
+        "job": "Other",
+        "contract_type": null,
+        "salary": "Salaire brut : Selon la situation administrative",
+        "company": "LE MANS METROPOLE COMMUNAUTE URBAINE ",
+        "location_raw": "LE MANS",
+        "location": "72",
+        "remote": null,
+        "experience_raw": "12 Mois",
+        "experience": "12 mois",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Administration publique générale",
+            "company_size": "1000 à 1999 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187WWHH",
+        "description": "L'environnement de travail :\n\nLa direction Urbanisme - Qualité architecturale est constituée de 3 services et d'1 pôle : les services Études Urbaines et Planification, Droits des Sols/ERP, Foncier et La Fabrique. Au sein du service Droits des Sols/ERP vous aurez pour missions d'assurer l'administration fonctionnelle des logiciels d'instruction droit des sols, ERP, enseignes, TLPE, foncier et gestion locative ainsi que l'extraction de données statistiques.\n\nCe poste est fait pour vous si vous souhaitez :\n\nParamétrage et administration des logiciels :\n\n- Créer et mettre à jour les supports et les paramétrages selon les contraintes métier\n- Accompagner, conseiller et former les utilisateurs sur l'usage des logiciels\n- Créer et suivre les tickets fonctionnels auprès de l'éditeur / Relancer l'éditeur sur les tickets non résolus\n- Analyser et corriger les dysfonctionnements fonctionnels\n- Tester les mises à jour\n- Ecrire les procédures fonctionnelles\n\nCollecter et exploiter les données statistiques :\n\n- Extraire les données, analyser et mettre en forme les résultats pour la Direction et les autres services\n- Être le correspondant SITADEL (Statistiques nationales de la construction) : extraire et transmettre mensuellement les données ; répondre aux demandes de compléments d'information du Ministère\n- Être le correspondant RIL (INSEE), transmettre les fichiers d'autorisation de logements et participer à la validation de nouvelles adresses en lien avec la Direction des systèmes d'information et numérique ainsi que le référent RIL de la Ville du Mans\n\nRéaliser des publications notamment graphiques :\n\n- Editer les bilans d'activités annuels et trimestriels\n- Réaliser la charte de saisie en lien avec les logiciels\n- Effectuer le support de communication aux utilisateurs\n\n\nParlons de vous :\n\n- Vous êtes titulaire d'un diplôme de niveau Bac+2/+3 spécialisé dans le domaine de l'informatique\n- Vous êtes spécialisé dans l'analyse de données\n- Vous avez des connaissances en Urbanisme, Aménagement, Environnement et Foncier\n- Vous avez la capacité à lire et analyser des plans et documents d'urbanisme\n- Vous maitriser l'élaboration de publication de statistiques (annuelles, thématiques, géographiques, etc.)\n- Vous savez mettre en œuvre une veille réglementaire dans le but de suivre les évolutions\n- Vous êtes doté de compétences rédactionnelles (rédaction de procédures) et d'animation (animation de réunions)\n- Vous êtes reconnu pour votre rigueur, sens de l'organisation, autonomie, disponibilité, polyvalence ainsi que votre sens du service public et de communication\n\nIntégrer la collectivité si vous :\n\n- Souhaitez travailler au sein d'un service porteur de projets innovants tels que :\no La dématérialisation du dépôt et de l'instruction des autorisations d'urbanisme et des DIA\no L'évolution et le remplacement des logiciels d'instruction, de gestion et de facturation\n\n- Avez envie de travailler au sein d'une équipe pluridisciplinaire engagée, vous permettant de mettre en avant tout votre potentiel\n\nAdressez CV et lettre de motivation (OBLIGATOIRE) avant le 12 mars 2025 à Monsieur Le Président de Le Mans Métropole",
+        "ft_reference": "187WWHH",
+        "skills": {
+            "Other": [
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist Senior H/F",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": null,
+        "company": "HARMONIE MUTUELLE ",
+        "location_raw": "RENNES",
+        "location": "35",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": null,
+            "company_size": "A propos, qui sommes-nous ? \nHarmonie Mutuelle, Membre fondateur du groupe VYV, est un acteur leader de la protection sociale en France et protège 5 millions de personnes, 150 000 entrepreneurs et 88 700 entreprises qui ont choisi d'être accompagnés par une entreprise mutualiste à mission. Dotée d'une raison d'être, inscrite dans ses statuts, Harmonie Mutuelle s'engage à agir sur la santé des personnes et de la société.\nActeur de l'Économie Sociale et Solidaire (ESS), Ha...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2016909",
+        "description": "Vous êtes en quête d'une nouvelle aventure professionnelle collective et porteuse de sens ?\nVous voulez un parcours qui vous ressemble ?\nVous avez envie d'évoluer dans un environnement de travail épanouissant fondé sur la confiance, la diversité et l'égalité des chances ?\nRejoignez les équipes Harmonie Mutuelle ! Ensemble, nous pouvons faire la différence.\nLe poste :\nNous opérons notre transformation digitale et renforçons le besoin de pilotage de nos flux et activités au sein de la Direction des Services et de la Satisfaction Clients. Dans ce cadre, nous recherchons un(e) Data Scientist pour renforcer l'équipe Pilotage et Analyse Data Science. Parmi nos sujets : analyser les activités des centres de gestion, mesurer l'efficacité des actions de digitalisation, robotisation et dématérialisation, analyser et détecter les fraudes à la mutuelle, modéliser des dimensionnements de flux et d'équipes.\nVos principales missions :\nVous participez au développement de cette équipe avec pour mission principale le développement, l'automatisation et l'industrialisation d'algorithmes dans l'objectif d'améliorer la détection de la fraude.\nEn réel porteur de votre projet, vous menez de bout en bout la gestion de votre usecase : idéation, compréhension de l'expertise métier, promotion de votre concept de solution, codage de votre solution, identification de l'operationnalisation de votre algorithme, participation à l'industrialisation de votre modèle dans les systemes opérationnels\nVous développez du code, et avez pour mission de :\n- Collecter l'ensemble des informations (hypothèses, roadmap, projet, nouvelles données) nécessaires à la réalisation des modèles et à leurs évolutions auprès des interlocuteurs métiers\n- Explorer et croiser les données en vous appuyant sur les informations collectées\n- Développer et maintenir des modèles mathématiques et/ou machine learning pour détecter des cas de fraudes. Suivre, actualiser, améliorer ces modèles\nEn complément du développement algorithmique, votre rôle attendu est de :\n- Apporter une expertise technique pointue sur les sujets de data science, d'architecture logicielle, de sotfware engeneering, et d'adhésion de la solution auprès des métiers.\n- Intervenir sur des projets transverses au sein de l'équipe et d'Harmonie Mutuelle (datalab, analyse d'impact.)\nIssu(e) d'une formation Bac + 5 avec une spécialisation en Statistiques / Econométrie / Analyse de données, vous avez au moins 7 ans d'expérience en data science. Vous maitrisez les technique de data mining, machine learning et d'industrialisation data.\nVous appréciez particulièrement développer du code.\nVous êtes à l'aise sous Python, SAS, SQL. Vous comprenez et avez déjà participé à des projets de plateforme data.\nVous êtes curieux(se), rigoureux(se) et doté(e) d'un bon esprit de synthèse vous permettant d'exceller en résolution de problèmes. Vous êtes force de proposition, autonome, dynamique, innovant, structuré. \nVous aimez le travail en équipe et démontrez des qualités de communication pour partager vos idées et résultats de façon efficace. Vous avez un bon sens relationnel pour communiquer à des niveaux hiérarchiques élevés (Direction). Une connaissance des métiers de la mutuelle serait un plus.\nLe poste n'intègre pas de dimension managériale, mais une séniorité technique pointue.\n22,5 jours de RTT par an\nDes horaires flexibles pour la majorité des postes\nJusqu'à 3 jours de télétravail par semaine (à partir de 6 mois d'ancienneté)\nCarte déjeuner et CSE (enveloppes loisirs, culture, avantages vacances.)\nCompte Epargne Temps\nForfait mobilité durable\nContrat collectif santé et prévoyance\nPEE et Retraite\nPrime d'intéressement",
+        "ft_reference": "2016909",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "Other": [
+                "Machine Learning",
+                "Statistiques"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist - Analyste développeur F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "EURO-INFORMATION DEVELOPPEMENTS ",
+        "location_raw": "NANCY",
+        "location": "54",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Tierce maintenance de systèmes et d'applications informatiques",
+            "company_size": "Euro-Information, filiale technologique de Crédit Mutuel Alliance Fédérale, conçoit, réalise, maintient et exploite un système d'information commun utilisé par le Groupe.\n\nLes activités de développement et de production informatique au niveau national et international sont assurées par environ 4000 salariés répartis sur plusieurs sites géographiques au niveau national : Strasbourg, Nancy, Dijon, Orléans, Lyon, Lille, Cergy, Val de Fontenay, Paris et Nantes.\n\nPremière Ban...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2007287",
+        "description": "Descriptif du poste:\n\nAu sein de l'équipe en charge de concevoir et maintenir les services en Machine Learning destinés à détecter et prévenir les fraudes financières et le blanchiment, vos missions seront les suivantes :\n* Réaliser des études initiales pour évaluer le coût et les gains potentiels d'utilisation du Machine Learning\n* Concevoir des algorithmes et des modèles performants répondant aux différents besoins métier\n* Concevoir et rédiger des spécifications fonctionnelles et techniques\n* Etre en soutien des chefs de projets pour répondre aux demandes d'évolutions, organiser les déploiements, suivre et maintenir la production\n* Travailler en mode projet dans le respect du Système de Management de la Qualité\n* Assurer un travail de vieille scientifique notamment via l'accompagnement de Data Scientists juniors et externes.\n\nProfil recherché:\n\nDiplômé d'un Bac+5 scientifique, vous êtes un(e) Data Scientist confirmé(e) ou possédez une expérience professionnelle de minimum 3 ans en développements Python ainsi qu'une réelle expertise en Machine Learning/Deep Learning. Une expérience avec les données structurées serait un plus.\nVous savez faire preuve d'autonomie en conception et évaluation d'algorithmes et de modèles. Vous avez déjà travaillé en méthode agile et vous maîtrisez l'anglais écrit et parlé.\nAutonome et organisé(e), vous faites preuve d'initiatives et d'esprit de synthèse. Vous possédez de bonnes qualités relationnelles et aimez travailler en équipe. Vous avez le souci du respect des normes et standards qualité.",
+        "ft_reference": "2007287",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data scientist F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": "Salaire brut : A partir de 35 k€ brut annuel",
+        "company": "AMILTONE ",
+        "location_raw": "LILLE",
+        "location": "59",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Qui sommes-nous ?\n\n\n\nNous sommes passionnés par les nouvelles technologies, et vous ? \n\n\n\nRejoindre Amiltone, c'est intégrer des équipes dynamiques et soudées dans le cadre de projets novateurs et ambitieux. Nous relevons les challenges techniques de nos clients et les accompagnons dans leur transformation digitale.\n\n\n\nPourquoi choisir Amiltone ? \n\n\n\n Amiltone, plus qu'une entreprise, un état d'esprit !\n\n\n\nNotre objectif ? Votre épanouissement professionn...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2007033",
+        "description": "Descriptif du poste:\n\nMission : \n\n\n\nEn tant que Data Scientist (H/F), vous serez en charge des missions suivantes :\n\n\n\n- Concevoir et développer les futures fonctionnalités de la plateforme sous Google Cloud Platform.\n\n- Concevoir les flux d'alimentation et les tables (structure de donnée).\n\n- Automatiser et industrialiser les flux.\n\n\n\nLa stack technique :\n\n\n\n- Maîtrise des outils permettant de gérer les gros volumes de données (stockage HDFS, calcul distribué, .) via Spark.\n\n\n\n- Expérience significative dans la mise en production de solutions de ML ayant un impact à grande échelle sur les clients.\n\n\n\n- Maîtrise des pratiques de packaging ML et de mise en place des architectures AI avancées.\n\n\n\n- Maîtrise des environnements de développement sur le Cloud (ex : AWS, SageMaker, DataBricks, etc.).\n\n\n\n- Maîtrise des outils de développement : Git, Github, CI/CD, VSCode/Pycharm, Terminal.\n\n\n\n- Maîtrise de l'Anglais indispensable.\n\nProfil recherché:\n\nProfil \n\n\n\nAlors ? Prêt à devenir Amiltonien ? \n\n\n\nN'hésitez pas à postuler si vous vous reconnaissez : \n\n\n\nDiplômé bac+5 (école d'ingénieur ou master), vous souhaitez monter en compétences sur des sujets Data, Algorithmie & Machine Learning. \n\n\n\nVous aimez découvrir de nouveaux contextes fonctionnels et comprendre les objectifs des applications que vous développez.\n\n\n\nA l'aise dans une organisation agile, vous faites preuve de rigueur et appliquez les standards de qualité Amiltone durant toute la durée des développements.\n\n\n\nOutre vos compétences techniques, nous nous intéressons également à votre potentiel et votre motivation.\n\n\n\nNos postes sont ouverts aux personnes en situation de handicap",
+        "ft_reference": "2007033",
+        "skills": {
+            "BigData": [
+                "Databricks",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "Google Cloud Platform",
+                "AWS"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "Machine Learning",
+                "ML",
+                "Cloud",
+                "CI/CD"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data scientist expérimenté F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "CLS ",
+        "location_raw": "RAMONVILLE ST AGNE",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": "Au cœur des enjeux de la planète, CLS, Tech4Good company, filiale du CNES et de la CNP, est une société à mission internationale, pionnière dans la fourniture de solutions d'observation et de surveillance de la Terre.\n\n\n\nOpérateur historique des balises Argos, CLS, depuis 1986, avec plus de 950 salariés dans 33 pays et un chiffre d'affaires annuel de près de 180 millions d'euros, figure parmi les spécialistes des services satellitaires en utilisant les technologies spatiales l...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2006301",
+        "description": "Descriptif du poste:\nLe DataLab de CLS est une structure interne d'innovation transverse au sein du groupe CLS, constituée de data scientists, de développeurs et d'ingénieurs Big Data. Son objectif principal est de concevoir des produits pour enrichir et valoriser la donnée dans les solutions CLS et de développer les pratiques data/IA au sein de CLS.\n\n\n\nLes data scientists travaillent à la fois sur des sujets d'innovation, de R&D et de production. Dans leur rôle transverse, ils sont amenés à collaborer avec les équipes métier de toutes les business units de CLS et travailler :\n\n\n\nAvec une grande diversité de données (données satellites optiques et radars, météo, données océaniques, trajectoires, télémétrie.)\n\nSur différentes applications (segmentation sémantique, classification, prédiction, détection d'anomalies.)\n\nPour de différents cas d'usage métier (plan d'occupation des sols, analyse de trajectoires, prédiction de données environnementales, analyses de comportement.)\n\n\n\nDans ce cadre, nous cherchons un Data Scientist expérimenté pour renforcer l'équipe avec un focus sur l'observation de la terre.\n\n\n\nEn tant que Data Scientist, vous devrez :\n\n\n\nComprendre le besoin métier et formuler le problème en tenant compte des données disponibles, des contraintes du projet.\n\nAnalyser les approches possibles et explorer la littérature scientifique pertinente si nécessaire.\n\nConcevoir, mettre en œuvre et tester des algorithmes (traitement du signal, statistique, ML ou DL suivant le besoin) jusqu'à leur industrialisation,\n\nDévelopper des data visualisations (dashboard, streamlit) si nécessaire,\n\nParticiper ponctuellement à des appels d'offre : compréhension du besoin, chiffrage des activités, rédaction de la partie technique des propositions.\n\nÊtre force de proposition pour améliorer nos pratiques data/IA/ML (collaboration, pratiques de code, standardisation des solutions, .) au sein du Datalab, de la Direction Advanced Tech et de CLS au global.\n\nParticiper activement à la vie d'équipe du Datalab (partage d'expérience, veille technologique)\n\nProfil recherché:\nIngénieur de formation ou titulaire de Master statistiques, mathématiques ou data science, vous avez minimum 4 années d'expérience en machine learning/deep learning, particulièrement en applications géospatiales pour l'observation de la terre.\n\n\n\nVous aimez traduire des problématiques métiers complexes en solutions analytiques concrètes, travailler avec les équipes métiers et participer activement à l'amélioration continue des pratiques data/IA.\n\n\n\nVous maîtrisez :\n\n\n\n- Le langage python et ses principales librairies en data science (pandas, scikit-learn),\n\n\n\n- Le framework pytorch et son écosystème (lightning, torchgeo),\n\n\n\n- La manipulation et le traitement des données géospatiales (rasterio, xarray, geopandas),\n\n\n\n- L'utilisation de Git, docker et les bonnes pratiques de développement de code.\n\n\n\nLa connaissance des technologies big data (Hadoop/Spark), cloud (AWS) et orchestration (Kubernetes, Kubeflow, Sagemaker) est un plus.\n\n\n\nNous souhaitons intégrer à nos équipes des collaborateurs enthousiastes, passionnés et curieux. L'ouverture d'esprit, l'aisance relationnelle, la flexibilité, l'autonomie et l'esprit d'analyse sont attendus.\n\n\n\nEnfin si pour vous l'esprit d'équipe est primordial, que vous êtes force de proposition, et que votre motivation est sans faille, alors n'hésitez plus, et venez nous rejoindre pour participer à l'animation de l'équipe du Datalab de CLS.",
+        "ft_reference": "2006301",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataAnalytics": [
+                "Pandas",
+                "R"
+            ],
+            "BigData": [
+                "Hadoop",
+                "Spark"
+            ],
+            "MachineLearning": [
+                "PyTorch",
+                "Scikit-Learn"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Git",
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "ML",
+                "Big Data",
+                "Machine Learning",
+                "Statistiques",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Data Scientist F/H - Système, réseaux, données (H/F)",
+        "job": "data engineer",
+        "contract_type": null,
+        "salary": "Salaire brut : 30 - 40 k€ brut annuel",
+        "company": "QUESTEL ",
+        "location_raw": "PARIS 02",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Traitement de données, hébergement et activités connexes",
+            "company_size": "La mission de Questel est de faciliter le développement de l innovation d une manière efficace, sûre et durable. Questel fournit une plateforme intégrée de logiciels et de services permettant de répondre à tous les besoins en termes de gestion de la propriété intellectuelle et du management de l innovation. Avec plus de 6000 clients dans 30 pays, Questel est un leader dont l expertise IT est reconnue à travers le monde et se décline dans toutes ses offres Chez Questel, nos emplo...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2004670",
+        "description": "Descriptif du poste:\n\nNous recrutons pour nous aider à mettre en production notre système de recherche intelligent \"Qatent Search\", appliqué à une base de données de 150 millions de brevets chez Questel.\nResponsabilités Principales :\n1. Mise en Production de la Base de Données vectorielle : Implémentation et gestion de la procédure de mise à jour quotidienne de la base de données. Calcul des plongements (embeddings) pour chaque nouveau brevet intégré\n2. Adaptation aux Nouveaux Modèles de Langues : Adaptation de la comparaison des caractéristiques essentiels entre les requêtes de recherche et les brevets de la base de données. Intégration de nouveaux modèles de langues (LLM) open source pour améliorer les performances du système\n3. Amélioration Continue et Développement : Collecte des retours d'utilisateurs pour identifier les points d'amélioration. Correction de bugs et développement de nouvelles fonctionnalités pour optimiser la recherche intelligente.\n\nProfil recherché:\n\nDe formation ingénieur avec une expérience en nouveaux modèles d'IA. Connaissances solides sur nouveaux modèles de langues (LLM). 1ère expérience réussie d'au moins 2ans dans un domaine similaire.",
+        "ft_reference": "2004670",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Actuaire - data scientist - Prévoyance F/H - Etudes socio-économiques (H/F)",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "ACM GIE ",
+        "location_raw": "STRASBOURG",
+        "location": "67",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 3 An(s)",
+        "experience": "3 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Assurance vie",
+            "company_size": "Depuis 1971, nous imaginons, concevons et orientons les offres et services qui contribuent au développement de l'activité assurance de Crédit Mutuel Alliance Fédérale, inventeur du concept de bancassurance.\nLes Assurances du Crédit Mutuel sont présentes sur les marchés des assurances de biens, des assurances de personnes comme de l'assurance-vie. Nous proposons des solutions à tous ceux qui désirent se protéger et anticiper demain, qu'ils soient particuliers, professionnels ou ...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2004479",
+        "description": "Descriptif du poste:\n\nAu sein de la Direction des Assurances de personnes, vous intégrez l'équipe Actuariat en charge de la tarification des solutions d'assurance en Prévoyance individuelle et collective, et travaillez en étroite collaboration avec l'ensemble des collaborateurs du service (conception de produits, juridique, gestion de projets et plateformes de gestion).\nVous contribuez au suivi de l'activité par :\n- l'analyse statistique et technique des différents produits\n- l'identification et la mise en place d'indicateurs pertinents de performance\n- l'automatisation des procédures d'analyse\n- la rédaction de reporting\n- l'analyse du portefeuille\n\nVous participez à la conception et l'évolution des produits : \n- Définition des risques\n- Tarification\n- Montage de Business Plan\n\nVous cherchez à optimiser la rentabilité de la branche en assurant le pilotage technique : \n- Modélisation et analyse des risques\n- Anticipation d'éventuelles dérives du portefeuille\n- Analyse de la tarification et proposition d'ajustements\n\nVous participez à la diffusion des travaux de l'équipe au sein de l'entreprise : \n- Présentation et rédaction technique\n- Réalisation de notes de synthèse à destination de la direction\n\nProfil recherché:\n\nIssu(e) d'une formation délivrant le titre d'actuaire, vous justifiez d'une expérience de 3 ans minimum en CDI.\nA l'aise avec les chiffres et le traitement des données, vous faites preuve de rigueur et d'un réel esprit d'analyse.\nVous disposez d'une réelle appétence pour les outils et environnements informatiques (SAS et Excel de façon avancée).\nUne bonne connaissance de l'assurance et du domaine de la prévoyance constituerait un plus.",
+        "ft_reference": "2004479",
+        "skills": {
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Scientist Expérimenté F/H - Système, réseaux, données (H/F)",
+        "job": "data scientist",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "DOGFINANCE ",
+        "location_raw": "PARIS 01",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Dogfinance est une plateforme de recrutement et de networking spécialisée dans les métiers de la finance, de la banque, de l'audit, et de l'assurance. Créée pour répondre aux besoins spécifiques des professionnels et entreprises du secteur financier, elle offre une interface unique où candidats et recruteurs peuvent interagir de manière ciblée et efficace.\nLes services de Dogfinance vont au-delà du recrutement traditionnel. La plateforme propose également des événements de n...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2003699",
+        "description": "Descriptif du poste:\n\nDescription de l'entreprise\nEY Consulting accompagne ses clients dans la réussite de leurs transformations stratégiques, au service d'une croissance économique durable et inclusive et de la construction d'un monde du travail meilleur. Notre offre s'articule autour de trois grands domaines d'expertise : Business Consulting, Technology Consulting et People Consulting, et s'appuie sur des expertises sectorielles fortes.\nMembre du réseau EY Europe West, leader du conseil sur la région, EY France offre à ses 1200 collaborateurs :\nL'opportunité de travailler pour les plus grands clients internationaux leaders dans leurs secteurs, au sein d'équipes internationales et multiculturelles Des possibilités de mobilité géographique L'appartenance à des communautés de compétences et sectorielles internationales, composées de professionnels parmi les meilleurs en Europe\nEY Consulting, c'est une multitude d'expériences à vivre, de nombreux secteurs à explorer, des rencontres hors du commun. Bienvenue dans notre monde en mouvement perpétuel !\nMissions\nAu sein de Technology Consulting, Data & Analytics renforce ses équipes. Ses domaines d'interventions sont très larges (marketing, industrie, secteur public, énergie, retail et consumer product, etc.). Avec plus de 500 missions dans le domaine de l'analytics et du Big Data, nous sommes le premier cabinet de conseil en France dans le secteur. Nos consultants bénéficient de l'encadrement d'un large pool de managers, tous issus des meilleures formations et ayant des expertises techniques et métiers qui permettent à nos équipes d'être rapidement formées aux nouvelles méthodes et outils.\nEn outre, pour accélérer notre veille technologique, nous avons ouvert à la Tour First, un Lab de 600m² dédié à l'innovation autour du digital, de la data et de la blockchain. Déjà 40 nouvelles applications y ont vu le jour cette année.\nVous êtes Data Scientist, dataminer, architecte Big Data, consultant BI... H/F à la recherche d'une équipe dynamique, à la pointe des technologies et des innovations en Data Science, au service des entreprises les plus data driven, n'hésitez pas à nous contacter pour se rencontrer.\n\nProfil recherché:\n\nVos missions :\nPour soutenir notre développement dans les domaines « Analytics » (Analyse quantitative de données, datamining, Big data, Data Science.), vous êtes responsable de la réalisation de projet d'analyse quantitative de données, datamining dans un contexte souvent CRM - Marketing : segmentations, scores d'appétence, reportings analytiques, prévisions ...\nVous intervenez sur la définition de la stratégie en matière de gestion des données de nos clients ou sur le pilotage du déploiement de solutions technologiques Big Data. A partir de besoins métiers exprimés, vous encadrez l'équipe-projet et conduisez personnellement les aspects les plus sensibles de la mission client.\nGrâce à votre expérience, vous devez être en mesure de proposer et mettre en œuvre des méthodologies susceptibles de répondre efficacement et opérationnellement aux attentes du client dans le respect des délais et du budget prévu.\nVous développez une expertise sectorielle et devez être force de proposition sur les sujets et offres à présenter à nos clients pour les\nProfil recherché\nH/F, de formation supérieure de haut niveau en mathématiques / statistiques ou économétrie (écoles type ENSAE / ENSAI, ENSTA, Centrale Paris...), vous bénéficiez d'une expérience de 2 ans minimum idéalement acquise dans un cabinet de conseil ou au sein d'un département étude/connaissance client d'un grand groupe.\nVous maitrisez les principaux logiciels statistiques (R, SPSS, Modeler, SAS, etc.), les langages SQL et programmation (C, VBA, Python, etc.).\nDoté(e) d'un excellent sens relationnel, vous savez allier le sens de l'analyse et de la synthèse, rigueur et méthode. Vous êtes dynamique, autonome et responsable.\nCurieux(se), vous faites preuve d'esprit d'équipe et de leadership.\n ",
+        "ft_reference": "2003699",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "R"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "Other": [
+                "Statistiques",
+                "Big Data"
+            ],
+            "EnSoftSkils": [
+                "Leadership"
+            ]
+        }
+    }
+]
