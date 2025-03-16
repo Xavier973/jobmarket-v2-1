@@ -1,0 +1,102 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Solution Digitale F/H - Informatique de gestion (H/F)",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": "Salaire brut : 60 - 85 k€ brut annuel",
+        "company": "DIAC ",
+        "location_raw": "PARIS 02",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 4 An(s)",
+        "experience": "4 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Autre distribution de crédit",
+            "company_size": "En route vers Mobilize !&nbsp;\nA l'écoute de tous nos clients, nous créons des services financiers innovants pour construire une mobilité durable pour tous.\nRejoindre Mobilize Financial Services,&nbsp;c'est d'abord choisir d'intégrer un groupe international, filiale de Renault Group, une banque de financement solide, partenaire des constructeurs Renault-Mitsubishi (Renault, Dacia, Alpine, Renault Samsung Motors, Mobilize, Infiniti, Datsun, et Mitsubishi Motors) dans plusieurs pays. N...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2007306",
+        "description": "Descriptif du poste:\n\nPrenez le volant ! Pas de routine, tous nos itinéraires sont différents !\nL'Architecte Solution est rattaché hiérarchiquement au Responsable Digital Tech, au sein de la Direction des Systèmes d'Information groupe.\nCes différentes missions seront abordées en tout ou partie selon le déroulement et les besoins du Programme.\n1. Conception architecturale et documentation\nDéfinir et décrire les architectures fonctionnelles et techniques pour les solutions retail et digitales, y compris les composants logiciels, les interfaces et les middlewares.\nSuivre les normes et principes définis par les architectes d'entreprise dans le périmètre géré.\nSpécifier, concevoir et construire des architectures on-premise et cloud dans des environnements IaaS et PaaS.\nContribuer au développement, à la rédaction et à la validation des dossiers d'architecture technique (DAT).\nRédiger et maintenir une documentation technique détaillée sur les outils collaboratifs de l'entreprise.\n&nbsp;\n2. Normes, conformité et assurance qualité\nGarantir la conformité des architectures avec les politiques techniques, de sécurité et de gestion des risques.\nDéfinir des normes, standards, méthodologies et recommandations pour les composants et solutions architecturales.\nAssurer la qualité des livrables des projets, en travaillant avec les équipes pour respecter les standards de l'entreprise.\nVeiller au à la mise à jour des informations dans les référentiels des actifs SI Groupe et respect des procédures de continuité d'activité de l'entreprise.\n&nbsp;\n3. Solutions d'intégration et de déploiement\nCollaborer avec les intégrateurs, fournisseurs et autres parties prenantes pour définir et mettre en œuvre des solutions d'intégration.\nSuperviser et soutenir le déploiement des solutions d'intégration à travers les différentes phases du projet.\nComprendre les dispositions de configuration et remettre en question les choix techniques pour valider les solutions d'intégration.\n&nbsp;\n4. Support et collaboration\nApporter un soutien quotidien aux équipes projet, y compris la participation aux cérémonies agiles (SAFe), à la planification des sprints et au suivi des tickets.\nCoordonner et collaborer avec les équipes métier, les développeurs, les centres de services, les filiales et les partenaires externes.\n&nbsp;\n5. Leadership agile et transversal\nDiriger et promouvoir des solutions transversales au sein de l'organisation.\nParticiper aux réunions et cérémonies agiles, en soutenant l'équipe dans le respect des meilleures pratiques et méthodologies agiles.\n&nbsp;\n6. Gestion de l'architecture d'entreprise\nParticiper à la mise à jour du référentiel d'architecture d'entreprise.\nContribuer à la définition de l'architecture d'entreprise pour le hub digital en collaboration avec les intégrateurs, les éditeurs et les équipes locales.\n&nbsp;\n7. Résolution de problèmes techniques et métiers\nDévelopper des concepts IT et des solutions architecturales en utilisant ses compétences techniques et sa compréhension des besoins métiers pour résoudre les problèmes architecturaux.\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n&nbsp;\n\nProfil recherché:\n\nVéritable tout-terrain, vous nous intéressez !&nbsp;\nDiplômes requis:\n- Formation de niveau Bac + 5 minimum en informatique\n- Ecole d'ingénieurs (informatique, télécoms, généraliste)\n&nbsp;\nDurée d'expérience:\nUne expérience avérée de minimum 5 ans dans des fonctions d'architectures d'application et ou d'intégration de systèmes ouverts pour la définition et la mise en œuvre de solutions d'intégration dans des architectures complexes.\n&nbsp;\nCompétences requises:\n- Expérience dans l'évaluation des architectures informatiques cibles dans un environnement d'entreprise, des technologies et une architecture orientée services (SOA).\n- Connaissance des systèmes d'information et de leurs évolutions\n- Connaissance de solutions d'architecture d'entreprise et de modélisation des Systèmes d'information\n- Connaissance des solutions API Management et des solutions d'intégration ainsi que sur des solutions d'architecture évènementiel et de messaging.\n- Compétences requises sur le design API et sur des solutions API Management et intégration\n- Design Data, API, Topic, flux\n- Langages de modélisation : UML\n- Langages et protocoles : Javascript, Java. oAuth2, openId, openApi, API Rest/Event, policies de sécurité sur les plateformes d'API GTW\n- Cloud&nbsp;: connaissances en GCP et AWS\n- DevOps&nbsp;: connaissances en CI/CD\n- Gestion de projets: Jira, Confluence, SAFe Agile &nbsp;\n- Outils : Postman, Swagger, API Gateway, VsCode, GitLab, DrawIo\n- Maîtrise des normes de sécurité informatique\n- Pratique de pilotage de ressources informatiques internes et externes (fournisseurs, éditeurs, SSII,.)\n- Capacité à gérer des contextes multiples et à maîtriser la dette techni",
+        "ft_reference": "2007306",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "GCP"
+            ],
+            "Collaboration": [
+                "JIRA",
+                "Confluence"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Leadership"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Solution End-to-End (Systèmes et API) F/H - Informatique de gestion (H/F)",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": "Salaire brut : A négocier",
+        "company": "ASTORM ",
+        "location_raw": "MAROC",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-10",
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "Présentation d'Astorm-Group\nAstorm-Group est une société française de conseil et d'ingénierie spécialisée dans les projets industriels complexes, avec une expertise reconnue en qualité, électronique et bureaux d'études. Nous opérons dans des secteurs clés tels que l'automobile, les télécommunications et l'industrie, en proposant des solutions adaptées aux défis techniques de nos clients.\nNos Domaines d'Expertise\n* Ingénierie, automatisme, amélioration continue.\n* Qual...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/2005670",
+        "description": "Descriptif du poste:\n\n Poste : Architecte Solution End-to-End\n Localisation : Maroc (possibilité de télétravail partiel)\n Type de contrat : CDI\n Secteur : Télécoms / IT / Digital\n \nNous recherchons un(e) consultant(e) afin de travailler au sein d'une entreprise innovante opérant dans le secteur des télécoms et du digital recherche un Architecte Solution End-to-End pour concevoir, piloter et optimiser l'architecture de ses systèmes et API.\nVous interviendrez sur la conception et l'évolution d'une plateforme centrale critique, en intégrant des solutions API avancées, des architectures service mesh et un API Marketplace afin d'améliorer l'intégration et la gestion des interactions dans un environnement distribué à l'international.\nSi vous souhaitez relever des défis techniques ambitieux dans un contexte multiculturel et dynamique, ce poste est fait pour vous !\n \nVos missions :  \n* Concevoir des architectures évolutives et robustes basées sur des paradigmes modernes (Clean Architecture, Hexagonal Architecture).\n* Mettre en place des solutions service mesh (Istio, Linkerd) pour optimiser la gestion des microservices et améliorer la résilience du système.\n* Gérer un API Marketplace pour favoriser la collaboration et maximiser la réutilisation des API.\n* Superviser l'implémentation des API Gateways (Kong, Apigee, KrakenD, AWS API Gateway, Azure API Management), avec une attention particulière à la sécurité, l'observabilité et l'évolutivité.\n* Optimiser les workflows opérationnels via des outils de médiation et d'orchestration (MuleSoft, BizTalk ou équivalents).\n* Accompagner les équipes Agile (POs, BOs, développeurs) dans l'adoption des bonnes pratiques DevOps et DevSecOps.\n* Assurer la documentation et la communication des choix technologiques auprès des parties prenantes.\n \n\nPourquoi postuler ? \n \n Poste stratégique et clé dans la transformation digitale d'un groupe international.\n Environnement technique stimulant avec des défis technologiques ambitieux.\n Opportunité d'évoluer dans un contexte multiculturel et international.\n \n Intéressé(e) ? Postulez dès maintenant ! \n\nProfil recherché:\n\nProfil recherché :\n Expérience requise :\n* 5 ans minimum en architecture de systèmes et gestion d'API.\n* Expérience avérée sur des API Gateways et des solutions service mesh.\n* Bonne maîtrise des paradigmes d'architecture moderne (Clean Architecture, Hexagonal Architecture).\n* Expérience en cloud et CI/CD (AWS, Azure, GCP, Gitlab, Github, Jenkins, Maven).\n \n Compétences techniques :\n* API Management : Expertise sur Kong, Apigee, KrakenD, AWS API Gateway, Azure API Management.\n* Service Mesh : Bonne maîtrise de Istio, Linkerd.\n* Orchestration et médiation : Expérience sur MuleSoft, BizTalk ou solutions similaires.\n* Architecture logicielle : Maîtrise des outils TOGAF, Gliffy, Lucidchart.\n \n Compétences personnelles :\n* Leadership et coordination de projets techniques complexes en environnement multiculturel.\n* Excellentes capacités d'analyse et de prise de décision.\n* Bonne communication et capacité à collaborer avec des équipes techniques et métiers.\n* Forte culture Agile et DevOps.\n \n Langues :\n* Français et anglais courants (obligatoire).\n \n \n ",
+        "ft_reference": "2005670",
+        "skills": {
+            "CloudComputing": [
+                "AWS",
+                "GCP",
+                "Azure"
+            ],
+            "DevTools": [
+                "Jenkins"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration",
+                "Leadership"
+            ]
+        }
+    }
+]

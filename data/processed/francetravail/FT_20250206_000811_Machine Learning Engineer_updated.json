@@ -41,8 +41,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "CI/CD",
@@ -93,8 +93,8 @@
                 "Azure"
             ],
             "Other": [
-                "ML",
                 "Cloud",
+                "ML",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -187,8 +187,8 @@
                 "Hadoop"
             ],
             "CloudComputing": [
-                "Azure",
                 "AWS",
+                "Azure",
                 "Google Cloud Platform"
             ],
             "Automation": [
@@ -198,9 +198,9 @@
                 "Kubernetes"
             ],
             "Other": [
+                "CI/CD",
                 "DevOps",
                 "Cloud",
-                "CI/CD",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -244,8 +244,8 @@
                 "R"
             ],
             "MachineLearning": [
-                "PyTorch",
-                "TensorFlow"
+                "TensorFlow",
+                "PyTorch"
             ],
             "Other": [
                 "Machine Learning"
@@ -418,8 +418,8 @@
                 "R"
             ],
             "MachineLearning": [
-                "PyTorch",
-                "TensorFlow"
+                "TensorFlow",
+                "PyTorch"
             ]
         }
     },
@@ -456,8 +456,8 @@
                 "Python"
             ],
             "CloudComputing": [
-                "GCP",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -466,8 +466,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "DevOps",
                 "Statistiques",
+                "DevOps",
                 "Cloud",
                 "Machine Learning"
             ],
@@ -509,8 +509,8 @@
                 "Python"
             ],
             "MachineLearning": [
-                "PyTorch",
-                "TensorFlow"
+                "TensorFlow",
+                "PyTorch"
             ],
             "Other": [
                 "Machine Learning"
@@ -588,8 +588,8 @@
         "skills": {
             "Other": [
                 "Cloud",
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -623,8 +623,8 @@
         "ft_reference": "8278221",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     }

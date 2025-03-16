@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "source": "France Travail",
+        "job_title": "Machine Learning Engineer H/F",
+        "job": "machine learning engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "MATMUT ",
+        "location_raw": "RUEIL MALMAISON",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Autres assurances",
+            "company_size": "La Matmut est un groupe complet d'assurance. Nos valeurs mutualistes sont à la base de notre fonctionnement. Notre modèle, sans actionnaires, fait partie de notre ADN depuis plus de 60 ans. Notre mutualisme, ancré dans la réalité, agit et met en mouvement chacun et chacune d'entre nous.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1825404",
+        "description": "POSTE : Machine Learning Engineer H/F\nDESCRIPTION : Rattaché(e) au sein du Pôle Data Engineering de notre Direction Data Analytics, vous aurez comme missions principales :\n\n- L'industrialisation des codes et travaux en provenance des DataScientist et avec leur collaboration\n- La maintenance et l'évolution des templates, accélérateurs et librairies internes\n- Le cadrage des aspects Machine Learning associés aux projets\n- L'industrialisation des modèles préparés par les Data Scientists (packaging, déploiement, mise en place du monitoring) en collaboration avec les équipes IT\n- La configuration et la bonne utilisation des outils et process de développement (DEVOPS, MLOPS)\n- La contribution à la gestion du RUN des projets\n- La définition des pratiques MLOPS pour les nouvelles filières de développement.\nPROFIL : Vous savez développer des modèles prédictifs.\nVous disposez d'une solide expérience de traitements de pipelines de données et d'industrialisation de modèles de Machine Learning.\nVous avez des bases de code solides en Python et êtes à l'aise avec les bonnes pratiques de développement (PEP8, développement modulaire, tests unitaires)\nVous avez l'habitude de travailler avec les outils et process de développement usuels (Git, CI-CD).\nVous avez déjà travaillé avec les outils de Google Cloud Platform.\nLes outils et pratiques MLOPS vous sont familiers.\nVous êtes une personne réactive. Vous faites preuve de rigueur, d'organisation et vous possédez un bon esprit d'équipe.",
+        "ft_reference": "1825404",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "CloudComputing": [
+                "Google Cloud Platform"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Other": [
+                "Cloud",
+                "Machine Learning",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

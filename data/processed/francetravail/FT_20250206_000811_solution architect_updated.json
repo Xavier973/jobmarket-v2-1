@@ -32,8 +32,8 @@
                 "Azure"
             ],
             "DevTools": [
-                "Docker",
-                "Jenkins"
+                "Jenkins",
+                "Docker"
             ],
             "Containers": [
                 "Docker"
@@ -221,8 +221,8 @@
                 "Kotlin"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -366,6 +366,43 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Manager Architecte Solution Data F/H - Maîtrise d'ouvrage et fonctionnel (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "TEKKIT.IO ",
+        "location_raw": "92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 3 An(s)",
+        "experience": "3 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-04",
+        "company_data": {
+            "sector": "Programmation informatique",
+            "company_size": "Tekkit est le réseau social professionnel spécialisé dans les métiers de la tech. La plateforme se concentre sur les offres d'emploi, stages, alternances et missions freelance, tout en mettant l'accent sur les événements et le réseautage pour les professionnels du secteur. Tekkit propose des opportunités d'évolution en facilitant la rencontre avec des entreprises partenaires et en organisant des événements, comme des soirées de recrutement et de networking.\nAvec Tekkit, les ut...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1708935",
+        "description": "Descriptif du poste:\n\nDescription de l'entreprise\nNotre raison d'être chez AXA ? Chaque jour, nous agissons ensemble pour le progrès humain en protégeant ce qui compte. Une mission qui donne le sourire et envie de se lever le matin !\n \nUn des leaders mondiaux de l'assurance dans la protection des biens, des personnes et des actifs, AXA c'est 145 000 collaborateurs et contributeurs qui s'engagent au quotidien pour nos clients, c'est 51 pays dans lesquels nous distribuons nos produits et services et plus de 90 millions de client qui nous font confiance dans le monde. Employeur citoyen et responsable, AXA s'engage au quotidien pour des causes sociétales & environnementales. Nous menons une politique inclusive engagée pour reconnaître et valoriser les différences individuelles. Ces ambitions vous parlent ? Alors venez changer le monde avec nous !\n \nVictime ou témoin, en cas de discrimination, vous pouvez adresser vos signalements et/ou alertes discrimination à : xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx\n \nMissions\nPour accompagner nos tribus dans leur transformation numérique, nous recherchons des passionné(e)s d'IT/ Data. Si Data Mesh, Data Product, Data Lineage, Machine Learning et genAI vous font vibrer et que vous recherchez un périmètre managérial, le poste de Manager Architecte Solution Data au sein d'AXA France pourrait être fait pour vous !\nPlus que jamais, la Data est au cœur de la transformation stratégique d'AXA. Depuis 2023, une Direction Data Office conduit cette transformation ; la guilde Architecture Solution (40 personnes) l'accompagne en proposant les meilleures solutions pour garantir la cohérence technique, la performance et la pérennité du Système d'Information.\nDirectement rattaché au responsable de la guilde d'architecte solution AXA France, vous prenez en charge l'ensemble du périmètre Data soit 8 à 10 architectes :\nVous êtes en charge de la construction d'une vision à court/moyen/long terme orientée DATA à promouvoir au niveau groupe ;\nVous êtes en charge d'animer et encadrer une équipe d'architectes solutions DATA qui accompagnent les squads au plus pres du delivery garantissant le respect des standards d'architecture ;\nVous prenez part aux visions stratégiques de la DSI ainsi que de l'entreprise ;\nVous proposez des solutions DATA / IA de haut niveau de qualité, de disponibilité et de sécurité ;\nVous accompagnez votre équipe sur les évolutions technologiques de type IA Generative, LLM etc. ;\nVous Partagez et challengez les pratiques et outils DATA au niveau du Groupe AXA.        #LI-JR1\n\nProfil recherché:\n\nProfil recherché\nExpériences :\nVous justifiez d'une expérience significative en Architecture DATA\nVous justifiez d'une expérience dans le management d'architectes / experts techniques (minimum 3 ans ) ;\nVous avez une expérience du delivery sur les projets IT/Data afin d'ancrer vos positions dans la réalité des équipes opérationnelles ;\nVous avez une expérience dans la conduite de la transformation des solutions DATA au niveau d'un département/ groupe avec d'autres entités (dev, test, ops,...) ;\nVous êtes reconnu pour votre connaissance de l'offre de marché autour des solutions DATA innovantes.\nCompétences clés :\nExcellente communication écrite et orale\nAptitude à interagir avec des niveaux CXO et cadres dirigeants (niveau de synthèse adéquat, compréhension des enjeux de Direction, capacité à se détacher de la technique) ;\nCapacité à définir et partager une vision cible à court/moyen/long terme orientée DATA pour ensuite tirer des transformations ;\nApproche pédagogique, capacité à simplifier et à s'adapter aux interlocuteurs afin de susciter l'adhésion au changement (au niveau France et Groupe) ;\nManagement hiérarchique mais aussi fonctionnel forts.\n\n \nNous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs ! Les avantages que nous proposons à nos salariés sont nombreux.\nNous choisir, c'est bénéficier par exemple :\nD'un package de rémunération complet comprenant un salaire fixe, un complément de rémunération variable, des primes, de la participation et de l'intéressement, la possibilité d'acquérir des actions AXA, ou encore des solutions d'épargne avantageuses ;\nD'un cadre de travail flexible jusqu'à 3 jours de télétravail possible par semaine, des tickets restaurant pour les jours télétravaillés ou encore une participation à l'achat d'un écran ou fauteuil ergonomique ;\nD'une politique visant à concilier vie personnelle et vie professionnelle avec 28 jours de congés payés, entre 14 et 16 RTT selon les années, des formules de travail à temps partiel ou encore des jours d'absence rémunérées pour la rentrée scolaire ou un déménagement par exemple ;\nDe la possibilité de s'engager pour une cause qui vous tient à cœur grâce à nos associations telle",
+        "ft_reference": "1708935",
+        "skills": {
+            "Other": [
+                "Machine Learning"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Ingénieur architecte en solution de performance énergétique H/F",
         "job": "data architect",
         "contract_type": "CDI",
@@ -436,8 +473,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -764,8 +801,8 @@
                 "AWS"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Other": [
                 "Cloud"
@@ -802,8 +839,8 @@
         "ft_reference": "1512015",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -821,7 +858,7 @@
         "salary": null,
         "company": "AMARIS CONSULTING ",
         "location_raw": "ILE-DE-FRANCE",
-        "location": null,
+        "location": "ILE-DE-FRANCE",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -969,9 +1006,9 @@
                 "NoSQL"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -1018,8 +1055,8 @@
                 "AWS"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Other": [
                 "DevOps",
@@ -1158,9 +1195,9 @@
                 "NoSQL"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -1207,8 +1244,8 @@
         "ft_reference": "1349848",
         "skills": {
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
                 "Cloud"
@@ -1432,9 +1469,9 @@
         "ft_reference": "1336763",
         "skills": {
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -1443,8 +1480,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -1609,8 +1646,8 @@
         "ft_reference": "1268761",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "DevOps",
@@ -1631,7 +1668,7 @@
         "salary": null,
         "company": "AMARIS CONSULTING ",
         "location_raw": "ILE-DE-FRANCE",
-        "location": null,
+        "location": "ILE-DE-FRANCE",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -1862,29 +1899,29 @@
         "ft_reference": "1156552",
         "skills": {
             "DataBase": [
-                "SQL",
-                "MongoDB"
+                "MongoDB",
+                "SQL"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DevTools": [
                 "Git"
             ],
             "DBMS": [
-                "SingleStore",
                 "SQL Server",
                 "Snowflake",
+                "Oracle SQL",
                 "PostgreSQL",
-                "Oracle SQL"
+                "SingleStore"
             ],
             "NetworkSecurty": [
                 "Firewall"
             ],
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
                 "Cloud"
@@ -1924,8 +1961,8 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "OS": [
                 "Windows"
@@ -1981,6 +2018,36 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Architecte Solution GMAO - Paris (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "NANTERRE 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-22",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1087814",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :  *  Concevoir et garantir les architectures de l'offre EAM : Vous serez responsable de l'élaboration des architectures EAM en prenant en compte les besoins métier, les contraintes techniques (performance, sécurité, scalabilité, intégration), et en assurant leur alignement avec la stratégie IT globale de nos clients.",
+        "ft_reference": "1087814",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
         "job_title": "Architecte Solution - Cloud - Energy & Utilities - Ile-de-France (H/F)",
         "job": "data architect",
         "contract_type": "CDI",
@@ -2009,9 +2076,9 @@
         "ft_reference": "1087608",
         "skills": {
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -2020,8 +2087,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -2071,8 +2138,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "Cloud"
@@ -2154,7 +2221,7 @@
         "salary": null,
         "company": "IPPON TECHNOLOGIES ",
         "location_raw": "ILE-DE-FRANCE",
-        "location": null,
+        "location": "ILE-DE-FRANCE",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -2176,8 +2243,8 @@
         "ft_reference": "1008613",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DBMS": [
                 "Snowflake"
@@ -2295,8 +2362,8 @@
         "ft_reference": "1007697",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "DevOps",
@@ -2783,8 +2850,8 @@
                 "Java"
             ],
             "DataBase": [
-                "Elasticsearch",
-                "MongoDB"
+                "MongoDB",
+                "Elasticsearch"
             ],
             "DevTools": [
                 "Docker"
@@ -2796,8 +2863,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "Cloud"
@@ -2923,7 +2990,7 @@
         "salary": null,
         "company": "IPPON TECHNOLOGIES ",
         "location_raw": "ILE-DE-FRANCE",
-        "location": null,
+        "location": "ILE-DE-FRANCE",
         "remote": null,
         "experience_raw": "Expérience exigée",
         "experience": "expérience exigée",
@@ -2945,8 +3012,8 @@
         "ft_reference": "0833961",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DBMS": [
                 "Snowflake"
@@ -3135,9 +3202,9 @@
                 "Kubernetes"
             ],
             "Collaboration": [
+                "JIRA",
                 "Teams",
-                "Confluence",
-                "JIRA"
+                "Confluence"
             ],
             "Other": [
                 "Cloud"
@@ -3446,6 +3513,73 @@
                 "Leadership"
             ]
         }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "ARCHITECTE SOLUTION IT H/F",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Cachet de 60000,00 Euros à 70000,00 Euros",
+        "company": null,
+        "location_raw": "VALBONNE 06",
+        "location": "06",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-12",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0645484",
+        "description": "Nous sommes à la recherche d\\'un(e) Architecte Solution IT (H/F) pour rejoindre la Direction de l\\'Informatique et de l\\'Innovation Digitale (D2ID) de GSF. Vous jouerez un rôle clé dans l\\'évolution numérique de notre organisation, en assurant le lien entre les besoins métiers et les solutions technologiques mises en ouvre.\nEn tant qu\\'Architecte Solution IT, vous serez en charge de la Ligne Produit \\\" Finances \\\" et veillerez à la cohérence, l\\'optimisation, et la sécurité des solutions applicatives déployées.\nVos missions principales:\n-Stratégie SI : Proposer des solutions technologiques en cohérence avec les besoins métiers et la stratégie SI. Réaliser une veille technologique et promouvoir des solutions innovantes adaptées à l\\'entreprise.\n-Conception & Exploitation : Concevoir la roadmap d\\'évolution des produits financiers. Fournir la documentation requise, encadrer la conception de haut niveau et contribuer à la résolution de problématiques complexes.\n-Amélioration continue : Accompagner les équipes dans la mise en place d\\'architectures flexibles. Assurer l\\'anticipation des obsolescences et la gestion du cycle de vie des applications.\n-Gestion de la connaissance : Partager les bonnes pratiques d\\'intégration et de sécurité. Contribuer au maintien de la cartographie des solutions.\n-Cérémonies Agiles : Participer aux cérémonies Agile de l\\'équipe (planification, démos, rétrospectives) et de la DSI (PI Planning, réunions SAFe).\nVous avez un diplôme Bac +5 en informatique ou équivalent, vous justifiez d\\'une expérience minimale de 5 ans dans l\\'intégration de solutions RH ou Finances et vous possédez une expertise en intégration de solutions dans des environnements hybrides et cloud.\nVous maîtrisez des outils tels que Peoplesoft, Tradeshift, Esker ou Generix, et vous avez des compétences en gestion de projets d\\'architecture et d\\'intégration.\nVous faites preuve de rigueur, d\\'autonomie et avez un sens aigu de l\\'organisation, tout en étant à l\\'aise dans le travail en équipe et la collaboration avec différents acteurs. Vous avez la capacité de vous adapter aux nouvelles technologies et de proposer des solutions innovantes.\nVous maîtrisez l\\'anglais pour comprendre les enjeux architecturaux à l\\'international.\nVotre rémunération est attractive = 65Keuros annuel brut. \nChez GSF, nous sommes fiers de souscrire au principe de l\\'égalité d\\'accès à l\\'emploi et nous travaillons à former des équipes qui reflètent la diversité qui compose la société Française. Nous visons à éliminer les obstacles à l\\'accessibilité en emploi et aspirons à offrir un environnement de travail inclusif et équitable où chaque personne est valorisée, quelles que soient son identité ou ses différences, afin de lui permettre de réaliser son plein potentiel.\nIntéressé(e) ? Postulez dès maintenant sur www.gsf.fr et rejoignez notre équipe !...",
+        "ft_reference": "0645484",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte solution mes f/h (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "GONFREVILLE L ORCHER 76",
+        "location": "76",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-12",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0635413",
+        "description": "Safran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense. Sa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 92 000 collaborateurs pour un chiffre d'affaires de 23,2 milliards d'euros en 2023, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.\n\nSafran est la 1ère entreprise du secteur aéronautique et défense du classement « World's Best Companies 2023 » du magazine TIME.\n\n\n\nSafran Nacelles est un leader mondial de l'intégration de nacelles d'avions. Nous proposons des produits et services adaptés à chaque type d'aéronef : avions régionaux, d'affaires, commerciaux courts, moyens et longs courriers. Notre offre couvre la conception, la fabrication, l'intégration et le service après-vente.\n\n\nDescriptif missionSafran est un groupe international de haute technologie opérant dans les domaines de l'aéronautique (propulsion, équipements et intérieurs), de l'espace et de la défense.\n\nSa mission : contribuer durablement à un monde plus sûr, où le transport aérien devient toujours plus respectueux de l'environnement, plus confortable et plus accessible. Implanté sur tous les continents, le Groupe emploie 83 000 collaborateurs pour un chiffre d'affaires de 19,0 milliards d'euros en 2022, et occupe, seul ou en partenariat, des positions de premier plan mondial ou européen sur ses marchés. Safran s'engage dans des programmes de recherche et développement qui préservent les priorités environnementales de sa feuille de route d'innovation technologique.\n\n\n\nSafran Nacelles est un leader mondial des nacelles d'avions et un acteur de l'après-vente avec 23 000 équipements en services et 145 000 heures de vol par jour. La société est présente sur tous les segments du marché, des avions régionaux et d'affaires aux plus grands avions de ligne.\n\n\n\nLes nacelles sont des produits de hautes technologies utilisant des matériaux métalliques et composites dans un environnement moteur complexe et contraint par la thermique, la mécanique, l'aérodynamique et les besoins fonctionnels.\n\n\n\nVous recherchez un nouveau challenge dans le domaine de la transformation digitale ?\n\nRejoignez nos équipes informatiques Safran Nacelles au Havre !\n\n\n\nFace aux défis de la digitalisation, Safran Nacelles recrute son/sa futur-e Architecte solution MES. (Manufacturing Execution System)",
+        "ft_reference": "0635413",
+        "skills": {}
     },
     {
         "source": "France Travail",
@@ -3863,12 +3997,12 @@
                 "Java"
             ],
             "CloudComputing": [
-                "GCP",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
                 "DevOps",
@@ -3878,6 +4012,46 @@
             "EnSoftSkils": [
                 "Leadership",
                 "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecture Solution DATA F/H - Conception, recherche (H/F)",
+        "job": "data architect",
+        "contract_type": "CDD",
+        "salary": "Salaire brut : A négocier",
+        "company": "STHREE FRANCE ",
+        "location_raw": "92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 8 An(s)",
+        "experience": "8 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-08",
+        "company_data": {
+            "sector": "Assurance vie",
+            "company_size": "Depuis 20 ans Huxley est positionné parmi les acteurs principaux du recrutement dans le monde. Spécialisé dans l'IT, la finance et l'assurance nous sommes implantés mondialement dans 15 pays.\nNous aidons nos clients à optimiser leur recrutement en adoptant une approche personnalisée et une expertise métiers, délivrant ainsi un service sur mesure. Nous nouons quotidiennement des relations avec les talents et les entreprises les plus dynamiques du marché.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0405463",
+        "description": "Descriptif du poste:\n\n\nDans le cadre de l'équipe Architecture Solutions SI de la Direction Stratégie SI Architecture et Cloud,\n\n\nEn tant qu'Architecte Solutions SI / Expertise Data Modélisation :\n\n \n* Organiser et suivre l'accompagnement nécessaire des projets dans la définition de leur architecture de solution, en lien avec la stratégie et processus métier d'une part et les objectifs de rationalisation et d'alignement du SI d'autre part, et dans le respect du cadre d'architecture.\n* Définir, promouvoir, enrichir et suivre la bonne mise en œuvre opérationnelle du cadre normatif de constitution du SI.\n* Réaliser la modélisation fonctionnelle des objets Métiers \n\nProfil recherché:\n\n\nL'architecte avec son expertise sur les couches Data / Modélisation prends en charge les travaux correspondant à la modélisation fonctionnelle des objets Métiers définis depuis le MOM (Modèle Objets Métiers), en lien le DataOffice ou les Direction métiers.\nDans le cadre des demandes projets, l'architecte définit ete met à jour la cartographie dans Mega HOPEX et peut être amené à accompagner les équipes de réalisation/développement dans la définition des MLD, Modèles logiques de données, (et potentiellement en support technique DBA Etudes, avec le MPD)\n\n\n\nCompétences attendues :\n- Modélisation, Conception Base de données (UML & Merise), Outil de modélisation : Mega HOPEX\n- Connaissances des domaines métiers : Assurances, Vie, IARD\n- Méthode & cadre : TOGAF, SOA, UML & Merise, Scrum, Safe\n- Environnements technologiques : Java, Cobol/CICS/DB2, Oracle, PostgreSQL, BigData, Cloudera\n\nDans le cadre des travaux, l'architecte sera amené à traiter :\n- Activités de modélisation : Les modélisations data, fonctionnelles, applicatives et techniques des solutions définies dans le cadre des projets\n- Accompagnements des projets : Définition des architectures solutions (Fonctionnelles/Applicatives/Techniques) dans la vie du projet, depuis la phase de faisabilité jusqu'à la mise en production\n \nL'architecte devra fournir les prestations suivantes : \n- Production des livrables d'architectures (dossier, mise à jour du référentiel), Modélisation dans MEGA HOPEX,\n- Présentation pour validation des solutions envisagées dans les instances ad hoc,\n- Délivrance d'avis d'architecture,\n- Coordination dans certains cas de l'activité d'architecture,\n- Portage de l'engagement d'architecture vis à vis du demandeur.",
+        "ft_reference": "0405463",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "DBMS": [
+                "PostgreSQL"
+            ],
+            "Other": [
+                "Cloud"
             ]
         }
     },
@@ -4263,9 +4437,9 @@
                 "NoSQL"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -4311,8 +4485,8 @@
         "ft_reference": "9281276",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "DevOps",
@@ -4446,6 +4620,51 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Architecte solution Cloud AWS - CCOE France (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "FORUM EMPLOI-FORMATION-ALTERNANCE: TALENTS HANDICAP ",
+        "location_raw": "92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-06",
+        "company_data": {
+            "sector": null,
+            "company_size": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. \n        L'entreprise Sopra Steria recherche actuellement des profils : \n     Sopra Steria, l'un des leaders européens de la Tech reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels, aide ses cl...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/9169304",
+        "description": "Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative.\nSopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape itDescription du posteVotre futur environnement de travail :\nVous intégrez une équipe CCoE répartie sur l'ensemble de la France. Suivant les tâches qui vous sont confiées, vous êtes amené(e) à évoluer au sein d'équipes internes Sopra Steria dans l'accompagnement des Verticaux Métiers sur de l'Expertise AWS dans tout le processus de vente d'un Projet de Transformation Cloud et de Lancement de Projet ; ainsi qu'au travers de prestations où vous êtes directement intégré(e) à des équipes délivrant le projet auprès du client final en tant qu'Expert(e) Technique AWS.\nVotre rôle et vos tâches :\nEn tant qu'Architecte Cloud Certifié(e) AWS, vous apportez votre expertise autour des solutions AWS :Vous accompagnez nos équipes internes dans le Verticaux Métiers et nos clients dans leur stratégie Cloud et les conseillez sur les choix d'architecture leur permettant de construire un système d'information respectant les bonnes pratiques et de tendre vers l'excellence opérationnelle, tout en leur fournissant un support avancéVous concevez et mettez en oeuvre les solutions, couvrant l'intégralité du catalogue de services AWS, répondant au besoin exprimé par le client, tout en garantissant la sécurité, la résilience, la performance et un coût optimiséVous concevez et réalisez les pipelines d'intégration continue et de déploiement continu permettant de livrer régulièrement de la valeur métier dans l'architecture cibleVous accompagnez l'équipe de développement dans la réalisation de solutions prenant en compte les contraintes et les patterns de la plateforme Cloud cible.\nVous participez également en interne à :La Gestion des compétences auprès des Verticaux (Appui aux formation et certifications, Aide au recrutement de profils expérimentés, capitalisation et partage de connaissances, Animation d'une communauté technique)La Gestion des affaires (Co-gestion du pipe businesse, Contribution aux avant-ventes structurantes, Appui aux sujets de delivery complexes)La Communication, par la rédaction d'articles, de blogs, de white papers, ainsi qu'à la participation aux évènements AWS (AWS Summit, AWS Roadshow Région, AWS Innovate, AWS Re:InForce, AWS Re:Invent)\nNous vous accompagnons dans la mise en oeuvre de la méthodologie Sopra Steria et des outils associés.QualificationsVotre profil :\nTitulaire d'un Bac+5 en informatique Ingénierie ou équivalent, vous justifiez d'au moins 5 à 10 ans d'expérience dans le domaine de la conception d'architecture en environnement Cloud AWS.\nVous avez le sens du service et savez être à l'écoute de votre interlocuteur afin de comprendre son besoin et lui proposer des solutions pertinentes.\nVous êtes habitué(e) au travail en équipe et partagez volontiers vos connaissances.\nVous possédez les compétences clefs suivantes :Certifications et niveau Solution Architect AWS (Associate et/ou Professional et/ou Specialty)Architecture Cloud et à base de containersSécurité des systèmes et/ou sécurité réseau CloudConception / mise en oeuvre de pipelines DevOpsDéveloppement de solutions (ex : Java, .Net, Go, Python)Automatisation dans une approche DevSecOpsMéthode Agile & DevOps\nDes compétences/certifications sur d'autres HyperScalers ou autres Cloud Privé sont un plus.\nVos qualités relationnelles, votre diplomatie, votre adaptabilité, votre discrétion et votre sens du service client seront des atouts indispensables pour réussir vos tâches.\nVous connaissez l'anglais.Tous nos postes sont ouverts aux personnes en situation de handicap. https://www.soprasteria.fr/nous connaitre/nos engagementsEmployeur inclusif et engagé, Sopra Steria œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.Informations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos tâches. Un package avantages intéressant : une m",
+        "ft_reference": "9169304",
+        "skills": {
+            "ProgLanguage": [
+                "Java",
+                "Python"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Architecte middleware / solution designer f/h (H/F)",
         "job": "data architect",
         "contract_type": "CDI",
@@ -4515,24 +4734,24 @@
                 "R"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
-                "Docker",
-                "Jenkins"
+                "Jenkins",
+                "Docker"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -4954,8 +5173,8 @@
         "ft_reference": "8127076",
         "skills": {
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
                 "Cloud"
@@ -5066,8 +5285,8 @@
                 "Kotlin"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -5175,18 +5394,18 @@
         "ft_reference": "8105702",
         "skills": {
             "DataBase": [
-                "SQL",
-                "MongoDB"
+                "MongoDB",
+                "SQL"
             ],
             "CloudComputing": [
                 "AWS"
             ],
             "DBMS": [
-                "SingleStore",
                 "SQL Server",
                 "Snowflake",
+                "Oracle SQL",
                 "PostgreSQL",
-                "Oracle SQL"
+                "SingleStore"
             ],
             "NetworkSecurty": [
                 "Firewall"
@@ -5266,6 +5485,40 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Manager Architecte Solution Data (F/H) (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AXA ",
+        "location_raw": "92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/8005928",
+        "description": "Pour accompagner nos tribus dans leur transformation numérique, nous recherchons des passionné(e)s d'IT/ Data. Si Data Mesh, Data Product, Data Lineage, Machine Learning et genAI vous font vibrer et que vous recherchez un périmètre managérial, le poste de Manager Architecte Solution Data au sein d'AXA France pourrait être fait pour vous !Plus que jamais, la Data est au c¿\"ur de la transformation stratégique d'AXA. Depuis 2023, une Direction Data Office conduit cette transformation ; la guilde Architecture Solution (40 personnes) l'accompagne en proposant les meilleures solutions pour garantir la cohérence technique, la performance et la pérennité du Système d'Information.Directement rattaché au responsable de la guilde d'architecte solution AXA France, vous prenez en charge l'ensemble du périmètre Data soit 8 à 10 architectes :  Vous êtes en charge de la construction d'une vision à court/moyen/long terme orientée DATA à promouvoir au niveau groupe ;Vous êtes en charge d'animer et encadrer une équipe d'architectes solutions DATA qui accompagnent les squads au plus pres du delivery garantissant le respect des standards d'architecture ;Vous prenez part aux visions stratégiques de la DSI ainsi que de l'entreprise ;Vous proposez des solutions DATA / IA de haut niveau de qualité, de disponibilité et de sécurité ;Vous accompagnez votre équipe sur les évolutions technologiques de type IA Generative, LLM etc. ;Vous Partagez et challengez les pratiques et outils DATA au niveau du Groupe AXA.        #LI-JR1",
+        "ft_reference": "8005928",
+        "skills": {
+            "Other": [
+                "Machine Learning"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Architecte solution cloud f/h (H/F)",
         "job": "data architect",
         "contract_type": "CDI",
@@ -5294,8 +5547,8 @@
         "ft_reference": "7708933",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -5304,8 +5557,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -5347,6 +5600,88 @@
         "skills": {
             "EnSoftSkils": [
                 "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte solution f/h (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "VELIZY VILLACOUBLAY 78",
+        "location": "78",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/6464172",
+        "description": "Lieu : Vélizy-Villacoublay, FranceConstruisons ensemble un avenir de confianceThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique & Spatial, et Cyber & Digital. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche & Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays. Nos engagements, vos avantagesUne réussite portée par notre excellence technologique, votre expérience et notre ambition partagéeUn package de rémunération attractifUn développement des compétences en continu : parcours de formation, académies et communautés internesUn environnement inclusif, bienveillant et respectant l'équilibre des collaborateursUn engagement sociétal et environnemental reconnuVotre quotidienRejoignez-nous sur le campus Vélizy qui héberge une grande diversité d'activités Thales, aéro, défense, civile,... A l'ouest de Paris, ce site offre un environnement de travail équipé des dernières innovations technologiques et propose des services permettant de concilier vie professionnelle et personnelle.Au sein du centre de compétence de la Direction Engineering & Digital et plus particulièrement les équipes de la discipline Architecture, vous contribuerez à la dynamique de transformation de cette équipe passionnée pour améliorer notre environnement de travail, nos processus et pratiques outillées d'architecture dans une logique forte de collaboration, de partage et d'amélioration continue dans un environnement toujours plus apprenant, innovant et motivant.En tant que membre d'une équipe dédiée aux applicatifs pour 30 000 ingénieurs, vous travaillerez en étroite collaboration avec le Chief Product Owner.Vos missions incluront :l'instruction des sujets d'architecture en lien avec la stratégie d'entreprise et les produits, ainsi que la traduction de la stratégie métier en solutions architecturales.Evaluer les scénarios d'architecture avec les parties prenantes et suivrez la mise en oeuvre des solutions.Formaliser les dossiers d'architecture et identifier les risques.Contribuer aux instances de gouvernance et aux réunions des équipes d'ingénierie en apportant votre expertise.Votre profilVous disposez d'un diplôme d'Ingénieur (ou équivalent Bac+5) et avez de l'expérience :pour exposer des orientations d'architecture et définir des stratégies de mise en oeuvre en phase avec les enjeux d'une organisationsur des méthodes de modélisation comme TOGAF et Archimatedans des projets qui appliquent les démarches DevSecOps et Agileen matière d'architectures stratégique et métieren problématiques d'exploitation et de support d'un système en productionVous possédez d'excellentes compétences analytiques et maîtrisez la résolution de problèmes ?Votre leadership est reconnu, et vous êtes axé sur les besoins des clients et utilisateurs ?Curieux, rigoureux et méthodique, vous êtes engagé dans une démarche d'amélioration continue ?Vous appréciez les défis et êtes capable de prendre des décisions dans des contextes incertains et complexes ?Thales reconnait tous les talents, la diversité est notre meilleur atout. Postulez et rejoignez nous !",
+        "ft_reference": "6464172",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Leadership",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte solution atc f/h (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "TOULOUSE 31",
+        "location": "31",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-06",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/6317414",
+        "description": "QUI SOMMES-NOUS ?Construisons ensemble un avenir de confianceThales est un leader mondial des hautes technologies spécialisé dans trois secteurs d'activité : Défense & Sécurité, Aéronautique & Spatial, et Cybersécurité & Identité numérique. Il développe des produits et solutions qui contribuent à un monde plus sûr, plus respectueux de l'environnement et plus inclusif. Le Groupe investit près de 4 milliards d'euros par an en Recherche & Développement, notamment dans des domaines clés de l'innovation tels que l'IA, la cybersécurité, le quantique, les technologies du cloud et la 6G. Thales compte près de 81 000 collaborateurs dans 68 pays.Nos engagements, vos avantagesUne réussite commune portée par notre culture et excellence technologique, votre expérience et notre ambition partagéeUn package de rémunération attractif (épargne salariale, variable ou 13ième mois selon les postes, restaurant d'entreprise,...)La possibilité de développer vos compétences en continu grâce à nos parcours de formation et nos académies internes #ENTREPRISEAPPRENANTENotre attention portée à votre équilibre personnel et professionnel (Accord télétravail, RTT, congés d'ancienneté, jours enfants malades, guide parentalité, crèches, CSE / ASC,... )Des communautés internes permettant de vous engager sur les sujets qui vous tiennent à coeur : innovation, diversité, environnementUn environnement inclusif et bienveillant où vous êtes accueilli et valorisé avec notre politique handi-accueillante, notre charte LGBT+, notre initiative #StOpe pour lutter contre le sexisme.L'activité Systèmes terrestres et aériens conçoit des systèmes, des équipements, des capteurs et des services pour le contrôle du trafic aérien civil et militaire, la défense aérienne ainsi que  le combat naval et  terrestre.Le site de Toulouse regroupe deux activités principales : l'une en charge de développer et commercialiser des solutions et équipements pour avions et hélicoptères (cockpits, solutions pour cabines, systèmes de missions civiles et militaires, et offres de services associées) ; l'autre , le centre d'Air Traffic Management (ATM), pôle d'expertise historique des systèmes de gestion du trafic aérien.QUI ETES-VOUS ?De formation Bac +5 en informatique (école d'ingénieur, Master ou équivalent), vous justifiez d'une expérience avérée en ingénierie système, architecture systèmes ou logiciel.Thales AMS recherche sa / son futur(e) Architecte Solution à Toulouse.Vous avez des compétences en :Architecture de Système de systèmes et de Systèmes à logiciel prépondérantTechnologies Web: Linux, virtualisation, middleware et applicatifs back-end/front-end (C, C++; Java, ...)Modélisation système (SYSML, Capella, ...), vues fonctionnelles/logiques/physiquesVous avez une bonne compréhension des problématiques de performances, de la sécurité informatique, de l'IT et des réseauxSi possible, vous maîtrisez les technologies Cloud Native (microservices, contenairisation, solution PaaS, DevOps)Savoir-être :Curieux et proactif, vous proposez des solutions innovantes et trouvez les bons compromis,Vous savez gérer la complexité, alliant une vue globale du système, à une capacité à résoudre les problèmes en profondeur,Vous avez un bon relationnel, aimez le contact Client et savez rendre compréhensible les sujets complexes,Votre entourage professionnel reconnaît votre capacité à travailler en équipeVous favorisez l'expérimentation et les échanges afin de procéder à des ajustements dans le cadre d'une démarche d'amélioration continue.CE QUE NOUS POUVONS ACCOMPLIR ENSEMBLE :L'activité Airspace Mobility Solutions (AMS), leader mondial de la gestion du trafic aérien, développe et fournit des solutions et des services de contrôle aérien (trafic commercial et drones), des systèmes d'aide à la navigation et de surveillance à plus de 180 pays. Aux côtés de nos clients, nos équipes relèvent des défis techniques et complexes pour co-créer le futur de la mobilité aérienne, plus efficace et plus durable.Vous serez intégré(e) aux équipes d'ingénierie système travaillant sur les solutions de contrôle",
+        "ft_reference": "6317414",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "OS": [
+                "Linux"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
             ]
         }
     },
@@ -5421,15 +5756,15 @@
                 "Git"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "Virtualisation": [
                 "VMware"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -5656,14 +5991,14 @@
                 "Hadoop"
             ],
             "MachineLearning": [
-                "PyTorch",
                 "TensorFlow",
-                "Keras"
+                "Keras",
+                "PyTorch"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "Other": [
                 "ML",
@@ -5672,6 +6007,79 @@
             ],
             "EnSoftSkils": [
                 "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Solution Architect - Presales Data & IA H/F",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "CAPGEMINI ENGINEERING ",
+        "location_raw": "75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-18",
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": "Capgemini\n\nChoisir Capgemini, c'est choisir une entreprise où vous serez en mesure de façonner votre carrière selon vos aspirations. Avec le soutien et l'inspiration d'une communauté d'experts dans le monde entier, vous pourrez réécrire votre futur. Rejoignez-nous pour redéfinir les limites de ce qui est possible, contribuer à libérer la valeur de la technologie pour les plus grandes organisations et participer à la construction d'un monde plus durable et inclusif.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0907654",
+        "description": "POSTE : Solution Architect - Presales Data & IA H/F\nDESCRIPTION : Le solution Lead est responsable de la solution bout en bout et de la rédaction de la proposition technique en collaboration avec le BID Management.\nA ce titre, vous :\n*     Pilotez l'ensemble des avant-ventes de la practice en collaboration avec les différentes parties prenantes du groupe Capgemini afin de délivrer une solution complète.\n*     Etes le garant de la réponse aux différentes propositions de valeur (architecture, moyens mis en oeuvre, planification, suivi des jalons, conformité vis-à-vis des attentes clients, capacité de nos practices métiers à gérer les deals).\n*     Etes le garant de la compréhension du besoin et de la proposition de valeur afin d'y répondre (architecture de la solution technique, moyens mis en oeuvre, planification, suivi des jalons, conformité vis-à-vis des attentes clients, valeur différenciante, capacité des practices métiers à délivrer le projet)\n*     Définissez la stratégie gagnante la plus adaptée pour adresser le marché tout en prenant des initiatives pour permettre une direction plus créative et innovante.\n*     Etes en charge d'assurer un reporting précis et rigoureux sur le suivi du funnel de propositions.\n*     Collaborez, du fait de votre excellente connaissance de nos offres, avec les autres entités du groupe dans le but de créer des synergies et alliances et augmenter notre force de frappe.\n*     Coopérez avec notre Centre d'excellence dans le développement d'assets et démonstrateurs.\n*     Anticipez, décelez et coconstruisez les besoins avec les clients grâce à votre réseau et connaissance technique ainsi que des environnements scientifiques, d'ingénierie et production industrielle.\n*     Observez, analysez et faîtes des prédictions par rapport aux prochaines demandes et tendances du marché afin de permettre au groupe de s'y préparer et de pérenniser une position de leader auprès de nos clients.\n*     Pilotez une équipe de solutioners et experts au quotidien.\nPROFIL : * De formation ingénieur ou équivalent, vous justifiez d'une expérience de 10 à 15 ans en tant que responsable avant-vente, responsable d'offre, consultant senior, architecte/tech lead ou technico-commercial sur des thématiques en lien avec l'IA et la data appliquées en contexte d'ingénierie, industriel ou scientifique.\n* Sans être un expert technique, vous avez le background (digital orienté ingénierie) nécessaire pour affirmer une proposition de valeur de manière claire et précise et comprendre avec exactitude les enjeux clients sur nos environnements de type ingénierie/industriel ou scientifique.\n* Vous êtes un excellent communicant en capacité de s'adapter à un écosystème complexe et concurrentiel, de se positionner avec fermeté et de convaincre en tant que premier ambassadeur de notre proposition. Votre leadership naturel vous permet d'embarquer votre équipe vers une direction et stratégie commune.\n* Vous êtes analytique et en capacité de fournir une analyse par le biais de reportings complets et adaptés de manière régulière.\n* Vous aimez le relationnel, aller au contact d'un large public ainsi que transmettre et étoffez votre réseau.\n* Vous savez prendre de la hauteur face aux situations rencontrées afin de déployer des plans d'action qui peuvent sortir des sentiers battus. Votre hauteur de vue vous apporte une capacité à synthétiser des sujets techniques, détecter les risques et à animer efficacement l'ensemble des parties-prenantes (clients, partenaires, équipes internes).\n* Vous avez une excellente maîtrise de l'anglais et êtes en enclin pour des déplacements réguliers dans la zone Europe. \nCAPGEMINI, entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.",
+        "ft_reference": "0907654",
+        "skills": {
+            "EnSoftSkils": [
+                "Leadership",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "IT Solution Architect - Sales France (m/f/n) (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": null,
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-16",
+        "company_data": {
+            "sector": null,
+            "company_size": "Enovos est le principal fournisseur d'énergie au Luxembourg, également présent en Allemagne, France et Belgique. La mission d'Enovos repose sur deux piliers essentiels : d'une part, l'approvisionnement en électricité, gaz naturel et en énergies renouvelables afin de les fournir à un vaste éventail de clients comprenant notamment des entreprises industrielles, des PME et des ménages privés. D'autre part, le développement de projets dans le domaine des énergies renouvelables. Enov...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0768693",
+        "description": "IT Solution Architect - Sales France (m/f/n) Département : Enovos IT / Lieu : Esch-sur-Alzette / Contrat : CDI / Demande N° En tant que notre IT Solution architecte, vous allez travailler étroitement avec l'équipe « Sales France » et en combinant expertise technique et compréhension métier vous serez le catalyseur de l'amélioration continue des solutions informatiques couvrant l'ensemble du cycle des ventes d'électricité et de gaz aux clients professionnels. Vos missions  Vous agissez en tant que point de contact principal IT pour l'équipe « Sales France », avec des déplacements réguliers dans les bureaux de MetzEn tant que conseiller technologique vous élaborez les solutions en vous assurant que les solutions s'alignent sur l'évolution dynamique du secteur de l'énergie, les besoins de scalabilité et la stratégie ITVous comblez le fossé entre les besoins métiers et les exigences techniques, en garantissant que les solutions IT soient alignées avec les objectifs stratégiques métierVous développez et maintenez une architecture de solution robuste et axée sur les données, en veillant à une intégration fluide des applications métiers utilisées par « Sales France »Vous concevez et optimisez les flux de données et processus spécifiques avec un accent sur l'efficacité, la performance et l'évolutivitéVous intégrez pleinement les outils spécifiques dans le cadre IT global de l'entreprise, en favorisant la synergie et en réduisant les « silos » Vous dirigez la priorisation des projets IT pour le département « Sales France », en veillant à leur intégration réussie dans la feuille de route IT globaleVous gérez les projets IT de l'analyse initiale à la livraison finale, en veillant à l'alignement avec les exigences métiers et à l'optimisation des systèmes Votre profil Détenteur d'un diplôme universitaire en IT ou équivalentExpérience confirmée dans un rôle technique et/ou analyste métier, avec un fort intérêt pour l'architecture de solutions, idéalement dans un contexte utilities (énergie, eau potable, etc.).Appétence et curiosité marquées pour acquérir une compréhension approfondie et globale du métier de fournisseur d'énergie, associées à une capacité avérée à analyser et interpréter les processus métiers.Expérience solide avec des systèmes tels que CRM, facturation, prévision ou tarification, idéalement dans un contexte utilities.Familiarité avec les techniques d'intégration modernes (API, microservices, cloud) et une bonne connaissance des principes DevOps.Compréhension approfondie de l'architecture des données, de l'optimisation des flux de données, et des solutions cloud.Excellentes compétences en gestion des parties prenant/antes et en communication, permettant une traduction claire des besoins métiers en spécifications techniques.Capacité à vulgariser des concepts techniques complexes pour des audiences techniques et non techniques.Aptitude à naviguer dans l'ambiguïté et à identifier des orientations stratégiques claires.Maîtrise orale et écrite des langues françaises et anglaise ; la maîtrise d'autres langues est un atout  Notre offre L'opportunité de travailler pour un Groupe engagé dans la transition énergétiqueUne grande stabilité d'emploi et la possibilité d'évoluer au sein du GroupeUne culture d'entreprise positive avec des valeurs fortes Un salaire compétitif avec une évolution salariale annuelle, un bonus et une gratificationDe nombreux autres avantages tels qu'une assurance pension complémentaire, un système de couverture  complémentaire pour vous et votre famille,  jours de congé, un parking privé, etc. Pour les candidatures externes, une copie récente de l'extrait du  vous sera demandée en cas d'invitation à un entretien d'embauche.",
+        "ft_reference": "0768693",
+        "skills": {
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
             ]
         }
     },
@@ -5705,17 +6113,17 @@
         "ft_reference": "0716612",
         "skills": {
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "Virtualisation": [
-                "VMware",
-                "Hyper-V"
+                "Hyper-V",
+                "VMware"
             ],
             "Other": [
                 "Cloud"
@@ -5771,6 +6179,44 @@
             ],
             "EnSoftSkils": [
                 "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Solution Engineer Mobilité & Téléphonie (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "DGTL PERFORMANCE ",
+        "location_raw": "78",
+        "location": "78",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-04",
+        "company_data": {
+            "sector": null,
+            "company_size": "DGTL Performance",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1739153",
+        "description": "DGTL / Signe + est le facilitateur pour tous les acteurs qui recherchent des ressources ou des missions DATA.\nSpécialiste du marché Data et BI, nous intervenons dans toute la France comme à l'étranger ; en sous-traitance, pré-embauche, recrutement, portage commercial, portage salarial, etc.\nDepuis 2018, nous accompagnons nos clients avec proximité, juste prix et préoccupation éthique de tous les instants.\nhttps://www.dgtl-performance.com\nLe poste : \n\nContexte \n \nGestion de la flotte mobile du groupe : 30 000 appareils déployés dans le monde entier (68 pays)\n \nLes activités à prendre en charge sont :\n- Expertise et audit des environnements MDM - Mobile Device Management & UEM - Unified Endpoint Management\n- Installation, administration et maintien en condition opérationnelle des composants techniques des systèmes informatiques internes (MCO / MCS)\n- Résolution d'incidents Support N3\n- Troubleshooting / debug sur serveurs applicatifs / infra\n- Centralisation des logs\n- Ouverture et suivi d'incidents auprès des éditeurs / constructeurs\n- Rédaction de dossier d'exploitation, dossier de migration, dossier de tests et recette\nProfil recherché : \n\nCompétences techniques :\n \nMobiles :\n- VMware Workspace One UEM\n- iOS / Android\n- Apple DEP/VPP (Apple Business Management)\n- Samsung KME/KC, Samsung DEX\n- Android Entreprise : gestion COBO, COSU, COPE, BYOD\nServeurs\n- Linux Debian, Redhat, Photon OS, CentOS\n- Windows Server 2012, 2016, 2019, 2022\n- Powershell\n- Réseau TCP/IP, chiffrement SSL\n- VMware vCenter / vSphere, Horizon\n \nCompétences autres :\nAnglais : lu, écrit, parlé - Niveau intermédiaire\nBon niveau rédactionnel\nProactivité et agilité\n \nLa durée de prestation est d'une durée de 6 mois renouvelables.\nVélizy",
+        "ft_reference": "1739153",
+        "skills": {
+            "OS": [
+                "Linux",
+                "Windows"
+            ],
+            "Virtualisation": [
+                "VMware"
             ]
         }
     },
@@ -5906,8 +6352,8 @@
         "ft_reference": "1237455",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -6027,9 +6473,9 @@
                 "Hadoop"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -6038,8 +6484,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -6092,14 +6538,14 @@
                 "Hadoop"
             ],
             "MachineLearning": [
-                "PyTorch",
                 "TensorFlow",
-                "Keras"
+                "Keras",
+                "PyTorch"
             ],
             "CloudComputing": [
+                "AWS",
                 "Azure",
-                "GCP",
-                "AWS"
+                "GCP"
             ],
             "Other": [
                 "ML",
@@ -6209,6 +6655,41 @@
         "link": "https://candidat.francetravail.fr/offres/recherche/detail/0528009",
         "description": "Votre futur environnement de travail : \nEn tant que Solution Architect Business Automation, vous jouerez un rôle stratégique dans l'évaluation, la conception et la mise en œuvre de solutions d'automatisation pour divers clients. Vous serez un acteur clé à chaque étape des projets, de la définition des besoins à l'encadrement des développeurs durant les phases de réalisation.\n \nVotre rôle et vos missions : \n \nVos missions principales :\n * Phase amont : Identifier les technologies les plus pertinentes en fonction des besoins clients (principalement autour des solutions UiPath, avec une connaissance de Celonis comme atout).\n * Conception : Collaborer avec les parties prenantes pour définir des architectures techniques robustes et innovantes.\n * Encadrement : Accompagner et superviser les développeurs dans la mise en œuvre des solutions, en veillant à la qualité du code et à la conformité aux standards.\n * Expertise technique : Participer activement aux revues de conception et aux décisions technologiques stratégiques.\n * Innovation : Assurer une veille technologique pour proposer des solutions à forte valeur ajoutée.\nEnvironnement technique\n * Technologies principales : UiPath (Automatisation, Process Mining, Document Understanding, Communication Mining).\n * Connaissances souhaitées : Celonis (un atout).\n * Approche méthodologique : Agile, centrée sur la collaboration et la réactivité aux besoins clients.\n \nVotre profil :\n * Vous êtes certifiés UiPath Advanced Developer ou Solution Architect. \n * Vous disposez d\\'au moins 3 ans d\\'expérience significative sur les technologies UiPath.\n * Vous souhaitez évoluer dans un environnement de travail dynamique, propice à l\\'innovation et à la créativité. \nIntégrer notre équipe, c'est rejoindre un collectif engagé qui valorise la collaboration, l'excellence et l'innovation. Vous travaillerez sur des projets passionnants, entouré(e) de professionnels dédiés, et bénéficierez de nombreuses opportunités de développement personnel et professionnel.\nEnvie de façonner l'avenir de l'automatisation ? Postulez dès maintenant et faites partie de l'aventure !...",
         "ft_reference": "0528009",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Solution Architect Business Automation - Industrie et Services - Lille (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "MARQUETTE LEZ LILLE 59",
+        "location": "59",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-01-09",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/0496438",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Sopra Steria recherche actuellement des profils :  Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe avec  collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En , le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.\nThe world is how we shape itDescription du posteVotre futur environnement de travail : En tant que Solution Architect Business Automation, vous jouerez un rôle stratégique dans l'évaluation, la conception et la mise en œuvre de solutions d'automatisation pour divers clients. Vous serez un acteur clé à chaque étape des projets, de la définition des besoins à l'encadrement des développeurs durant les phases de réalisation. Votre rôle et vos missions :  Vos missions principales :Phase amont : Identifier les technologies les plus pertinentes en fonction des besoins clients (principalement autour des solutions UiPath, avec une connaissance de Celonis comme atout).Conception : Collaborer avec les parties prenantes pour définir des architectures techniques robustes et innovantes.Encadrement : Accompagner et superviser les développeurs dans la mise en œuvre des solutions, en veillant à la qualité du code et à la conformité aux standards.Expertise technique : Participer activement aux revues de conception et aux décisions technologiques stratégiques.Innovation : Assurer une veille technologique pour proposer des solutions à forte valeur ajoutée.Environnement techniqueTechnologies principales : UiPath (Automatisation, Process Mining, Document Understanding, Communication Mining).Connaissances souhaitées : Celonis (un atout).Approche méthodologique : Agile, centrée sur la collaboration et la réactivité aux besoins clients. QualificationsVotre profil :Vous êtes certifiés UiPath Advanced Developer ou Solution Architect. Vous disposez d'au moins 3 ans d'expérience significative sur les technologies UiPath.Vous souhaitez évoluer dans un environnement de travail dynamique, propice à l'innovation et à la créativité. Intégrer notre équipe, c'est rejoindre un collectif engagé qui valorise la collaboration, l'excellence et l'innovation. Vous travaillerez sur des projets passionnants, entouré(e) de professionnels dédiés, et bénéficierez de nombreuses opportunités de développement personnel et professionnel.Envie de façonner l'avenir de l'automatisation ? Postulez dès maintenant et faites partie de l'aventure !Informations supplémentairesEmployeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements",
+        "ft_reference": "0496438",
         "skills": {
             "EnSoftSkils": [
                 "Communication",

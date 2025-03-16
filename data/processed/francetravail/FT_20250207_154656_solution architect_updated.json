@@ -29,17 +29,17 @@
         "ft_reference": "187SDYY",
         "skills": {
             "DevTools": [
-                "Docker",
                 "Jenkins",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Automation": [
-                "Chef",
-                "Kubernetes"
+                "Kubernetes",
+                "Chef"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ]
         }
     },
@@ -175,17 +175,17 @@
         "ft_reference": "1913362",
         "skills": {
             "ProgLanguage": [
-                "Scala",
-                "Java"
+                "Java",
+                "Scala"
             ],
             "DataBase": [
-                "Cassandra",
                 "SQL",
+                "Cassandra",
                 "Elasticsearch"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
@@ -197,8 +197,8 @@
                 "Kubernetes"
             ],
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
                 "Cloud"
@@ -213,7 +213,7 @@
         "salary": null,
         "company": "PROPULSE IT ",
         "location_raw": "PARIS 13",
-        "location": "13",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 9 An(s)",
         "experience": "9 an(s)",
@@ -235,9 +235,9 @@
         "ft_reference": "1895537",
         "skills": {
             "Other": [
-                "DevOps",
                 "CI/CD",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -370,6 +370,36 @@
         "link": "https://candidat.francetravail.fr/offres/recherche/detail/1855800",
         "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :  *  Interpréter et traduire les besoins clients pour en définir les exigences techniques &amp; fonctionnelles de la solution ;",
         "ft_reference": "1855800",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Solution MES - Lyon (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "69 69",
+        "location": "69",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1855312",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :  *  Concevoir et garantir les architectures de la solution MES Apriso en tenant compte des besoins métier et des contraintes techniques",
+        "ft_reference": "1855312",
         "skills": {}
     },
     {

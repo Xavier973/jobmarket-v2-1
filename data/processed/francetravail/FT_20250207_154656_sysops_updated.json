@@ -123,8 +123,8 @@
                 "Linux"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "Containers": [
                 "Kubernetes"

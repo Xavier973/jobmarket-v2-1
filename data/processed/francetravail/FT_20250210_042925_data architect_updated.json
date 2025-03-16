@@ -32,9 +32,9 @@
                 "Azure"
             ],
             "Other": [
-                "DevOps",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -71,12 +71,72 @@
                 "Orange"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
             ]
         }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Senior System Architect PEGA - Paris (H/F)",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "NANTERRE 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1990060",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :       Vos missions   En tant que Senior System Architect PEGA, dans le secteur financier, pour nous clients Banques, Assurances, Mutuelles, vos missions seront les suivantes :  Accompagner nos clients en France et parfois à l'international dans leurs besoins métiers, dans une démarche de transformation digitale (CRM, Automation, Contact Center, etc). Développer et implémenter des nouvelles applications grâce à la solution PEGA. Collaborer avec les équipes fonctionnelles et techniques pour établir une architecture adaptée aux ambitions de nos clients. Travailler dans un contexte agile, grâce aux principes Scrum, KANBAN et autres. Garantir le respect des bonnes pratiques PEGA délivrées par l'éditeur.             ",
+        "ft_reference": "1990060",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Business Architect PEGA - Paris (H/F)",
+        "job": "data architect",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "NANTERRE 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1989973",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :       Vos missions   En tant que Business Architect PEGA, dans le secteur financier, pour nous clients Banques, Assurances, Mutuelles, vos missions seront les suivantes :  Participer activement à la définition des besoins avec les clients en France et parfois à l'international  dans une démarche de transformation digitale (CRM, Automation, Contact Center, etc). Rédiger les différents livrables tels que le cahier des charges et les user stories. Coordonner l'activité avec les équipes de développement en charge de la conception des applications. Collaborer avec les équipes fonctionnelles et techniques pour établir une architecture adaptée aux ambitions de nos clients. Travailler dans un contexte agile, grâce aux principes Scrum, KANBAN et autres.          ",
+        "ft_reference": "1989973",
+        "skills": {}
     }
 ]

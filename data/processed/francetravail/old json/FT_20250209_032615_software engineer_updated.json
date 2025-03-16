@@ -1,0 +1,444 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Software Engineer MDM (F/H) (H/F)",
+        "job": "software engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AXA FRANCE ",
+        "location_raw": "WASQUEHAL",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": "Autres assurances",
+            "company_size": "Chez AXA, nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs. C'est pour cette raison que nous menons une politique RH engagée qui favorise la diversité, qui préserve l'équilibre vie privée-vie professionnelle et accélère le développement des compétences et des carrières.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1943362",
+        "description": "En tant que Software Engineer avec une expertise avérée sur la solution MDM (Master Data Management On-Premise) de l'éditeur Informatica, vous serez intégré dans une équipe d'une vingtaine de développeurs (profils MDM et profils java principalement) travaillant pour la tribu Data client.\n\nVous intervenez dans une squad agile avec pour objectif de développer en toute autonomie un produit apportant rapidement de la valeur à l'entreprise, via l'intégration de nouvelles sources de données dans le MDM et la mise en qualité de la donnée via les configurations de match and merge du progiciel. \n\nDans un contexte agile, vous aurez la responsabilité de développer, analyser et concevoir de nouvelles fonctionnalités/paramétrages du MDM qui gère notre référentiel client, en étroite collaboration avec le Product Owner, le business analyste, les testeurs, les développeurs, les OPS et les architectes solutions et entreprise. L'intégration de données se fait via la solution IDQ (Informatica Data Quality) ou via les services exposés par le MDM. \n\nUne fois vos développements réalisés, vous êtes aussi acteur de la livraison de vos applicatifs en collaboration avec les OPS (DevOps) sur la plateforme Azure Devops. \n\nVous aurez la possibilité de participer à des communautés de pratique (COP) avec d'autres experts techniques, à des chapters Dev, des BBLs,.\nVous maitrisez parfaitement MDM et IDQ version On-Premise, de l'éditeur Informatica, avec plusieurs années d'expérience à votre actif.\n\nVous faites preuve de capacités relationnelles reconnues et du sens du collectif, vous permettant d'interagir efficacement tant à l'oral qu'à l'écrit avec des interlocuteurs de divers horizons (Business Analyst, Architecte, Métiers.).\n\nVous êtes curieux de comprendre le métier de l'assurance et vous savez adapter votre discours à vos interlocuteurs. \n\nVotre capacité à prioriser et à remonter les alertes vous permet d'anticiper les difficultés et d'y apporter des solutions adaptées.\n\nVous faites preuve d'une grande sensibilité pour la qualité du code (SQL essentiellement) et de la donnée. \n\nVous êtes familier avec les outils Atlassian (JIRA et Confluence) et l'environnement agile.\n\nIdéalement vous avez des notions sur l'EDA permettant de consommer et produire des événements à destinations d'autres systèmes applicatifs. La connaissance Java serait également un plus.",
+        "ft_reference": "1943362",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Collaboration": [
+                "JIRA",
+                "Confluence"
+            ],
+            "Other": [
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Software Engineer .Net/SharePoint (F/H) (H/F)",
+        "job": "software engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AXA FRANCE ",
+        "location_raw": "WASQUEHAL",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": "Autres assurances",
+            "company_size": "Chez AXA, nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs. C'est pour cette raison que nous menons une politique RH engagée qui favorise la diversité, qui préserve l'équilibre vie privée-vie professionnelle et accélère le développement des compétences et des carrières.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1943161",
+        "description": "VÔTRE RÔLE \nEn tant que Software Engineer .Net/SharePoint, vous intégrerez une équipe agile multi expertise (Product Owner, Développeurs, Testeurs) travaillant principalement sur l'application In AXA, à destination de nos réseaux d'agents généraux et distributeurs. \nCette Feature Team évolue dans un cadre agile (Kanban, Scrum) tout en utilisant au quotidien les principes du Software Craftsmanship tels que TDD, BDD, Clean Code et les Code reviews nous aidant à garantir des applications de qualité à la pointe de la technologie.\nUne fois vos développements réalisés, vous êtes aussi acteur de la livraison de vos applicatifs en collaboration avec les OPS (DevOps) sur la plateforme Azure Devops. \nVous aurez la possibilité de participer à des communautés de pratique (COP) avec d'autres experts techniques, à des chapters Dev, des BBLs,. \n \nEnvironnement Technique : \n \n.Net, SharePoint, ASP.Net, React \nMicrosoft AzureDevOps (CI/CD) pour l'inner source, Github pour l'open source \nCaaS avec Openshift et PaaS avec Microsoft Azure \n \nVOS MISSIONS \n \nEn tant que Software Engineer .Net/SharePoint, votre mission consistera à :\n \nDélivrer des solutions opérationnelles et de qualité en respectant les principes d'architecture et les bonnes pratiques de développement, de sécurité et d'UX \nConfigurer l'environnement de développement pour l'intégration de sites et d'applications (web ou mobile) Développer / intégrer des fonctionnalités SharePoint spécifiques à haut niveau de fiabilité \nContribuer à la culture Tech de la guilde de dev et à l'innovation AXA à travers les formations, la veille technologique, les travaux de nos communautés de pratique et les synergies avec des acteurs externes.\nVOTRE PROFIL  \nExpérience confirmée sur les technos .Net, SharePoint et ASP.Net \nDes compétences en Javascript ou react sont un plus Intérêt particulier pour les best practices (TDD, BDD, Clean Code.) Adepte du travail en équipe afin de contribuer à la transformation de notre entreprise où le client est au centre de nos enjeux. Si vous êtes enthousiaste à l'idée d'apporter votre pierre à l'édifice, rejoignez-nous pour créer ensemble des produits innovants et des applications performantes.\n \nAVANTAGES \n \nNombreuses formations Une mutuelle au top, une prévoyance et programme Santé au rendez vous Politique parentale, politique en faveur des aidants, politique en matière de violences intrafamiliales Jusqu'à 3 jours de télétravail par semaine pour un équilibre vie pro/ vie perso Accès aux différents évènements tech internes et externes (COP, Meetup, BBL, Dojos, Hackathons, Conférences, Salons.) \nPrimes, intéressement et participation attractifs, actionnariat salarié \nCE avantageux et Tickets Restaurants \n \nVOTRE ENVIRONNEMENT DE TRAVAIL \n \nAXA est un des leaders de l'assurance et de la gestion d'actifs dans le monde. Nous aidons nos 108 millions de clients à traverser les petites et grandes difficultés de la vie. Chaque jour, nous agissons ensemble pour inventer la meilleure manière de les protéger et voulons donner à chacun les moyens de vivre une vie meilleure. Un challenge qui donne le sourire et envie de se lever le matin ! Chez AXA, nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs. C'est pour cette raison que nous menons une politique RH engagée qui favorise la diversité, qui préserve l'équilibre vie privée-vie professionnelle et accélère le développement des compétences et des carrières.",
+        "ft_reference": "1943161",
+        "skills": {
+            "CloudComputing": [
+                "Azure"
+            ],
+            "Containers": [
+                "OpenShift"
+            ],
+            "Other": [
+                "CI/CD",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Software Engineer (IT) / Freelance (H/F)",
+        "job": "software engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AUVERGNE-RHÔNE-ALPES",
+        "location_raw": "AUVERGNE-RHÔNE-ALPES",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1938567",
+        "description": "Bonjour a tous,\nl'un de mes clients en region d'Auvergne-Rhone, est a la recherche d'un consultant Software Engineer,\nQui pourrait accompagné ses équipes, demarrage debut Fevrier.\nCi-joint l'appel d'offre:\n - Gestion de configuration (GITLAB)\n- Automatisation (dont Hudson,, GitLab CI/CD, Ansible, AWX)\n- Observabilité (Splunk, Grafana)\n- Connaissance des OS AIX, Linux, Windows\n- Maitrise Kubernetes\n- Veille technologique, curieux\n- Bon communiquant\n- Anglais : niveau Maitrise. La plupart des contributeurs technique s'exprime en langue anglaise.\n- langage Python et ou Java\nn'hesitez pas a m'envoyer vos cv.\nBien cordialement.\nSamia.\nProfil candidat:\nBonjour a tous,\nl'un de mes clients en region d'Auvergne-Rhone, est a la recherche d'un consultant Software Engineer,\nQui pourrait accompagné ses équipes, demarrage debut Fevrier.\nCi-joint l'appel d'offre:\n - Gestion de configuration (GITLAB)\n- Automatisation (dont Hudson,, GitLab CI/CD, Ansible, AWX)\n- Observabilité (Splunk, Grafana)\n- Connaissance des OS AIX, Linux, Windows\n- Maitrise Kubernetes\n- Veille technologique, curieux\n- Bon communiquant\n- Anglais : niveau Maitrise. La plupart des contributeurs technique s'exprime en langue anglaise.\n- langage Python et ou Java\nn'hesitez pas a m'envoyer vos cv.\nBien cordialement.\nSamia.",
+        "ft_reference": "1938567",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Java"
+            ],
+            "OS": [
+                "Windows",
+                "Linux"
+            ],
+            "Automation": [
+                "Ansible",
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "CI/CD"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Software Engineer Python F/H (IT) (H/F)",
+        "job": "software engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "69 69",
+        "location": "69",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1938380",
+        "description": "À propos de nous :\nGrafton Recruitment, spécialiste de l?intérim et du recrutement de profils juniors à professionnels confirmés, recherche un Software Engineer Python orienté IA pour son client lyonnais.\nMission :\nDans le cadre d'une création de poste, nous recherchons un collaborateur prêt à s'occuper des tâches suivantes :\nParticiper à la conception et à l?implémentation d'une architecture agentique innovante.\nIntégrer des agents d?intelligence artificielle en utilisant des frameworks existants comme LangChain ou d?autres frameworks LLM.\nDévelopper des APIs complexes\nDéployer des solutions Python prêtes pour la production.\nApporter une forte expertise algorithmique pour résoudre des problématiques complexes.\nCollaborer étroitement avec les autres développeurs et les autres acteurs techniques pour garantir une expérience utilisateur fluide et performante.\nProfil candidat:\nCela t'intéresse ?\nAlors voici qui nous recherchons :\nUne excellente maitrise de Python ( Au moins 5 ans d'expérience en CDI)\nExpérience dans le déploiement de produits sur Python\nExpérimenté sur les frameworks Flask, Django ou FastAPI\nExcellente capacité en algorithmie et résolutions de problèmes complexes\nC'est un gros plus si :\nTu as des connaissances sur des frameworks comme PyTorch ou LangChain\nSi tu connais Reinforcement Learning, NLP ou d'autres systèmes multi-agents\nSi tu as une expérience avec gRPC pour l'intégration backend\nNous recherchons une personne autonome, curieuse, volontaire et prête à relever des défis techniques ambitieux.\nTu es motivé à rejoindre une start-up spécialisée dans l'IA ?\nN'hésite pas à postuler !",
+        "ft_reference": "1938380",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "MachineLearning": [
+                "PyTorch"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "GED EDITIQUE : Software engineer EDITIQUE - Sénior (IT) (H/F)",
+        "job": "software engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1935885",
+        "description": "Description et livrables de la prestation\nEditique développement composition OpenText et KSL, connaissance Batch et transactionnel (Empower)\nAccompagner nos métier des collectives à la réalisation de nos communications sortantes sur le logiciel OpenText, également être capable de réaliser avec les Business Analystes les spécifications techniques et éditoriales, travailler avec les interlocuteurs de la squad (Test, PO, BA,...)\nIntégrer dans une squad AGILE doit être capable de travailler en équipe, il sera rattaché au département du document management.\nExpertise souhaitée\nDéveloppeur editique maitrise du logiciel OPENTEXT Extream, et KSL\nProfil candidat:\nCompétences\nTechnologies et Outils\nOpenText Exstream 16.2\nOpenText Content Server 16\nOpenText\nMéthodes / Normes\nAgile\nAutomatisme\nSoft skills\nCuriosité / Créativité\nForce de proposition\nRelationnel / Communication\nPragmatique\nAutonomie\nAdaptation\nLangues\nAnglais\nSecteurs d'activités\nAssurance\nServices Informatiques",
+        "ft_reference": "1935885",
+        "skills": {
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Appui RELEASE TRAIN ENGINEER (IT) (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "COLOMBES 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1936481",
+        "description": "Missions et Responsabilités :\nPI Planning\nOrganisation Logistique :\nCollaborer avec le RTE pour organiser les PI planning (invitations, réservation d?espaces, préparation du matériel et outillage, gestion des commandes ? petits déjeuners, déjeuners, etc.) lorsque le PI planning se déroule sur site.\nAnimation et Dynamisation :\nProposer, mettre en place et animer des activités de type  icebreaker  et  energizer  pendant les PI planning.\nInterface entre Équipes :\nAssurer la liaison entre les Scrum Masters et le RTE lors des PI planning.\nSuivi du Delivery d?un PI\nCoordination Inter-équipes :\nFaciliter les communications entre équipes en coordonnant les features complexes qui impliquent plusieurs équipes.\nSuivi du Delivery :\nAssister le RTE dans le suivi du delivery en collectant les avancées des équipes lors des ART sync, en identifiant les blocages et en remontant les alertes.\nSynthétiser et restituer l?état d?avancement global.\nGestion des Adhérences et Risques :\nIdentifier et suivre les interactions entre le Train et les entités externes durant toute la phase de delivery.\nReprésenter le Train auprès des partenaires extérieurs et des équipes SI transverses.\nContribuer à la remontée et au suivi des risques auprès du trio tête de train (RTE, PM, SA).\nOrganisation des Recettes et MEPs :\nFaciliter l?organisation des recettes métier.\nParticiper au pilotage du delivery et au suivi des phases de mise en production (incluant les recettes) en fournissant des états des lieux hebdomadaires ou sur demande spécifique.\nReporting :\nContribuer, avec le RTE, à la collecte, l?homogénéisation et l?automatisation des indicateurs de suivi du delivery et réaliser un reporting hebdomadaire.\nAmélioration Continue\nAnimation des Temps d?Inspect & Adapt :\nProposer et animer, en collaboration avec les Scrum Masters et le RTE, des sessions d?inspect & adapt (sprint démo, system démo, rétrospectives).\nRenforcement des Liens Inter-équipes :\nCréer du lien entre les équipes (Scrum Masters, PO, tech leads, développeurs, etc.) pour favoriser le partage des bonnes pratiques et assurer un coaching efficace des Scrum Masters.\nOptimisation des Processus :\nProposer des actions d?amélioration pour optimiser le fonctionnement du Train et, le cas échéant, être porteur d?initiatives.\nAccompagner le RTE dans la réflexion et la mise en ?uvre d?améliorations touchant à l?organisation, la méthodologie, le delivery, ainsi que les phases de recette et de mise en production.\nPartage des Bonnes Pratiques :\nContribuer à l?homogénéisation des pratiques entre trains et partager les bonnes pratiques avec d?autres équipes.\nProfil candidat:\nNous recherchons deux profils d?Appui RTE.\nRappel du rôle de RTE :\nLe Release Train Engineer (RTE) est un acteur central dans les organisations adoptant les pratiques Agile (notamment via le Scaled Agile Framework ? SAFe). Il est chargé de la coordination et de la gestion de plusieurs équipes Agile travaillant de concert pour atteindre des objectifs communs",
+        "ft_reference": "1936481",
+        "skills": {
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Test Engineer H/F (IT)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1939914",
+        "description": "Analyser les entrants (user stories, spécifications fonctionnelles, cahier des charges)\nParticiper à la mise en ?uvre de la stratégie de tests dans un environnement Agile\nRédiger et/ou maintenir les scénarios de test \nPréparer les jeux de données\nExécuter les plans de test\nExécuter des campagnes de test sur différents navigateurs (Chrome, Firefox, Safari?) et différents OS (Windows, Mac Os, IOS, Android?)\nGérer les campagnes de test, suivre et remonter les anomalies\nValider la conformité du service et présenter le rapport de recette\nMaintenir les supports de documentation et de tests\nSuivre le cycle de vie des anomalies et valider les correctifs\nProfil candidat:\nVous êtes avant tout passionné par les nouvelles technologies et vous avez une appétence pour le domaine du test.\nVous êtes autonome, rigoureux et curieux\nVous appréciez le travail en équipe et êtes à l'aise avec le relationnel client\nVous disposez d'un expérience dans le domaine du test de 3 ans minimum\nMinimum Bac+5 dans le secteur de l'informatique\nBon niveau d'anglais (écrit + oral)",
+        "ft_reference": "1939914",
+        "skills": {
+            "OS": [
+                "Windows"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "IT Quality & Test Engineer (IT) (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "HEM MONACU 80",
+        "location": "80",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1937805",
+        "description": "Ingénieur(e) test et qualité, cette annonce est faite pour vous !\nNous recrutons un/e Ingénieur(e) test et qualité (F/H) basé à Monaco. \nPour prendre part à ce projet, voici ce qui est nécessaire :\nVous avez déjà occupé un poste de testeur, idéalement pendant 2 ans, dans le secteur financier.\nVous avez démontré votre capacité à effectuer des tests fonctionnels pour évaluer l'exactitude, l'adéquation, l'interopérabilité, la fonctionnalité et l'accessibilité, ainsi que des tests non fonctionnels pour évaluer la sécurité, la fiabilité, l'efficacité, la fiabilité, la maintenabilité et la portabilité\nCapacité à effectuer des tests de régression pour le projet, le produit et la validation pour la mise en production (PRV).\nUn niveau d'anglais courant est requis\nVos missions :\nVous conformer à la stratégie de test, aux normes de test, aux modèles et aux plans de test\nDéfinir, affiner et exécuter les cas de test et fournir des preuves \nEffectuer des tests fonctionnels pour évaluer l'exactitude, l'adéquation, l'interopérabilité, la fonctionnalité et l'accessibilité \nEffectuer des essais non fonctionnels pour évaluer la sécurité, la fiabilité, l'efficacité, la maintenabilité et la portabilité \nEffectuer des tests de régression pour le projet, le produit et la validation pour la mise en production (PRV) \nDévelopper des outils personnalisés et les intégrer aux outils existants afin d'accroître la productivité de l'ingénierie\nDéfinir le cahier des charges de l'automatisation, collaborer avec l'équipe pour améliorer l'efficacité et la productivité grâce à l'automatisation des tests\nAssurer la liaison avec de multiples parties prenantes à tous les niveaux de la banque, y compris les sites internationaux.\n \nCes missions sont sur site client, mais vous ferez avant tout partie de la #TeamCELAD donc voici ce qui nous différencie :\nAmbiance conviviale et un staff à votre écoute \nDes évènements organisés par l?équipe RH tout au long de l?année (badminton, soirée jeux vidéo/société, bowling, conférence technique ?)\nUne agence en pleine essor qui ne cesse de grandir et qui a de beaux projets en perspectives dans différents secteurs d?activité (automobile, défense, IOT, santé, voyages de luxe, banque?)\nPrime de participation aux résultats de l?entreprise + PEE\nPrime de vacances \n15 jours de RTT\nProfil candidat:\nVous avez déjà occupé un poste de testeur, idéalement pendant 2 ans, dans le secteur financier.\nVous avez démontré votre capacité à effectuer des tests fonctionnels pour évaluer l'exactitude, l'adéquation, l'interopérabilité, la fonctionnalité et l'accessibilité, ainsi que des tests non fonctionnels pour évaluer la sécurité, la fiabilité, l'efficacité, la fiabilité, la maintenabilité et la portabilité\nCapacité à effectuer des tests de régression pour le projet, le produit et la validation pour la mise en production (PRV).\nUn niveau d'anglais courant est requis",
+        "ft_reference": "1937805",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "IT Validation Engineer (IT) / Freelance (H/F)",
+        "job": "Other",
+        "contract_type": "Profession",
+        "salary": null,
+        "company": null,
+        "location_raw": "CHARTRES 28",
+        "location": "28",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1935054",
+        "description": "Consultant Freelance en Validation de Systèmes Informatisés\n \nResponsabilités principales :\nÉvaluer les risques induits par les changements et définir la stratégie de validation basée sur une compréhension précise des implications globales.\nGénérer et, si nécessaire, exécuter les plans de validation des projets, incluant les qualifications d'installation (IQ), opérationnelles (OQ) et de performance (PQ).\nParticiper aux équipes de projet pour créer, revoir et approuver la documentation de validation informatique, y compris les demandes de changement (CR), les évaluations des risques, les plans de validation, les spécifications de conception et de configuration, les exigences des utilisateurs, les matrices de traçabilité, les protocoles et rapports de qualification/validation.\nFournir des conseils sur les exigences de qualification et de validation dans un environnement GxP (21CFR Partie 11, Annexe 11 et directives ISPE GAMP).\nLivrables attendus :\nDocumentation de validation informatique, incluant les demandes de changement (CR), les plans de validation, les évaluations des risques, les spécifications de conception et de configuration, les exigences des utilisateurs, les tests (IQ / OQ / PQ), les migrations de données, et les rapports de validation (VPR).\nDocumentation principalement en anglais.\nProfil candidat:\nCompétences et expériences requises :\nConnaissance approfondie du cycle de vie de validation, incluant la génération et l'exécution des protocoles de validation (IQ / OQ / PQ).\nCompréhension des systèmes informatisés validés et de la gestion des changements.\nConnaissance des Bonnes Pratiques de Fabrication (BPF) incluant 21 CFR Parts 210, 211, 11, GAMP 5 et ISO 13485:2003.\nLa connaissance des systèmes eTims & QualityDocs serait un plus.\nSolides compétences organisationnelles, verbales, écrites et de présentation.\nCapacité à communiquer efficacement en anglais à l'oral et à l'écrit\nProfil recherché :\nExpérience avérée dans des missions de validation de systèmes informatisés, idéalement en tant que freelance ou consultant indépendant.\nCapacité à travailler de manière autonome et à gérer plusieurs projets simultanément.\nFlexibilité et adaptabilité pour répondre aux besoins spécifiques des projets et des clients dans un contexte international.\n[ Freelance ou portage salarial ( PEPS) ]",
+        "ft_reference": "1935054",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "QA Engineer - B2C (IT) / Freelance (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "ILE-DE-FRANCE",
+        "location_raw": "ILE-DE-FRANCE",
+        "location": "ILE-DE-FRANCE",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1933607",
+        "description": "En tant que QA Engineer B2C, vous serez au c?ur de l'amélioration continue des produits en garantissant leur qualité et leur performance. Vous serez chargé de définir et de mettre en ?uvre des standards de tests manuels et automatisés pour des applications B2C de classe mondiale. Vous collaborerez avec des équipes multidisciplinaires pour assurer le respect des critères de qualité et des délais.\nVos principales missions incluent :\nDévelopper une stratégie de test orientée qualité pour les produits existants et nouveaux.\nConcevoir et exécuter des plans de tests fonctionnels (E2E, négatifs) et non fonctionnels.\nAutomatiser les tests REST API et applications web avec des outils comme Robot Framework et Selenium.\nIdentifier, suivre et résoudre les anomalies via Jira.\nParticiper activement aux processus de qualification et de validation (Go/No-Go, tests en environnement UAT, STA et PRD).\nFournir des rapports QA réguliers (quotidiens, hebdomadaires, mensuels) pour suivre les KPIs qualité.\nProfil candidat:\nExpérience : 5 à 7 ans en assurance qualité, incluant tests manuels et automatisés sur des applications web.\nCompétences techniques :\nMaîtrise des frameworks de tests (Robot Framework, Selenium).\nExpérience en tests REST API, scripts de performance (Gatling, K6).\nBonne compréhension des microservices et des systèmes distribués.\nConnaissance des pipelines CI/CD (Azure Pipelines, Docker).\nLa connaissance de Kafka Streaming et des langages Scala ou Python est un plus.\nMéthodologies : Solides compétences en méthodologies agiles et en gestion de backlog.\nLangues : Français et anglais courant.",
+        "ft_reference": "1933607",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "CI/CD"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "QA Engineer - B2B (IT) / Freelance (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "ILE-DE-FRANCE",
+        "location_raw": "ILE-DE-FRANCE",
+        "location": "ILE-DE-FRANCE",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1933015",
+        "description": "En tant qu'Ingénieur QA B2B, vous intégrerez une équipe QA pour contribuer à la mise en place et au maintien des normes et outils de qualité afin de garantir des produits de haute qualité. Vous serez impliqué dans les tests fonctionnels et non fonctionnels des applications B2B et jouerez un rôle central dans l'élaboration de stratégies de test automatisé et la planification des activités de QA. Cette mission inclut également la préparation et l'exécution de tests manuels et automatisés, la rédaction de rapports QA, et la collaboration avec les différentes parties prenantes.\nProfil candidat:\nExpérience de 5 à 7 ans en qualité logicielle, avec expertise en tests manuels et automatisés pour des applications web.\nBonne compréhension des systèmes distribués et microservices.\nCompétences solides en automatisation avec des outils tels que Selenium, Robot Framework, Postman, et Newman.\nExpérience en scripting de performances et reporting avec Gatling ou K6.\nConnaissance des pipelines CI/CD (Azure) et des conteneurs (Docker).\nUne maîtrise des langages Scala ou Python serait un plus.\nCapacité à collaborer en anglais et français dans un environnement agile.",
+        "ft_reference": "1933015",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "CI/CD"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

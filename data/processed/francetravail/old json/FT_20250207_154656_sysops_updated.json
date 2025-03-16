@@ -1,0 +1,140 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur SysOps (H/F)",
+        "job": "sysops",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "AGIXIS ",
+        "location_raw": "BESANCON",
+        "location": "25",
+        "remote": null,
+        "experience_raw": "Expérience souhaitée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "Agixis",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1894534",
+        "description": "Ingénieur SysOps, tu as envie d'évoluer dans un environnement technique innovant - Révolutionnaire, tu as envie de repenser les usages au quotidien des utilisateurs - Au sein d'une équipe construite autour des préceptes agiles, où ta voix est entendue - Passionné et challenger, tu souhaites vivre une aventure collective ?\nQui sommes-nous - Agixis, c'est une équipe composée de 70 Agiciens passionnés et complémentaires, spécialisés dans l'IoT, la santé et la transformation digitale Depuis maintenant plus de 10 ans, nous travaillons dans différents secteurs (dispositifs médicaux, industrie, auto, transport...) sur des projets d'envergure qui révolutionnent notre quotidien. \nNotre marque de fabrique - Au-delà du conseil, ce que nous apportons, c'est une réelle EXPERTISE technique et méthodologique. \nAllez, plus qu'un pas pour faire partie de notre communauté d'Agiciens !\n\nLe poste : \n\nAu sein d'une équipe composée de 5 à 10 experts et dans le cadre d'hébergement de nouvelles applications tu: \n- Administres les plateformes cloud et modélises les architectures Cloud\n- Contribues à l'industrialisation et aux évolutions de la plateforme\n- Participes à des projets de migration et déploiement de nouvelles infrastructures\n- Promeus les bonnes pratiques DevOps dans un but d'excellence technique\nNOS TECHNOS: \n- Cloud AWS \n\nProfil recherché : \n\nEn plus de ta formation supérieure (Bac+5), tu as une première expérience réussie (hors stage) ou une véritable expertise. Au-delà de tes compétences techniques, tu aimes relever les défis, tu es dynamique et passionné par les projets IoT et/ou les applications digitales.  \nPourquoi Agixis - Intégrer nos équipes d'Agiciens, c'est rejoindre une communauté où la convivialité et la solidarité animent notre quotidien. Notre management humain, te permet d'être accompagné dans le développement de tes compétences et dans la construction d'une carrière qui te ressemble.",
+        "ft_reference": "1894534",
+        "skills": {
+            "CloudComputing": [
+                "AWS"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "ingénieur SysOps / CloudOps AWS (H/F) H/F",
+        "job": "cloud architect /engineer ",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "COURBEVOIE 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Production et distribution de vapeur et d'air conditionné",
+            "company_size": "Rejoindre Dalkia, c'est plus de sens et d'implication contre le réchauffement climatique ; plus de relations humaines, avec un métier de service animé par l'esprit d'équipe ; plus de technicité, avec des projets ambitieux et innovants fondés sur nos expertises ; plus d'employabilité, avec des parcours diversifiés et individualisés. Rejoindre Dalkia, c'est rejoindre plus qu'une entreprise : un collectif de 19 300 collaborateurs engagés en faveur de la transition énergétique.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1892433",
+        "description": "Rejoignez Dalkia comme Ingénieur·e SysOps / CloudOps AWS !\nVous êtes passionné·e par le cloud AWS, les technologies innovantes et le défi d'assurer une infrastructure fiable, performante et sécurisée ? Ce poste est fait pour vous !\n Ce que nous vous proposons\nEn tant qu'Ingénieur·e SysOps / CloudOps AWS, vous serez au cœur de notre transformation digitale en jouant un rôle clé dans la gestion et l'évolution de notre écosystème cloud.\n Vos missions\nGestion du Cloud AWS : Assurez la sécurité, la performance et la disponibilité des infrastructures.\nDéploiement d'infrastructures : Automatisez avec Terraform et gérez des pipelines CI/CD avec GitLab et Jenkins.\nSupport et formation : Accompagnez les équipes internes dans l'adoption des meilleures pratiques Cloud.\nInnovation : Participez aux phases de conception et proposez des améliorations pour optimiser nos solutions AWS.\n  \nVotre quotidien, c'est aussi\nConfigurer et superviser des environnements cloud fiables, performants et optimisés (FinOps).\nGérer des incidents complexes (AWS, systèmes Windows/Linux).\nAutomatiser les tâches pour gagner en efficacité (Ansible, GitOps).\nCollaborer avec des architectes, développeurs, RSSI et chefs de projets sur des sujets stratégiques.\n« Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous ».\nCe que nous recherchons chez vous:\nFormation & expérience : Bac+5 en informatique avec 3 à 5 ans d'expérience en CloudOps/SysOps AWS.\nCertifications : AWS Solution Architect Associate ou SysOps Administrator Associate (indispensable). Les certifications comme AWS Security Specialty ou Terraform Associate sont un vrai plus !\nCompétences techniques :\n Cloud AWS (VPC, IAM, S3, CloudWatch, etc.).\n Automatisation & CI/CD (Terraform, Ansible, GitLab).\n Réseaux, systèmes (Windows/Linux) et scripting (PowerShell).\nSoft skills : Esprit d'équipe, curiosité, rigueur et envie de résoudre des défis complexes.\n  \nCe que vous gagnez en nous rejoignant\nUn environnement dynamique où vos idées sont écoutées.\nUne culture d'innovation avec un focus sur les dernières technologies Cloud et DevOps.\nUn poste stratégique avec des responsabilités variées et des projets ambitieux.\nPrêt·e à propulser votre carrière dans une entreprise où la tech rencontre l'impact ?   Envoyez votre candidature dès maintenant !\n Chez Dalkia, vos talents font la différence !",
+        "ft_reference": "1892433",
+        "skills": {
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DevTools": [
+                "Jenkins"
+            ],
+            "OS": [
+                "Windows",
+                "Linux"
+            ],
+            "Automation": [
+                "Ansible"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Other": [
+                "DevOps",
+                "CI/CD",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Systèmes & Réseaux - Sysops H/F",
+        "job": "sysops",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "company": "CN AMIRAULT ",
+        "location_raw": "MONTPELLIER",
+        "location": "34",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités des agences de placement de main-d'œuvre",
+            "company_size": "Bonjour et Bienvenue !\n\nJe suis Claire-Noëlle Amirault, spécialisée en recrutements Tech depuis plus de 10 ans.\n\nIndépendante et passionnée par mon métier, je suis à vos côtés pour vous proposer des opportunités professionnelles répondant à vos talents et à vos attentes.\n\nConstruisons votre projet ensemble, en toute confidentialité !",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1822032",
+        "description": "POSTE : Ingénieur Systèmes & Réseaux - Sysops H/F\nDESCRIPTION : Rejoignez une entreprise accueillante et prenez part à des projets stimulants !\n\nEditeur de logiciels, CDI - client final\n\nLe poste du jour : Ingénieur Systèmes & Réseaux / DEVOPS H/F en CDI à Montpellier, auprès d'un super Editeur de Logiciels !\n\nCe recrutement intervient dans le cadre d'une création de poste pour renforcer l'équipe.\n\nVous rejoignez une entreprise solide, spécialisée depuis +20 ans dans la création de solutions innovantes, et riche d'une vingtaine de collaborateurs.\n\nBienveillance, performance et enthousiasme sont quelques-unes de ses valeurs !\n\nVos Missions, à leurs côtés\n\nAu sein de la Direction Technique (12 collaborateurs) et en binôme avec le Responsable Infrastructure, vous êtes garant de la disponibilité, la performance et la sécurité des infrastructures tout en participant activement à leur optimisation :\n\n* Maintien des infrastructures opérationnelles (serveurs, systèmes, et réseaux),\n* Automatisation des processus,\n* Supervision et monitoring,\n* Gestion de la sécurité,\n* Documentation et amélioration continue,\n* Collaboration avec les autres équipes techniques.\n\nLe tout, au sein d'une entreprise où vous serez écouté et où vos idées seront valorisées !\n\nEnvironnement technique : Linux, Windows, VM, Hyperviseur, Kubernetes, Ansible, etc.\n\nJolis avantages : rémunération attractive, télétravail partiel, prime d'intéressement, Tickets Restaurants, place de parking dédiée, locaux tout neuf dans un coin animé et mutuelle prise en charge à 100% !\n\nProcess : 1er échange avec Claire-Noëlle (CN Amirault) puis, entretien avec la Responsable Technique et le Responsable Infra, et enfin, avec le reste des équipes. De belles rencontres à venir :)\nPROFIL : Prêt(e) à rejoindre l'aventure ?\n\n* Vous avez minimum 4 ans d'expérience en administration systèmes et réseaux,\n* Vous maitrisez les systèmes d'exploitation Linux et Windows Server, la virtualisation (VM, Kubernetes), réseaux (DNS, DHCP, routeurs).\n* Cerise sur le gâteau : vous connaissez des outils d'automatisation (Ansible),\n* Autonomie, esprit d'équipe et bonne humeur sont quelques-unes de vos caractéristiques.\n\nVous avez envie de donner un bel élan à votre carrière en intervenant sur des projets innovants ?\n\nRencontrons-nous :)\n\nA bientôt,\n\nEt surtout souvenez-vous : Le futur de la Tech, c'est VOUS !\n\nClaire-Noëlle\n\nCN Amirault   Recrutements Tech",
+        "ft_reference": "1822032",
+        "skills": {
+            "OS": [
+                "Windows",
+                "Linux"
+            ],
+            "Automation": [
+                "Ansible",
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

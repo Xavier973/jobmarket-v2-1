@@ -111,6 +111,114 @@
     },
     {
         "source": "France Travail",
+        "job_title": "Web Analyst F/H (H/F)",
+        "job": "Other",
+        "contract_type": null,
+        "salary": null,
+        "company": null,
+        "location_raw": "MAREIL EN FRANCE 95",
+        "location": "95",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": null,
+            "company_size": "Azaé, la vie facile à domicile\nAzaé propose à ses clients des prestations de ménage & repassage, d'aide à domicile pour les personnes fragiles, ainsi que de garde d'enfants et de jardinage. Avec un réseau d'agences partout en France, nous mettons l'accent sur les relations de proximité avec nos clients et nos équipes.\nDes salariés épanouis pour des clients ravis\nNous recrutons partout en France des personnes bienveillantes pour intervenir au domicile des familles ac...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1989383",
+        "description": "Dans le cadre de notre croissance, nous recherchons un/une Web Analyst F/H pour intégrer notre pôle Webmarketing.\nRattaché(e) au Responsable Marketing Digital, et en collaboration avec l'équipe, vous serez en charge de la collecte, la fiabilisation et l'exploitation des données visant à alimenter nos dashboards de pilotage webmarketing et à participer à la stratégie webmarketing.\nVos missions sont les suivantesGérer et optimiser nos outils de suivi et nos dashboards (création, MAJ, évolution,.) en fonction des besoins de l'équipe web pour faciliter la prise de décision ;\n * Gérer la mise en place de projets data (Data Warehouse, CRM,..) en lien avec nos objectifs webmarketingtre le relai avec les équipes métiers et IT du groupe pour faire le lien avec nos outils webtre garant de la disponibilité, de la qualité et de la fiabilité des données exploitées dans nos outils et dashboards ;\n * Gérer et optimiser la partie tracking sur nos sites internet : datalayer, taggage, CMP, server-sidetre en veille sur les nouveautés data pour pouvoir anticiper les changements en interne.",
+        "ft_reference": "1989383",
+        "skills": {
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type": null,
+        "salary": "Salaire brut : Annuel de 45000,00 Euros à 55000,00 Euros",
+        "company": "AVA6 ",
+        "location_raw": "LIMONEST",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-09",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1991390",
+        "description": "Ton défi en tant que Data Engineer sera de répondre aux missions suivantes :     Construire      et optimiser des pipelines de données : extraction, transformation, ingestion et stockage des      données.   Assurer      la fiabilité et la performance des systèmes data : supervision,      monitoring, sauvegardes et documentation.   Automatiser      et industrialiser : mise en place de solutions CI/CD, infrastructure as      code et tests automatisés.   Gérer      les bases de données et les entrepôts data : implémentation et optimisation      (Snowflake, BigQuery, Redshift, Databricks).   Collaborer      avec les équipes Data Science et DevOps pour garantir l'intégration des modèles      et leur exploitation efficace.   Veille      technologique et amélioration continue : participation aux choix      technologiques et à l'évolution des architectures.  \n\n     \n\n  \n Issu(e) d'une formation orientée en systèmes d'information, tu disposes d'une expérience de minimum 3 ans sur un poste équivalent.   Tu maîtrises les éléments suivants :      Compétences techniques :    Maîtrise des langages : Python, SQL, Scala.    Expertise en pipelines de données et ETL : Airflow, Talend, DBT.    Expérience sur AWS, Azure et/ou GCP.    Connaissances en Spark, Hadoop, Kafka et bases de données cloud (Snowflake, BigQuery, Redshift, Databricks).    Approche DevOps & automatisation : CI/CD, Terraform, Docker, Kubernetes.   \n\n    Soft skills :    Esprit analytique et capacité à résoudre des problèmes complexes.    Expérience en méthodologies agiles.    Autonomie, rigueur et esprit d'initiative.    Capacité à travailler en équipe et à accompagner des projets clients.   \n\n   \n\n  Tu es passionné(e) par l'innovation, tu as un bon sens du service et une belle capacité d'écoute.",
+        "ft_reference": "1991390",
+        "skills": {
+            "ProgLanguage": [
+                "Scala",
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "BigData": [
+                "Hadoop",
+                "Spark",
+                "Databricks"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "Snowflake",
+                "BigQuery"
+            ],
+            "Automation": [
+                "Airflow",
+                "Kubernetes"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "Expert modélisation et pilotage H/F H/F",
         "job": "Other",
         "contract_type": null,

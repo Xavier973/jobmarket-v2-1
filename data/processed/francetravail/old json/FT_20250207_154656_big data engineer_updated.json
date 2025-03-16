@@ -1,0 +1,212 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data & AI - Data Architect Réf \"ATH\" (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : selon profil",
+        "company": "ENEXSE ",
+        "location_raw": "TOURS",
+        "location": "37",
+        "remote": null,
+        "experience_raw": "5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": "10 à 19 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/187TXPZ",
+        "description": "Compétences obligatoires\nConfluence (CONFIRMED)\nDataLabs. (EXPERT)\nSQL avancé/expert. (EXPERT)\nModélisation d'entrepôts de données (EDW) (EXPERT)\nModélisations (3NF, étoile, flocon, Datavault). (JUNIOR)\n\nContexte :\nDans le cadre d'un projet stratégique, le consultant jouera un rôle clé dans la définition et la modélisation des espaces de données de l'Entrepôt de Données . Ce projet nécessite des compétences pointues en modélisation, architecture décisionnelle, et une expertise particulière sur Teradata Vantage.\n\nPérimètre de la mission :\nLe profil devra définir le type de modélisation des différents espaces de données et l'argumenter. Pour ce faire, le profil devra identifier les usages actuels et futurs.\nDes ateliers seront à animer par le profil pour présenter les différentes options possibles avec leurs avantages et inconvénients avec ses préconisations.\nIl animera des ateliers pour identifier les objets métiers.\nIl assurera la modélisation des données de l'ensemble des espaces de données de l'EDW. Il réalisera les MCD, et MPD et assurera leurs mises à jour. Le modèle et les scripts devront être commentés.\nIl définira la politique d'indexation selon les typologies d'usages qu'il devra recenser.\nIl devra prendre en compte les particularités du moteur de base de données Teradata Vantage et définir notamment les indexs primaires et leur type.\nTout au long de sa mission, le profil devra partager et accompagner les équipes de la CNAV. Il devra notamment accompagner / coacher une à deux personnes de la CNAV qui prendront à terme le relai sur les aspects modélisation.\n\nMissions principales :\nDéfinir et argumenter les choix de modélisation des espaces de données.\nIdentifier les usages actuels et futurs des données en collaboration avec les équipes métier.\nAnimer des ateliers pour présenter les options de modélisation et recueillir les besoins métiers.\nConcevoir et mettre à jour les modèles conceptuels (MCD) et physiques (MPD) de données.\nDocumenter les modèles et les scripts associés, notamment via des outils comme Confluence.\nDéfinir une politique d'indexation adaptée aux typologies d'usages identifiées.\nPrendre en compte les spécificités de Teradata Vantage, notamment pour définir et optimiser les index primaires.\nFormer et accompagner les équipes internes pour garantir la continuité des pratiques de modélisation.\n\nCompétences requises :\nExpertise avancée en SQL et capacité à implémenter des modèles complexes.\nConnaissance approfondie des systèmes décisionnels, de leur architecture et des outils associés.\nMaitrise des modèles de données (3NF, étoiles, flocons) et de la méthode Merise.\nExpertise avec Teradata Vantage, y compris l'utilisation de Teradata Studio et/ou DBeaver.\nCompétence dans la documentation technique via Confluence.\nMaitrise des outils Microsoft Office (Outlook, Word, Excel, PowerPoint, Teams).\n\nCompétences appréciées :\n\nConnaissance de la modélisation en Datavault.\nExpérience dans la mise en œuvre de DataLabs.\nMaitrise des solutions d'anonymisation des données à la volée.\nInformations sur la mission :\nLocalisation : Tours (37), avec possibilité de profils basés à Paris (2 jours sur site à Tours toutes les 2 semaines).\nDurée : 3 mois (2/3/2025 - 5/2/2025).\nDébut : 2 mars 2025.\nCompétences clés :\nSQL avancé/expert.\nExpertise en modélisation d'entrepôts de données (EDW).\nMaitrise de Teradata Vantage.\nConnaissance des modélisations (3NF, étoile, flocon, Datavault).\nAnimation d'ateliers et accompagnement des équipes internes.\nConfluence : Être en mesure de contribuer aux documents.\nMicrosoft office : Outlook, Word, Excel, Powerpoint et Teams.",
+        "ft_reference": "187TXPZ",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "Collaboration": [
+                "Confluence",
+                "Teams"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Snowflake Data Engineer H/F",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1901821",
+        "description": "En tant qu'Ingénieur Data, vous rejoignez la Direction Back Office de notre DSI au sein de l'équipe Data. Vous serez rattaché au responsable du pôle Data/BI pour agrandir l'équipe data engineering.\nVous collaborerez étroitement avec l'architecte data, les chefs de projet BI, l'équipe Intégration et les responsables projets de la DSI.\nLe cœur de votre mission ? Acheminer, transformer et mettre à disposition la donnée dans le respect des bonnes pratiques Data.\nLes clés du succès ? Votre capacité à trouver des solutions pragmatiques et votre souci de l'efficacité & la qualité de vos réalisations seront de vrais atouts pour mener à bien nos projets.\nVous évoluerez dans notre environnement technique: Snowflake, AWS, base de données Aurora PosgreSQL, Mulesoft, Talend et notre environnement fonctionnel: Storeland, Open Bravo, Manhattan Active Omni, Adyen, Oracle Cloud Finance, Reflex Web, Salesforce Commerce Cloud / CRM / Tableau.\nExemples de projets en cours ou à venir auxquels vous pourriez contribuer :\n * Accompagner nos métiers (IT) dans l'ouverture de Snowflake pour leurs projets (Data Mesh)\n * Modélisation du référentiel magasin en base de données\n * Intégration des tickets de vente en provenance de différentes sources (ERP Retail, plateformes e-commerce.) et définition d'un modèle cible unifié\n * Exposer de la data (ventes, stocks) vers des partenaires externes\n \nVos missions :\n * Être responsable des bonnes pratiques d'injection, modélisation, consommation de la donnée dans votre environnement de base de données dans un souci constant de performance et d'optimisation\n * Recueillir les besoins métiers des différentes parties prenantes utilisatrices de solutions de collecte et de stockage de la donnée\n * Assurer le suivi de production et la maintenance\n * Collaborer avec l'équipe Intégration pour faire développer les solutions techniques d'ingestion et de consommation de la donnée\n * Développer les solutions techniques de stockage de la donnée\n * Gérer la transformation de la donnée pour répondre aux besoins des utilisateurs\n * Gérer le cycle de vie de la donnée conformément à la réglementation RGPD\n * Prendre en charge la gestion des droits sur la base de données\n * Veille technologique\n \nVous justifiez d\\'au moins 2 ans d\\'expérience en ingénierie data, dont au moins 1 an sur Snowflake.\net avez acquis les compétences suivantes :\n * Maitrise de Snowflake\n * Maitrise avancée du SQL, particulièrement sur Snowflake\n * Connaissance des bonnes pratiques de base de données transactionnelles (PosgreSQL,Oracle DB,.)\n * Expérience et connaissance des Clouds Providers (AWS, GCP.), plus particulièrement des services orienté Data(S3, SNS, SQS, Lambda, Firehose,.)\n * Conceptualisation base de données type Datawarehouse\n * Connaissance des principes ELT/ELT\n * Programmation (Python)\n * Expérience des outils de data gouvernance (Collibra, Informatica MDM.) et data quality\nVous êtes pragmatique, autonome, orienté solution et performance. \nVous êtes curieux et avez envie d\\'apprendre tout en faisant preuve d\\'adaptation.\nVous êtes un bon communiquant, agile, engagé et attaché à la qualité de vos réalisation....",
+        "ft_reference": "1901821",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Tableau"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "AWS"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "DATA ENGINEER SENIOR - H/F",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "ILIAD ",
+        "location_raw": "PARIS 08",
+        "location": "08",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Télécommunications filaires",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1898889",
+        "description": "Description :\n\n\nDans le cadre du développement et de la structuration de l'activité Data au sein du PÔLE AUDIOVISUEL de Free, nous recherchons un(e) Data Engineer senior pour prendre une part active à la collecte, l'étude et l'analyse de la CONSOMMATION AUDIOVISUELLE DES ABONNÉS FREE dans le but d'améliorer le service et de personnaliser l'expérience utilisateur.\nVOS MISSIONS :\n * Gérer la plateforme de RÉCUPÉRATION DES DONNÉES DE CONSOMMATION provenant de l'ensemble des devices (box Internet, mobile, tablette, web, .)\n * Intégration de nouveaux devices ou modes de consommation\n * Enrichissement des événements  \n * Coordination des déploiements avec l'équipe Infrastructure\n * Concevoir, développer, mettre en production et gérer les PIPELINES D'ETL\n * Mettre en place des solutions de MONITORING et assurer la QUALITÉ DES DONNÉES\nStack Data:  Python, SQL, Clickhouse, PostgreSQL, Docker, Grafana, Sentry\nInfra Data: Self hosted sur serveur dédié et/ou Cloud privé\nNOTRE ÉQUIPE DATA :\n * Un Lead Data\n * Un(e) Data Engineer (en cours de recrutement)\nVous serez également amené(e) à COLLABORER avec les AUTRES ÉQUIPES chez OQEE by Free ( Back-End, Web, Android, iOS, .), ainsi qu'avec les ÉQUIPES DATA DU GROUPE ILIAD (data engineers, data scientists, data analysts).\n\n  \n  \nProfil recherché :\n  \n  \nVous justifiez d'une expérience de 4-5 ANS en tant que DATA ENGINEER.\nHARD-SKILLS\n * Très solide maîtrise de PYTHON & SQL\n * Fortes connaissances en structure D'OLAP, DATA MODELING, DATA STREAMING, .\n * Maîtrise des processus de développement collaboratif (GIT, GITLAB, CI, ...)\n * Bonus : expérience sur CLICKHOUSE\nSOFT-SKILLS\n * Axé sur les résultats, ambitieux, pragmatique et agile\n * Communication maîtrisée\n * Attrait pour l'open source\n * Intérêt pour le secteur de l'audiovisuel",
+        "ft_reference": "1898889",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "DBMS": [
+                "PostgreSQL"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Ingénieur/Data Ops (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Cachet de 45000,00 Euros à 50000,00 Euros",
+        "company": null,
+        "location_raw": "69 69",
+        "location": "69",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1901654",
+        "description": "Nous recherchons pour l\\'un de nos clients grands comptes un Data Ingénieur Ops dont le rôle et les responsabilités sont les suivantes:\n- Concevoir, implémentez et fournir des solutions pour les problématiques data\n- Intégrer et collecter des données issues des applications tierces (CRM, réseaux sociaux, etc.) \n- Concevoir, développer, et déployer de nouveaux flux Spark pour les différents besoin métiers (finance, support, industrie.) \n- Caractériser des architectures des produits technologiques ; Choix d\\'architecture en anticipant les besoins de scalabilité \n- Planifier et orchestre des flux afin d\\'optimiser la mise à disposition de données\n- Détecter les points bloquants ou les chaînons manquants dans le cycle de traitement des données, et à proposer des solutions à soumettre à leurs collaborateurs\n- Assurer la continuité de service et le monitoring des flux développés\n- Documentation : capitalisation des savoirs, retours d\\'expérience et fiches de best practices pour aider à la montée en compétences des équipes métier\n- Veille technologique : proposer de nouvelles solutions techniques pour challenger le fonctionnement actuel et optimiser les temps de traitements tout en réduisant les coûts. \n- Évangéliser les meilleures pratiques dans le traitement de la data.  \nVous travaillerez en relation avec les équipes responsables des infrastructures et des bases de données ainsi qu\\'avec les équipes de data analystes et de data scientistes, avec l\\'appui du chef de projet et en relation directe avec les équipes métiers. \nEnvironnement technique :  \n- Spark , PySpark , Scala \n- HDFS, YARN, Hive, SQL Server, Airflow, Postgresql, kafka \n- Python, Java, Shell \n- API, Web services \n- Git Stash, Ansible, YAML \n- Puppet \n- Ansible \n- CI/CD \n- Docker / Kubernetes \n- Agilité / Scrum\n#LI-MA1\nUne expérience solide de 10 ans en développement est obligatoire pour cette mission.\nSavoir-faire :\n- Spark : Expert\n- PySpark : Expert\n- Kubernetes : Expert\n- API : Confirmé\n- Ansible : Confirmé\n- Kafka : Confirmé\n- Big Data : Expert\n- Python : Expert\n- Docker : Confirmé\n- DevOps : Confirmé\n- SQL Server : Avancé\n- SQL Server Reporting Services : Élémentaire\nSavoir-être :\n- Autonome & Résilient \n- Force de proposition \n- Rigoureux & Capable de gérer plusieurs sujets en parallèle \n- Faire preuve d\\'adaptabilité \n- Pédagogue, vous avez la capacité de vulgariser votre savoir technique pour le mettre au service des autres\n- Organisé , vous avez le sens des responsabilités\n-  État d\\'esprit orienté utilisateur \n- Vous avez l\\'esprit d\\'équipe, vous participez et êtes acteur des différents rituels agiles\nSi vous vous reconnaissez dans cette description, n\\'hésitez pas à postuler !...",
+        "ft_reference": "1901654",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala",
+                "Java"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "DBMS": [
+                "SQL Server",
+                "PostgreSQL"
+            ],
+            "Automation": [
+                "Puppet",
+                "Chef",
+                "Kubernetes",
+                "Airflow",
+                "Ansible"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "Other": [
+                "DevOps",
+                "CI/CD",
+                "Big Data"
+            ]
+        }
+    }
+]

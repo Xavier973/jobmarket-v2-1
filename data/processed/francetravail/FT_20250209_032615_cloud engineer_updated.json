@@ -32,10 +32,10 @@
                 "Python"
             ],
             "CloudComputing": [
-                "AWS",
                 "Google Cloud Platform",
-                "GCP",
-                "Azure"
+                "AWS",
+                "Azure",
+                "GCP"
             ],
             "Automation": [
                 "Airflow"

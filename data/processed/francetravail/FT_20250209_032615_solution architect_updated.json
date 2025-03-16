@@ -30,8 +30,8 @@
         "skills": {
             "CloudComputing": [
                 "AWS",
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -44,10 +44,40 @@
                 "Docker"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Solution MES - Lyon (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "69 69",
+        "location": "69",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1985529",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :  *  Concevoir et garantir les architectures de la solution MES Apriso en tenant compte des besoins métier et des contraintes techniques",
+        "ft_reference": "1985529",
+        "skills": {}
     },
     {
         "source": "France Travail",
@@ -357,6 +387,58 @@
     },
     {
         "source": "France Travail",
+        "job_title": "architecte informatique Solution Cloud (H/F) (IT) / Freelance",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "COLOMBES 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1939071",
+        "description": "Nous recherchons un.e Architecte Solution Cloud pour rejoindre une équipe dynamique et participer à la conception de solutions innovantes dans le domaine de l'IoT et du Cloud. Vous serez en charge de la définition de l'architecture d'une plateforme logicielle évolutive et sécurisée, en tenant compte des besoins spécifiques liés aux environnements Cloud et aux exigences de performance.\n \nVos missions principales :\n \nConcevoir l?architecture de la solution Cloud en fonction des besoins techniques et fonctionnels.\nGarantir une solution optimisée en coût, hautement disponible et sécurisée.\nDéfinir des modes de déploiement multi-cloud (Azure, AWS, GCP) et on-prem, tout en intégrant les meilleures pratiques CI/CD.\nAssurer la gestion multi-tenants et veiller à la confidentialité, l'intégrité et la disponibilité des données.\nAnalyser et répondre aux besoins techniques, tout en concevant des architectures évolutives et performantes.\nProfil candidat:\nCompétences et qualifications requises :\nExpérience de 5 ans minimum sur un poste similaire.\nDéveloppement en Java et SpringBoot.\nExpertise dans la mise en place d'architectures CI/CD et déploiement de conteneurs (Kubernetes).\nDéploiements Cloud (Azure, AWS, GCP) et optimisation des coûts et des performances.\nConnaissance des bases de données relationnelles et NoSQL (orientées document).\nExpérience dans la conception d?architectures modulaires et évolutives, avec prise en compte des contraintes de sécurité dès le design.\nCapacité à comprendre les exigences fonctionnelles et à proposer des solutions techniques adaptées.",
+        "ft_reference": "1939071",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "DataBase": [
+                "NoSQL"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "architecte informatique SOLUTION PLM \"CENTRIC 8\" H/F (IT) / Freelance",
         "job": "data architect",
         "contract_type": "Profession",
@@ -385,15 +467,15 @@
         "ft_reference": "1938907",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "CloudComputing": [
-                "AWS",
                 "Google Cloud Platform",
+                "AWS",
                 "Azure"
             ],
             "DBMS": [
@@ -477,6 +559,44 @@
         "link": "https://candidat.francetravail.fr/offres/recherche/detail/1938430",
         "description": "Contexte / Objectifs : \nMission de Solution Architecte Salesforce ayant une expertise avérée dans la remise en Standard des solutions Salesforce.\nDescription : \n? Définir et maintenir l?architecture technique (référentiel) de tout ou partie du système d?information en veillant à la cohésion entre les aspects matériels, applicatifs, systèmes d'exploitation, réseaux? \n? Garantir la cohérence, la pérennité et analyse les impacts techniques des nouvelles solutions et leur cohérence avec l'architecture existante \n? Etablir des préconisations pour tout nouveau projet ou nouvelle technologie et conseille l'urbaniste sur l'utilisation et les implémentations possibles des outils \n? Communiquer l'architecture auprès des équipes projet (conception, développement, intégration, tests...)\n? Organiser les choix de veille technologique \n? Garantir les bonnes performances de l'architecture, de la stabilité, d'évolution, et des délais de réponse des services \n? Définir l?architecture technique du ou des systèmes d?information \n? Vérifier et analyser les impacts techniques des nouvelles solutions et leur cohérence avec l'architecture existante \n? Définition et gestion du référentiel du système informatique sur les plans : outils, procédures, normes, vocabulaire, sécurité? \n? Définition et gestion des standards techniques \nProfil candidat:\nCompétences attendues :\nExpérience avérée en tant que Solution Architecte Salesforce\nMaîtrise des bonnes pratiques de remise en Standard des solutions Salesforce\nConnaissance approfondie des outils et fonctionnalités de Salesforce\nCapacité à analyser les besoins métier et à concevoir des solutions adaptées\nCompétences en gestion de projet et en communication interpersonnelle\nCertification Salesforce serait un plus\nLe prestataire retenu sera chargé de travailler en étroite collaboration avec nos équipes internes pour remettre en Standard nos solutions Salesforce existantes, en identifiant les personnalisations inutiles et en les remplaçant par des solutions standard.\nExpertises spécifiques :\nExpertise Salesforce, Salesforce Cloud, Experience Cloud, tous les aspects techniques à date sur Salesforce",
         "ft_reference": "1938430",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication",
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Solution architecte informatique Salesforce Expertise en Remise en Standard et Modules Cloud (IT) / Freelance (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "ILE-DE-FRANCE",
+        "location_raw": "ILE-DE-FRANCE",
+        "location": "ILE-DE-FRANCE",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1938326",
+        "description": "Nous recherchons un Solution Architecte Salesforce expérimenté, capable de conduire la remise en standard de solutions Salesforce existantes. Vous interviendrez sur des projets stratégiques, avec pour objectif d?optimiser et de simplifier les solutions actuelles en exploitant les fonctionnalités natives de Salesforce.\nVos missions principales :Diagnostiquer les solutions existantes et identifier les personnalisations inutiles.\nProposer des architectures standardisées, robustes et évolutives sur Salesforce.\nTravailler en étroite collaboration avec les équipes métiers pour comprendre leurs besoins.\nConcevoir des solutions intégrées en utilisant les modules Sales Cloud, Experience Cloud, et d?autres services Salesforce.\nPromouvoir les bonnes pratiques et garantir la conformité aux standards Salesforce.\nAssurer le pilotage des projets et animer les ateliers avec les parties prenantes.\nProfil candidat:\nCompétences clés requises :Expérience avérée en tant que Solution Architecte Salesforce (5 ans minimum).\nExpertise sur les modules Sales Cloud, Experience Cloud, et autres services Salesforce.\nTrès bonne connaissance des bonnes pratiques Salesforce pour la remise en standard.\nCapacité à analyser les besoins métier et à proposer des solutions adaptées.\nExcellentes compétences en communication et gestion de projet.\nCertification Salesforce (Architecte ou Consultant) est un atout apprécié.\nIndispensables pour ce poste :Solide expérience en architecture Salesforce et en gestion de projets complexes.\nCapacité à travailler avec des équipes pluridisciplinaires (IT, métier, etc.).\nConnaissance approfondie de Salesforce Cloud, Experience Cloud, et des aspects techniques de la plateforme à jour.\nExpérience dans la simplification des solutions via des fonctionnalités natives de Salesforce.",
+        "ft_reference": "1938326",
         "skills": {
             "Other": [
                 "Cloud"
@@ -592,8 +712,8 @@
         "skills": {
             "CloudComputing": [
                 "AWS",
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -711,8 +831,8 @@
         "skills": {
             "Other": [
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -752,6 +872,70 @@
     },
     {
         "source": "France Travail",
+        "job_title": "architecte informatique Solution IoT & Cloud (IT) (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "BOIS COLOMBES 92",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1934975",
+        "description": "Dans le cadre des développements de solutions de Smart Metering, notre client cherche un Architecte Solution IoT & Cloud pour accompagner la définition de l?architecture d?une plateforme logicielle adaptée aux nouveaux marchés.\nL?architecte travaillera au sein de l?équipe Software Grid Solutions et aura pour mission de :\nConcevoir une architecture modulaire et évolutive prenant en compte les spécificités multi-énergies (eau, gaz, électricité)\nDéfinir une solution scalable et hautement disponible pour assurer une optimisation des coûts et des performances\nConcevoir un système multi-tenants et multi-modes de déploiement (Cloud Azure/AWS/GCP & on -premise)\nAssurer une intégration CI/CD complète avec un fort niveau d?automatisation\nMettre en ?uvre des principes robustes de cybersécurité (confidentialité, intégrité et disponibilité)\nCompétences attendues :Techniques :\nDéveloppement : Java, Spring Boot\nCloud & Conteneurisation : Kubernetes, Docker, Azure/AWS/GCP\nCI/CD : Intégration et déploiement automatisés\nBases de données : SQL et NoSQL (orienté document)\nProtocoles IoT & R éseaux : Contraintes de communication (réseaux cellulaires et bas débit)\nSécurité : Conception et intégration des exigences de cybersécurité\nSavoir-faire :\nDéfinition d?une architecture logicielle robuste et évolutive\nConception de solutions optimisées en coût de déploiement et maintenance\nÉlaboration et validation des principes d?architecture\nRédaction de documents techniques détaillés\nAnimation d?ateliers techniques avec les parties prenantes\nSavoir-être :\nEsprit analytique et force de proposition\nAutonomie et rigueur\nBonnes capacités de communication et travail en équipe\nAdaptabilité aux évolutions technologiques et aux enjeux IoT\nProfil candidat:\nBac +5 en informatique ou équivalent\nExpérience confirmée en architecture Cloud et IoT\nExpérience sur des projets industriels et/ou énergétiques\nConnaissance des contraintes liées aux réseaux Smart Metering\nMaîtrise de l?anglais technique (écrit et oral)",
+        "ft_reference": "1934975",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Java"
+            ],
+            "DataBase": [
+                "SQL",
+                "NoSQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
         "job_title": "architecte informatique Solution (IT) / Freelance (H/F)",
         "job": "data architect",
         "contract_type": "Profession",
@@ -783,6 +967,82 @@
                 "Azure"
             ],
             "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "architecte informatique Expert Solution et un architecte informatique Expert Cloud/fat (IT) / Freelance (H/F)",
+        "job": "data architect",
+        "contract_type": "Profession",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1934030",
+        "description": "Architecte Expert Solution et un Architecte Expert Cloud.\nProjet et Principaux livrables : \nConcevoir les architectures techniques pour les applications : s?assurer que les projets applicatifs aient une architecture technique adaptée à leurs besoins, s?appuyant sur les produits, et en conformité avec les normes de sécurité, d?intégration et d?exploitation du groupe.\n? Analyser les besoins et les contraintes des projets.\n? Instruire l?architecture technique et proposer des scénarios de réponse.\n? Construire une solution répondant aux contraintes d?exploitabilité et sécurité technique (DICP).\n? Respecter les contraintes des cycles projets client.\n? Garantir que les solutions proposées s?intègrent de manière optimale dans le SI métier.\n? Être le garant des livrables du dossier d?architecture.\n? S?assurer du respect des règles de conformité et sécurité métier.\n? Tracer et suivre les dérogations accordées aux projets.\n? Participer aux consultations et appels d?offres\n \nPromouvoir l?utilisation des produits: faire connaitre les produits en vue de leur implémentation dans le cadre des projets applicatifs, et dans le respect de la convergence Groupe.\n? Maitriser les produits de et savoir les présenter de manière pédagogique aux différentes populations d?interlocuteurs côté métier (Chef de projet, Architecte Logiciel, Développeur, etc.)\n? Partager des retours d?expérience sur l?implémentation de projets majeurs pouvant répondre aux besoins du client.\n? Développer une relation de confiance avec les clients de l?entité et servir de relais avec le reste des équipes.\n \nContribuer à l?évolution des socles : identifier les besoins technologiques côté applicatif et métier et s?assurer de leur remontée vers les équipes socles\n? Diffuser la trajectoire S.I. et les ambitions technologiques du client à toutes les autres entités du Groupe (Socles, pôle stratégie & innovation , Sécurité, Cloud & DevOps , etc.)\n? Participer à la construction des nouveaux produits par les socles.\n? Assister l?architecte transverse dans la construction d?une réponse communautaire ou spécifique à un besoin spécifique.\nCapitaliser sur la connaissance des SI métier : disposer d?une connaissance accrue de l?écosystème S.I. métier permettant d?accélérer la conception et la mise en ?uvre des architectures sur ce périmètre\n? Maitriser l?organisation et les rôles clefs côté métier.\n? Etablir et maintenir la connaissance de la cartographie et de l?historique du S.I. client.\n? Conseiller les métiers sur le volet technique de leur roadmap.\n? Avoir une bonne connaissance des enjeux, des contraintes et roadmap métier ayant un impact sur la composition de son S.I.\n? Alimenter la construction de la stratégie IT par ces roadmaps métier.\nProfil candidat:\nArchitecte Expert Solution et un Architecte Expert Cloud.\nLocalisation Paris 15e/ Télétravail\nDurée de la mission : 2 ans \nProjet et Principaux livrables :\n \nConcevoir les architectures techniques pour les applications : s?assurer que les projets applicatifs aient une architecture technique adaptée à leurs besoins, s?appuyant sur les produits, et en conformité avec les normes de sécurité, d?intégration et d?exploitation du groupe.\n? Analyser les besoins et les contraintes des projets.\n? Instruire l?architecture technique et proposer des scénarios de réponse.\n? Construire une solution répondant aux contraintes d?exploitabilité et sécurité technique (DICP).\n? Respecter les contraintes des cycles projets client.\n? Garantir que les solutions proposées s?intègrent de manière optimale dans le SI métier.\n? Être le garant des livrables du dossier d?architecture.\n? S?assurer du respect des règles de conformité et sécurité métier.\n? Tracer et suivre les dérogations accordées aux projets.\n? Participer aux consultations et appels d?offres\n \nPromouvoir l?utilisation des produits: faire connaitre les produits en vue de leur implémentation dans le cadre des projets applicatifs, et dans le respect de la convergence Groupe.\n? Maitriser les produits de et savoir les présenter de manière pédagogique aux différentes populations d?interlocuteurs côté métier (Chef de projet, Architecte Logiciel, Développeur, etc.)\n? Partager des retours d?expérience sur l?implémentation de projets majeurs pouvant répondre aux besoins du client.\n? Développer une relation de confiance avec les clients de l?entité et servir de relais avec le reste des équipes.\n \nContribuer à l?évolution des socles : identifier les besoins technologiques côté applicatif et métier et s?assurer de leur remontée vers les équipes socles\n? Diffuser la trajectoire S.I. et les ambitions technologiques du clien",
+        "ft_reference": "1934030",
+        "skills": {
+            "Automation": [
+                "Chef"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "un architecte informatique Expert Solution / Cloud sur Paris (IT) / Freelance (H/F)",
+        "job": "data architect",
+        "contract_type": "Profession",
+        "salary": null,
+        "company": null,
+        "location_raw": "75 75",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1933026",
+        "description": "Smarteo recherche pour l'un de ses clients, grand compte, un Architecte Expert Solution / Cloud sur Paris \n \n Projet et Principaux livrables : \n \n Concevoir les architectures techniques pour les applications : s'assurer que les projets applicatifs aient une architecture technique adaptée à leurs besoins, s'appuyant sur les produits, et en confo \n rmité avec les normes de sécurité, d'intégration et d'exploitation du groupe. \n Analyser les besoins et les contraintes des projets. \n Instruire l'architecture technique et proposer des scénarios de réponse. \n Construire une solution répondant aux contraintes d'exploitabilité et sécurité technique (DICP). \n Respecter les contraintes des cycles projets client. \n Garantir que les solutions proposées s'intègrent de manière optimale dans le SI métier. \n Être le garant des livrables du dossier d'architecture. \n S'assurer du respect des règles de conformité et sécurité métier. \n Tracer et suivre les dérogations accordées aux projets. \n Participer aux consultations et appels d'offres \n \n \n Promouvoir l'utilisation des produits: faire connaitre les produits en vue de leur implémentation dans le cadre des projets applicatifs, et dans le respect de la convergence Groupe. \n Maitriser les produits de et savoir les présenter de manière pédagogique aux différentes populations d'interlocuteurs côté métier (Chef de projet, Architecte Logiciel, Développeur, etc.) \n Partager des retours d'expérience sur l'implémentation de projets majeurs pouvant répondre aux besoins du client. \n Développer une relation de confiance avec les clients de l'entité et servir de relais avec le reste des équipes. \n \n \n Contribuer à l'évolution des socles : identifier les besoins technologiques côté applicatif et métier et s'assurer de leur remontée vers les équipes socles \n Diffuser la trajectoire S.I. et les ambitions technologiques du client à toutes les autres entités du Groupe (Socles, pôle stratégie & innovation , Sécurité, Cloud & DevOps , etc.) \n Participer à la construction des nouveaux produits par les socles. \n Assister l'architecte transverse dans la construction d'une réponse communautaire ou spécifique à un besoin spécifique. \n \n \n Participer à l'animation des filières d'architecture : participer à la gouvernance et à l'animation de l'activité d'architecture, en particulier côté client \n Participer, dès que possible, aux instances de conception et de validation des architectures côté client. \n Contribuer aux activités d'animation et de veille côté client et groupe. \n Contribuer aux comités et à l'animation d'architecture. \n \n \n \n Si vous êtes disponible et intéressé merci de me faire parvenir votre TJM+CV à jour dès que possible.\nProfil candidat:\nCapitaliser sur la connaissance des SI métier : disposer d'une connaissance accrue de l'écosystème S.I. métier permettant d'accélérer la conception et la mise en ?ouvre des architectures sur ce périmè \n tre \n Maitriser l'organisation et les rôles clefs côté métier. \n Etablir et maintenir la connaissance de la cartographie et de l'historique du S.I. client. \n Conseiller les métiers sur le volet technique de leur roadmap. \n Avoir une bonne connaissance des enjeux, des contraintes et roadmap métier ayant un impact sur la composition de son S.I. \n Alimenter la construction de la stratégie IT par ces roadmaps métier.",
+        "ft_reference": "1933026",
+        "skills": {
+            "Automation": [
+                "Chef"
+            ],
+            "Other": [
+                "DevOps",
                 "Cloud"
             ]
         }

@@ -7,7 +7,7 @@
         "salary": "Salaire brut : 60 - 85 k€ brut annuel",
         "company": "AXEME CONSEIL ",
         "location_raw": "PARIS 01",
-        "location": "01",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 4 An(s)",
         "experience": "4 an(s)",
@@ -192,8 +192,8 @@
                 "SQL"
             ],
             "Other": [
-                "DevOps",
-                "CI/CD"
+                "CI/CD",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Collaboration",

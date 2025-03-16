@@ -75,8 +75,8 @@
                 "Airflow"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "EnSoftSkils": [
                 "Communication",
@@ -151,12 +151,12 @@
                 "Java"
             ],
             "DataBase": [
-                "NoSQL",
-                "MongoDB"
+                "MongoDB",
+                "NoSQL"
             ],
             "DevTools": [
-                "Git",
-                "Docker"
+                "Docker",
+                "Git"
             ],
             "Containers": [
                 "Docker"
@@ -241,16 +241,16 @@
                 "Cassandra"
             ],
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "CloudComputing": [
                 "AWS"
             ],
             "DBMS": [
                 "BigQuery",
-                "Snowflake",
-                "PostgreSQL"
+                "PostgreSQL",
+                "Snowflake"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
@@ -261,6 +261,56 @@
             ],
             "EnSoftSkils": [
                 "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer Cloud - Energie & Telecom - Bordeaux (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "BORDEAUX 33",
+        "location": "33",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Une offre présentée par Talents Handicap : le forum en ligne au service de l'emploi des personnes en situation de handicap. \n\nAvec près de 10 ans d'expérience, des dizaines de forums réalisés, plus d'une centaine d'entreprises partenaires et plus de 130 000 visiteurs uniques par an, le forum en ligne Talents Handicap s'est installé comme une référence au service de l'emploi des personnes en situation de handicap. \n\nCette année, Talents Handicap propose 5 forum...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1984989",
+        "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Sopra Steria recherche actuellement des profils :  Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe avec  collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative.\nSopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif. En , le Groupe a réalisé un chiffre d'affaires de 5,1 milliards d'euros.\nThe world is how we shape it Description du posteVotre futur environnement de travailL'agence Energie &amp; Telecom de Bordeaux est une équipe à taille humaine, intervenant sur des projets majeurs et à forte technicité pour des clients de tous les secteurs énergétiques.\nNotre objectif est d'apporter des solutions Digitales aux Métiers et ainsi résoudre des problématiques opérationnelles : « Le Digital au service de l'humain ». Nous construisons ainsi des solutions sur mesure s'appuyant sur l'ensemble des leviers technologiques tels que le Cloud, l'Intelligence Artificielle. La compréhension du métier de nos clients et la capacité à imaginer, construire, maintenir des solutions technologiques répondant à leurs enjeux constituent notre quotidien. Votre rôle et vos missionsAu sein d'une équipe projet, vous avez pour missions :Identifier, les composants à utiliser par les acteurs qui manipulent la donnée de façon à pouvoir optimiser la collecte, l'acheminement, le stockage et l'accès aux données pour ces acteursTester et réceptionner les infrastructures pour le compte des acteurs Data qui les utilisent.Optimiser et industrialiser les modèles développés par les équipes de DataScience et en assurer la maintenance correctiveUtiliser de manière optimale les briques techniques disponibles permettant le traitement des flux de donnéesAssurer la maintenance et la supervision des différentes applications/outils/flux déployées en productionCartographier et documenter les sources de données et en assure une gouvernance techniqueContribuer à connecter les outils de gouvernances de la donnée (ex. catalogue) aux sources de données et peut être impliqué dans le maintien des référentielsAssurer la veille technologique du socle technique de son périmètre.Des compétence Google Cloud Platform sont attendues avec particulièrement CloudStorage, CloudComposer / Airflow,  Terraform. GitLab est un plus. QualificationsProfil recherchéDiplômé(e) d'une école d'Ingénieur ou d'une formation Universitaire ou équivalent, avec une expérience supérieure à 3 ans, vous disposez de solides compétences techniques dans une ou plusieurs stacks techniques comme Python, sur des environnements Cloud (Azure, AWS, GCP).Vous êtes sensible au software craftmanship, adepte du clean code et pratiquez l'agilité /DevOps.\nVous avez une bonne capacité d'adaptation, un souhait d'apprentissage sur différentes technologies et aimez travailler en équipe.\nVous aimez relever des challenges et participer à la modernisation technologique ainsi qu'à la transformation cloud des systèmes d'information IT ?\nAlors intégrez une entreprise où règne un esprit entrepreneurial fort et une atmosphère propice à votre évolution : participez sans plus attendre à une transformation durable grâce à une véritable aventure humaine au sein d'un grand groupe international. Informations supplémentairesLes avantages à nous rejoindre :Un accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos missions.Un package avantages intéressants : des titres restaurants, accès aux subventions des activités sociales &amp; culturelles.Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria AcademyLa possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi »Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements",
+        "ft_reference": "1984989",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "CloudComputing": [
+                "GCP",
+                "Azure",
+                "AWS",
+                "Google Cloud Platform"
+            ],
+            "Automation": [
+                "Airflow"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -300,8 +350,8 @@
                 "Jenkins"
             ],
             "Other": [
-                "Big Data",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ]
         }
     },
@@ -339,16 +389,127 @@
                 "Scala"
             ],
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "DBMS": [
                 "Snowflake"
             ],
             "Other": [
+                "Cloud",
                 "CI/CD",
-                "Big Data",
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Data et Analyste Senior - F/H (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "COVAGE INFRA ",
+        "location_raw": "MONT ST AIGNAN",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Du Très Haut Débit pour toutes les entreprises, voilà notre mission !\nCovage, qui compte près de 400 collaborateurs, est un opérateur d'infrastructure de gros, spécialiste sur le marché de la fibre optique pour les entreprises. Filiale B2B du Groupe Altitude, plus de 200 opérateurs s'appuient sur ses réseaux neutres et ouverts, pour fournir des services de connectivité très haut débit et à valeur ajoutée aux entreprises et sites publics.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1976951",
+        "description": "RESPONSABILITÉS : \n\nVos missions :\nRattaché à l'équipe DATA, l'objectif sera de gérer l'ensemble des données du système d'information pour en sortir des statistiques de suivi de l'activité pour les différents services de l'entreprise (commerce, finance, réseau, production, support). Il y aura à la fois à analyser l'ensemble des modèles des différentes bases de données sources et à mettre en œuvre un plan d'ingénierie efficace sur le long terme en prenant en compte le fait de minimiser la maintenance de la solution.\nLes missions seront les suivantes :\n - Gestion des pipelines\n - ETL : extraction, transformation, chargement des données\n - Contrôle de cohérence des données : vérification de la qualité des données et mise en place de procédures de nettoyage\n - Administration des bases de données Azure\n - Rédaction de la documentation technique\nLes flux actuels sont maintenus à l'aide de scripts Python et SQL qui permettent de tracer les évolutions et générer les pipelines directement dans notre outil Azure Datafactory. Les bases de données des applications sources (PostgreSQL + SQL Server) sont copiées puis retraitées pour en sortir un modèle de données le plus générique et réutilisable possible, afin de le fournir à la solution PowerBI qui affichera les statistiques finales aux services.\n\nPROFIL RECHERCHÉ : \n\nLes atouts pour réussir :\nVous justifiez d'au moins 4 ans d'expérience sur un poste similaire, impliquant de la création et de la maintenance de scripts et pipelines dans un environnement de production. Vous avez une solide expérience en analyse, transformation et exploitation de données. Vous maîtrisez la conception de systèmes stables et avez mis en place des indicateurs de performance ainsi que des outils de monitoring.\nVous possédez une solide maîtrise d'au moins un langage de programmation, idéalement Python, ainsi qu'une expertise en SQL et en bases de données relationnelles. Vous avez une bonne compréhension des processus ETL et de la modélisation des données. Doté(e) d'excellentes compétences en communication orale et écrite, vous savez analyser et résoudre efficacement les problèmes. La maîtrise des outils de contrôle de version tels que Git/GitLab est un atout, tout comme une connaissance des technologies cloud (notamment Azure). Une expérience en Data Visualisation et en Business Intelligence (avec Power BI en avantage) est également appréciée.\nLes + chez Covage :\n - Cadre de travail agréable au sein de locaux flambants neufs situés dans le parc d'entreprise de la Vatine à Mont Saint Aignan\n - Politique de mobilité interne favorisant l'évolution professionnelle avec des opportunités de mobilité en interne et/ou au sein du Groupe Altitude, accessible après deux ans d'expérience\n - Possibilité d'avoir recours à 1 journée de télétravail par semaine après 3 mois d'ancienneté dans son poste\n - Régime de travail de 37h par semaine octroyant 14 jours de RTT\n - Titres restaurants\n - Mutuelle d'entreprise obligatoire prise en charge par l'entreprise",
+        "ft_reference": "1976951",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataVisualisation": [
+                "Power BI"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "DBMS": [
+                "SQL Server",
+                "PostgreSQL"
+            ],
+            "Other": [
+                "Statistiques",
                 "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Communication"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Data et Logiciel Senior - F/H (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "COVAGE INFRA ",
+        "location_raw": "MONT ST AIGNAN",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Du Très Haut Débit pour toutes les entreprises, voilà notre mission !\nCovage, qui compte près de 400 collaborateurs, est un opérateur d'infrastructure de gros, spécialiste sur le marché de la fibre optique pour les entreprises. Filiale B2B du Groupe Altitude, plus de 200 opérateurs s'appuient sur ses réseaux neutres et ouverts, pour fournir des services de connectivité très haut débit et à valeur ajoutée aux entreprises et sites publics.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1975971",
+        "description": "RESPONSABILITÉS : \n\nVos missions :\nRattaché à l'équipe DATA, l'objectif sera de gérer, maintenir et améliorer les différentes applications traitant de grandes quantités de données.\nLes 2 principales applications sont :\n - L'éligibilité de l'entreprise, qui comporte les 30 millions d'adresses françaises sur lesquelles on vient raccrocher à quelle technologie chacune de ces adresses est éligible, ainsi qu'un volet cartographie basé sur les résultats d'éligibilités.\n - Le système de gestion des évènements, avec des données temps réel autour d'un Kafka, mais aussi une partie stockage de ces évènements pour répondre à des besoins d'historisation et de suivi de la vie de nos commandes.\nLes missions sont les suivantes :\n - Concevoir et optimiser l'architecture de base de données\n - Développer et maintenir l'architecture logicielle\n - Garantir la qualité et la cohérence des données enregistrées en base\n - Assurer la maintenance et l'évolution des applications\n - Rédiger et maintenir une documentation technique claire et structurée pour assurer la pérennité et la compréhension des solutions développées.\nLa stack technique actuelle est orientée SQL (majoritairement SQL Server et PostgreSQL), Python pour les webservices (FastAPI et Django), Kafka pour les évènements, Docker dans un environnement Kubernetes pour les déploiements.\n\nPROFIL RECHERCHÉ : \n\nLes atouts pour réussir sur ce poste :\nVous justifiez d'au moins 4 ans d'expérience dans un poste similaire, où vous avez contribué à la création et à la maintenance de logiciels et de bases de données en environnement de production. Vous avez également conçu des systèmes stables et maintenables, en mettant en place des indicateurs et des outils de monitoring.\nVotre maîtrise d'au moins un langage de programmation, idéalement Python, est requise. Une solide expérience en SQL et en bases de données relationnelles est primordiale. La connaissance d'un outil de data streaming, tel que Kafka, constitue un atout. Une communication claire et précise, tant à l'écrit qu'à l'oral, ainsi qu'une forte capacité de résolution de problèmes, sont essentielles.\nLes + chez Covage :\n - Cadre de travail agréable au sein de locaux flambants neufs situés dans le parc d'entreprise de la Vatine à Mont Saint Aignan\n - Politique de mobilité interne favorisant l'évolution professionnelle avec des opportunités de mobilité en interne et/ou au sein du Groupe Altitude, accessible après deux ans d'expérience\n - Possibilité d'avoir recours à 1 journée de télétravail par semaine après 3 mois d'ancienneté dans son poste\n - Régime de travail de 37h par semaine octroyant 14 jours de RTT\n - Titres restaurants\n - Mutuelle d'entreprise obligatoire prise en charge par l'entreprise",
+        "ft_reference": "1975971",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "DBMS": [
+                "SQL Server",
+                "PostgreSQL"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Docker",
+                "Kubernetes"
+            ],
+            "EnSoftSkils": [
+                "Communication"
             ]
         }
     },
@@ -360,7 +521,7 @@
         "salary": null,
         "company": "WINSIDE TECHNOLOGY ",
         "location_raw": "PARIS 01",
-        "location": "01",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 10 An(s)",
         "experience": "10 an(s)",
@@ -452,8 +613,8 @@
                 "SQL"
             ],
             "Collaboration": [
-                "Teams",
-                "Confluence"
+                "Confluence",
+                "Teams"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -524,8 +685,8 @@
         "ft_reference": "1933809",
         "skills": {
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Cloud"
@@ -571,8 +732,8 @@
                 "Airflow"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -609,8 +770,8 @@
         "ft_reference": "1933074",
         "skills": {
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ]
         }
     },
@@ -672,6 +833,36 @@
         "link": "https://candidat.francetravail.fr/offres/recherche/detail/1989973",
         "description": "En tant qu&#039;organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises &amp; organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l&#039;un de nos forums. L'entreprise Capgemini recherche actuellement des profils :       Vos missions   En tant que Business Architect PEGA, dans le secteur financier, pour nous clients Banques, Assurances, Mutuelles, vos missions seront les suivantes :  Participer activement à la définition des besoins avec les clients en France et parfois à l'international  dans une démarche de transformation digitale (CRM, Automation, Contact Center, etc). Rédiger les différents livrables tels que le cahier des charges et les user stories. Coordonner l'activité avec les équipes de développement en charge de la conception des applications. Collaborer avec les équipes fonctionnelles et techniques pour établir une architecture adaptée aux ambitions de nos clients. Travailler dans un contexte agile, grâce aux principes Scrum, KANBAN et autres.          ",
         "ft_reference": "1989973",
+        "skills": {}
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte applicatif H/F",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": null,
+        "location_raw": "NANTES 44",
+        "location": "44",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": null,
+            "company_size": "Toute entreprise qui structure son organisation commerciale et/ou industrielle autour d'un maillage d'établissements disséminés, est confrontée un jour ou l'autre à une même problématique : comment garantir à ses collaborateurs et ses clients finaux une même qualité de services, quel que soit leur positionnement géographique.\n\nGrâce à l'optimisation de la chaîne logistique et des process industriels, associés à l'expérience, au savoir-faire et aux compétences de n...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1984773",
+        "description": "Architecte applicatif H/F - NantesL'Humain, l'Expertise et l'Innovation, voilà ce qui caractérise l'ADN d'Experis France, ESN de ManpowerGroup reconnue Top Employer .\n \nPrésente dans 28 pays, Experis se positionne comme un acteur incontournable et innovant sur le marché des ESN.\nNous proposons une offre intégrée alliant services et solutions IT pour accompagner nos clients partenaires dans leurs projets de transformations.\nA travers la formation, Experis investit continuellement dans l'acquisition de connaissances de ses Talents afin d'anticiper les tendances et faire preuve de réactivité face aux changements.\n Experis recherche un Architecte applicatif pour l'un de ses clients basé à Nantes. \n \n Les missions seront les suivantes : \n \nPilotage des différentes phases de projets techniques\nParticipation aux cadrages des projets applicatifs, à la rédaction des consultations et à l'analyse des réponses à ces consultations en lien avec la direction pilote (DSUN, DGO)\nConception de l'architecture et de l'intégration des solutions techniques et métiers dans le système d'information dans une logique de mutualisation et d'efficience des infrastructures et des briques techniques existantes et dans le respect de la politique de sécurité du DRN\nPréparation de l'intégration des applications dans le SI en réalisant les dossiers d'architecture et en pilotant le volet technique des projets en appui des chefs de projets « métiers »\nExpertise, conseil, assistance et support de niveau 3 sur les solutions mises en œuvre\nParticipation à la définition des référentiels et standards d'architecture, en lien avec la PSSI, en s'assurant de leur mise en oeuvre\nVeille technologique sur l'ensemble des briques du SI",
+        "ft_reference": "1984773",
         "skills": {}
     },
     {
@@ -788,7 +979,7 @@
         "salary": "Salaire brut : Annuel de 54000,00 Euros à 64000,00 Euros",
         "company": "DEODIS ",
         "location_raw": "AIX EN PROVENCE",
-        "location": null,
+        "location": "13",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -852,7 +1043,7 @@
         "salary": null,
         "company": "OUICODING ",
         "location_raw": "PARIS 01",
-        "location": "01",
+        "location": "75",
         "remote": null,
         "experience_raw": "Expérience exigée de 5 An(s)",
         "experience": "5 an(s)",
@@ -911,8 +1102,8 @@
         "ft_reference": "1949041",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "Cassandra"
@@ -995,6 +1186,52 @@
         "description": "? Quel sera ton poste en tant qu'Architecte solution H/F ? ?\n?Lieu : Niort\n? Contexte client :\nDans un environnement dynamique et en constante évolution, tu auras pour mission de concevoir et de mettre en place des architectures techniques répondant aux besoins des clients.\nTes responsabilités principales :\nAnalyser les besoins et contraintes techniques des projets.\nConcevoir des solutions adaptées et innovantes en collaboration avec les équipes projets.\nAssurer la cohérence et la pérennité des architectures mises en place.\nParticiper à la veille technologique et proposer des évolutions.\nLes enjeux de ce poste :\nDans un contexte où la transformation digitale est au c?ur des préoccupations, ton rôle d'Architecte solution H/F sera essentiel pour garantir la performance et la sécurité des systèmes d'information des clients.\nLes avantages :\nParticiper à des projets innovants et variés.\nTravailler en étroite collaboration avec des équipes pluridisciplinaires.\nBénéficier d'un environnement de travail flexible en télétravail.\nAvoir l'opportunité de contribuer activement à la transformation digitale des entreprises clientes.",
         "ft_reference": "1948962",
         "skills": {
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "DBA SQL Server H/F",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 60000,00 Euros à 65000,00 Euros",
+        "company": "MICHAEL PAGE ",
+        "location_raw": "FRANCE",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-08",
+        "company_data": {
+            "sector": "Activités des organisations et organismes extraterritoriaux",
+            "company_size": null,
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1952366",
+        "description": "Vos missions : \n * Concevoir, déployer et optimiser l'architecture des systèmes de gestion de bases de données, en garantissant leur performance, leur intégrité et leur évolutivité,\n * Superviser et coordonner les prestataires techniques, en veillant au respect strict des engagements contractuels et des normes de qualité,\n * Développer et implémenter de nouvelles solutions de stockage et de gestion de données adaptées aux besoins stratégiques de l'organisation,\n * Elaborer et mettre en oeuvre des stratégies de sécurisation des données, en étroite collaboration avec le RSSI,\n * Assurer la continuité opérationnelle et la haute disponibilité des environnements de bases de données (matériels, systèmes, interconnexions),\n * Gérer le cycle de vie complet des applications et des flux de données, en optimisant leur performance et leur fiabilité,\n * Produire et maintenir à jour la documentation technique détaillée relative aux infrastructures de bases de données,\n * Intervenir dans la résolution des incidents techniques et répondre aux demandes des utilisateurs, dans le respect des délais et des niveaux de service convenus,\n * Participer activement aux processus d'amélioration continue des systèmes d'information.\nEnvironnement Tech dans la structure : Technologies Microsoft : Windows 2008/2012/2019 Serveur, Windows 7/10, Terminal Server, Active directory, HyperV, bases de données SQL Server 2008/2019, firewall Fortinet, switchs CISCO et NEXUS, Veeam Backup et Replication.\nVous disposez d'au moins une première expérience équivalente, avec un Bac +3 minimum.\nEsprit participatif, echange transverse avec les autres services métiers/techniques.\n* Salaire fixe,\n * 1J/S de télétravail,\n * CSE, navigo 100%,\n * 25CP + 18 RTT,\n * Prime sur intéressement au bout d'un an qui est attribué et équivalent à un mois de salaire.",
+        "ft_reference": "1952366",
+        "skills": {
+            "DataBase": [
+                "SQL"
+            ],
+            "OS": [
+                "Windows"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "NetworkSecurty": [
+                "Firewall"
+            ],
             "EnSoftSkils": [
                 "Collaboration"
             ]
@@ -1104,8 +1341,8 @@
                 "SQL"
             ],
             "Other": [
-                "ML",
-                "Statistiques"
+                "Statistiques",
+                "ML"
             ]
         }
     }

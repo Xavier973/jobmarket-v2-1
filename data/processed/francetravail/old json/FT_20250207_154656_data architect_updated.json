@@ -1,0 +1,514 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Architecte Data (H/F)",
+        "job": "data architect",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "DAVRICOURT ",
+        "location_raw": "NIORT",
+        "location": "79",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "DAVRICOURT",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1893494",
+        "description": "Créée en 2011, DAVRICOURT est une société de conseil à taille humaine, spécialisée dans le recrutement et la prestation d'ingénieurs et de techniciens dans les secteurs automobile, ferroviaire, naval, aéronautique, défense, énergie, grande distribution, sciences de la vie, et du numérique.\n \nRépartis sur 6 agences en France, notre ambition est de proposer des solutions techniques de haute qualité, tout en plaçant l'humain et l'engagement au cœur de nos priorités. En intégrant notre équipe, vous aurez l'opportunité de travailler sur des projets variés et innovants dans des domaines d'expertise tels que l'ingénierie mécanique, électronique, software embarqué, industrialisation et gestion de projet. Vous évoluerez dans une entreprise dynamique, où l'esprit d'équipe et la proximité sont essentiels.\n \nNous mettons en place un accompagnement sur-mesure, aligné avec nos engagements RSE et notre raison d'être : « Révéler les talents de l'industrie et du numérique pour les rendre acteurs d'un monde plus responsable ». \n \nLabellisés « Positive Company 3*», certifiés ISO9001 et MASE pour un management de la qualité et de la sécurité au travail, nous avons à cœur d'intégrer toutes nos parties prenantes dans notre démarche RSE et d'impliquer nos collaborateurs en leur proposant d'agir auprès d'associations. \n \nRejoignez-nous pour donner un nouvel élan à votre carrière et (re)donner du sens à votre travail !\nLe poste : \n\nDans le cadre de la réalisation d'un projet en assistance technique, nous recherchons un(e) Architecte Data pour l'un de nos clients du secteur bancaire et des assurances. Vous interviendrez sur le site client situé dans la région Nouvelle Aquitaine.\nÀ ce titre, vos missions quotidiennes seront les suivantes :\n- Prendre en charge les dossiers d'architecture des projets tout en garantissant leur cohérence avec la stratégie et la roadmap du Patrimoine Data ;\n- Accompagner les Product Owners/Managers et les équipes métiers dans l'évolution des solutions Data ;\n- Apporter une expertise technique et fonctionnelle dans le cadre des transformations liées à la migration cloud ;\n- Promouvoir le cadre d'architecture Data auprès des équipes métiers et techniques, tout en étant un interlocuteur clé dans les décisions stratégiques.\nEt après ?\nEn tant que véritable partie prenante de DAVRICOURT, vous vous verrez proposer des projets techniques et à forte valeur ajoutée par nos équipes.\n\nProfil recherché : \n\nVos compétences techniques :\n- Ingénieur(e) de formation, vous justifiez d'au minimum 5 ans dans la gestion et l'architecture des données, en environnement cloud (GCP/AWS) ;\n- Vous avez également une expérience significative en mise en œuvre et déploiement de solutions IA et Data ;\n- Vous avez des compétences en modélisation, traitement des données (ETL) et intégration des outils Data ;\n- Vous avez de bonne connaissance dans les patterns d'architecture Data, incluant les traitements asynchrones (temps réel, intraday, etc.) ;\n- Vous maitrisez les solutions de l'écosystème Google Cloud Platform ;\n- La maitrise de l'anglais technique est requise pour ce projet.\nCe que nous cherchons avant tout, ce sont des personnalités qui participent au développement de DAVRICOURT et forment un réseau de talents interconnectés qui ne craint pas d'affirmer sa différence.\nVous êtes unique, nous sommes différents, rencontrons-nous!\nLE DAVRIPACKAGE- Salaire compétitif\n- Primes de participation et d'intéressement\n- Épargne salariale\n- Mutuelle et prévoyance\n- Forfait Mobilité Durable\n- Plateforme CE\n- Actions de formation\n- 1 jour par an offert pour une mission solidaire avec VENDREDI\nINTÉRESSÉ(E) ?Si vous êtes arrivé(e) à la fin de cette offre, c'est qu'elle vous a forcément attirée, alors surtout n'hésitez pas à postuler ! En cas de doute, notre équipe recrutement saura répondre à vos questions.\nL'offre d'emploi ne correspond pas tout à fait à vos compétences mais nos valeurs vous ressemblent et notre ambition vous motive - Alors vous pouvez consulter l'ensemble de nos offres sur davricourt.com\nET APRÈS ?\nNotre processus de recrutement est simplifié : un seul entretien est prévu par nos équipes recrutement et commerciale à la suite duquel nous présentons votre profil au client.\nNB : En l'absence de retour de la part de l'équipe recrutement sous 1 semaine, veuillez considérer que votre candidature n'a pas été retenue. Merci de votre compréhension.",
+        "ft_reference": "1893494",
+        "skills": {
+            "CloudComputing": [
+                "GCP",
+                "Google Cloud Platform",
+                "AWS"
+            ],
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer - Architecture de streaming data F/H - Système, réseaux, données (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "NEXTON ",
+        "location_raw": "LILLE",
+        "location": "59",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Qui sommes-nous ?\n\nRejoindre NEXTON, c'est intégrer une entreprise où convergent l'esprit d'un cabinet de conseil, la créativité d'une agence et la dynamique d'une ESN ! Grâce à notre expertise, nous accompagnons des clients grands comptes et des pure players tels que SNCF, Orange, et BNP Paribas dans leurs stratégies d'évolution et d'innovation digitale.\n\nFondée en 2011, NEXTON réunit aujourd'hui une équipe de plus de 450 experts spécialisés dans le digital, le design, l'...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1890704",
+        "description": "Descriptif du poste:\n\nNexton recrute un Data Engineer - Architecture de streaming data H/F, en CDI, à Lille !  \n\nTon futur environnement de travail : \n\nTu seras au cœur du plan de transformation DATA de notre compte client, qui vise à autonomiser les métiers business (pilotage, marketing, commerce, etc.) dans l'analyse des données et des KPI grâce à des applications DATA avancées.\n\nTes missions : \n\nEn tant que Data Engineer sur des architectures de streaming data, tu seras en charge de :\n\n \n* Concevoir et développer des pipelines de données performants.\n \n* Développer des solutions en utilisant des outils comme Scala, Spark, DBT.\n \n* Implémenter des architectures de Streaming Data sur AWS (Lambda, Kinesis Stream, S3, Firehose, EMR Serverless, DynamoDB, etc.).\n \n* Contribuer aux initiatives FinOps pour optimiser les coûts liés aux architectures Big Data.\n \n* Développer et optimiser des traitements d'intégration de données en streaming, traitant plus de 100 To de données par jour.\n \n* Participer à des projets innovants tels que : \n  \n   \n* Systèmes de recommandation AI ;\n   \n* Feature Store ;\n   \n* Modernisation des flux financiers ;\n   \n* Plateforme de traitement des données CRM et usage ;\n   \n* Intégration de données pour partenaires stratégiques.\n  \n\n\nProfil recherché:\n\nTu as au moins 5 ans d'expérience dans des environnements similaires.\n\nTu possèdes une excellente connaissance des architectures de Streaming Data et des environnements Big Data.\n\nTu maîtrises AWS et ses services (Lambda, Kinesis Stream, EMR Serverless, S3, DynamoDB).\n\nTu es maitrisant en Scala et Spark.\n\nTu utilises les outils Snowflake, GitLab CI/CD, Terraform.\n\nTu es autonome, ouvert d'esprit, et doté d'une grande curiosité.\n\nTu es à l'aise dans un environnement international.\n\nTu es un excellent communicant et sais évoluer dans des équipes agiles.\n\nLes outils comme JIRA et les méthodologies Scrum/Kanban te sont familiers.",
+        "ft_reference": "1890704",
+        "skills": {
+            "ProgLanguage": [
+                "Scala"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "AWS"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "InfrastructureAsCode": [
+                "Terraform"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "CI/CD",
+                "Big Data"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Tech lead Data F/H - Informatique de gestion (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : 55 - 60 k€ brut annuel",
+        "company": "CDC INFORMATIQUE ",
+        "location_raw": "BAGNEUX",
+        "location": null,
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Conseil en systèmes et logiciels informatiques",
+            "company_size": "Qui sommes-nous ?\n\nCDC Informatique (Groupement d'Intérêt Economique), filiale IT de la Caisse des Dépôts, est le maitre d'oeuvre de services informatiques et numériques. Il est le garant de la confidentialité, de la sécurité et de l'intégrité des données et des systèmes d'information de la Caisse des Dépôts. Notre force aujourd'hui c'est notre engagement au Numérique responsable !\n\nLabellisée Happy Trainees, et également recommandée sur Glassdoor. Intégrer ICDC, c'est...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1906994",
+        "description": "Descriptif du poste:\nNous recherchons notre Tech Lead Data au sein du service Data & IA, qui est en charge de la réalisation des différents projets Data des directions Métiers de la Caisse des Dépôts et Consignations (CDC).\n\nVous intégrer la partie \"projets & applications\"  pour assurer le rôle de leader technique Data dont les missions à réaliser sont :\n\n Expertise technique\n- Être l'interlocuteur technique de référence auprès des équipes\n- Conseiller et apporte une expertise les solutions et choix technologiques\n- S'assurer que les normes de développement, d'architecture et de sécurité sont respectées\n- S'assurer de la qualité du code et contribuer au développement si nécessaire\n- Participer à faire vivre les normes et standards de développement au sein d'une communauté\n\nPartage et déploiement des bonnes pratiques\n- Animer les points techniques avec toutes les équipe et le socle\n- Former les équipes et être garant des bonnes pratiques visant à garantir la fiabilité et la maintenabilité du produit\n- Garantir l'exploitabilité des solutions développées : sécurité, supervision, haute-disponibilité, traçabilité, sauvegardes, PSI, ...\n- Apporter une expertise sur la résolution des problèmes techniques rencontrés par l'équipe\n- Organiser et optimiser le processus de développement en contribuant à la mise en place d'une stratégie DevOps\n\nArchitecture\n- Participer aux réflexions d'architecture des nouveaux projets\n- Challenger et concrétiser les principes d'architecture\n- Contribuer au bon fonctionnement du SI, faire évoluer son architecture et ses normes au regard de la performance\n- Réaliser des études de faisabilité ou des POC pour évaluer des solutions\n\nAmélioration continue et projets\n- Superviser les développements : contrôle de la bonne progression des développements, définition de la ligne directrice, des choix techniques, méthodes à utiliser\n- Proposer les solutions d'amélioration continue de la qualité de service\n- Participer à l'optimisation des systèmes existants\n\nVeille\n- Assurer la veille technologique et être force de proposition\n- Apporter une vision à moyen et long terme sur les évolutions techniques\n\nProfil recherché:\nHard skills :\n- minimum 2 ans d'expérience sur un poste similaire. \n- Le langage SQL\n- Un langage objet (Python, Spark, PySpark, Scala, ...)\n- Un framework de calcul distribué\n- Un bus de messages : Kafka, RabbitMQ\n- Des outils d'alimentation de données : Talend, Matillion, Stambia\n- Des Moteurs de recherche : suite ELK (ElasticSearch, Logstash, Kibana), SolR, ser-vices Cloud\n- Le Stockage des données : stockage objet et/ou distribué (HDFS, deltalake ou blob/S3)- L'intégration continue (Git, JUnit, SonarQube, Jenkins)\n- Un cloud provider (AWS, GCP, Azure) ou une distribution Big Data (Hortonworks, Cloudera, Datastax)\n- Les concepts de la modélisation relationnelle et non-relationnelle (Etoile, Data Vault, ...)\n\nSoft skills :\n- Esprit d'équipe (Equipe SI, équipe métier marketing, intégrateur)\n- Implication\n- Rigueur, esprit d'analyse\n- Sens du relationnel, qualité d'écoute\n- Autonomie, esprit d'initiative, capacité d'adaptation\n- Ténacité, capacité à convaincre\n- Curiosité, appétence pour les nouveautés Data\n\nSi vous êtes motivé(e) par ce challenge et que vous possédez les compétences requises, nous serions ravis de recevoir votre candidature pour ce poste !",
+        "ft_reference": "1906994",
+        "skills": {
+            "ProgLanguage": [
+                "Python",
+                "Scala"
+            ],
+            "DataBase": [
+                "Elasticsearch",
+                "SQL"
+            ],
+            "BigData": [
+                "Spark"
+            ],
+            "CloudComputing": [
+                "Azure",
+                "GCP",
+                "AWS"
+            ],
+            "DevTools": [
+                "Jenkins",
+                "Git"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud",
+                "Big Data"
+            ],
+            "EnSoftSkils": [
+                "Initiative"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technical Data Engineer Senior (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "APGAR ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "APGAR",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1895482",
+        "description": "Apgar Consulting, fondée en 2013, est une société de conseil en Data de premier plan, reconnue par les analystes comme Gartner, qui accompagne ses clients dans leur parcours pour construire une base de données fiables.\nDe la sensibilisation des personnes aux changements organisationnels en passant par l'activation et le support technologiques, nous concevons et fournissons des solutions sur mesure qui fournissent des données de manière cohérente, sécurisée et précise.\n \nNous sommes des experts dans la Data Advisory, la Data Arcthitecture, la Data Academy et la Data for Green, ainsi que dans la mise en œuvre et le support de solutions de Platform Data telles que la Data Preparation, le Master Data Management, le Meta Data Management et la Data Integration.\n \nApgar Consulting agit pour les petites et grandes entreprises, en Europe, aux États-Unis et au Moyen-Orient.\n \nConstruit avec des valeurs fortes, Apgar Consulting a pour objectif de fournir des services de conseil durables.\nL'innovation et le pragmatisme sont les clés de notre approche orientée Data.\nNous sommes une véritable entreprise centrée sur les personnes et axée sur les objectifs et nous offrons un environnement de développement personnel et de croissance de carrière avec une véritable conscience sociale.\nNous recrutons des profils Data et nous misons en priorité sur les Soft-Skills sachant que nous ne spécialisons pas nos talents sur des secteurs d'activité et que nous favorisons l'accompagnement et la montée en compétences.\nLe poste : \n\nRattaché(e) au sein d'une équipe intervenant sur un projet client dans la mise en œuvre de solutions de Master Data Management, vos missions sont les suivantes : \n- Missions externes :\n- Participer à toutes les phases techniques de mise en œuvre de solutions de Master Data Management ;\n- Intervenir dans la conception et la définition de l'architecture de la solution ;\n- Participer à l'implémentation de la solution et définir les règles d'exploitation ;\n- Initialiser toutes les fonctionnalités complexes de la solution ;\n- Prendre en charge les sujets d'intégration continue et d'intégration applicative ;\n- Assurer la qualité globale de la solution et soutenir techniquement l'équipe projet, vous êtes le garant des bonnes pratiques de développement de la solution ;\n- Être responsable de la qualité des livrables / de la documentation technique du projet ;\n- Accompagner le client pour l'installation et l'administration de la solution dans son environnement Cloud ou On-Premise tout en mettant en place des méthodologies et processus DEVOPS.\n- Avant-vente :\n- Participer au chiffrage des appels d'offre ;\n- Rédiger en toute autonomie la partie technique des propositions commerciales (rédaction et présentation).\n- R&D et missions internes :\n- Prendre en charge des sujets R&D et travailler en étroite collaboration avec la Direction des offres ;\n- Participer à la conception et au développement de briques logicielles complémentaires aux outils du marché ;\n- Être acteur de la capitalisation technique (accélérer les développements, d'améliorer la maintenabilité, de faciliter la réutilisation) ;\n- Tester les solutions de nouveaux éditeurs sur de nouveaux périmètres pour préparer nos nouvelles offres ;\n- Contribuer aux structures de management (RH, offres, ?).\nSelon vos souhaits de carrière et appétences vous aurez la possibilité d'évoluer vers un poste de consultant(e) technico-fonctionnel(le) où vous continuerez à jouer votre rôle d'expert technique tout en assurant la gestion globale du projet et le suivi des aspects fonctionnels.\nProfil recherché : \n\n- Compétences requises :\nVous pouvez plusieurs expériences autour des éléments suivants :\n- Le développement : bonne maîtrise en environnement JAVA/ J2EE\n- Modélisation UML, la manipulation d'objets XML\n- Logiciels : Eclipse, Tomcat, Ant, Maven, Subversion, Microft Team foundation ou GIT\n- Technologies : HTML/CSS, Javascript, Ajax, SOP/REST (CXF)/ JMS/RMI/Parsing XML ( XSD)/JSON\n- Les base de données : SQL Server, Oracle, Postgre SQL Hadoop/Spark/Amazon EMR/ Dynamo DB\n- Architecture : conception de document d'architecture technique (DAT), réalisation du document d'exploitation (DEX)\n- La méthodologie : intégration continue et de release management dans un contexte itératif et Agile (JIRA/ Maven/ Bamboo /TFS/ Jenkins)\n- Profil recherché : \n- De formation Bac+5 minimum au sein d'une grande école d'ingénieur ou d'informatique, vous disposez de minimum 5 ans d'expérience sur ce type de fonction ;\n- Vous avez conçu, implémenté des logiciels et/ou piloté des chantiers lors de projets SI et avez participé à des missions sur des sujets liés à la gestion de l'informati",
+        "ft_reference": "1895482",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Java"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "DataSerialization": [
+                "XML",
+                "Json"
+            ],
+            "DevTools": [
+                "Jenkins",
+                "Git"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technical Data Engineer Confirmed (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "APGAR ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "APGAR",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1895444",
+        "description": "Apgar Consulting, fondée en 2013, est une société de conseil en Data de premier plan, reconnue par les analystes comme Gartner, qui accompagne ses clients dans leur parcours pour construire une base de données fiables.\nDe la sensibilisation des personnes aux changements organisationnels en passant par l'activation et le support technologiques, nous concevons et fournissons des solutions sur mesure qui fournissent des données de manière cohérente, sécurisée et précise.\n \nNous sommes des experts dans la Data Advisory, la Data Arcthitecture, la Data Academy et la Data for Green, ainsi que dans la mise en œuvre et le support de solutions de Platform Data telles que la Data Preparation, le Master Data Management, le Meta Data Management et la Data Integration.\n \nApgar Consulting agit pour les petites et grandes entreprises, en Europe, aux États-Unis et au Moyen-Orient.\n \nConstruit avec des valeurs fortes, Apgar Consulting a pour objectif de fournir des services de conseil durables.\nL'innovation et le pragmatisme sont les clés de notre approche orientée Data.\nNous sommes une véritable entreprise centrée sur les personnes et axée sur les objectifs et nous offrons un environnement de développement personnel et de croissance de carrière avec une véritable conscience sociale.\nNous recrutons des profils Data et nous misons en priorité sur les Soft-Skills sachant que nous ne spécialisons pas nos talents sur des secteurs d'activité et que nous favorisons l'accompagnement et la montée en compétences.\nLe poste : \n\nRattaché(e) au sein d'une équipe intervenant sur un projet client dans la mise en œuvre de solutions de Master Data Management et en lien avec un Consultant Senior ou un Manager, vos missions sont les suivantes :\n- Missions externes :\n. Participer à toutes les phases techniques de mise en œuvre de solutions de Master Data Management ;\n. Intervenir dans la conception et la définition de l'architecture de la solution ;\n. Implémenter la solution et définir les règles d'exploitation ;\n. Participer à la réalisation de maquettes conjointement avec le/les consultant(es) fonctionnel(les) ;\n. Être en charge de proposer et d'étudier des solutions techniques ;\n. Accompagner le client pour l'installation et l'administration de la solution dans son environnement Cloud ou On-Premise tout en mettant en place des méthodologies et processus DEVOPS.\n- R&D et missions internes :\n. Participer à la conception et au développement de briques logicielles complémentaires aux outils du marché ;\n. Être acteur de la capitalisation technique (accélérer les développements, d'améliorer la maintenabilité, de faciliter la réutilisation) ;\n. Tester les solutions de nouveaux éditeurs sur de nouveaux périmètres pour préparer nos nouvelles offres.\nSelon vos souhaits de carrière et appétences vous aurez la possibilité d'évoluer vers un poste de consultant(e) technico-fonctionnel(le) où vous continuerez à jouer votre rôle d'expert technique tout en assurant la gestion globale du projet et le suivi des aspects fonctionnels.\nProfil recherché : \n\nCompétences requises :\nVous possédez à minima une expérience significative autour des éléments suivants :\n. Le développement : bonne maîtrise en environnement JAVA/ J2EE\n. Les base de données : SQL Server, Oracle, Postgre SQL, Hadoop/Spark/Amazon EMR/ Dynamo DB\n. La méthodologie : intégration continue et de release management dans un contexte itératif et Agile (JIRA/ Maven/ Bamboo /TFS/ Jenkins)\n- Profil recherché :\n. De formation Bac+5 minimum au sein d'une grande école d'ingénieur ou d'informatique, vous disposez de minimum 3 ans d'expérience sur ce type de fonction ;\n. Vous avez conçu, implémenté des logiciels et/ou piloté des chantiers lors de projets SI et avez participé à des missions sur des sujets liés à la gestion de l'information dans l'entreprise ;\n. Vous avez une expérience significative en lien avec l'un des sujets de nos offres (MDM, Méta data, Data Integration et Data Preparation) ;\n. Dynamique et enthousiaste, vous aimez le travail en équipe ;\n. Un niveau d'anglais opérationnel est requis ;",
+        "ft_reference": "1895444",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Java"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "DevTools": [
+                "Jenkins"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Technical Data Engineer Senior (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "APGAR ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "APGAR",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1895354",
+        "description": "Apgar Consulting, fondée en 2013, est une société de conseil en Data de premier plan, reconnue par les analystes comme Gartner, qui accompagne ses clients dans leur parcours pour construire une base de données fiables.\nDe la sensibilisation des personnes aux changements organisationnels en passant par l'activation et le support technologiques, nous concevons et fournissons des solutions sur mesure qui fournissent des données de manière cohérente, sécurisée et précise.\n \nNous sommes des experts dans la Data Advisory, la Data Arcthitecture, la Data Academy et la Data for Green, ainsi que dans la mise en œuvre et le support de solutions de Platform Data telles que la Data Preparation, le Master Data Management, le Meta Data Management et la Data Integration.\n \nApgar Consulting agit pour les petites et grandes entreprises, en Europe, aux États-Unis et au Moyen-Orient.\n \nConstruit avec des valeurs fortes, Apgar Consulting a pour objectif de fournir des services de conseil durables.\nL'innovation et le pragmatisme sont les clés de notre approche orientée Data.\nNous sommes une véritable entreprise centrée sur les personnes et axée sur les objectifs et nous offrons un environnement de développement personnel et de croissance de carrière avec une véritable conscience sociale.\nNous recrutons des profils Data et nous misons en priorité sur les Soft-Skills sachant que nous ne spécialisons pas nos talents sur des secteurs d'activité et que nous favorisons l'accompagnement et la montée en compétences.\nLe poste : \n\nEn qualité de Technical Data Engineer, vous travaillez au sein d'une équipe intervenant directement sur un projet client pour participer aux missions suivantes :\n- Missions externes :\n- Vous participez à toutes les phases techniques de mise en œuvre de solutions de Data Management ;\n- Vous intervenez dans la conception et la définition de l'architecture de la solution ;\n- Vous participez à l'implémentation de la solution et définissez les règles d'exploitation ;\n- Vous initialisez toutes les fonctionnalités complexes de la solution ;\n- Vous êtes responsable sur les sujets d'intégration continue et d'intégration applicative ;\n- Vous êtes responsable de la qualité globale de la solution et soutenez techniquement l'équipe projet, vous êtes le garant des bonnes pratiques de développement de la solution ;\n- Vous êtes responsable de la qualité des livrables / de la documentation technique du projet ;\n- Vous accompagnez le client pour l'installation et l'administration de la solution dans son environnement cloud ou on-premise tout en mettant en place des méthodologies et processus DEVOPS.\n- Avant-vente :\n- Vous participez au chiffrage des appels d'offre ;\n- Vous rédigez en toute autonomie la partie technique des propositions commerciales (rédaction et présentation) ;\n \n- R&D et missions internes :\n- Vous prenez en charge des sujets R&D et travaillez en étroite collaboration avec la Direction des offres ;\n- Vous participez à la conception et au développement de briques logicielles complémentaires aux outils du marché ;\n- Vous êtes acteur de la capitalisation technique (accélérer les développements, d'améliorer la maintenabilité, de faciliter la réutilisation) ;\n- Vous serez amené(e) à tester les solutions de nouveaux éditeurs sur de nouveaux périmètres pour préparer nos nouvelles offres ;\n- Vous contribuez aux structures de management (RH, offres, ?).\nProfil recherché : \n\nCompétences requises : \nVous possédez plusieurs expériences autour des éléments suivants :\n- Le développement : bonne maîtrise en environnement JAVA/ J2EE\n- Modélisation UML, la manipulation d'objets XML\n- Logiciels : Eclipse, Tomcat, Ant, Maven, Subversion, Microft Team foundation ou GIT\n- Technologies : HTML/CSS, Javascript, Ajax, SOP/REST (CXF)/ JMS/RMI/Parsing XML ( XSD)/JSON\n- Les base de données : SQL Server, Oracle, Postgre SQL Hadoop/Spark/Amazon EMR/ Dynamo DB\n- Architecture : conception de document d'architecture technique (DAT), réalisation du document d'exploitation (DEX)\n- La méthodologie : intégration continue et de release management dans un contexte itératif et Agile (JIRA/ Maven/ Bamboo /TFS/ Jenkins)\n- Une expérience significative en lien avec l'un des sujets de nos offres (MDM, Méta data, Data Integration et Data Preparation)\nProfil recherché : \n- De formation Bac+5 minimum au sein d'une grande école d'ingénieur ou d'informatique, vous disposez de minimum 5 ans d'expérience sur ce type de fonction ;\n- Vous avez conçu, implémenté des logiciels et/ou piloté des chantiers lors de projets SI et avez participé à des missions sur des sujets liés à la gestion de l'information dans l'entreprise ;\n- Dynamique et",
+        "ft_reference": "1895354",
+        "skills": {
+            "ProgLanguage": [
+                "R",
+                "Java"
+            ],
+            "DataBase": [
+                "SQL"
+            ],
+            "DataAnalytics": [
+                "R"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "DataSerialization": [
+                "XML",
+                "Json"
+            ],
+            "DevTools": [
+                "Jenkins",
+                "Git"
+            ],
+            "DBMS": [
+                "SQL Server"
+            ],
+            "Collaboration": [
+                "JIRA"
+            ],
+            "Other": [
+                "DevOps",
+                "Cloud"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "APGAR ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience souhaitée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "APGAR",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1894606",
+        "description": "Apgar Consulting, fondée en 2013, est une société de conseil en Data de premier plan, reconnue par les analystes comme Gartner, qui accompagne ses clients dans leur parcours pour construire une base de données fiables.\nDe la sensibilisation des personnes aux changements organisationnels en passant par l'activation et le support technologiques, nous concevons et fournissons des solutions sur mesure qui fournissent des données de manière cohérente, sécurisée et précise.\n \nNous sommes des experts dans la Data Advisory, la Data Arcthitecture, la Data Academy et la Data for Green, ainsi que dans la mise en œuvre et le support de solutions de Platform Data telles que la Data Preparation, le Master Data Management, le Meta Data Management et la Data Integration.\n \nApgar Consulting agit pour les petites et grandes entreprises, en Europe, aux États-Unis et au Moyen-Orient.\n \nConstruit avec des valeurs fortes, Apgar Consulting a pour objectif de fournir des services de conseil durables.\nL'innovation et le pragmatisme sont les clés de notre approche orientée Data.\nNous sommes une véritable entreprise centrée sur les personnes et axée sur les objectifs et nous offrons un environnement de développement personnel et de croissance de carrière avec une véritable conscience sociale.\nNous recrutons des profils Data et nous misons en priorité sur les Soft-Skills sachant que nous ne spécialisons pas nos talents sur des secteurs d'activité et que nous favorisons l'accompagnement et la montée en compétences.\nLe poste : \n\nEn qualité de Data Engineer, vous travaillez au sein d'une équipe intervenant directement sur un projet client pour participer aux missions suivantes :\n. Vous êtes impliqué(e) sur l'ensemble du projet dès son démarrage et serez en interaction avec le client / métier et les consultants techniques ;\n. Vous participez à toutes les phases de mise en œuvre de solutions de Data Management ;\n. Vous participez à l'analyse des besoins, rédigez les spécifications fonctionnelles et assurez l'adéquation de la solution avec le besoin du client ;\n. Vous assurez un reporting fiable et pertinent de votre activité auprès de votre responsable ;\n. Vous accompagnez le client dans la recette et la mise en service de la solution ;\n. Vous êtes responsable de la qualité des livrables et des prestations fournis et contribuez à la qualité globale des projets et missions auxquels vous participez.\nEn fonction de votre degré d'expérience, vous êtes amené(e) à intervenir sur un périmètre plus important :\n. Vous prenez la responsabilité d'un chantier qui vous aura été confié par votre chef de projet ;\n. Vous êtes impliqué(e) sur l'ensemble du projet dès son démarrage et serez en interaction avec le client / métier et les consultants techniques ;\n. Vous assurez un reporting fiable et pertinent de votre activité auprès de votre responsable ;\n. Vous animez les ateliers de conception fonctionnelles et rédigez les comptes-rendus.\nSelon vos souhaits de carrière et appétences vous aurez la possibilité d'évoluer progressivement vers un poste de consultant(e) technico-fonctionnel(le), vous continuerez à jouer votre rôle de consultant(e) fonctionnel(le) tout en intervenant sur la configuration et paramétrage de la solution.\nProfil recherché : \n\nProfil recherché : \n- De formation Bac+5 minimum au sein d'une grande école d'ingénieur ou d'informatique, vous disposez de minimum 2 ans d'expérience sur ce type de fonction ;\n- Vous avez des appétences relationnelles et avez des facilités à rédiger et à vous exprimer ;\n- Vous avez la capacité de comprendre et de rédiger des spécifications fonctionnelles ;\n- Une expérience en lien avec l'une de nos offres (MDM, Méta data, Data Integration et Data Preparation) est un plus.",
+        "ft_reference": "1894606",
+        "skills": {
+            "Automation": [
+                "Chef"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer Senior (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "APGAR ",
+        "location_raw": "NEUILLY SUR SEINE",
+        "location": "92",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 5 An(s)",
+        "experience": "5 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "APGAR",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1894550",
+        "description": "Apgar Consulting, fondée en 2013, est une société de conseil en Data de premier plan, reconnue par les analystes comme Gartner, qui accompagne ses clients dans leur parcours pour construire une base de données fiables.\nDe la sensibilisation des personnes aux changements organisationnels en passant par l'activation et le support technologiques, nous concevons et fournissons des solutions sur mesure qui fournissent des données de manière cohérente, sécurisée et précise.\n \nNous sommes des experts dans la Data Advisory, la Data Arcthitecture, la Data Academy et la Data for Green, ainsi que dans la mise en œuvre et le support de solutions de Platform Data telles que la Data Preparation, le Master Data Management, le Meta Data Management et la Data Integration.\n \nApgar Consulting agit pour les petites et grandes entreprises, en Europe, aux États-Unis et au Moyen-Orient.\n \nConstruit avec des valeurs fortes, Apgar Consulting a pour objectif de fournir des services de conseil durables.\nL'innovation et le pragmatisme sont les clés de notre approche orientée Data.\nNous sommes une véritable entreprise centrée sur les personnes et axée sur les objectifs et nous offrons un environnement de développement personnel et de croissance de carrière avec une véritable conscience sociale.\nNous recrutons des profils Data et nous misons en priorité sur les Soft-Skills sachant que nous ne spécialisons pas nos talents sur des secteurs d'activité et que nous favorisons l'accompagnement et la montée en compétences.\nLe poste : \n\nEn qualité de Data Engineer, vous travaillez au sein d'une équipe intervenant directement sur un projet client.\nVous gérez un projet en autonomie, de bout en bout, sous la supervision de votre\ndirecteur projet et vos mission sont les suivantes :\n. Assurer le rôle de Chef de projet de la mission et êtes garant de la qualité technique et fonctionnelle de la solution ;\n. Être l'interlocuteur privilégié du client ;\n. Participer au cadrage et au suivi du périmètre du projet (définition des hypothèses, estimation des charges, planification, organisation et définition de la méthodologie, reporting) ;\n. Assurer et veiller au recueil du besoin et à la rédaction des spécifications fonctionnelles et/ou techniques ainsi qu'aux tests internes de la solution ;\n. Animer les ateliers de conception fonctionnelles et rédigez les comptes-rendus ;\n. Accompagner le client dans la recette et le déploiement de la solution ;\n. Réaliser des activités d'avant-vente et réponse à des appels d'offres ;\n. Estimer le chiffrage des coûts d'implémentation et la planification du projet ;\n. Participer à la rédaction de la proposition commerciale.\nProfil recherché : \n\nProfil recherché :\n. De formation Bac+5 minimum au sein d'une grande école d'ingénieur ou d'informatique, vous disposez de minimum 5 ans d'expérience sur ce type de fonction ;\n. Vous avez des appétences relationnelles, commerciales, managériales et êtes à même de gérer un projet dans sa globalité tant au niveau business, financier et qu'humain ;\n. Dynamique et enthousiaste, vous aimez le travail en équipe ;\n. Un niveau d'anglais opérationnel est requis ;",
+        "ft_reference": "1894550",
+        "skills": {
+            "Automation": [
+                "Chef"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type": "CDI",
+        "salary": null,
+        "company": "SKAELIA ",
+        "location_raw": "NANTES",
+        "location": "44",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 2 An(s)",
+        "experience": "2 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": null,
+            "company_size": "Skaelia",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1893298",
+        "description": "Skaelia est un cabinet de conseil en recrutement spécialisé dans les secteurs IT, Business et Conseil. Nous accompagnons les candidats dans la recherche de leur prochain poste, en fonction de leurs compétences et aspirations, quel que soit leur expérience et le niveau de poste recherché, du  diplômé au cadre exécutif. Nous collaborons avec des entreprises de référence, innovantes, qui intègrent la technologie au cœur de leur activité. Parmi nos clients figurent des intégrateurs et éditeurs de logiciels, des ESN, des cabinets de conseil, ainsi que des ETI et grands comptes, leaders dans leurs domaines respectifs.\nChez Skaelia, nos recruteurs expérimentés, spécialisés par métier, vous proposent un accompagnement personnalisé pour vous aider à trouver le poste qui correspond à vos compétences, vos ambitions et vos objectifs. Nous avons hâte de faire votre connaissance et de vous aider à trouver votre prochain poste !\nLe poste : \n\nRejoignez une entreprise innovante d'environ 100 collaborateurs, spécialisée dans le développement de solutions technologiques visant à réduire l'empreinte carbone du secteur maritime. Basée à Nantes Chantenay, cette société conçoit et déploie une technologie de traction par le vent permettant d'optimiser la consommation énergétique des navires et d'accompagner la transition écologique du transport maritime.\nDans le cadre de son développement, l'entreprise recherche un(e) Data Engineer pour renforcer son équipe digitale et contribuer à l'évolution de son infrastructure de données.\nEn tant que Data Engineer, vous contribuerez à la gestion et l'amélioration de la DataPlatform de l'entreprise, essentielle à l'analyse et à l'exploitation des données issues des essais en mer et des simulations. Vous participerez activement à l'optimisation de cette infrastructure hybride (batch et streaming) afin de garantir des performances optimales.\nVos missions seront les suivantes :\n- Développement et optimisation des pipelines de données : conception, implémentation et maintenance des flux d'ingestion et de traitement des données en temps réel et en mode batch.\n- Amélioration des API et des outils d'accès aux données : développement et optimisation des services pour assurer leur efficacité et leur robustesse.\n- Maintenance et supervision de la plateforme : mise en place de solutions de monitoring et d'alerting pour garantir la fiabilité et la performance des outils.\n- Évolution de l'architecture : participation active aux choix technologiques et à l'amélioration continue des infrastructures.\n- Accompagnement des utilisateurs : collaboration avec les équipes techniques et métiers pour adapter les solutions aux besoins, avec un rôle de support et de formation.\nProfil recherché : \n\nCompétences techniques attendues :\n- Développement : excellente maîtrise de Python, ainsi que de la modélisation de données et des architectures logicielles.\n- Bases de données : expérience avec des bases relationnelles (PostgreSQL) et leur administration.\n- Data Workflows : compétence en ingestion et orchestration des données avec des outils comme Airflow.\n- DevOps : connaissances solides en Linux, GitLab CI, Docker.\n- Données temporelles : une expérience avec des bases de time-series est un atout.\n- Développement web : connaissance appréciée des outils Plotly, Panel.\nQualités personnelles :\n- Esprit d'analyse et de synthèse pour traiter des problématiques complexes.\n- Proactivité et autonomie dans la résolution des problèmes.\n- Aisance relationnelle et travail en équipe, notamment dans un environnement pluridisciplinaire.\nFormation et expérience :\n- Bac+5 en informatique, data science, ingénierie ou domaine similaire.\n- Minimum 2 ans d'expérience sur un poste de Data Engineer ou équivalent, avec une expérience en traitement de données massives.",
+        "ft_reference": "1893298",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataVisualisation": [
+                "Plotly"
+            ],
+            "DevTools": [
+                "Docker"
+            ],
+            "OS": [
+                "Linux"
+            ],
+            "DBMS": [
+                "PostgreSQL"
+            ],
+            "Automation": [
+                "Airflow"
+            ],
+            "Containers": [
+                "Docker"
+            ],
+            "Other": [
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Tech Lead Big Data - F/H - Informatique de gestion (H/F)",
+        "job": "Other",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : A négocier",
+        "company": "GESER BEST ",
+        "location_raw": "BORDEAUX",
+        "location": "33",
+        "remote": null,
+        "experience_raw": "Expérience exigée de 1 An(s)",
+        "experience": "1 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-07",
+        "company_data": {
+            "sector": "Ingénierie, études techniques",
+            "company_size": "GESER-BEST est spécialiste en assistance technique sur-mesure et conseil en recrutement depuis plus de 30 ans.  \n Nos 11 agences, réparties sur tout le territoire français, témoignent de la diversité de nos secteurs d'activités : Aéronautique, ferroviaire, IT, santé, énergie. Grâce à nos expertises multi-sectorielles, nous vous accompagnons dans la réalisation de votre projet professionnel !  \n Nos processus internes sont portés par de nombreuses habilitations et certific...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1889842",
+        "description": "Descriptif du poste:\n\nGESER BEST recherche pour un de ses projets en IT, un.e Tech Lead Big Data. \nAce titre vous serez responsable du développement et de l'optimisation d'outils transverses tels que les moteurs d'ingestion, de défragmentation, de dédoublonnage et de réplication des données.\nMissions :\n* Travailler avec des technologies Big Data : Spark, Scala, Hadoop.\n* Améliorer les concepts techniques et préparer les builds.\n* Répartition du temps : 60% développement, 40% conception et pilotage technique d'une équipe de 3 développeurs confirmés.\n* Assurer l'intégration des contraintes de sécurité en collaboration avec l'équipe Security Lead.\n* Développement sur des tables externes et managées, format Parquet/Iceberg.\n\nProfil recherché:\n\nDe formation bac+5 en informatique avec des spécialisations en Big Data, Systèmes d'information, Informatique ou Data Science. Vous avez une expérience d'au moins 3 ans dans un rôle de Tech Lead en Big Data. \nCompétences requises :\n* Expertise en Big Data et maîtrise des technologies Spark, Scala, Hadoop.\n* Bonne connaissance des formats de données et des tables externes (Parquet/Iceberg).\n* Leadership technique et capacité à piloter une équipe de développeurs.\nRejoignez une équipe dynamique et contribuez à des projets innovants dans le domaine du Big Data.",
+        "ft_reference": "1889842",
+        "skills": {
+            "ProgLanguage": [
+                "Scala"
+            ],
+            "BigData": [
+                "Spark",
+                "Hadoop"
+            ],
+            "Other": [
+                "Big Data"
+            ],
+            "EnSoftSkils": [
+                "Collaboration",
+                "Leadership"
+            ]
+        }
+    }
+]

@@ -1,1 +1,50 @@
-[]
+[
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Systèmes & Réseaux - Sysops H/F",
+        "job": "sysops",
+        "contract_type": "CDI",
+        "salary": "Salaire brut : Annuel de 40000,00 Euros à 50000,00 Euros",
+        "company": "CN AMIRAULT ",
+        "location_raw": "MONTPELLIER",
+        "location": "34",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-02-06",
+        "company_data": {
+            "sector": "Activités des agences de placement de main-d'œuvre",
+            "company_size": "Bonjour et Bienvenue !\n\nJe suis Claire-Noëlle Amirault, spécialisée en recrutements Tech depuis plus de 10 ans.\n\nIndépendante et passionnée par mon métier, je suis à vos côtés pour vous proposer des opportunités professionnelles répondant à vos talents et à vos attentes.\n\nConstruisons votre projet ensemble, en toute confidentialité !",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/1822032",
+        "description": "POSTE : Ingénieur Systèmes & Réseaux - Sysops H/F\nDESCRIPTION : Rejoignez une entreprise accueillante et prenez part à des projets stimulants !\n\nEditeur de logiciels, CDI - client final\n\nLe poste du jour : Ingénieur Systèmes & Réseaux / DEVOPS H/F en CDI à Montpellier, auprès d'un super Editeur de Logiciels !\n\nCe recrutement intervient dans le cadre d'une création de poste pour renforcer l'équipe.\n\nVous rejoignez une entreprise solide, spécialisée depuis +20 ans dans la création de solutions innovantes, et riche d'une vingtaine de collaborateurs.\n\nBienveillance, performance et enthousiasme sont quelques-unes de ses valeurs !\n\nVos Missions, à leurs côtés\n\nAu sein de la Direction Technique (12 collaborateurs) et en binôme avec le Responsable Infrastructure, vous êtes garant de la disponibilité, la performance et la sécurité des infrastructures tout en participant activement à leur optimisation :\n\n* Maintien des infrastructures opérationnelles (serveurs, systèmes, et réseaux),\n* Automatisation des processus,\n* Supervision et monitoring,\n* Gestion de la sécurité,\n* Documentation et amélioration continue,\n* Collaboration avec les autres équipes techniques.\n\nLe tout, au sein d'une entreprise où vous serez écouté et où vos idées seront valorisées !\n\nEnvironnement technique : Linux, Windows, VM, Hyperviseur, Kubernetes, Ansible, etc.\n\nJolis avantages : rémunération attractive, télétravail partiel, prime d'intéressement, Tickets Restaurants, place de parking dédiée, locaux tout neuf dans un coin animé et mutuelle prise en charge à 100% !\n\nProcess : 1er échange avec Claire-Noëlle (CN Amirault) puis, entretien avec la Responsable Technique et le Responsable Infra, et enfin, avec le reste des équipes. De belles rencontres à venir :)\nPROFIL : Prêt(e) à rejoindre l'aventure ?\n\n* Vous avez minimum 4 ans d'expérience en administration systèmes et réseaux,\n* Vous maitrisez les systèmes d'exploitation Linux et Windows Server, la virtualisation (VM, Kubernetes), réseaux (DNS, DHCP, routeurs).\n* Cerise sur le gâteau : vous connaissez des outils d'automatisation (Ansible),\n* Autonomie, esprit d'équipe et bonne humeur sont quelques-unes de vos caractéristiques.\n\nVous avez envie de donner un bel élan à votre carrière en intervenant sur des projets innovants ?\n\nRencontrons-nous :)\n\nA bientôt,\n\nEt surtout souvenez-vous : Le futur de la Tech, c'est VOUS !\n\nClaire-Noëlle\n\nCN Amirault   Recrutements Tech",
+        "ft_reference": "1822032",
+        "skills": {
+            "OS": [
+                "Windows",
+                "Linux"
+            ],
+            "Automation": [
+                "Ansible",
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]
