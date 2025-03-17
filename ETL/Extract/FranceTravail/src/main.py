@@ -337,7 +337,13 @@ def scraping_and_process(term, driver, collect_all=False):
                     # Trouver l'élément span avec le titre "Type de contrat"
                         contract_element = offer_element.find_element(By.CSS_SELECTOR, 'span[title="Type de contrat"]')
                         if contract_element:
-                            Contract_type = contract_element.find_element(By.XPATH, "following-sibling::span[@class='sr-only']").text
+                            try:
+                                # D'abord essayer de trouver le span suivant avec la classe sr-only
+                                Contract_type = contract_element.find_element(By.CSS_SELECTOR, '+ span.sr-only').text
+                            except:
+                                # Si non trouvé, prendre le texte du parent
+                                parent_element = contract_element.find_element(By.CSS_SELECTOR, '..')
+                                Contract_type = parent_element.text.replace('Type de contrat', '').strip()
                     except:
                         Contract_type = None
                     try:

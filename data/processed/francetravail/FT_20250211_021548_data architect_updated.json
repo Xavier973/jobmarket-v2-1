@@ -29,9 +29,9 @@
         "ft_reference": "2008826",
         "skills": {
             "ProgLanguage": [
-                "Scala",
                 "R",
-                "Python"
+                "Python",
+                "Scala"
             ],
             "DataBase": [
                 "SQL"
@@ -102,8 +102,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "DevOps",
-                "Machine Learning"
+                "Machine Learning",
+                "DevOps"
             ]
         }
     }

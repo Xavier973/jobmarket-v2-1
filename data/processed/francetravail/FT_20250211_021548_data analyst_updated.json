@@ -134,9 +134,9 @@
                 "Chef"
             ],
             "EnSoftSkils": [
+                "Initiative",
                 "Collaboration",
-                "Communication",
-                "Initiative"
+                "Communication"
             ]
         }
     },
@@ -294,8 +294,8 @@
                 "NumPy"
             ],
             "DataVisualisation": [
-                "Matplotlib",
-                "Plotly"
+                "Plotly",
+                "Matplotlib"
             ],
             "DevTools": [
                 "Git"
@@ -410,8 +410,8 @@
                 "Python"
             ],
             "DataBase": [
-                "NoSQL",
-                "SQL"
+                "SQL",
+                "NoSQL"
             ],
             "DataVisualisation": [
                 "Tableau"
@@ -538,22 +538,22 @@
                 "Python"
             ],
             "DataBase": [
-                "NoSQL",
-                "SQL"
+                "SQL",
+                "NoSQL"
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Collaboration": [
-                "Confluence",
-                "Slack",
                 "JIRA",
-                "Teams"
+                "Confluence",
+                "Teams",
+                "Slack"
             ],
             "Other": [
                 "Big Data",

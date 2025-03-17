@@ -33,8 +33,8 @@
             ],
             "Other": [
                 "Cloud",
-                "DevOps",
-                "ML"
+                "ML",
+                "DevOps"
             ]
         }
     },
@@ -105,17 +105,17 @@
         "ft_reference": "1848944",
         "skills": {
             "DataBase": [
-                "NoSQL",
+                "Cassandra",
                 "Neo4j",
-                "MongoDB",
-                "Cassandra"
+                "NoSQL",
+                "MongoDB"
             ],
             "BigData": [
                 "Spark"
             ],
             "SoftBigDataProcessing": [
-                "Apache Kafka",
-                "Cassandra"
+                "Cassandra",
+                "Apache Kafka"
             ],
             "Other": [
                 "Big Data",
@@ -667,8 +667,8 @@
         "ft_reference": "1871964",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "OS": [
                 "Linux",
@@ -681,8 +681,8 @@
                 "VMware"
             ],
             "Containers": [
-                "OpenShift",
-                "Kubernetes"
+                "Kubernetes",
+                "OpenShift"
             ],
             "Other": [
                 "Cloud"
@@ -971,8 +971,8 @@
         "ft_reference": "1869876",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1114,8 +1114,8 @@
                 "JIRA"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1149,8 +1149,8 @@
         "ft_reference": "1869463",
         "skills": {
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "Other": [
                 "Cloud"

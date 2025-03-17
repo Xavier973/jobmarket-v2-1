@@ -32,8 +32,8 @@
                 "Python"
             ],
             "DataBase": [
-                "NoSQL",
                 "SQL",
+                "NoSQL",
                 "MongoDB"
             ],
             "BigData": [
@@ -41,31 +41,31 @@
                 "Spark"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "DBMS": [
                 "PostgreSQL",
                 "Snowflake"
             ],
             "Automation": [
-                "Kubernetes",
                 "Airflow",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "Cloud",
+                "CI/CD",
                 "DevOps",
-                "CI/CD"
+                "Cloud"
             ]
         }
     },
@@ -102,8 +102,8 @@
                 "SQL"
             ],
             "Collaboration": [
-                "Teams",
-                "Confluence"
+                "Confluence",
+                "Teams"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -190,8 +190,8 @@
                 "Tableau"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "DBMS": [
@@ -239,8 +239,8 @@
                 "Tableau"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "DBMS": [
@@ -377,8 +377,8 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "DBMS": [
@@ -388,8 +388,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -447,8 +447,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ]
         }
     },
@@ -551,8 +551,8 @@
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -635,8 +635,8 @@
                 "Tableau"
             ],
             "CloudComputing": [
-                "AWS",
-                "GCP"
+                "GCP",
+                "AWS"
             ],
             "DBMS": [
                 "Snowflake"
@@ -682,8 +682,8 @@
                 "SQL"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "DBMS": [
                 "PostgreSQL"
@@ -729,8 +729,8 @@
         "ft_reference": "1895482",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -743,12 +743,12 @@
                 "Spark"
             ],
             "DataSerialization": [
-                "Json",
-                "XML"
+                "XML",
+                "Json"
             ],
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "DBMS": [
                 "SQL Server"
@@ -757,8 +757,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -795,8 +795,8 @@
         "ft_reference": "1895444",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -818,8 +818,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -853,8 +853,8 @@
         "ft_reference": "1895354",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -867,12 +867,12 @@
                 "Spark"
             ],
             "DataSerialization": [
-                "Json",
-                "XML"
+                "XML",
+                "Json"
             ],
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "DBMS": [
                 "SQL Server"
@@ -881,8 +881,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1219,21 +1219,21 @@
         "ft_reference": "1885081",
         "skills": {
             "ProgLanguage": [
-                "Python",
+                "Java",
                 "Scala",
-                "Java"
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "Other": [
                 "Big Data",
@@ -1484,8 +1484,8 @@
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1565,8 +1565,8 @@
         "ft_reference": "1829741",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -1584,10 +1584,10 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "Machine Learning",
+                "CI/CD",
                 "DevOps",
-                "CI/CD"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1718,10 +1718,10 @@
         "ft_reference": "1865300",
         "skills": {
             "ProgLanguage": [
+                "Java",
                 "R",
-                "Python",
                 "Scala",
-                "Java"
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -1730,14 +1730,14 @@
                 "Hadoop"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1963,9 +1963,9 @@
         "ft_reference": "1901654",
         "skills": {
             "ProgLanguage": [
-                "Python",
+                "Java",
                 "Scala",
-                "Java"
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -1974,28 +1974,28 @@
                 "Spark"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "DBMS": [
                 "PostgreSQL",
                 "SQL Server"
             ],
             "Automation": [
-                "Kubernetes",
-                "Airflow",
                 "Ansible",
                 "Chef",
-                "Puppet"
+                "Kubernetes",
+                "Puppet",
+                "Airflow"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "Big Data",
-                "CI/CD",
-                "DevOps"
+                "DevOps",
+                "CI/CD"
             ]
         }
     },
@@ -2029,9 +2029,9 @@
         "ft_reference": "1893494",
         "skills": {
             "CloudComputing": [
-                "AWS",
                 "GCP",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "AWS"
             ],
             "Other": [
                 "Cloud"
@@ -2112,8 +2112,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Collaboration"
+                "Collaboration",
+                "Leadership"
             ]
         }
     },
@@ -2147,9 +2147,9 @@
         "ft_reference": "1889442",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "R",
-                "Python",
-                "Scala"
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -2381,8 +2381,8 @@
                 "SQL"
             ],
             "Other": [
-                "Statistiques",
-                "ML"
+                "ML",
+                "Statistiques"
             ]
         }
     },
@@ -3158,14 +3158,14 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "AWS",
                 "GCP",
+                "AWS",
                 "Azure"
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ]
         }
     },
@@ -3306,8 +3306,8 @@
                 "Azure"
             ],
             "Other": [
-                "Cloud",
                 "DevOps",
+                "Cloud",
                 "ML"
             ]
         }
@@ -3573,9 +3573,9 @@
         "ft_reference": "1851951",
         "skills": {
             "ProgLanguage": [
-                "Python",
+                "Java",
                 "Scala",
-                "Java"
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -3585,13 +3585,13 @@
                 "Spark"
             ],
             "DBMS": [
-                "BigQuery",
-                "Snowflake"
+                "Snowflake",
+                "BigQuery"
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ]
         }
     },
@@ -3681,17 +3681,17 @@
         "ft_reference": "1848944",
         "skills": {
             "DataBase": [
-                "NoSQL",
                 "Cassandra",
-                "MongoDB",
-                "Neo4j"
+                "Neo4j",
+                "NoSQL",
+                "MongoDB"
             ],
             "BigData": [
                 "Spark"
             ],
             "SoftBigDataProcessing": [
-                "Apache Kafka",
-                "Cassandra"
+                "Cassandra",
+                "Apache Kafka"
             ],
             "Other": [
                 "Big Data",
@@ -4029,8 +4029,8 @@
                 "Python"
             ],
             "DataBase": [
-                "NoSQL",
-                "SQL"
+                "SQL",
+                "NoSQL"
             ],
             "DataVisualisation": [
                 "Power BI"
@@ -4255,8 +4255,8 @@
                 "AWS"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -4474,8 +4474,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -4550,8 +4550,8 @@
                 "Azure"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "Automation": [
                 "Kubernetes"
@@ -4863,8 +4863,8 @@
                 "Teams"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Collaboration"
+                "Collaboration",
+                "Leadership"
             ]
         }
     },

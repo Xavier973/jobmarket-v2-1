@@ -72,8 +72,8 @@
         "ft_reference": "1939230",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB"
@@ -85,8 +85,8 @@
                 "Docker"
             ],
             "OS": [
-                "Linux",
-                "Windows"
+                "Windows",
+                "Linux"
             ],
             "DBMS": [
                 "MySQL"
@@ -174,8 +174,8 @@
         "ft_reference": "1937658",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -265,13 +265,13 @@
         "ft_reference": "1934852",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "DevTools": [
+                "Docker",
                 "Git",
-                "Jenkins",
-                "Docker"
+                "Jenkins"
             ],
             "OS": [
                 "Linux"
@@ -282,8 +282,8 @@
             ],
             "Containers": [
                 "Kubernetes",
-                "Docker",
-                "OpenShift"
+                "OpenShift",
+                "Docker"
             ],
             "Other": [
                 "DevOps",
@@ -327,8 +327,8 @@
                 "AWS"
             ],
             "DevTools": [
-                "Git",
-                "Docker"
+                "Docker",
+                "Git"
             ],
             "OS": [
                 "Linux"
@@ -411,8 +411,8 @@
         "ft_reference": "1933949",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "DevTools": [
                 "Docker",
@@ -430,8 +430,8 @@
             ],
             "Containers": [
                 "Kubernetes",
-                "Docker",
-                "OpenShift"
+                "OpenShift",
+                "Docker"
             ],
             "Other": [
                 "DevOps",
@@ -470,8 +470,8 @@
         "ft_reference": "1933521",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "DevTools": [
                 "Docker",
@@ -489,8 +489,8 @@
             ],
             "Containers": [
                 "Kubernetes",
-                "Docker",
-                "OpenShift"
+                "OpenShift",
+                "Docker"
             ],
             "Other": [
                 "DevOps",
@@ -539,8 +539,8 @@
             ],
             "Automation": [
                 "Kubernetes",
-                "Ansible",
-                "Puppet"
+                "Puppet",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -593,8 +593,8 @@
                 "GCP"
             ],
             "OS": [
-                "Linux",
-                "Windows"
+                "Windows",
+                "Linux"
             ],
             "Automation": [
                 "Ansible"

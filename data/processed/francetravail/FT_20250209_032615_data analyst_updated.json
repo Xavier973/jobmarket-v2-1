@@ -547,32 +547,32 @@
                 "Spark"
             ],
             "CloudComputing": [
+                "AWS",
                 "GCP",
-                "Azure",
-                "AWS"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
             ],
             "DBMS": [
-                "Snowflake",
-                "BigQuery"
+                "BigQuery",
+                "Snowflake"
             ],
             "Automation": [
-                "Kubernetes",
-                "Airflow"
+                "Airflow",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "DevOps",
                 "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Initiative"

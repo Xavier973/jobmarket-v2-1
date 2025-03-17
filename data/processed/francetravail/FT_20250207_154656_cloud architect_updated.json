@@ -32,8 +32,8 @@
                 "SQL"
             ],
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "CloudComputing": [
                 "Azure"
@@ -82,8 +82,8 @@
                 "SQL"
             ],
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "CloudComputing": [
                 "Azure"
@@ -166,8 +166,8 @@
         "ft_reference": "1908370",
         "skills": {
             "ProgLanguage": [
-                "Java",
                 "R",
+                "Java",
                 "Python"
             ],
             "DataAnalytics": [
@@ -178,8 +178,8 @@
                 "Azure"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -231,10 +231,10 @@
                 "Windows"
             ],
             "DBMS": [
-                "SQL Server",
-                "BigQuery",
+                "MySQL",
                 "PostgreSQL",
-                "MySQL"
+                "SQL Server",
+                "BigQuery"
             ],
             "NetworkSecurty": [
                 "Firewall"
@@ -299,8 +299,8 @@
                 "R"
             ],
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "DataSerialization": [
                 "XML"
@@ -312,8 +312,8 @@
                 "Azure"
             ],
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "DBMS": [
                 "SQL Server"
@@ -322,8 +322,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -366,8 +366,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -407,8 +407,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -448,8 +448,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -489,8 +489,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -524,8 +524,8 @@
         "ft_reference": "1889909",
         "skills": {
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "MachineLearning": [
                 "PyTorch",
@@ -548,10 +548,10 @@
                 "Kubernetes"
             ],
             "Other": [
-                "Big Data",
+                "DevOps",
                 "CI/CD",
                 "Cloud",
-                "DevOps"
+                "Big Data"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -594,8 +594,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -635,8 +635,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -908,8 +908,8 @@
                 "Java"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "CloudComputing": [
                 "AWS",
@@ -923,8 +923,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "CI/CD",
@@ -1310,8 +1310,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Cloud"
@@ -1357,16 +1357,16 @@
                 "Terraform"
             ],
             "NetworkSecurty": [
-                "VPN",
-                "Firewall"
+                "Firewall",
+                "VPN"
             ],
             "Collaboration": [
                 "Teams"
             ],
             "Other": [
+                "DevOps",
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "Cloud"
             ]
         }
     },
@@ -1661,8 +1661,8 @@
                 "Windows"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1751,13 +1751,13 @@
                 "CloudFormation"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
+                "DevOps",
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "Cloud"
             ]
         }
     },
@@ -1807,13 +1807,13 @@
                 "CloudFormation"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
+                "DevOps",
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "Cloud"
             ]
         }
     },

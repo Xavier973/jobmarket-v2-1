@@ -29,17 +29,17 @@
         "ft_reference": "187SDYY",
         "skills": {
             "DevTools": [
+                "Docker",
                 "Git",
-                "Jenkins",
-                "Docker"
+                "Jenkins"
             ],
             "Automation": [
-                "Chef",
-                "Kubernetes"
+                "Kubernetes",
+                "Chef"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ]
         }
     },

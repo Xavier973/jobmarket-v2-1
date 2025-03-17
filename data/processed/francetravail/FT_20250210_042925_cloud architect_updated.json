@@ -29,9 +29,9 @@
         "ft_reference": "1996695",
         "skills": {
             "CloudComputing": [
-                "Azure",
                 "GCP",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DevTools": [
                 "Jenkins",
@@ -44,9 +44,9 @@
                 "Terraform"
             ],
             "Other": [
-                "DevOps",
+                "CI/CD",
                 "Cloud",
-                "CI/CD"
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -86,8 +86,8 @@
                 "Java"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -127,8 +127,8 @@
                 "Orange"
             ],
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -165,9 +165,9 @@
         "ft_reference": "1994503",
         "skills": {
             "CloudComputing": [
-                "Azure",
                 "GCP",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -180,8 +180,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -249,9 +249,9 @@
         "ft_reference": "1989206",
         "skills": {
             "CloudComputing": [
-                "Azure",
                 "GCP",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "DevTools": [
                 "Jenkins"
@@ -261,8 +261,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "OpenShift"
+                "OpenShift",
+                "Kubernetes"
             ],
             "Other": [
                 "Cloud"
@@ -299,9 +299,9 @@
         "ft_reference": "1988793",
         "skills": {
             "CloudComputing": [
-                "Azure",
                 "GCP",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
