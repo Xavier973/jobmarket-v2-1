@@ -32,10 +32,10 @@
                 "Python"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS",
                 "Azure",
-                "GCP"
+                "Google Cloud Platform",
+                "GCP",
+                "AWS"
             ],
             "Automation": [
                 "Airflow"
@@ -44,8 +44,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -79,8 +79,8 @@
         "ft_reference": "1939378",
         "skills": {
             "CloudComputing": [
-                "Google Cloud Platform",
-                "GCP"
+                "GCP",
+                "Google Cloud Platform"
             ],
             "Other": [
                 "Cloud"
@@ -162,8 +162,8 @@
                 "Git"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Other": [
                 "Statistiques",
@@ -213,15 +213,15 @@
                 "Docker"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Automation": [
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "EnSoftSkils": [
                 "Communication"

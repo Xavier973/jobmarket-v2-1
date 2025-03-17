@@ -47,13 +47,13 @@
                 "SQL Server"
             ],
             "Other": [
-                "Machine Learning",
                 "Cloud",
+                "Machine Learning",
                 "Big Data"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -205,21 +205,21 @@
         "ft_reference": "2007033",
         "skills": {
             "BigData": [
-                "Databricks",
-                "Spark"
+                "Spark",
+                "Databricks"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DevTools": [
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "ML",
+                "CI/CD",
                 "Cloud",
-                "CI/CD"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -272,8 +272,8 @@
                 "AWS"
             ],
             "DevTools": [
-                "Git",
-                "Docker"
+                "Docker",
+                "Git"
             ],
             "Automation": [
                 "Kubernetes"
@@ -283,11 +283,11 @@
                 "Docker"
             ],
             "Other": [
+                "Cloud",
                 "ML",
-                "Big Data",
-                "Machine Learning",
                 "Statistiques",
-                "Cloud"
+                "Big Data",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -398,8 +398,8 @@
                 "R"
             ],
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Leadership"

@@ -36,17 +36,17 @@
                 "GCP"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Leadership"
+                "Leadership",
+                "Collaboration"
             ]
         }
     },
@@ -81,16 +81,16 @@
         "skills": {
             "CloudComputing": [
                 "AWS",
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Jenkins"
             ],
             "Other": [
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication",

@@ -29,9 +29,9 @@
         "ft_reference": "1994503",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "Azure",
                 "AWS",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"

@@ -222,8 +222,8 @@
                 "Jenkins"
             ],
             "Other": [
-                "Big Data",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ]
         }
     },
@@ -257,9 +257,9 @@
         "ft_reference": "1851951",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -269,13 +269,13 @@
                 "Databricks"
             ],
             "DBMS": [
-                "Snowflake",
-                "BigQuery"
+                "BigQuery",
+                "Snowflake"
             ],
             "Other": [
-                "Big Data",
                 "Cloud",
-                "CI/CD"
+                "CI/CD",
+                "Big Data"
             ]
         }
     },
@@ -355,9 +355,9 @@
         "ft_reference": "1901654",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -374,19 +374,19 @@
                 "SQL Server"
             ],
             "Automation": [
-                "Chef",
-                "Kubernetes",
                 "Ansible",
                 "Airflow",
-                "Puppet"
+                "Kubernetes",
+                "Puppet",
+                "Chef"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "CI/CD",
                 "Big Data",
+                "CI/CD",
                 "DevOps"
             ]
         }
@@ -659,8 +659,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Big Data",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ]
         }
     },
@@ -695,8 +695,8 @@
         "skills": {
             "DataBase": [
                 "Neo4j",
-                "Cassandra",
                 "NoSQL",
+                "Cassandra",
                 "MongoDB"
             ],
             "BigData": [
@@ -707,8 +707,8 @@
                 "Cassandra"
             ],
             "Other": [
-                "Big Data",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ],
             "EnSoftSkils": [
                 "Communication"

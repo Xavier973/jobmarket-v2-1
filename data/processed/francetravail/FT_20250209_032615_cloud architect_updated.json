@@ -80,8 +80,8 @@
         "ft_reference": "1983134",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "CloudComputing": [
                 "GCP"
@@ -164,15 +164,15 @@
         "ft_reference": "1982804",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "CloudComputing": [
                 "GCP"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -258,8 +258,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -330,8 +330,8 @@
         "ft_reference": "1965319",
         "skills": {
             "CloudComputing": [
-                "Google Cloud Platform",
-                "GCP"
+                "GCP",
+                "Google Cloud Platform"
             ],
             "Automation": [
                 "Kubernetes"
@@ -387,17 +387,17 @@
                 "Hadoop"
             ],
             "CloudComputing": [
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "DBMS": [
-                "SQL Server",
-                "BigQuery",
                 "MySQL",
-                "PostgreSQL"
+                "PostgreSQL",
+                "BigQuery",
+                "SQL Server"
             ],
             "Virtualisation": [
                 "VMware"
@@ -441,9 +441,9 @@
         "ft_reference": "1949656",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Git",
@@ -456,9 +456,9 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -502,17 +502,17 @@
                 "Hadoop"
             ],
             "CloudComputing": [
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "DBMS": [
-                "SQL Server",
-                "BigQuery",
                 "MySQL",
-                "PostgreSQL"
+                "PostgreSQL",
+                "BigQuery",
+                "SQL Server"
             ],
             "Virtualisation": [
                 "VMware"
@@ -556,8 +556,8 @@
         "ft_reference": "1948676",
         "skills": {
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -600,9 +600,9 @@
                 "NoSQL"
             ],
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "Automation": [
                 "Kubernetes"
@@ -646,12 +646,12 @@
         "ft_reference": "1939029",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "DevTools": [
                 "Docker"
@@ -660,8 +660,8 @@
                 "Linux"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -670,9 +670,9 @@
                 "VMware"
             ],
             "Containers": [
-                "OpenShift",
+                "Docker",
                 "Kubernetes",
-                "Docker"
+                "OpenShift"
             ],
             "Other": [
                 "CI/CD",
@@ -719,8 +719,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -760,8 +760,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -795,16 +795,16 @@
         "ft_reference": "1938209",
         "skills": {
             "CloudComputing": [
-                "AWS",
-                "GCP"
+                "GCP",
+                "AWS"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -844,21 +844,21 @@
                 "Databricks"
             ],
             "CloudComputing": [
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "DBMS": [
-                "SQL Server",
-                "BigQuery",
                 "MySQL",
-                "PostgreSQL"
+                "PostgreSQL",
+                "BigQuery",
+                "SQL Server"
             ],
             "NetworkSecurty": [
                 "Firewall"
@@ -870,16 +870,16 @@
                 "Docker"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
                 "Big Data",
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -959,8 +959,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -994,9 +994,9 @@
         "ft_reference": "1937553",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Git",
@@ -1044,13 +1044,13 @@
         "ft_reference": "1935857",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Bash",
-                "Kotlin"
+                "Kotlin",
+                "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "DevTools": [
                 "Jenkins"
@@ -1059,16 +1059,16 @@
                 "Ansible"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "NetworkSecurty": [
                 "SSL/TLS"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1105,8 +1105,8 @@
         "ft_reference": "1934975",
         "skills": {
             "ProgLanguage": [
-                "Java",
-                "R"
+                "R",
+                "Java"
             ],
             "DataBase": [
                 "NoSQL",
@@ -1116,9 +1116,9 @@
                 "R"
             ],
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -1127,8 +1127,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "CI/CD",
@@ -1182,8 +1182,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Leadership",
@@ -1221,8 +1221,8 @@
         "ft_reference": "1934058",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "CloudComputing": [
                 "AWS"
@@ -1234,17 +1234,17 @@
                 "Kubernetes"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1284,8 +1284,8 @@
                 "Chef"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1325,8 +1325,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Communication"
+                "Communication",
+                "Collaboration"
             ]
         }
     },
@@ -1375,12 +1375,12 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1420,22 +1420,22 @@
                 "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "DevTools": [
                 "Jenkins"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "Containers": [
                 "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1481,18 +1481,18 @@
                 "Kubernetes"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Containers": [
-                "OpenShift",
-                "Kubernetes"
+                "Kubernetes",
+                "OpenShift"
             ],
             "Other": [
                 "Machine Learning",
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Leadership",
@@ -1531,8 +1531,8 @@
         "ft_reference": "1933123",
         "skills": {
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1569,15 +1569,15 @@
         "ft_reference": "1933058",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "Azure"
+                "Azure",
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "OS": [
-                "Windows",
-                "Linux"
+                "Linux",
+                "Windows"
             ],
             "NetworkSecurty": [
                 "Firewall"
@@ -1589,8 +1589,8 @@
                 "Docker"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
                 "Cloud"
@@ -1633,8 +1633,8 @@
                 "Chef"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1671,16 +1671,16 @@
                 "Azure"
             ],
             "Automation": [
-                "Chef",
-                "Ansible"
+                "Ansible",
+                "Chef"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1755,12 +1755,12 @@
         "ft_reference": "1934052",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "DevTools": [
                 "Docker"
@@ -1769,8 +1769,8 @@
                 "Linux"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -1779,9 +1779,9 @@
                 "VMware"
             ],
             "Containers": [
-                "OpenShift",
+                "Docker",
                 "Kubernetes",
-                "Docker"
+                "OpenShift"
             ],
             "Other": [
                 "CI/CD",
@@ -1856,20 +1856,20 @@
         "ft_reference": "1989206",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Jenkins"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "Containers": [
-                "OpenShift",
-                "Kubernetes"
+                "Kubernetes",
+                "OpenShift"
             ],
             "Other": [
                 "Cloud"
@@ -1906,9 +1906,9 @@
         "ft_reference": "1988793",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "Other": [
                 "Cloud"
@@ -1978,10 +1978,10 @@
                 "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "GCP",
+                "Azure",
                 "Google Cloud Platform",
-                "Azure"
+                "AWS",
+                "GCP"
             ],
             "Automation": [
                 "Airflow"
@@ -1990,8 +1990,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2062,8 +2062,8 @@
                 "AWS"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2100,8 +2100,8 @@
                 "Python"
             ],
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "DevTools": [
                 "Docker",
@@ -2111,19 +2111,19 @@
                 "Linux"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2227,8 +2227,8 @@
         "ft_reference": "1982892",
         "skills": {
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2296,9 +2296,9 @@
         "ft_reference": "1979469",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "DevTools": [
                 "Docker",
@@ -2308,13 +2308,13 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2351,31 +2351,31 @@
                 "Python"
             ],
             "DataSerialization": [
-                "Json",
-                "XML"
+                "XML",
+                "Json"
             ],
             "DevTools": [
                 "Docker"
             ],
             "Automation": [
-                "Puppet",
+                "Ansible",
                 "Kubernetes",
-                "Ansible"
+                "Puppet"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Collaboration": [
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -2479,9 +2479,9 @@
         "ft_reference": "1938869",
         "skills": {
             "CloudComputing": [
+                "Azure",
                 "AWS",
-                "GCP",
-                "Azure"
+                "GCP"
             ],
             "Automation": [
                 "Ansible"
@@ -2490,8 +2490,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2537,8 +2537,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2572,27 +2572,27 @@
         "ft_reference": "1937833",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Bash"
+                "Bash",
+                "Python"
             ],
             "CloudComputing": [
                 "IBM Cloud"
             ],
             "Automation": [
-                "Kubernetes",
-                "Ansible"
+                "Ansible",
+                "Kubernetes"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "OpenShift",
-                "Kubernetes"
+                "Kubernetes",
+                "OpenShift"
             ],
             "Other": [
-                "Cloud",
                 "CI/CD",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -2626,8 +2626,8 @@
         "ft_reference": "1935480",
         "skills": {
             "CloudComputing": [
-                "AWS",
-                "Azure"
+                "Azure",
+                "AWS"
             ],
             "Other": [
                 "Cloud"
@@ -2717,9 +2717,9 @@
                 "Azure"
             ],
             "Automation": [
-                "Puppet",
+                "Ansible",
                 "Chef",
-                "Ansible"
+                "Puppet"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -2874,8 +2874,8 @@
                 "Git"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Other": [
                 "Statistiques",
@@ -2925,15 +2925,15 @@
                 "Docker"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Automation": [
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "EnSoftSkils": [
                 "Communication"

@@ -110,8 +110,8 @@
         "ft_reference": "187QCDM",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -120,8 +120,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques",
@@ -498,8 +498,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -875,8 +875,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -913,19 +913,19 @@
         "ft_reference": "186MZCF",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "DBMS": [
                 "Snowflake"
@@ -1003,14 +1003,14 @@
         "ft_reference": "186HKDX",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
                 "Java",
-                "Scala",
                 "R"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataAnalytics": [
                 "R"
@@ -1034,8 +1034,8 @@
             ],
             "EnSoftSkils": [
                 "Collaboration",
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     },
@@ -1112,8 +1112,8 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "HBase"
+                "HBase",
+                "SQL"
             ],
             "DataAnalytics": [
                 "Pandas"
@@ -1132,8 +1132,8 @@
                 "Azure"
             ],
             "DevTools": [
-                "Git",
-                "Docker"
+                "Docker",
+                "Git"
             ],
             "SoftBigDataProcessing": [
                 "HBase"
@@ -1146,8 +1146,8 @@
             ],
             "Other": [
                 "Big Data",
-                "Machine Learning",
-                "CI/CD"
+                "CI/CD",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -1275,8 +1275,8 @@
                 "Orange"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Big Data",
@@ -1596,15 +1596,15 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Tableau"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DBMS": [
                 "BigQuery"
@@ -1616,9 +1616,9 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
+                "Leadership",
                 "Initiative",
-                "Communication",
-                "Leadership"
+                "Communication"
             ]
         }
     },
@@ -1655,8 +1655,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -1704,8 +1704,8 @@
             ],
             "EnSoftSkils": [
                 "Collaboration",
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     },
@@ -1846,8 +1846,8 @@
                 "Airflow"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Initiative"
@@ -1884,8 +1884,8 @@
         "ft_reference": "1794763",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -1968,8 +1968,8 @@
         "ft_reference": "1785845",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -1978,8 +1978,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -2325,31 +2325,31 @@
         "ft_reference": "1737592",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB",
-                "SQL",
                 "NoSQL",
+                "SQL",
                 "Cassandra"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
             ],
             "Other": [
-                "Big Data",
-                "Machine Learning",
-                "Statistiques",
+                "Cloud",
                 "DevOps",
-                "Cloud"
+                "Big Data",
+                "Statistiques",
+                "Machine Learning"
             ]
         }
     },
@@ -2529,13 +2529,13 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration",
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     },
@@ -2569,8 +2569,8 @@
         "ft_reference": "1705933",
         "skills": {
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Automation": [
                 "Chef"
@@ -2653,15 +2653,15 @@
         "ft_reference": "1705040",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "DataAnalytics": [
-                "NumPy",
                 "R",
+                "NumPy",
                 "Pandas"
             ],
             "BigData": [
@@ -2703,8 +2703,8 @@
         "ft_reference": "1703964",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -2744,8 +2744,8 @@
         "ft_reference": "1693821",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -2754,8 +2754,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "CloudComputing": [
                 "Azure"
@@ -3120,8 +3120,8 @@
         "ft_reference": "1638990",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -3503,8 +3503,8 @@
         "ft_reference": "1604969",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -3550,8 +3550,8 @@
         "ft_reference": "1603147",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -3560,8 +3560,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -3676,8 +3676,8 @@
         "ft_reference": "1591450",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -3947,10 +3947,10 @@
                 "Pandas"
             ],
             "DataVisualisation": [
-                "Seaborn",
                 "Plotly",
                 "Power BI",
-                "Matplotlib"
+                "Matplotlib",
+                "Seaborn"
             ],
             "CloudComputing": [
                 "Azure"
@@ -3962,8 +3962,8 @@
                 "Docker"
             ],
             "Other": [
-                "Statistiques",
                 "DevOps",
+                "Statistiques",
                 "Cloud"
             ]
         }
@@ -3998,8 +3998,8 @@
         "ft_reference": "1563366",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -4008,8 +4008,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -4059,8 +4059,8 @@
                 "Scikit-Learn"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -4239,8 +4239,8 @@
         "ft_reference": "1509154",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -4283,8 +4283,8 @@
                 "SQL"
             ],
             "Other": [
-                "Statistiques",
-                "ML"
+                "ML",
+                "Statistiques"
             ]
         }
     },
@@ -4407,15 +4407,15 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Tableau"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DBMS": [
                 "BigQuery"
@@ -4427,9 +4427,9 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
+                "Leadership",
                 "Initiative",
-                "Communication",
-                "Leadership"
+                "Communication"
             ]
         }
     },
@@ -4543,8 +4543,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -4584,8 +4584,8 @@
         "ft_reference": "1489475",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -4594,8 +4594,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -4718,8 +4718,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -4806,15 +4806,15 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Tableau"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DBMS": [
                 "BigQuery"
@@ -4826,9 +4826,9 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
+                "Leadership",
                 "Initiative",
-                "Communication",
-                "Leadership"
+                "Communication"
             ]
         }
     },
@@ -4862,12 +4862,12 @@
         "ft_reference": "1457016",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataAnalytics": [
                 "R"
@@ -4988,8 +4988,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -5228,22 +5228,22 @@
         "ft_reference": "1419068",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "DataAnalytics": [
-                "NumPy",
                 "R",
+                "NumPy",
                 "Pandas"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Seaborn",
                 "Power BI",
-                "Matplotlib"
+                "Tableau",
+                "Matplotlib",
+                "Seaborn"
             ],
             "DBMS": [
                 "BigQuery",
@@ -5365,21 +5365,21 @@
         "ft_reference": "1415778",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB",
-                "SQL",
                 "NoSQL",
+                "SQL",
                 "Cassandra"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
@@ -5455,8 +5455,8 @@
         "ft_reference": "1394406",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -5970,21 +5970,21 @@
         "ft_reference": "1337516",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB",
-                "SQL",
                 "NoSQL",
+                "SQL",
                 "Cassandra"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
@@ -6277,8 +6277,8 @@
         "ft_reference": "1279324",
         "skills": {
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -6428,8 +6428,8 @@
         "ft_reference": "1239858",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -6438,8 +6438,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -6476,9 +6476,9 @@
         "ft_reference": "1235260",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -6601,8 +6601,8 @@
                 "R"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -6686,8 +6686,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -6836,8 +6836,8 @@
         "ft_reference": "1186999",
         "skills": {
             "Other": [
-                "Statistiques",
-                "ML"
+                "ML",
+                "Statistiques"
             ]
         }
     },
@@ -6871,8 +6871,8 @@
         "ft_reference": "1186257",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -7026,8 +7026,8 @@
         "ft_reference": "1184444",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -7110,12 +7110,12 @@
         "ft_reference": "1173642",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataAnalytics": [
                 "R"
@@ -7344,8 +7344,8 @@
                 "Spark"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -7385,8 +7385,8 @@
         "ft_reference": "1166512",
         "skills": {
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DBMS": [
                 "SQL Server"
@@ -7651,8 +7651,8 @@
         "ft_reference": "1153706",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -7705,8 +7705,8 @@
                 "Spark"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -7783,12 +7783,12 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -7828,8 +7828,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques",
@@ -7913,8 +7913,8 @@
                 "BigQuery"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -7948,8 +7948,8 @@
         "ft_reference": "1117968",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -8085,8 +8085,8 @@
                 "Python"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -8229,8 +8229,8 @@
                 "BigQuery"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -8361,8 +8361,8 @@
         "ft_reference": "1048422",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -8447,8 +8447,8 @@
                 "PostgreSQL"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -8519,8 +8519,8 @@
         "ft_reference": "1045261",
         "skills": {
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ]
         }
     },
@@ -8646,8 +8646,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Collaboration": [
                 "Teams"
@@ -8791,8 +8791,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -8993,8 +8993,8 @@
         "ft_reference": "0982591",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -9046,8 +9046,8 @@
                 "Spark"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -9090,8 +9090,8 @@
                 "Spark"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -9398,8 +9398,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques",
@@ -9552,8 +9552,8 @@
                 "PostgreSQL"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -9651,8 +9651,8 @@
                 "Airflow"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -9689,8 +9689,8 @@
         "ft_reference": "0875190",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -9818,8 +9818,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ]
         }
     },
@@ -9853,8 +9853,8 @@
         "ft_reference": "0873698",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -9977,8 +9977,8 @@
         "ft_reference": "0834159",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -10030,8 +10030,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Collaboration": [
                 "Teams"
@@ -10101,15 +10101,15 @@
         "ft_reference": "0825516",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -10417,8 +10417,8 @@
         "ft_reference": "0743530",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -10774,15 +10774,15 @@
         "ft_reference": "0573621",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "DataAnalytics": [
-                "NumPy",
                 "R",
+                "NumPy",
                 "Pandas"
             ],
             "BigData": [
@@ -10790,8 +10790,8 @@
                 "Hadoop"
             ],
             "DataVisualisation": [
-                "Tableau",
                 "Power BI",
+                "Tableau",
                 "Matplotlib"
             ],
             "CloudComputing": [
@@ -10808,8 +10808,8 @@
             "Other": [
                 "Big Data",
                 "Statistiques",
-                "Cloud",
-                "Machine Learning"
+                "Machine Learning",
+                "Cloud"
             ]
         }
     },
@@ -10843,8 +10843,8 @@
         "ft_reference": "0572341",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -11023,15 +11023,15 @@
         "ft_reference": "0546424",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
             ],
             "DataAnalytics": [
-                "NumPy",
                 "R",
+                "NumPy",
                 "Pandas"
             ],
             "BigData": [
@@ -11039,8 +11039,8 @@
                 "Hadoop"
             ],
             "DataVisualisation": [
-                "Tableau",
                 "Power BI",
+                "Tableau",
                 "Matplotlib"
             ],
             "CloudComputing": [
@@ -11057,8 +11057,8 @@
             "Other": [
                 "Big Data",
                 "Statistiques",
-                "Cloud",
-                "Machine Learning"
+                "Machine Learning",
+                "Cloud"
             ]
         }
     },
@@ -11126,8 +11126,8 @@
         "ft_reference": "0533762",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -11136,9 +11136,9 @@
                 "R"
             ],
             "DataVisualisation": [
+                "Power BI",
                 "Tableau",
-                "Plotly",
-                "Power BI"
+                "Plotly"
             ],
             "CloudComputing": [
                 "Azure"
@@ -11224,9 +11224,9 @@
         "ft_reference": "0532113",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
                 "Java",
-                "Scala",
                 "R"
             ],
             "DataBase": [
@@ -11239,9 +11239,9 @@
                 "Spark"
             ],
             "DataVisualisation": [
+                "Power BI",
                 "Tableau",
-                "Plotly",
-                "Power BI"
+                "Plotly"
             ],
             "Other": [
                 "Statistiques",
@@ -11407,8 +11407,8 @@
         "ft_reference": "0509169",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -11591,8 +11591,8 @@
         "ft_reference": "0406280",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -11601,8 +11601,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "CloudComputing": [
                 "Azure"
@@ -12011,8 +12011,8 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Tableau"
@@ -12092,8 +12092,8 @@
                 "Tableau"
             ],
             "CloudComputing": [
-                "Google Cloud Platform",
-                "AWS"
+                "AWS",
+                "Google Cloud Platform"
             ],
             "DBMS": [
                 "BigQuery"
@@ -12139,8 +12139,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "DBMS": [
                 "SQL Server"
@@ -12453,8 +12453,8 @@
                 "PostgreSQL"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -12617,8 +12617,8 @@
         "ft_reference": "9896655",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -12627,8 +12627,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -12721,10 +12721,10 @@
                 "Pandas"
             ],
             "DataVisualisation": [
-                "Seaborn",
                 "Plotly",
                 "Power BI",
-                "Matplotlib"
+                "Matplotlib",
+                "Seaborn"
             ],
             "CloudComputing": [
                 "Azure"
@@ -12736,8 +12736,8 @@
                 "Docker"
             ],
             "Other": [
-                "Statistiques",
                 "DevOps",
+                "Statistiques",
                 "Cloud"
             ]
         }
@@ -12772,8 +12772,8 @@
         "ft_reference": "9681910",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -12782,8 +12782,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -12927,8 +12927,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Automation": [
                 "Chef"
@@ -13105,8 +13105,8 @@
         "ft_reference": "9502658",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -13208,8 +13208,8 @@
                 "Power BI"
             ],
             "OS": [
-                "Linux",
-                "Windows"
+                "Windows",
+                "Linux"
             ],
             "DBMS": [
                 "Snowflake"
@@ -13476,8 +13476,8 @@
         "ft_reference": "8913869",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -13486,8 +13486,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "DevOps",
@@ -13525,8 +13525,8 @@
         "ft_reference": "8862351",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
@@ -13630,8 +13630,8 @@
         "ft_reference": "8697535",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -13689,8 +13689,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "CloudComputing": [
                 "GCP",
@@ -13698,8 +13698,8 @@
                 "AWS"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -13733,15 +13733,15 @@
         "ft_reference": "8281813",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -13778,8 +13778,8 @@
         "ft_reference": "8278223",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -13828,8 +13828,8 @@
         "ft_reference": "8278132",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -13880,8 +13880,8 @@
         "ft_reference": "8258086",
         "skills": {
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Tableau"
@@ -14002,9 +14002,9 @@
         "ft_reference": "8224526",
         "skills": {
             "ProgLanguage": [
+                "R",
                 "Python",
-                "Java",
-                "R"
+                "Java"
             ],
             "DataAnalytics": [
                 "R"
@@ -14163,8 +14163,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "DBMS": [
                 "Snowflake"
@@ -14300,10 +14300,10 @@
                 "Git"
             ],
             "Other": [
-                "Statistiques",
                 "DevOps",
-                "Cloud",
-                "CI/CD"
+                "Statistiques",
+                "CI/CD",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -14340,8 +14340,8 @@
         "ft_reference": "8175338",
         "skills": {
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -14476,8 +14476,8 @@
                 "Azure"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -14582,8 +14582,8 @@
         "ft_reference": "8122974",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -14592,8 +14592,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Other": [
                 "Statistiques"
@@ -14633,8 +14633,8 @@
         "ft_reference": "8121678",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     },
@@ -14668,8 +14668,8 @@
         "ft_reference": "8112882",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -14718,8 +14718,8 @@
         "ft_reference": "8112881",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -14942,8 +14942,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "CloudComputing": [
                 "GCP"
@@ -15026,8 +15026,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ]
         }
     },
@@ -15188,8 +15188,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "CloudComputing": [
                 "GCP",
@@ -15366,8 +15366,8 @@
         "ft_reference": "7992644",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -15386,9 +15386,9 @@
                 "Jenkins"
             ],
             "Automation": [
-                "Airflow",
                 "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Airflow"
             ],
             "Containers": [
                 "Kubernetes"
@@ -15508,8 +15508,8 @@
         "ft_reference": "7865734",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -15597,8 +15597,8 @@
         "ft_reference": "7536488",
         "skills": {
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ]
         }
     },
@@ -15783,8 +15783,8 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "DataVisualisation": [
                 "Power BI"
@@ -15901,9 +15901,9 @@
                 "JIRA"
             ],
             "Other": [
-                "Big Data",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -15940,9 +15940,9 @@
         "ft_reference": "1741298",
         "skills": {
             "Other": [
-                "Big Data",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -16000,8 +16000,8 @@
                 "Chef"
             ],
             "Other": [
-                "Statistiques",
                 "DevOps",
+                "Statistiques",
                 "CI/CD"
             ]
         }
@@ -16036,8 +16036,8 @@
         "ft_reference": "1702759",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -16086,8 +16086,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -16229,8 +16229,8 @@
                 "Snowflake"
             ],
             "Other": [
-                "Statistiques",
                 "Cloud",
+                "Statistiques",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -16271,9 +16271,9 @@
                 "JIRA"
             ],
             "Other": [
-                "Big Data",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -16331,9 +16331,9 @@
                 "JIRA"
             ],
             "Other": [
-                "Big Data",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ]
         }
     },
@@ -16367,13 +16367,13 @@
         "ft_reference": "1220186",
         "skills": {
             "Collaboration": [
-                "Teams",
-                "JIRA"
+                "JIRA",
+                "Teams"
             ],
             "Other": [
-                "Big Data",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "Big Data"
             ]
         }
     },
@@ -16457,8 +16457,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "Automation": [
                 "Chef"
@@ -16467,8 +16467,8 @@
                 "JIRA"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     },
@@ -16637,8 +16637,8 @@
         "ft_reference": "1776553",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -16647,8 +16647,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -16818,9 +16818,9 @@
         "ft_reference": "1740972",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -16829,8 +16829,8 @@
                 "Spark"
             ],
             "DevTools": [
-                "Git",
-                "Docker"
+                "Docker",
+                "Git"
             ],
             "DBMS": [
                 "SQL Server",
@@ -16838,19 +16838,19 @@
             ],
             "Automation": [
                 "Kubernetes",
+                "Puppet",
                 "Airflow",
-                "Chef",
                 "Ansible",
-                "Puppet"
+                "Chef"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Big Data",
                 "DevOps",
                 "Cloud",
+                "Big Data",
                 "CI/CD"
             ]
         }
@@ -16945,8 +16945,8 @@
         "ft_reference": "1709002",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -16955,8 +16955,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -17117,13 +17117,13 @@
         "ft_reference": "1652548",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "BigData": [
                 "Spark",
@@ -17193,9 +17193,9 @@
                 "Azure"
             ],
             "Other": [
-                "CI/CD",
                 "DevOps",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -17263,8 +17263,8 @@
         "ft_reference": "1603388",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -17273,8 +17273,8 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -17348,9 +17348,9 @@
         "ft_reference": "1548341",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
                 "Java",
-                "Scala",
                 "R"
             ],
             "DataBase": [
@@ -17360,8 +17360,8 @@
                 "R"
             ],
             "BigData": [
-                "Spark",
-                "Flink"
+                "Flink",
+                "Spark"
             ],
             "DataVisualisation": [
                 "Tableau"
@@ -17374,8 +17374,8 @@
                 "PostgreSQL"
             ],
             "Automation": [
-                "Chef",
-                "Kubernetes"
+                "Kubernetes",
+                "Chef"
             ],
             "Containers": [
                 "Kubernetes"
@@ -17455,8 +17455,8 @@
         "ft_reference": "1299691",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -17502,8 +17502,8 @@
         "ft_reference": "1281354",
         "skills": {
             "ProgLanguage": [
-                "Bash",
-                "Python"
+                "Python",
+                "Bash"
             ],
             "DataBase": [
                 "SQL"
@@ -17563,8 +17563,8 @@
         "ft_reference": "1280916",
         "skills": {
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -17672,9 +17672,9 @@
         "ft_reference": "1164057",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "Java",
-                "Scala"
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -17725,8 +17725,8 @@
         "ft_reference": "1124042",
         "skills": {
             "EnSoftSkils": [
-                "Initiative",
-                "Leadership"
+                "Leadership",
+                "Initiative"
             ]
         }
     },
@@ -17761,8 +17761,8 @@
         "skills": {
             "EnSoftSkils": [
                 "Collaboration",
-                "Initiative",
-                "Leadership"
+                "Leadership",
+                "Initiative"
             ]
         }
     },
@@ -18304,8 +18304,8 @@
         "ft_reference": "9089512",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -18352,8 +18352,8 @@
         "ft_reference": "8772001",
         "skills": {
             "DataBase": [
-                "SQL",
-                "NoSQL"
+                "NoSQL",
+                "SQL"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -18390,8 +18390,8 @@
         "ft_reference": "8387269",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "R"
+                "R",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -18452,8 +18452,8 @@
                 "Airflow"
             ],
             "Other": [
-                "CI/CD",
                 "Cloud",
+                "CI/CD",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -18491,9 +18491,9 @@
         "ft_reference": "7962530",
         "skills": {
             "ProgLanguage": [
+                "Scala",
                 "Python",
-                "R",
-                "Scala"
+                "R"
             ],
             "DataAnalytics": [
                 "R"
@@ -18721,8 +18721,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI"
+                "Power BI",
+                "Tableau"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -19165,8 +19165,8 @@
         "ft_reference": "6874851",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
-                "Leadership"
+                "Leadership",
+                "Communication"
             ]
         }
     }

@@ -32,8 +32,8 @@
                 "Azure"
             ],
             "NetworkSecurty": [
-                "Firewall",
-                "VPN"
+                "VPN",
+                "Firewall"
             ],
             "Other": [
                 "Cloud"
@@ -74,8 +74,8 @@
         "ft_reference": "2008519",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Automation": [
                 "Kubernetes"
@@ -130,8 +130,8 @@
                 "Terraform"
             ],
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Collaboration"

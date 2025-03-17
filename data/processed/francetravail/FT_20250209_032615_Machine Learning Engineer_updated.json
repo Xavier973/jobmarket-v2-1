@@ -41,8 +41,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "Machine Learning"
@@ -94,17 +94,17 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "ML",
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Communication"
+                "Communication",
+                "Leadership"
             ]
         }
     },
@@ -153,17 +153,17 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "ML",
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Communication"
+                "Communication",
+                "Leadership"
             ]
         }
     }
