@@ -29,8 +29,8 @@
         "ft_reference": "1938924",
         "skills": {
             "ProgLanguage": [
-                "Scala",
-                "Bash"
+                "Bash",
+                "Scala"
             ],
             "BigData": [
                 "Hadoop",
@@ -43,9 +43,9 @@
                 "JIRA"
             ],
             "Other": [
-                "DevOps",
+                "CI/CD",
                 "Big Data",
-                "CI/CD"
+                "DevOps"
             ]
         }
     },
@@ -94,8 +94,8 @@
                 "Snowflake"
             ],
             "Other": [
-                "DevOps",
-                "CI/CD"
+                "CI/CD",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Initiative"
@@ -188,13 +188,13 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Big Data",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -269,12 +269,12 @@
         "ft_reference": "1980957",
         "skills": {
             "ProgLanguage": [
-                "Scala",
-                "Java"
+                "Java",
+                "Scala"
             ],
             "BigData": [
-                "Databricks",
-                "Spark"
+                "Spark",
+                "Databricks"
             ],
             "DBMS": [
                 "Snowflake"
@@ -418,8 +418,8 @@
                 "Json"
             ],
             "DevTools": [
-                "Jenkins",
-                "Git"
+                "Git",
+                "Jenkins"
             ],
             "OS": [
                 "Linux"
@@ -547,9 +547,9 @@
                 "Azure"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "ML",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -583,8 +583,8 @@
         "ft_reference": "1983450",
         "skills": {
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -652,8 +652,8 @@
         "ft_reference": "1982709",
         "skills": {
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },

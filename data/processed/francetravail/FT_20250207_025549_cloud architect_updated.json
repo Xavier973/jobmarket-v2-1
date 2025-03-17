@@ -35,8 +35,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -104,13 +104,13 @@
         "ft_reference": "1873528",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -224,13 +224,13 @@
         "ft_reference": "1871397",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -267,13 +267,13 @@
                 "Java"
             ],
             "DataBase": [
-                "NoSQL",
-                "SQL"
+                "SQL",
+                "NoSQL"
             ],
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
@@ -286,8 +286,8 @@
                 "Docker"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -324,9 +324,9 @@
         "ft_reference": "1865311",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "Other": [
                 "Cloud"
@@ -430,8 +430,8 @@
         "ft_reference": "1860683",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Automation": [
                 "Kubernetes"
@@ -440,8 +440,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -475,9 +475,9 @@
         "ft_reference": "1855917",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ]
         }
     },
@@ -584,9 +584,9 @@
                 "R"
             ],
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "Other": [
                 "Cloud"
@@ -774,8 +774,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -913,12 +913,12 @@
         "ft_reference": "1851959",
         "skills": {
             "CloudComputing": [
-                "Azure",
-                "AWS"
+                "AWS",
+                "Azure"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
@@ -930,8 +930,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1005,8 +1005,8 @@
                 "Linux"
             ],
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -1040,12 +1040,12 @@
         "ft_reference": "1845614",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -1079,29 +1079,29 @@
         "ft_reference": "1834306",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Containers": [
                 "Kubernetes",
                 "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "CI/CD",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -1135,29 +1135,29 @@
         "ft_reference": "1833916",
         "skills": {
             "CloudComputing": [
-                "GCP",
+                "AWS",
                 "Azure",
-                "AWS"
+                "GCP"
             ],
             "DevTools": [
                 "Docker"
             ],
             "Automation": [
-                "Ansible",
-                "Kubernetes"
+                "Kubernetes",
+                "Ansible"
             ],
             "InfrastructureAsCode": [
-                "CloudFormation",
-                "Terraform"
+                "Terraform",
+                "CloudFormation"
             ],
             "Containers": [
                 "Kubernetes",
                 "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "CI/CD",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -1191,15 +1191,15 @@
         "ft_reference": "1827138",
         "skills": {
             "CloudComputing": [
-                "GCP",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"

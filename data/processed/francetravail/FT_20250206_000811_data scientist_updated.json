@@ -83,8 +83,8 @@
                 "R"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "OS": [
                 "Linux"
@@ -140,17 +140,17 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Seaborn",
-                "Matplotlib"
+                "Matplotlib",
+                "Seaborn"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
-                "Machine Learning",
-                "Big Data"
+                "Machine Learning"
             ]
         }
     },
@@ -197,8 +197,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Machine Learning"
@@ -286,12 +286,12 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -351,12 +351,12 @@
                 "Terraform"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -396,8 +396,8 @@
                 "AWS"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -444,8 +444,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -485,8 +485,8 @@
                 "Azure"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -604,9 +604,9 @@
                 "Spark"
             ],
             "Other": [
+                "Big Data",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -640,8 +640,8 @@
         "ft_reference": "1802867",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "SQL"
@@ -655,10 +655,10 @@
                 "Hadoop"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
                 "Keras",
-                "Scikit-Learn",
-                "PyTorch"
+                "Scikit-Learn"
             ],
             "Other": [
                 "Statistiques"
@@ -705,17 +705,17 @@
                 "PyTorch"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
+                "CI/CD",
+                "DevOps",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "DevOps",
-                "Machine Learning",
-                "Statistiques",
-                "CI/CD"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -822,16 +822,16 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Machine Learning",
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -919,9 +919,9 @@
                 "Spark"
             ],
             "Other": [
+                "Big Data",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1030,16 +1030,16 @@
         "ft_reference": "1716017",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -1125,8 +1125,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -1214,24 +1214,24 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Seaborn",
                 "Matplotlib",
-                "Tableau"
+                "Seaborn",
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Statistiques",
-                "Cloud"
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1268,21 +1268,21 @@
         "ft_reference": "1651577",
         "skills": {
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "CloudComputing": [
-                "AWS",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "AWS"
             ],
             "DevTools": [
                 "Git"
             ],
             "Other": [
-                "CI/CD",
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning",
+                "CI/CD"
             ]
         }
     },
@@ -1332,10 +1332,10 @@
                 "Azure"
             ],
             "Other": [
-                "DevOps",
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning",
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -1375,14 +1375,14 @@
                 "Python"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -1462,20 +1462,20 @@
         "ft_reference": "1609388",
         "skills": {
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "CloudComputing": [
-                "AWS",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "AWS"
             ],
             "DevTools": [
                 "Git"
             ],
             "Other": [
-                "CI/CD",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ]
         }
     },
@@ -1590,16 +1590,16 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "Other": [
                 "Machine Learning",
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1646,12 +1646,12 @@
                 "TensorFlow"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1700,18 +1700,18 @@
                 "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Seaborn",
+                "Matplotlib",
                 "Plotly",
-                "Matplotlib"
+                "Seaborn"
             ],
             "CloudComputing": [
                 "AWS",
                 "Azure"
             ],
             "DevTools": [
-                "Docker",
+                "Jenkins",
                 "Git",
-                "Jenkins"
+                "Docker"
             ],
             "DBMS": [
                 "PostgreSQL"
@@ -1720,16 +1720,16 @@
                 "Docker"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1769,10 +1769,10 @@
                 "SQL"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1822,11 +1822,11 @@
                 "Azure"
             ],
             "Other": [
+                "DevOps",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "DevOps",
-                "Machine Learning",
-                "Statistiques"
+                "Machine Learning"
             ]
         }
     },
@@ -1867,22 +1867,22 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Git"
             ],
             "Other": [
-                "CI/CD",
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning",
+                "CI/CD"
             ]
         }
     },
@@ -1928,8 +1928,8 @@
                 "PostgreSQL"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ]
         }
     },
@@ -1976,25 +1976,25 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DBMS": [
                 "Snowflake"
             ],
             "Other": [
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Leadership"
@@ -2048,12 +2048,12 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -2093,12 +2093,12 @@
                 "SQL"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -2178,8 +2178,8 @@
                 "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Initiative"
+                "Initiative",
+                "Communication"
             ]
         }
     },
@@ -2247,8 +2247,8 @@
         "ft_reference": "1512304",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -2282,8 +2282,8 @@
         "ft_reference": "1511991",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -2478,17 +2478,17 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Seaborn",
-                "Matplotlib"
+                "Matplotlib",
+                "Seaborn"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
-                "Machine Learning",
-                "Big Data"
+                "Machine Learning"
             ]
         }
     },
@@ -2525,8 +2525,8 @@
                 "BigQuery"
             ],
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ]
         }
     },
@@ -2560,10 +2560,10 @@
         "ft_reference": "1482070",
         "skills": {
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -2605,8 +2605,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "Azure"
@@ -2615,8 +2615,8 @@
                 "Git"
             ],
             "Other": [
-                "DevOps",
                 "Machine Learning",
+                "DevOps",
                 "Statistiques"
             ]
         }
@@ -2651,8 +2651,8 @@
         "ft_reference": "1480816",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -2663,13 +2663,13 @@
                 "R"
             ],
             "Other": [
+                "Big Data",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -2752,16 +2752,16 @@
         "ft_reference": "1479652",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -2804,10 +2804,10 @@
                 "SQL"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -2859,18 +2859,18 @@
                 "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Seaborn",
+                "Matplotlib",
                 "Plotly",
-                "Matplotlib"
+                "Seaborn"
             ],
             "CloudComputing": [
                 "AWS",
                 "Azure"
             ],
             "DevTools": [
-                "Docker",
+                "Jenkins",
                 "Git",
-                "Jenkins"
+                "Docker"
             ],
             "DBMS": [
                 "PostgreSQL"
@@ -2879,16 +2879,16 @@
                 "Docker"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -2929,12 +2929,12 @@
                 "NoSQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -3014,18 +3014,18 @@
                 "Spark"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
                 "Collaboration",
+                "Communication",
                 "Leadership"
             ]
         }
@@ -3177,16 +3177,16 @@
         "ft_reference": "1414591",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -3453,8 +3453,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "GCP"
@@ -3515,13 +3515,13 @@
                 "PostgreSQL"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
+                "Big Data",
                 "CI/CD",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -3721,13 +3721,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -3736,12 +3736,12 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -3788,13 +3788,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -3803,12 +3803,12 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -3854,8 +3854,8 @@
                 "PostgreSQL"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
                 "CI/CD",
@@ -3899,16 +3899,16 @@
                 "SQL"
             ],
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "MachineLearning": [
                 "TensorFlow",
                 "PyTorch"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "AWS"
@@ -3917,9 +3917,9 @@
                 "Apache Kafka"
             ],
             "Other": [
+                "Big Data",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -4030,8 +4030,8 @@
                 "SQL"
             ],
             "BigData": [
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "MachineLearning": [
                 "TensorFlow",
@@ -4159,9 +4159,9 @@
                 "Azure"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -4241,9 +4241,9 @@
         "ft_reference": "1167462",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Scala",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "HBase",
@@ -4303,8 +4303,8 @@
                 "Pandas"
             ],
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -4350,9 +4350,9 @@
                 "AWS"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -4403,8 +4403,8 @@
                 "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "GCP",
@@ -4414,9 +4414,9 @@
                 "BigQuery"
             ],
             "Other": [
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -4549,13 +4549,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -4564,12 +4564,12 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -4616,13 +4616,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -4631,12 +4631,12 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -4683,13 +4683,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -4698,12 +4698,12 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -4743,8 +4743,8 @@
                 "R"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Initiative"
+                "Initiative",
+                "Leadership"
             ]
         }
     },
@@ -4790,9 +4790,9 @@
                 "Git"
             ],
             "Other": [
-                "DevOps",
+                "Big Data",
                 "Machine Learning",
-                "Big Data"
+                "DevOps"
             ]
         }
     },
@@ -4912,8 +4912,8 @@
         "ft_reference": "1038148",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -4957,9 +4957,9 @@
         "ft_reference": "1008078",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Scala",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
@@ -4969,9 +4969,9 @@
                 "TensorFlow"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -4981,15 +4981,15 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
                 "OpenShift",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "CI/CD",
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -5026,8 +5026,8 @@
         "ft_reference": "0980419",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
@@ -5037,8 +5037,8 @@
                 "Spark"
             ],
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Initiative"
@@ -5084,8 +5084,8 @@
                 "Git"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -5217,8 +5217,8 @@
                 "Big Query"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ]
         }
     },
@@ -5258,19 +5258,19 @@
                 "SQL"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Automation": [
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ]
         }
     },
@@ -5343,8 +5343,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DevTools": [
                 "Docker"
@@ -5353,8 +5353,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "CI/CD",
@@ -5484,8 +5484,8 @@
                 "SQL"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS"
@@ -5586,11 +5586,11 @@
                 "Azure"
             ],
             "Other": [
+                "Big Data",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "Machine Learning",
-                "Big Data",
-                "Statistiques"
+                "Machine Learning"
             ]
         }
     },
@@ -5667,9 +5667,9 @@
                 "Python"
             ],
             "Other": [
+                "Big Data",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -5796,8 +5796,8 @@
                 "AWS"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "OS": [
                 "Linux"
@@ -5806,14 +5806,14 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "DevOps",
+                "Statistiques"
             ]
         }
     },
@@ -5850,8 +5850,8 @@
                 "Python"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Containers": [
                 "Docker"
@@ -5935,8 +5935,8 @@
                 "AWS"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "OS": [
                 "Linux"
@@ -5945,14 +5945,14 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "DevOps",
+                "Statistiques"
             ]
         }
     },
@@ -6441,8 +6441,8 @@
                 "SQL"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS"
@@ -6579,8 +6579,8 @@
         "ft_reference": "0675507",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -6595,9 +6595,9 @@
                 "Hadoop"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "SoftBigDataProcessing": [
                 "Apache Kafka"
@@ -6648,9 +6648,9 @@
                 "R"
             ],
             "Other": [
-                "DevOps",
+                "ML",
                 "Machine Learning",
-                "ML"
+                "DevOps"
             ]
         }
     },
@@ -6694,9 +6694,9 @@
                 "AWS"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -6783,9 +6783,9 @@
                 "AWS"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -6832,18 +6832,18 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DBMS": [
+                "SQL Server",
                 "MySQL",
-                "PostgreSQL",
-                "SQL Server"
+                "PostgreSQL"
             ],
             "Other": [
                 "Cloud"
@@ -6890,18 +6890,18 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DBMS": [
+                "SQL Server",
                 "MySQL",
-                "PostgreSQL",
-                "SQL Server"
+                "PostgreSQL"
             ],
             "Other": [
                 "Cloud"
@@ -7003,11 +7003,11 @@
                 "Git"
             ],
             "Other": [
+                "CI/CD",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "Machine Learning",
-                "Statistiques",
-                "CI/CD"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -7051,12 +7051,12 @@
                 "Pandas"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Containers": [
                 "Docker"
@@ -7127,8 +7127,8 @@
         "ft_reference": "0481575",
         "skills": {
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ]
         }
     },
@@ -7289,8 +7289,8 @@
                 "R"
             ],
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Leadership"
@@ -7385,9 +7385,9 @@
                 "Git"
             ],
             "Other": [
-                "DevOps",
+                "Big Data",
                 "Machine Learning",
-                "Big Data"
+                "DevOps"
             ]
         }
     },
@@ -7605,29 +7605,29 @@
                 "Hadoop"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Automation": [
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
+                "Big Data",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "Machine Learning",
-                "Big Data",
-                "Statistiques"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -7681,20 +7681,20 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Tableau",
-                "Power BI",
-                "Seaborn",
                 "Plotly",
-                "Matplotlib"
+                "Tableau",
+                "Matplotlib",
+                "Seaborn",
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Git"
@@ -7704,10 +7704,10 @@
                 "PostgreSQL"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -8079,8 +8079,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "Azure"
@@ -8089,15 +8089,15 @@
                 "Git"
             ],
             "Other": [
-                "Cloud",
-                "DevOps",
                 "Big Data",
-                "Statistiques",
-                "CI/CD"
+                "CI/CD",
+                "DevOps",
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -8242,8 +8242,8 @@
         "ft_reference": "9818171",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "MongoDB"
@@ -8254,8 +8254,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "XGBoost",
-                "PyTorch"
+                "PyTorch",
+                "XGBoost"
             ],
             "DevTools": [
                 "Git"
@@ -8268,8 +8268,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -8390,16 +8390,16 @@
         "ft_reference": "9280641",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
                 "R"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -8449,8 +8449,8 @@
                 "Spark"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ]
         }
     },
@@ -8535,8 +8535,8 @@
                 "R"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ]
         }
     },
@@ -8704,16 +8704,16 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -8750,9 +8750,9 @@
         "ft_reference": "8678450",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Scala",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "HBase",
@@ -8823,9 +8823,9 @@
                 "Azure"
             ],
             "DevTools": [
-                "Docker",
+                "Jenkins",
                 "Git",
-                "Jenkins"
+                "Docker"
             ],
             "Containers": [
                 "Docker"
@@ -8834,11 +8834,11 @@
                 "Teams"
             ],
             "Other": [
-                "ML",
-                "DevOps",
-                "Machine Learning",
                 "Big Data",
-                "Statistiques"
+                "DevOps",
+                "Statistiques",
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -8939,10 +8939,10 @@
                 "Statistiques Descriptives"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -8993,10 +8993,10 @@
                 "Statistiques Descriptives"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -9047,10 +9047,10 @@
                 "Teams"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -9101,12 +9101,12 @@
                 "Spark"
             ],
             "Other": [
+                "Big Data",
+                "DevOps",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "DevOps",
-                "Machine Learning",
-                "Big Data",
-                "Statistiques"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -9192,8 +9192,8 @@
                 "Scikit-Learn"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -9237,8 +9237,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Leadership",
-                "Initiative"
+                "Initiative",
+                "Leadership"
             ]
         }
     },
@@ -9282,9 +9282,9 @@
                 "AWS"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -9439,8 +9439,8 @@
         "ft_reference": "8112559",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
@@ -9448,13 +9448,13 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "Orange"
+                "Orange",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -9463,10 +9463,10 @@
                 "Docker"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Initiative"
@@ -9503,8 +9503,8 @@
         "ft_reference": "8108236",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Scala",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -9521,8 +9521,8 @@
             ],
             "MachineLearning": [
                 "LightGBM",
-                "XGBoost",
-                "Scikit-Learn"
+                "Scikit-Learn",
+                "XGBoost"
             ],
             "DevTools": [
                 "Docker"
@@ -9534,12 +9534,12 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "ML",
-                "Big Data"
+                "Big Data",
+                "ML"
             ]
         }
     },
@@ -9729,8 +9729,8 @@
         "ft_reference": "8046212",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Scala",
+                "Python",
                 "R"
             ],
             "DataAnalytics": [
@@ -9738,15 +9738,15 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "Other": [
                 "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -9789,18 +9789,18 @@
                 "Spark"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
                 "Collaboration",
+                "Communication",
                 "Leadership"
             ]
         }
@@ -9841,8 +9841,8 @@
                 "SQL"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS"
@@ -9968,21 +9968,21 @@
                 "Pandas"
             ],
             "MachineLearning": [
-                "XGBoost",
-                "Keras",
                 "TensorFlow",
+                "PyTorch",
+                "Keras",
                 "Scikit-Learn",
-                "PyTorch"
+                "XGBoost"
             ],
             "DataVisualisation": [
-                "Power BI",
+                "Matplotlib",
                 "Seaborn",
-                "Matplotlib"
+                "Power BI"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -9991,9 +9991,9 @@
                 "Docker"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Leadership"
@@ -10030,8 +10030,8 @@
         "ft_reference": "6424960",
         "skills": {
             "EnSoftSkils": [
-                "Leadership",
-                "Initiative"
+                "Initiative",
+                "Leadership"
             ]
         }
     },
@@ -10068,14 +10068,14 @@
                 "Python"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Other": [
                 "Cloud"
@@ -10118,8 +10118,8 @@
                 "AWS"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -10210,21 +10210,21 @@
                 "R"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Containers": [
                 "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Machine Learning",
-                "Cloud"
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -10261,8 +10261,8 @@
         "ft_reference": "1699566",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "SQL",
@@ -10273,14 +10273,14 @@
                 "Hadoop"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ]
         }
     },
@@ -10358,8 +10358,8 @@
                 "R"
             ],
             "CloudComputing": [
-                "AWS",
-                "GCP"
+                "GCP",
+                "AWS"
             ],
             "Other": [
                 "Cloud"
@@ -10433,8 +10433,8 @@
         "ft_reference": "0442933",
         "skills": {
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -10471,8 +10471,8 @@
         "ft_reference": "0406753",
         "skills": {
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -10516,8 +10516,8 @@
                 "R"
             ],
             "CloudComputing": [
-                "AWS",
-                "GCP"
+                "GCP",
+                "AWS"
             ],
             "Other": [
                 "Cloud"
@@ -10618,9 +10618,9 @@
         "ft_reference": "1705470",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
+                "Initiative",
                 "Collaboration",
-                "Initiative"
+                "Communication"
             ]
         }
     },
@@ -10691,8 +10691,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -10820,8 +10820,8 @@
         "ft_reference": "1606321",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -10969,8 +10969,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "DBMS": [
                 "SQL Server"
@@ -11016,8 +11016,8 @@
                 "Big Data"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -11143,12 +11143,12 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -11195,9 +11195,9 @@
                 "PyTorch"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -11206,8 +11206,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Cloud"
@@ -11247,8 +11247,8 @@
         "ft_reference": "1458318",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -11316,8 +11316,8 @@
         "ft_reference": "1389980",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -11361,13 +11361,13 @@
                 "BigQuery"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
+                "Initiative",
                 "Collaboration",
-                "Initiative"
+                "Communication"
             ]
         }
     },
@@ -11546,8 +11546,8 @@
         "ft_reference": "1269433",
         "skills": {
             "Other": [
-                "Statistiques",
-                "Big Data"
+                "Big Data",
+                "Statistiques"
             ]
         }
     },
@@ -11719,8 +11719,8 @@
         "ft_reference": "1169148",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -11761,17 +11761,17 @@
                 "Keras"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DBMS": [
                 "MySQL",
                 "PostgreSQL"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -11808,8 +11808,8 @@
         "ft_reference": "1132238",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -11850,8 +11850,8 @@
                 "NoSQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -11888,8 +11888,8 @@
         "ft_reference": "1127136",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Scala"
+                "Scala",
+                "Python"
             ],
             "DataBase": [
                 "NoSQL"
@@ -11933,8 +11933,8 @@
         "ft_reference": "1041985",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -11968,8 +11968,8 @@
         "ft_reference": "1041393",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -12009,8 +12009,8 @@
                 "JIRA"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -12107,8 +12107,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Statistiques"
@@ -12160,8 +12160,8 @@
                 "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -12242,27 +12242,27 @@
                 "Databricks"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
-                "Docker",
-                "Git"
+                "Git",
+                "Docker"
             ],
             "Automation": [
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
+                "DevOps",
+                "Statistiques",
                 "ML",
                 "Cloud",
-                "DevOps",
-                "Machine Learning",
-                "Statistiques"
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -12369,8 +12369,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Statistiques"
@@ -12432,8 +12432,8 @@
                 "Kubernetes"
             ],
             "Other": [
-                "DevOps",
-                "Machine Learning"
+                "Machine Learning",
+                "DevOps"
             ]
         }
     },
@@ -12549,15 +12549,15 @@
                 "Snowflake"
             ],
             "Other": [
+                "Cloud",
                 "DevOps",
-                "CI/CD",
-                "Cloud"
+                "CI/CD"
             ],
             "EnSoftSkils": [
-                "Communication",
+                "Initiative",
                 "Collaboration",
-                "Leadership",
-                "Initiative"
+                "Communication",
+                "Leadership"
             ]
         }
     },
@@ -12667,8 +12667,8 @@
                 "Snowflake"
             ],
             "EnSoftSkils": [
-                "Collaboration",
-                "Initiative"
+                "Initiative",
+                "Collaboration"
             ]
         }
     },
@@ -12715,10 +12715,10 @@
                 "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Seaborn",
+                "Matplotlib",
                 "Plotly",
-                "Matplotlib"
+                "Seaborn",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -12728,9 +12728,9 @@
                 "Snowflake"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Statistiques",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -12832,8 +12832,8 @@
         "ft_reference": "9602345",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
                 "Collaboration",
+                "Communication",
                 "Leadership"
             ]
         }
@@ -13209,17 +13209,17 @@
         "ft_reference": "7703932",
         "skills": {
             "ProgLanguage": [
-                "Python",
-                "Java"
+                "Java",
+                "Python"
             ],
             "DataBase": [
                 "SQL",
                 "NoSQL"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -13234,13 +13234,13 @@
                 "Terraform"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Machine Learning",
-                "Cloud"
+                "DevOps"
             ]
         }
     },
@@ -13274,8 +13274,8 @@
         "ft_reference": "7536488",
         "skills": {
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ]
         }
     },
@@ -13339,10 +13339,10 @@
         "ft_reference": "7526359",
         "skills": {
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Big Data"
+                "Statistiques"
             ]
         }
     },
@@ -13440,8 +13440,8 @@
         "ft_reference": "6431254",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "Big Data"
+                "Big Data",
+                "Machine Learning"
             ]
         }
     },
@@ -13593,9 +13593,9 @@
                 "Elasticsearch"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -13611,15 +13611,15 @@
                 "Terraform"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
+                "CI/CD",
+                "DevOps",
                 "ML",
                 "Cloud",
-                "DevOps",
-                "Machine Learning",
-                "CI/CD"
+                "Machine Learning"
             ]
         }
     },
@@ -13653,8 +13653,8 @@
         "ft_reference": "1782762",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -13993,8 +13993,8 @@
         "ft_reference": "1676837",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Julia",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -14006,23 +14006,23 @@
                 "Pandas"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
                 "Keras",
-                "Scikit-Learn",
-                "PyTorch"
+                "Scikit-Learn"
             ],
             "CloudComputing": [
                 "AWS",
                 "Azure"
             ],
             "Other": [
+                "Cloud",
                 "Machine Learning",
-                "Statistiques",
-                "Cloud"
+                "Statistiques"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -14275,8 +14275,8 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DevTools": [
                 "Git"
@@ -14575,13 +14575,13 @@
                 "Spark"
             ],
             "MachineLearning": [
+                "PyTorch",
                 "TensorFlow",
-                "Keras",
-                "PyTorch"
+                "Keras"
             ],
             "DataVisualisation": [
-                "Plotly",
-                "Matplotlib"
+                "Matplotlib",
+                "Plotly"
             ],
             "DevTools": [
                 "Docker"
@@ -14590,15 +14590,15 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -14653,12 +14653,12 @@
                 "Docker"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -14765,8 +14765,8 @@
                 "AWS"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -14806,8 +14806,8 @@
                 "AWS"
             ],
             "Other": [
-                "CI/CD",
-                "Cloud"
+                "Cloud",
+                "CI/CD"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -14856,8 +14856,8 @@
                 "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
                 "Collaboration",
+                "Communication",
                 "Leadership"
             ]
         }
@@ -15043,8 +15043,8 @@
                 "R"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DevTools": [
                 "Docker"
@@ -15057,8 +15057,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "DevOps"
@@ -15101,8 +15101,8 @@
                 "Chef"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -15142,8 +15142,8 @@
                 "Chef"
             ],
             "Other": [
-                "Machine Learning",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -15244,9 +15244,9 @@
         "ft_reference": "0873964",
         "skills": {
             "Other": [
-                "Machine Learning",
                 "ML",
-                "Cloud"
+                "Cloud",
+                "Machine Learning"
             ]
         }
     },
@@ -15330,12 +15330,12 @@
                 "Pandas"
             ],
             "MachineLearning": [
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Seaborn",
-                "Matplotlib"
+                "Matplotlib",
+                "Seaborn"
             ]
         }
     },
@@ -15369,8 +15369,8 @@
         "ft_reference": "0600388",
         "skills": {
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -15520,12 +15520,12 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Machine Learning"
@@ -15568,9 +15568,9 @@
                 "R"
             ],
             "EnSoftSkils": [
+                "Initiative",
                 "Collaboration",
-                "Leadership",
-                "Initiative"
+                "Leadership"
             ]
         }
     },
@@ -15611,9 +15611,9 @@
                 "PyTorch"
             ],
             "Other": [
-                "DevOps",
+                "Cloud",
                 "Machine Learning",
-                "Cloud"
+                "DevOps"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -15657,12 +15657,12 @@
             ],
             "MachineLearning": [
                 "TensorFlow",
-                "Scikit-Learn",
-                "PyTorch"
+                "PyTorch",
+                "Scikit-Learn"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Machine Learning"
@@ -15745,12 +15745,12 @@
                 "SQL"
             ],
             "Other": [
-                "Machine Learning",
-                "ML"
+                "ML",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -15936,8 +15936,8 @@
                 "Chef"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ]
         }
     },
@@ -16089,8 +16089,8 @@
         "ft_reference": "8259508",
         "skills": {
             "ProgLanguage": [
-                "Python",
                 "Java",
+                "Python",
                 "R"
             ],
             "DataBase": [
@@ -16100,9 +16100,9 @@
                 "R"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "Other": [
                 "ML",
@@ -16178,8 +16178,8 @@
                 "Orange"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Automation": [
                 "Chef"
@@ -16332,17 +16332,17 @@
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Automation": [
                 "Airflow"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "ML",
-                "Big Data"
+                "ML"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -16388,17 +16388,17 @@
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Automation": [
                 "Airflow"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "ML",
-                "Big Data"
+                "ML"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -16444,17 +16444,17 @@
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Automation": [
                 "Airflow"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "ML",
-                "Big Data"
+                "ML"
             ],
             "EnSoftSkils": [
                 "Collaboration",
@@ -16500,17 +16500,17 @@
             ],
             "CloudComputing": [
                 "GCP",
-                "Azure",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "Azure"
             ],
             "Automation": [
                 "Airflow"
             ],
             "Other": [
+                "Big Data",
                 "Cloud",
                 "Machine Learning",
-                "ML",
-                "Big Data"
+                "ML"
             ],
             "EnSoftSkils": [
                 "Collaboration",

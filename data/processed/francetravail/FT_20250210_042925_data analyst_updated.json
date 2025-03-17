@@ -181,20 +181,20 @@
             ],
             "BigData": [
                 "Hadoop",
-                "Spark",
-                "Databricks"
+                "Databricks",
+                "Spark"
             ],
             "CloudComputing": [
+                "GCP",
                 "AWS",
-                "Azure",
-                "GCP"
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
             ],
             "DBMS": [
-                "Snowflake",
-                "BigQuery"
+                "BigQuery",
+                "Snowflake"
             ],
             "Automation": [
                 "Airflow",
@@ -204,13 +204,13 @@
                 "Terraform"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Initiative"

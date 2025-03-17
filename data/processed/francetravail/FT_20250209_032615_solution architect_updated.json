@@ -30,8 +30,8 @@
         "skills": {
             "CloudComputing": [
                 "AWS",
-                "Azure",
-                "GCP"
+                "GCP",
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -40,8 +40,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "DevOps",
@@ -181,8 +181,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "Cloud"
@@ -422,8 +422,8 @@
             ],
             "CloudComputing": [
                 "AWS",
-                "Azure",
-                "GCP"
+                "GCP",
+                "Azure"
             ],
             "Automation": [
                 "Kubernetes"
@@ -467,8 +467,8 @@
         "ft_reference": "1938907",
         "skills": {
             "ProgLanguage": [
-                "Java",
-                "Python"
+                "Python",
+                "Java"
             ],
             "DataBase": [
                 "SQL"
@@ -712,8 +712,8 @@
         "skills": {
             "CloudComputing": [
                 "AWS",
-                "Azure",
-                "GCP"
+                "GCP",
+                "Azure"
             ],
             "Automation": [
                 "Kubernetes"
@@ -900,8 +900,8 @@
         "ft_reference": "1934975",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL",
@@ -912,8 +912,8 @@
             ],
             "CloudComputing": [
                 "AWS",
-                "Azure",
-                "GCP"
+                "GCP",
+                "Azure"
             ],
             "DevTools": [
                 "Docker"
@@ -922,8 +922,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Kubernetes",
-                "Docker"
+                "Docker",
+                "Kubernetes"
             ],
             "Other": [
                 "CI/CD",

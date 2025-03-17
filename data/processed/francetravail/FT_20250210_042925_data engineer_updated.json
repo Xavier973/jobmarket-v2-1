@@ -82,16 +82,16 @@
         "ft_reference": "1991390",
         "skills": {
             "ProgLanguage": [
-                "Scala",
-                "Python"
+                "Python",
+                "Scala"
             ],
             "DataBase": [
                 "SQL"
             ],
             "BigData": [
-                "Databricks",
+                "Hadoop",
                 "Spark",
-                "Hadoop"
+                "Databricks"
             ],
             "CloudComputing": [
                 "GCP",
@@ -102,19 +102,19 @@
                 "Docker"
             ],
             "DBMS": [
-                "Snowflake",
-                "BigQuery"
+                "BigQuery",
+                "Snowflake"
             ],
             "Automation": [
-                "Airflow",
-                "Kubernetes"
+                "Kubernetes",
+                "Airflow"
             ],
             "InfrastructureAsCode": [
                 "Terraform"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "Cloud",

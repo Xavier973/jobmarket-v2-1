@@ -32,8 +32,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -172,8 +172,8 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "GCP",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "GCP"
             ],
             "Other": [
                 "Statistiques",
@@ -252,8 +252,8 @@
                 "SQL"
             ],
             "Other": [
-                "ML",
-                "Statistiques"
+                "Statistiques",
+                "ML"
             ]
         }
     },
@@ -358,8 +358,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Statistiques"
@@ -588,8 +588,8 @@
         "ft_reference": "1847292",
         "skills": {
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Big Data"
@@ -672,8 +672,8 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "GCP",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "GCP"
             ],
             "Other": [
                 "Statistiques",
@@ -718,10 +718,10 @@
                 "Java"
             ],
             "DataBase": [
+                "Cassandra",
                 "SQL",
-                "Neo4j",
                 "MongoDB",
-                "Cassandra"
+                "Neo4j"
             ],
             "DevTools": [
                 "Docker"
@@ -847,8 +847,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -896,19 +896,19 @@
                 "R"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "DBMS": [
                 "Snowflake"
             ],
             "Collaboration": [
-                "Confluence",
-                "JIRA"
+                "JIRA",
+                "Confluence"
             ],
             "Other": [
-                "Machine Learning",
-                "Statistiques"
+                "Statistiques",
+                "Machine Learning"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -975,10 +975,10 @@
         "ft_reference": "186HKDX",
         "skills": {
             "ProgLanguage": [
-                "Scala",
-                "R",
                 "Python",
-                "Java"
+                "Java",
+                "R",
+                "Scala"
             ],
             "DataBase": [
                 "SQL",
@@ -988,16 +988,16 @@
                 "R"
             ],
             "BigData": [
-                "Hadoop",
-                "Spark"
+                "Spark",
+                "Hadoop"
             ],
             "DataVisualisation": [
                 "Tableau"
             ],
             "CloudComputing": [
-                "GCP",
                 "Azure",
-                "AWS"
+                "AWS",
+                "GCP"
             ],
             "Other": [
                 "Statistiques",
@@ -1005,8 +1005,8 @@
                 "Cloud"
             ],
             "EnSoftSkils": [
-                "Communication",
                 "Leadership",
+                "Communication",
                 "Collaboration"
             ]
         }
@@ -1084,8 +1084,8 @@
                 "Python"
             ],
             "DataBase": [
-                "SQL",
-                "HBase"
+                "HBase",
+                "SQL"
             ],
             "DataAnalytics": [
                 "Pandas"
@@ -1247,8 +1247,8 @@
                 "Orange"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "Other": [
                 "Big Data",
@@ -1292,8 +1292,8 @@
                 "SQL"
             ],
             "DataVisualisation": [
-                "Power BI",
-                "Tableau"
+                "Tableau",
+                "Power BI"
             ],
             "CloudComputing": [
                 "Azure"
@@ -1570,8 +1570,8 @@
                 "SQL"
             ],
             "CloudComputing": [
-                "GCP",
-                "Google Cloud Platform"
+                "Google Cloud Platform",
+                "GCP"
             ],
             "Other": [
                 "Statistiques",
@@ -1650,8 +1650,8 @@
                 "SQL"
             ],
             "Other": [
-                "ML",
-                "Statistiques"
+                "Statistiques",
+                "ML"
             ]
         }
     },

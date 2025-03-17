@@ -35,8 +35,8 @@
                 "Jenkins"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ]
         }
     },
@@ -86,9 +86,9 @@
                 "BigQuery"
             ],
             "Other": [
-                "Cloud",
                 "Big Data",
-                "CI/CD"
+                "CI/CD",
+                "Cloud"
             ]
         }
     },
@@ -211,9 +211,9 @@
                 "Azure"
             ],
             "Other": [
-                "Cloud",
+                "ML",
                 "DevOps",
-                "ML"
+                "Cloud"
             ]
         }
     },
@@ -473,8 +473,8 @@
                 "OpenShift"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ]
         }
     },
@@ -508,21 +508,21 @@
         "ft_reference": "1848944",
         "skills": {
             "DataBase": [
-                "Cassandra",
                 "NoSQL",
-                "Neo4j",
-                "MongoDB"
+                "MongoDB",
+                "Cassandra",
+                "Neo4j"
             ],
             "BigData": [
                 "Spark"
             ],
             "SoftBigDataProcessing": [
-                "Cassandra",
-                "Apache Kafka"
+                "Apache Kafka",
+                "Cassandra"
             ],
             "Other": [
-                "Cloud",
-                "Big Data"
+                "Big Data",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Communication"

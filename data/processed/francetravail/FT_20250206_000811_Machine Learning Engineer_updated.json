@@ -41,8 +41,8 @@
                 "Kubernetes"
             ],
             "Containers": [
-                "Docker",
-                "Kubernetes"
+                "Kubernetes",
+                "Docker"
             ],
             "Other": [
                 "CI/CD",
@@ -80,8 +80,8 @@
         "ft_reference": "1512156",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Python"
+                "Python",
+                "R"
             ],
             "DataAnalytics": [
                 "R"
@@ -141,8 +141,8 @@
                 "Git"
             ],
             "Other": [
-                "DevOps",
                 "Cloud",
+                "DevOps",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -198,9 +198,9 @@
                 "Kubernetes"
             ],
             "Other": [
+                "Cloud",
                 "CI/CD",
                 "DevOps",
-                "Cloud",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -244,8 +244,8 @@
                 "R"
             ],
             "MachineLearning": [
-                "TensorFlow",
-                "PyTorch"
+                "PyTorch",
+                "TensorFlow"
             ],
             "Other": [
                 "Machine Learning"
@@ -418,8 +418,8 @@
                 "R"
             ],
             "MachineLearning": [
-                "TensorFlow",
-                "PyTorch"
+                "PyTorch",
+                "TensorFlow"
             ]
         }
     },
@@ -466,9 +466,9 @@
                 "Kubernetes"
             ],
             "Other": [
-                "Statistiques",
-                "DevOps",
                 "Cloud",
+                "DevOps",
+                "Statistiques",
                 "Machine Learning"
             ],
             "EnSoftSkils": [
@@ -509,8 +509,8 @@
                 "Python"
             ],
             "MachineLearning": [
-                "TensorFlow",
-                "PyTorch"
+                "PyTorch",
+                "TensorFlow"
             ],
             "Other": [
                 "Machine Learning"

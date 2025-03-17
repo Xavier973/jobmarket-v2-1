@@ -29,8 +29,8 @@
         "ft_reference": "187SDYY",
         "skills": {
             "DevTools": [
-                "Jenkins",
                 "Git",
+                "Jenkins",
                 "Docker"
             ],
             "Automation": [
@@ -175,17 +175,17 @@
         "ft_reference": "1913362",
         "skills": {
             "ProgLanguage": [
-                "Java",
-                "Scala"
+                "Scala",
+                "Java"
             ],
             "DataBase": [
                 "SQL",
-                "Cassandra",
-                "Elasticsearch"
+                "Elasticsearch",
+                "Cassandra"
             ],
             "DBMS": [
-                "PostgreSQL",
-                "SQL Server"
+                "SQL Server",
+                "PostgreSQL"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
@@ -197,8 +197,8 @@
                 "Kubernetes"
             ],
             "Collaboration": [
-                "JIRA",
-                "Confluence"
+                "Confluence",
+                "JIRA"
             ],
             "Other": [
                 "Cloud"
@@ -235,9 +235,9 @@
         "ft_reference": "1895537",
         "skills": {
             "Other": [
+                "DevOps",
                 "CI/CD",
-                "Cloud",
-                "DevOps"
+                "Cloud"
             ]
         }
     },

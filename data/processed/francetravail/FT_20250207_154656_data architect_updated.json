@@ -82,8 +82,8 @@
                 "SQL"
             ],
             "Collaboration": [
-                "Teams",
-                "Confluence"
+                "Confluence",
+                "Teams"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -216,8 +216,8 @@
                 "Hadoop"
             ],
             "MachineLearning": [
-                "TensorFlow",
-                "PyTorch"
+                "PyTorch",
+                "TensorFlow"
             ],
             "CloudComputing": [
                 "GCP",
@@ -237,9 +237,9 @@
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
+                "DevOps",
                 "CI/CD",
-                "DevOps"
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -279,9 +279,9 @@
                 "Azure"
             ],
             "Other": [
+                "DevOps",
                 "ML",
-                "Cloud",
-                "DevOps"
+                "Cloud"
             ]
         }
     },
@@ -367,17 +367,17 @@
         "ft_reference": "1848944",
         "skills": {
             "DataBase": [
+                "Neo4j",
                 "NoSQL",
                 "Cassandra",
-                "Neo4j",
                 "MongoDB"
             ],
             "BigData": [
                 "Spark"
             ],
             "SoftBigDataProcessing": [
-                "Cassandra",
-                "Apache Kafka"
+                "Apache Kafka",
+                "Cassandra"
             ],
             "Other": [
                 "Big Data",
@@ -422,25 +422,25 @@
                 "Scala"
             ],
             "DataBase": [
-                "SQL",
-                "Elasticsearch"
+                "Elasticsearch",
+                "SQL"
             ],
             "BigData": [
                 "Spark"
             ],
             "CloudComputing": [
-                "Azure",
                 "GCP",
+                "Azure",
                 "AWS"
             ],
             "DevTools": [
-                "Git",
-                "Jenkins"
+                "Jenkins",
+                "Git"
             ],
             "Other": [
                 "Big Data",
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Initiative"
@@ -477,8 +477,8 @@
         "ft_reference": "1895482",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -495,8 +495,8 @@
                 "Json"
             ],
             "DevTools": [
-                "Git",
-                "Jenkins"
+                "Jenkins",
+                "Git"
             ],
             "DBMS": [
                 "SQL Server"
@@ -505,8 +505,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -543,8 +543,8 @@
         "ft_reference": "1895444",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -566,8 +566,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -601,8 +601,8 @@
         "ft_reference": "1895354",
         "skills": {
             "ProgLanguage": [
-                "R",
-                "Java"
+                "Java",
+                "R"
             ],
             "DataBase": [
                 "SQL"
@@ -619,8 +619,8 @@
                 "Json"
             ],
             "DevTools": [
-                "Git",
-                "Jenkins"
+                "Jenkins",
+                "Git"
             ],
             "DBMS": [
                 "SQL Server"
@@ -629,8 +629,8 @@
                 "JIRA"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1095,8 +1095,8 @@
                 "AWS"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1314,8 +1314,8 @@
                 "Terraform"
             ],
             "Other": [
-                "Cloud",
-                "DevOps"
+                "DevOps",
+                "Cloud"
             ]
         }
     },
@@ -1653,8 +1653,8 @@
         "ft_reference": "1869876",
         "skills": {
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },
@@ -1796,8 +1796,8 @@
                 "JIRA"
             ],
             "EnSoftSkils": [
-                "Communication",
-                "Collaboration"
+                "Collaboration",
+                "Communication"
             ]
         }
     },

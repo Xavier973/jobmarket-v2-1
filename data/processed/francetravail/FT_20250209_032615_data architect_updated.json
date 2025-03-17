@@ -151,8 +151,8 @@
                 "Java"
             ],
             "DataBase": [
-                "MongoDB",
-                "NoSQL"
+                "NoSQL",
+                "MongoDB"
             ],
             "DevTools": [
                 "Docker",
@@ -237,8 +237,8 @@
             ],
             "DataBase": [
                 "MongoDB",
-                "SQL",
-                "Cassandra"
+                "Cassandra",
+                "SQL"
             ],
             "BigData": [
                 "Databricks",
@@ -248,16 +248,16 @@
                 "AWS"
             ],
             "DBMS": [
-                "BigQuery",
                 "PostgreSQL",
+                "BigQuery",
                 "Snowflake"
             ],
             "SoftBigDataProcessing": [
                 "Cassandra"
             ],
             "Other": [
-                "ML",
-                "Cloud"
+                "Cloud",
+                "ML"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -297,10 +297,10 @@
                 "Python"
             ],
             "CloudComputing": [
+                "Google Cloud Platform",
                 "GCP",
-                "Azure",
                 "AWS",
-                "Google Cloud Platform"
+                "Azure"
             ],
             "Automation": [
                 "Airflow"
@@ -309,8 +309,8 @@
                 "Terraform"
             ],
             "Other": [
-                "DevOps",
-                "Cloud"
+                "Cloud",
+                "DevOps"
             ]
         }
     },
@@ -385,8 +385,8 @@
         "ft_reference": "1980957",
         "skills": {
             "ProgLanguage": [
-                "Java",
-                "Scala"
+                "Scala",
+                "Java"
             ],
             "BigData": [
                 "Databricks",
@@ -447,12 +447,12 @@
                 "Git"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Other": [
-                "Statistiques",
-                "Cloud"
+                "Cloud",
+                "Statistiques"
             ],
             "EnSoftSkils": [
                 "Communication"
@@ -498,8 +498,8 @@
                 "Docker"
             ],
             "DBMS": [
-                "SQL Server",
-                "PostgreSQL"
+                "PostgreSQL",
+                "SQL Server"
             ],
             "Automation": [
                 "Kubernetes"
@@ -613,8 +613,8 @@
                 "SQL"
             ],
             "Collaboration": [
-                "Confluence",
-                "Teams"
+                "Teams",
+                "Confluence"
             ],
             "EnSoftSkils": [
                 "Collaboration"
@@ -1115,8 +1115,8 @@
                 "Linux"
             ],
             "SoftBigDataProcessing": [
-                "Apache Kafka",
-                "Cassandra"
+                "Cassandra",
+                "Apache Kafka"
             ]
         }
     },
