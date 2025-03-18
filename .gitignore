@@ -18,3 +18,5 @@ Thumbs.db
 
 #autre
 error*.png
+# Dossier test scrapping FranceTravail
+ETL/Extract/FranceTravail/src/tests/
