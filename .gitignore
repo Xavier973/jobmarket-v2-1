@@ -16,7 +16,7 @@ env/
 .DS_Store
 Thumbs.db
 
-#autre
+# autre
 error*.png
 *.json
 # Dossier test scrapping FranceTravail
