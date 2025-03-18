@@ -1,0 +1,247 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Data Engineer - H/F - CDI (H/F)",
+        "job": "data engineer",
+        "contract_type_raw": "CDI",
+        "salary": "Salaire brut : Annuel de 39000.0 Euros à 45000.0 Euros sur 12.0 mois",
+        "company": "POLYCONSEIL ",
+        "location_raw": "PARIS 09",
+        "location": "75",
+        "remote": null,
+        "experience_raw": "6 Mois",
+        "experience": "6 mois",
+        "education_level_raw": "Bac+5 et plus ou équivalents",
+        "education_level": 5,
+        "publication_date": "2025-03-17",
+        "company_data": {
+            "sector": "Conseil pour les affaires et autres conseils de gestion",
+            "company_size": "250 à 499 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/189QXNN",
+        "description": "Vos missions\n\nIntégré(e) au sein de l'équipe Data, vous intervenez notamment sur :\n- Le développement, déploiement et maintenance de pipelines d'ETL/ELT\n- La mise en place d'APIs et de backends applicatifs\n- La définition et mise en place de modèles de données, administration de base de données\n- L'utilisation de plateformes et outils Cloud\n- La compréhension et application de principes d'architecture\n- La supervision et monitoring d'applications\n\nEntouré(e) de nos experts, vous montez rapidement en compétence et participez au développement de nouveaux produits innovants dans le cadre de notre Datalab.\n\nPrincipales technologies à utiliser ou à découvrir\n- Langages : Python, SQL, DBT, Spark\n- Bases de données : PostgreSQL, base de données NoSQL (MongoDB, ELK.)\n- Orchestration : Airflow, Luigi\n- DevOps : Git, CI/CD, Docker, Kubernetes/Nomad, Ansible.\n- Outils Cloud : AWS, GCP, Azure, Snowflake, Databricks.\n- Autres : Kafka\n\nQuelques exemples de missions :\n- Développement et commercialisation en SaaS d'un système de gestion intelligente de la politique de stationnement pour une centaine de villes en France\n- Solution d'optimisation du pricing des produits vendus via une plateforme de ventes aux enchères en ligne\n- Développement d'une plateforme de suivi et de prédiction des incidents sur un parc IT\n- Développement from scratch d'un feature store à destination des data scientists d'un acteur de la réassurance\n- Algorithmes de détection de fraude auprès d'assureurs\n- Conception d'une plateforme data temps réel sur AWS\n\nVos moyens pour réussir\n- Formation : dès votre arrivée, vous avez accès à un large panel de formations et ressources documentaires pour approfondir vos connaissances sur vos sujets de prédilection ou bien découvrir des sujets nouveaux par simple curiosité. Nous finançons également des formations AWS\n- Management opérationnel : vous êtes accompagné(e) par un manager de mission et un Talent Manager tout au long de votre parcours chez nous\n- Contact constant avec d'autres métiers / équipes au sein de nos locaux\n\nVotre profil\n\nIssu(e) d'une école d'ingénieurs ou d'une école spécialisée en développement informatique, vous possédez minimum 2 années d'expérience en Data Engineering et maîtrisez Python et SQL. Une expérience ou une formation spécifique (ex : Udemy) avec le calcul distribué, le traitement des données temps réel ou les bases de données NoSQL est un plus. Avoir déjà travaillé avec un ou plusieurs fournisseurs de cloud (AWS, GCP, Azure notamment) est également apprécié.",
+        "ft_reference": "189QXNN",
+        "contract_type": "CDI",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "DataBase": [
+                "MongoDB",
+                "SQL",
+                "NoSQL"
+            ],
+            "BigData": [
+                "Databricks",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "AWS",
+                "Azure",
+                "GCP"
+            ],
+            "DevTools": [
+                "Docker",
+                "Git"
+            ],
+            "DBMS": [
+                "PostgreSQL",
+                "Snowflake"
+            ],
+            "Automation": [
+                "Kubernetes",
+                "Airflow",
+                "Ansible"
+            ],
+            "Containers": [
+                "Kubernetes",
+                "Docker"
+            ],
+            "Other": [
+                "CI/CD",
+                "Cloud",
+                "DevOps"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Architecte data (H/F)",
+        "job": "data architect",
+        "contract_type_raw": "CDI",
+        "salary": "Salaire brut : En fonction des grilles en vigueur",
+        "company": "IFCE ",
+        "location_raw": "ARNAC POMPADOUR",
+        "location": null,
+        "remote": null,
+        "experience_raw": "3 An(s)",
+        "experience": "3 an(s)",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-03-17",
+        "company_data": {
+            "sector": "Administration publique (tutelle) de la santé, de la formation, de la culture et des services sociaux, autre que sécurité sociale",
+            "company_size": "500 à 999 salariés",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/189PWHQ",
+        "description": "Ce poste est ouvert à tout candidat compétent, qu'il soit fonctionnaire ou non. \nLes agents fonctionnaires sont accueillis en Position Normale d'Activité (PNA) ou par la voie de détachement selon le statut d'origine.\nLes agents contractuels sont recrutés sous contrat de droit public à durée indéterminée (CDI) en application des articles L332-2 et L332-4 du Code Général de la Fonction Publique.\nL'Institut français du cheval et de l'équitation est un établissement public administratif sous double tutelle des deux Ministères suivants : le Ministère de l'agriculture et de la souveraineté alimentaire et le Ministère des sports, de la jeunesse et de la vie associative. L'IFCE est au service des acteurs de la filière équine.\nLa Direction des Systèmes d'Information (DSI), regroupe 31 agents répartis entre le service études, le service support, infrastructure et exploitation, les cellules architecture d'entreprise, gestion des données et PMO. Les missions consistent en la mise en œuvre des applications destinées au pilotage et à la gestion des différentes activités de l'établissement ainsi qu'à la diffusion d'informations techniques au service de la filière (exemple Equipedia). La DSI assure la gestion des moyens techniques nécessaires à l'utilisation de ces applications en interne et par internet. Cela représente un parc d'environ 400 serveurs et 600 postes de travail, et plus de 100 applications (centralisées, Intranet, Internet).\n\nPlacé(e) sous l'autorité hiérarchique du directeur des systèmes d'information, l'architecte Data a deux missions principales : \n- comprendre et traduire les besoins métiers de l'entreprise en spécifications techniques \n- définir le framework de l'architecture data et ses principes (modélisation de système de gestion, de stockage et d'analyse de données, définition des sources de la data)\n\nActivités principales\n\nConseille les acteurs sur les solutions techniques concernant : \nla collecte des données (en termes de transfert, format, fréquence d'actualisation, sécurité.).\n\nle stockage des données (en termes de technologie ou de service utilisé - cloud ou serveur local -, dimension des serveurs, mise à disposition des données, gestion des accès, optimisation des requêtes.).\nLa qualité et la continuité de service selon les contraintes (par exemple : temps de réponse de l'application.).\n\nCollecte, stockage et identification des données\n- Cartographier les données de l'entreprise et mettre en œuvre la construction d'une plateforme de données (data lake.) si celle-ci n'existe pas déjà.\n- Recueillir les attentes utilisateurs et définir les différentes briques qui vont répondre à leurs besoins.\n- Analyser l'impact des solutions retenues selon le besoin métier.\nFacilitation de l'usage des données dans l'entreprise\n- Mettre en place des outils génériques utilisables sur l'ensemble des projets.\n- Homogénéiser l'ensemble des développements.\n- Documenter cette donnée de façon fonctionnelle (schéma d'architecture.).\nConformité, veille et sensibilisation des utilisateurs aux problématiques de la data\n- Être garant de la conformité des solutions développées au regard du RGPD.\n- Assurer une veille technologique sur les outils.\n- Assurer un contact avec les éditeurs de solution pour suivre les nouvelles fonctionnalités ou la gestion des anomalies.\n- Diffuser la culture « data » dans l'entreprise\n\nDiplômes : Bac + 4 informatique ET avec 3 années d'expériences sur poste similaire\nCV+ lettre de motivation à transmettre avant le 23/04 à l'adresse recrutement@ifce.fr\nSi le dossier de candidature est incomplet à la date limite de candidature indiquée, la candidature ne sera pas étudiée",
+        "ft_reference": "189PWHQ",
+        "contract_type": "CDI",
+        "skills": {
+            "Other": [
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Big Data Engineer (H/F)",
+        "job": "data engineer",
+        "contract_type_raw": "Contrat à durée indéterminée",
+        "salary": null,
+        "company": "ENOVA CONSULTING ",
+        "location_raw": "VALBONNE",
+        "location": "6",
+        "remote": null,
+        "experience_raw": "Expérience exigée",
+        "experience": "expérience exigée",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-03-18",
+        "company_data": {
+            "sector": null,
+            "company_size": "Fondé à Genève en 2018, Enova Group offre des services informatiques en Suisse, au Luxembourg, en France et prochainement à Monaco. Spécialisé en conseil stratégique numérique, performance opérationnelle et technologies de l'information. Nous nous concentrons sur les compétences IT les plus recherchées et la gestion complète de projets.\nNotre expertise holistique nous permet d'accompagner efficacement nos clients dans leurs projets, en cultivant des partenariats solides et e...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/3755890",
+        "description": "- Concevoir, développer et optimiser des pipelines de traitement de données massives sur un environnement Hadoop / Spark.\n- Implémenter et maintenir des solutions Big Data sur GCP pour le stockage et l'analyse des données.\n- Développer des applications et composants en Java pour le traitement et la manipulation de données.\n- Assurer la performance, la scalabilité et la fiabilité des architectures de données.\n- Collaborer avec les équipes Data Science et DevOps pour industrialiser les solutions.\n- Rédiger la documentation technique et participer aux revues de code.\n- 5 ans d'expérience minimum en tant que Big Data Engineer.\n- Excellente maîtrise de Hadoop, Spark, Java et GCP.\n- Solide compréhension des architectures distribuées et des bonnes pratiques de développement Big Data.\n- Capacité à optimiser et tuner les performances des traitements de données.\n- Anglais courant obligatoire (échanges techniques et collaboration internationale).\n- Esprit analytique, rigueur et autonomie.",
+        "ft_reference": "3755890",
+        "contract_type": "CDI",
+        "skills": {
+            "ProgLanguage": [
+                "Java"
+            ],
+            "BigData": [
+                "Hadoop",
+                "Spark"
+            ],
+            "CloudComputing": [
+                "GCP"
+            ],
+            "Other": [
+                "Big Data",
+                "DevOps"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Big Data - Services Financiers - Bordeaux (H/F)",
+        "job": "data engineer",
+        "contract_type_raw": "Contrat à durée indéterminée",
+        "salary": null,
+        "company": "FORUMS TALENTS HANDICAP ",
+        "location_raw": "GIRONDE",
+        "location": "33",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-03-18",
+        "company_data": {
+            "sector": null,
+            "company_size": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. \n        L'entreprise Sopra Steria recherche actuellement des profils : \n     Sopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services n...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/3764226",
+        "description": "Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif.En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.The world is how we shape itLa division « Services financiers » s'est développée autour des métiers de la banque de détail, de la banque privée et des services financiers spécialisés. Nous participons à la révolution digitale grâce à notre expertise en automatisation des processus, Big Data, IA, Cloud. Nous accompagnons la transformation de nos clients en y associant nos compétences dans les domaines fonctionnels des Crédits, des Risques/Conformité et des Moyens de Paiement.Description du posteVotre futur environnement de travailIntégré(e) au sein d'une équipe Sopra Steria, pour un de nos Grands Comptes Bancaires, vous participerez à un projet Big Data, en mode Agile, et interviendrez en tant que référent technique au sein de votre équipe.Votre rôle et tâches :A cette occasion vous serez amené à :Apporter votre expertise et votre expérience à vos collègues lors des phases de conception et développement ;Accompagner vos collègues dans leur montée en compétence technique au sein du projet ;Définir et implémenter des solutions au sein d'un périmètre applicatif existant ;Proposer des idées d'amélioration continue à votre client et à votre équipe (revue de procédures, mise en place de nouveaux outils dans le cadre de livraison, test ou qualimétrie) ;Concevoir et développer des sujets complexes.Environnement du projet : Méthodologie projet : Mode Agile (Framework Scrum).Environnement technique :Hdfs, hive, spark, oozieScala, HQL, ShellGitLab, Nexus, Maven, Jenkins, SonarEnvironnement fonctionnel :Alimentation d'un DataLake jusqu'au build d'un moteur de calculIntervention sur la mise en place de règles relatives aux normes BâloisesQualificationsDe formation Bac+5 ou équivalent, vous avez au moins 5 ans d'expérience dans la data dont 3 ans en Big Data, notamment sur les technologies mentionnées ci-dessus.Vous aimez travailler en équipe, relever les défis techniques, conseiller et apporter votre valeur ajoutée à une équipe.Vous savez être challengeant et leader envers le client et l'équipe de développement en ce qui concerne l'amélioration continue (processus de livraison, automatisation du testing/validation, maintenance des bonnes pratiques et performance des runs).Vous aimez vous tenir informé des nouveautés technologiques et êtes à la recherche d'une évolution de carrière basée sur l'expérience projet et l'acquisition de nouvelles compétences.Informations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos tâches. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptation.Un accompagnement individualisé avec un mentor.Des opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements ",
+        "ft_reference": "3764226",
+        "contract_type": "CDI",
+        "skills": {
+            "BigData": [
+                "Spark"
+            ],
+            "DevTools": [
+                "Jenkins"
+            ],
+            "Other": [
+                "Big Data",
+                "Cloud"
+            ]
+        }
+    },
+    {
+        "source": "France Travail",
+        "job_title": "Ingénieur Big Data confirmé - Data Factory - Bordeaux (H/F)",
+        "job": "data engineer",
+        "contract_type_raw": "Contrat à durée indéterminée",
+        "salary": null,
+        "company": "FORUMS TALENTS HANDICAP ",
+        "location_raw": "GIRONDE",
+        "location": "33",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-03-18",
+        "company_data": {
+            "sector": null,
+            "company_size": "En tant qu'organisateur de forums de recrutement, Talents Handicap accompagne de très nombreuses entreprises & organisations en France dans leurs recrutements de collaborateurs en situation de handicap. Participant actuellement à l'un de nos forums. \n        L'entreprise Sopra Steria recherche actuellement des profils : \n     Sopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services n...",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/3764215",
+        "description": "Description de l'entrepriseSopra Steria, acteur majeur de la Tech en Europe avec 56 000 collaborateurs dans près de 30 pays, est reconnu pour ses activités de conseil, de services numériques et d'édition de logiciels. Il aide ses clients à mener leur transformation digitale et à obtenir des bénéfices concrets et durables. Le Groupe apporte une réponse globale aux enjeux de compétitivité des grandes entreprises et organisations, combinant une connaissance approfondie des secteurs d'activité et des technologies innovantes à une approche résolument collaborative. Sopra Steria place l'humain au centre de son action et s'engage auprès de ses clients à tirer le meilleur parti du digital pour construire un avenir positif.En 2023, le Groupe a réalisé un chiffre d'affaires de 5,8 milliards d'euros.The world is how we shape itLa division « Services financiers » s'est développée autour des métiers de la banque de détail, de la banque privée et des services financiers spécialisés. Nous participons à la révolution digitale grâce à notre expertise en automatisation des processus, Big Data, IA, Cloud. Nous accompagnons la transformation de nos clients en y associant nos compétences dans les domaines fonctionnels des Crédits, des Risques/Conformité et des Moyens de Paiement.Description du posteVotre futur environnement de travail :Intégré(e) au sein de notre Data Factory de plus de 120 Data Ingénieurs, vous contribuez à un projet Big Data, et intervenez en tant que référent technique pour un de nos Grands Comptes.Votre rôle et tâches :A cette occasion vous serez amené(e) à :Apporter votre expertise et votre expérience à votre équipe lors des phases de conception et développement ;Définir et implémenter des solutions d'ingestion, de préparation, de stockage, de calcul et d'exposition - sur l'ensemble du pipeline de données ;Proposer des idées d'amélioration continue à votre client et à votre équipe - revue de procédures, mise en place de nouveaux outils dans le cadre de livraison, test ou qualimétrie ;Concevoir et développer des solutions complexes ;Industrialisation, mise en place de CI/CD ;Accompagner vos collaborateurs dans leur montée en compétence au sein du projet ;Vous êtes membre actif de la communauté Data Sopra Steria ;Vous maintenez vos compétences en suivant les parcours de certification avec nos partenaires Editeurs et Cloud Provider.Environnement technique :Solutions du marché :ETL/ELT : Datastage, Talend, Informatica, SemarchyData Solution : Databricks, Snowflake, Cloudera, BigQueryVous maitrisez et êtes certifié(e) sur au moins l'une de ces solutions du marché.Langages :PySpark, Spark-Scala, Java-SparkPython, Shell, SQLUne maitrise de ces langages est attendue.QualificationsVotre profil :Vous aimez travailler en équipe, relever les défis techniques, conseiller et apporter votre valeur ajoutée à une équipe.Vous savez être challengeant et leader envers le client et l'équipe de développement en ce qui concerne l'amélioration continue (processus de livraison, automatisation du testing/validation, maintenance des bonnes pratiques et performance des runs).Vous êtes curieux et en veille technologique continue.De formation Bac+5, école d'ingénieur université ou équivalent, vous avez au moins 5 ans d'expérience en Big Data sur les technologies mentionnées ci-dessus.#LI-HYBRID  #PFInformations supplémentairesUn accord télétravail pour télétravailler jusqu'à 2 jours par semaine selon vos tâches. Un package avantages intéressant : une mutuelle, un CSE, des titres restaurants, un accord d'intéressement, des primes vacances et cooptationDes opportunités de carrières multiples : plus de 30 familles de métiers, autant de passerelles à imaginer ensemble.Plusieurs centaines de formations accessibles en toute autonomie depuis l'app mobile avec Sopra Steria Academy.La possibilité de s'engager auprès de notre fondation ou de notre partenaire « Vendredi ».L'opportunité de rejoindre le collectif Tech'Me UP (formations, conférences, veille, et bien plus encore.).Employeur inclusif et engagé, notre société œuvre chaque jour pour lutter contre toute forme de discrimination et favoriser un environnement de travail respectueux. C'est pourquoi, attachés à la mixité et à la diversité, nous encourageons toutes les candidatures et tous les profils.https://www.soprasteria.fr/nous-connaitre/nos-engagements ",
+        "ft_reference": "3764215",
+        "contract_type": "CDI",
+        "skills": {
+            "ProgLanguage": [
+                "Java",
+                "Scala"
+            ],
+            "BigData": [
+                "Databricks",
+                "Spark"
+            ],
+            "DBMS": [
+                "Snowflake"
+            ],
+            "Other": [
+                "CI/CD",
+                "Big Data",
+                "Cloud"
+            ]
+        }
+    }
+]

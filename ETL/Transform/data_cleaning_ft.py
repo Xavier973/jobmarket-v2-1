@@ -128,7 +128,7 @@ def process_location(nom_location, location_dict):
         
     # Nettoyer la chaîne d'entrée
     nom_location = str(nom_location).strip()
-    print(f"Processing location: {nom_location}")
+    #print(f"Processing location: {nom_location}")
     
     # Traitement spécial pour Marseille, Lyon et Paris. Résolution des problemes d'arrondissement
     if nom_location.lower().startswith('marseille'):
@@ -192,7 +192,7 @@ def find_job_title(title, jobs_dict):
         if isinstance(keywords[0], tuple):
             for keyword_tuple in keywords:
                 if all(word in title_lower for word in keyword_tuple):
-                    print("Job trouvé : ", job)
+                    # print("Job trouvé : ", job)
                     return job
         else:
             if all(word in title_lower for word in keywords):
@@ -264,6 +264,43 @@ def find_keywords(description, keywords):
             found_keywords.add(keyword.strip())
     return list(found_keywords)
 
+def clean_contract_type(contract_type):
+    if contract_type is None:
+        return None
+        
+    contract_type = str(contract_type).strip()
+    
+    # Dictionnaire de correspondance pour standardiser les types de contrat
+    contract_mapping = {
+        "Contrat à durée indéterminée": "CDI",
+        "Contrat à durée déterminée": "CDD",
+        "Profession libérale": "Freelance",
+        
+        #"Contrat travail temporaire": "Intérim",
+        #"Contrat de professionnalisation": "Alternance",
+        #"Contrat d'apprentissage": "Apprentissage"
+    }
+    
+    # Vérifier si le type de contrat est dans le mapping
+    for key, value in contract_mapping.items():
+        if key.lower() in contract_type.lower():
+            contract_type = value
+            break
+    
+    # Extraction du type de contrat principal (pour les cas avec durée)
+    if " - " in contract_type:
+        contract_type = contract_type.split(" - ")[0].strip()
+    
+    # Liste des types de contrat valides
+    valid_contracts = {
+        "CDI", "CDD", "Intérim", "Freelance", 
+        "Stage", "Apprentissage", "Alternance", 
+        "Franchise", "Indépendant"
+    }
+    
+    # Retourner le type si valide, sinon None
+    return contract_type if contract_type in valid_contracts else None
+
 def transform_json_file(input_file, output_folder, log_file_path):
     print("Transformation de : ", input_file)
 
@@ -283,7 +320,10 @@ def transform_json_file(input_file, output_folder, log_file_path):
                     entry['job'] = find_job_title(entry['job_title'].lower(), JOBS)
                 else:
                     entry['job'] = "Other"
-                # entry['title'] = entry.pop('job_title')
+                if 'contract_type_raw' in entry:
+                    entry['contract_type'] = clean_contract_type(entry['contract_type_raw'])
+                else:
+                    entry['contract_type'] = None
 
                 if 'location_raw' in entry:
                     entry['location'] = process_location(entry['location_raw'], location_dict)

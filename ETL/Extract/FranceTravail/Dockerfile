@@ -15,7 +15,7 @@ RUN apt-get update && apt-get install -y \
 WORKDIR /app
 
 # Copie des fichiers nécessaires
-COPY src/ ./src/
+# COPY src/ ./src/
 COPY requirements.txt .
 
 # Installation des dépendances Python
