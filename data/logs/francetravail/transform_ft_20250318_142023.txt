@@ -1,0 +1,6 @@
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: EVRY COURCOURONNES
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: SACLAY
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: CHOLET
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: SACLAY
+FT_20250318_140721_data scientist.json : Aucune correspondance trouvée pour location_raw: ROISSY EN FRANCE
