@@ -26,17 +26,22 @@ def initialize_driver():
 def test_contract_type_extraction():
     driver = initialize_driver()
     print("Driver initialisé")
-    wait = WebDriverWait(driver, 5)
+    wait = WebDriverWait(driver, 3)
     
-    # Liste des URLs à tester
     urls = [
         "https://candidat.francetravail.fr/offres/recherche/detail/189LGZW",
-        "https://candidat.francetravail.fr/offres/recherche/detail/189LHBJ",
-        "https://candidat.francetravail.fr/offres/recherche/detail/189LHCK"
-        # Ajoutez d'autres URLs ici
+        "https://candidat.francetravail.fr/offres/recherche/detail/189LDLW",
+        "https://candidat.francetravail.fr/offres/recherche/detail/3725494",
+        "https://candidat.francetravail.fr/offres/recherche/detail/3458536",
+        "https://candidat.francetravail.fr/offres/recherche/detail/189HDFK",
+        "https://candidat.francetravail.fr/offres/recherche/detail/187NTTM",
+        "https://candidat.francetravail.fr/offres/recherche/detail/189PFRW",
+        "https://candidat.francetravail.fr/offres/recherche/detail/189MLYR",
+        "https://candidat.francetravail.fr/offres/recherche/detail/189GQNP",
+        "https://candidat.francetravail.fr/offres/recherche/detail/189PJDK"
     ]
     
-    results = {}  # Dictionnaire pour stocker les résultats
+    results = {}
 
     try:
         # Gestion des cookies (une seule fois au début)
@@ -58,27 +63,21 @@ def test_contract_type_extraction():
             print(f"\nTraitement de l'URL: {url}")
             try:
                 driver.get(url)
-                time.sleep(3)  # Attente réduite car les cookies sont déjà gérés
+                time.sleep(3)
 
                 try:
-                    # Version desktop
+                    # Recherche du span avec la classe sr-only dans la section description-aside
                     contract_element = wait.until(EC.presence_of_element_located(
-                        (By.CSS_SELECTOR, 'p.contrat:not(.visible-xs-inline-block)')
+                        (By.CSS_SELECTOR, 'div.description-aside dd')
                     ))
-                    contract_text = contract_element.text.split('\n')[0]
-                except Exception:
-                    try:
-                        # Version mobile
-                        contract_element = wait.until(EC.presence_of_element_located(
-                            (By.CSS_SELECTOR, 'p.contrat.visible-xs-inline-block')
-                        ))
-                        contract_text = contract_element.text.split('-')[0].strip()
-                    except Exception as e:
-                        print(f"Erreur pour {url}: {e}")
-                        contract_text = "Non trouvé"
+                    contract_text = contract_element.text.strip()
+                    
+                    results[url] = contract_text
+                    print(f"Type de contrat trouvé: {contract_text}")
 
-                results[url] = contract_text
-                print(f"Type de contrat trouvé: {contract_text}")
+                except Exception as e:
+                    print(f"Erreur pour {url}: {e}")
+                    results[url] = "Non trouvé"
 
             except Exception as e:
                 print(f"Erreur lors du traitement de {url}: {e}")

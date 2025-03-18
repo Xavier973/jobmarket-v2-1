@@ -1,0 +1,56 @@
+[
+    {
+        "source": "France Travail",
+        "job_title": "Machine Learning Engineer (F/H) - alternance (H/F)",
+        "job": "machine learning engineer",
+        "contract_type_raw": "Contrat à durée déterminée - 24 Mois",
+        "salary": null,
+        "company": "AXA FRANCE ",
+        "location_raw": "WASQUEHAL",
+        "location": "59",
+        "remote": null,
+        "experience_raw": "Débutant accepté",
+        "experience": "débutant accepté",
+        "education_level_raw": null,
+        "education_level": null,
+        "publication_date": "2025-03-17",
+        "company_data": {
+            "sector": "Autres assurances",
+            "company_size": "Chez AXA, nous sommes persuadés que pour bien prendre soin de nos clients, nous devons commencer par bien prendre soin de nos collaborateurs. C'est pour cette raison que nous menons une politique RH engagée qui favorise la diversité, qui préserve l'équilibre vie privée-vie professionnelle et accélère le développement des compétences et des carrières.",
+            "creation_date": null,
+            "address": null,
+            "average_age_of_employees": null,
+            "turnover_in_millions": null,
+            "proportion_female": null,
+            "proportion_male": null
+        },
+        "link": "https://candidat.francetravail.fr/offres/recherche/detail/3717360",
+        "description": "Vous êtes passionné par data et vous recherchez une expérience en alternance enrichissante ? Ne cherchez plus, nous avons l'opportunité qu'il vous faut! \n\nAu sein de la Guilde Data du Data Office, de la Direction Transformation et Technologies d'AXA France, nous recherchons un alternant motivé et passionné. Vous ferez partie d'une équipe unie et passionnée, composée de Data Engineers, Tech Leaders, Test Engineers, Product Owners et Product Managers, et évoluerez dans un environnement pluridisciplinaire. Nos équipes travaillent en mode agile / feature team afin de favoriser la collaboration transversale, la réactivité aux changements et la livraison continue de la valeur aux utilisateurs finaux. Vous participerez à l'établissement des meilleures pratiques visant à améliorer la qualité des produits et les performances des équipes. \n\nSous la responsabilité de votre tuteur, vos missions seront les suivantes :\n\n * Développer des applications de type Machine Learning\n * Contribuer à la qualité des solutions, être exemplaire sur les bonnes pratiques de développement et de sécurité\n * Intégrer les principes d'architecture\n * Contribuer à l'amélioration de la qualité du code produit par votre équipe en réalisant régulièrement des revues de codes collectives et des Pull Request.\n * S'assurer de la qualité des solutions, du respect des bonnes pratiques de développement, de sécurité et de l'expérience utilisateur\n * Veiller à la mise en place de la roadmap technique avec les Tech leaders\n * Porter la transformation de notre ingénierie IT et en particulier la mise en place de MLOps\n * Favoriser le partage la connaissance avec les membres de l'équipe et ses pairs\n * Communiquer et répondre à notre curiosité technique en organisant meetups et BBLs.\nVous préparez un Master en école de commerce, d'ingénieur, université ou équivalent avec une spécialisation en data science ou en machine learning.Vous cherchez une alternance d'une durée de 12 ou 24 mois avec un rythme d'alternance en semaines ou en jours, à partir de septembre 2025.\n\nCompétences attendues: \n\n * Vous justifiez de compétences solides en développement logiciel et souhaitez les mettre en application dans un contexte riche et stimulant.\n * Vous maîtrisez les technologies python/Pyspark, Azure ML, GIT, Kubernetes et les pratiques associées à BDD / TDD, Clean Code, DDD, REST & Architecture logicielle/Patterns.\n * Vous manifestez un vif intérêt pour l'IA et le Machine Learning.\n * Vous êtes passionné par la technique et développez vos propres projets personnels.\n * Vous êtes reconnu pour votre rigueur, votre aisance relationnelle et votre esprit d'équipe.\n * Votre niveau d'anglais est courant\n\nSi vous souhaitez acquérir une expérience significative au sein d'une entreprise renommée, alors cette opportunité est faite pour vous ! Nous valorisons l'esprit d'équipe, la curiosité, la proactivité et la rigueur.\n\nRejoignez-nous et faites la différence avec vos idées ! Chez AXA France, votre talent est notre plus grande richesse.",
+        "ft_reference": "3717360",
+        "contract_type": "CDD",
+        "skills": {
+            "ProgLanguage": [
+                "Python"
+            ],
+            "CloudComputing": [
+                "Azure"
+            ],
+            "DevTools": [
+                "Git"
+            ],
+            "Automation": [
+                "Kubernetes"
+            ],
+            "Containers": [
+                "Kubernetes"
+            ],
+            "Other": [
+                "Machine Learning",
+                "ML"
+            ],
+            "EnSoftSkils": [
+                "Collaboration"
+            ]
+        }
+    }
+]

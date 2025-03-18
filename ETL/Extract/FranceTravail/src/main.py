@@ -334,16 +334,9 @@ def scraping_and_process(term, driver, collect_all=False):
                     except:
                         education_level = None
                     try:
-                    # Trouver l'élément span avec le titre "Type de contrat"
-                        contract_element = offer_element.find_element(By.CSS_SELECTOR, 'span[title="Type de contrat"]')
-                        if contract_element:
-                            try:
-                                # D'abord essayer de trouver le span suivant avec la classe sr-only
-                                Contract_type = contract_element.find_element(By.CSS_SELECTOR, '+ span.sr-only').text
-                            except:
-                                # Si non trouvé, prendre le texte du parent
-                                parent_element = contract_element.find_element(By.CSS_SELECTOR, '..')
-                                Contract_type = parent_element.text.replace('Type de contrat', '').strip()
+                        contract_element = driver.find_element(By.CSS_SELECTOR, 'div.description-aside dd')
+                        # Prendre uniquement la première ligne du texte (avant le <br>)
+                        Contract_type = contract_element.text.split('\n')[0].strip()
                     except:
                         Contract_type = None
                     try:
@@ -365,7 +358,7 @@ def scraping_and_process(term, driver, collect_all=False):
                         "source": "France Travail",
                         "job_title": job_title,
                         "job": "",
-                        "contract_type": Contract_type,
+                        "contract_type_raw": Contract_type,
                         "salary": salary,
                         "company": Company,
                         "location_raw": Location,
