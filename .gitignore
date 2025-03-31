@@ -7,7 +7,9 @@ env/
 
 # Environnement
 .env
-.env.local
+.env.*
+!.env.example
+
 # IDE
 .vscode/
 .idea/
@@ -16,8 +18,25 @@ env/
 .DS_Store
 Thumbs.db
 
-#autre
+# Données
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/transformed/*
+!data/transformed/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+
+# NGINX
+nginx/logs/*
+!nginx/logs/.gitkeep
+nginx/ssl/*
+!nginx/ssl/.gitkeep
+
+# Autre
 error*.png
 *.json
-# Dossier test scrapping FranceTravail
+
+# Tests
 ETL/Extract/FranceTravail/src/tests/

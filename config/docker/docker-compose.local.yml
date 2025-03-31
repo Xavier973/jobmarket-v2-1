@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  elasticsearch:
+    ports:
+      - "9200:9200"    # On expose elasticsearch uniquement en local
+    environment:
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+      - xpack.security.enabled=false
+
+  dash:
+    ports:
+      - "8050:8050"    # On expose le dashboard uniquement en local
+
+  nginx:
+    ports:
+      - "80:80"        # En local, uniquement le port 80
+    volumes:
+      - ./config/nginx/local:/etc/nginx/conf.d
+      - ./nginx/logs:/var/log/nginx
