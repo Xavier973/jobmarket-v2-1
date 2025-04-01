@@ -14,7 +14,9 @@ services:
 
   nginx:
     ports:
-      - "80:80"        # En local, uniquement le port 80
+      - "80:80"
+      - "443:443"
     volumes:
-      - ./config/nginx/local:/etc/nginx/conf.d
-      - ./nginx/logs:/var/log/nginx
+      - ../../config/nginx/local:/etc/nginx/conf.d
+      - ../../config/nginx/ssl:/etc/nginx/ssl:ro
+      - ../../config/nginx/logs:/var/log/nginx
