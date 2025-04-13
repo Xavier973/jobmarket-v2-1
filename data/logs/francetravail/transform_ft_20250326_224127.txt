@@ -1,0 +1,4 @@
+FT_20250326_222549_data scientist.json : Aucune correspondance trouvée pour location_raw: MAZERES
+FT_20250326_222549_data scientist.json : Aucune correspondance trouvée pour location_raw: BIOT
+FT_20250326_222549_data scientist.json : Aucune correspondance trouvée pour location_raw: FRANCE
+FT_20250326_222549_data scientist.json : Aucune correspondance trouvée pour location_raw: CESSON SEVIGNE

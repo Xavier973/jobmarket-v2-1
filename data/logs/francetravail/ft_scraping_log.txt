@@ -125,3 +125,18 @@
 20250318_140721 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
 20250318_140721 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
 20250318_140721 - Term: sysops - Jobs added: 8 - Status: success
+20250326_222549 - Term: data architect - Jobs added: 27 - Status: success
+20250326_222549 - Term: data engineer - Jobs added: 112 - Status: success
+20250326_222549 - Term: data scientist - Jobs added: 41 - Status: success
+20250326_222549 - Term: data analyst - Jobs added: 81 - Status: success
+20250326_222549 - Term: software engineer - Jobs added: 7 - Status: success
+20250326_222549 - Term: Data Warehousing Engineer - Jobs added: 0 - Status: no_offers
+20250326_222549 - Term: Machine Learning Engineer - Jobs added: 8 - Status: success
+20250326_222549 - Term: cloud architect - Jobs added: 106 - Status: success
+20250326_222549 - Term: solution architect - Jobs added: 6 - Status: success
+20250326_222549 - Term: cloud engineer - Jobs added: 22 - Status: success
+20250326_222549 - Term: big data engineer - Jobs added: 4 - Status: success
+20250326_222549 - Term: Data Infrastructure Engineer - Jobs added: 0 - Status: no_offers
+20250326_222549 - Term: Data Pipeline Engineer - Jobs added: 0 - Status: no_offers
+20250326_222549 - Term: ETL Developer - Jobs added: 0 - Status: no_offers
+20250326_222549 - Term: sysops - Jobs added: 6 - Status: success
