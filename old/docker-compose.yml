@@ -1,0 +1,95 @@
+version: '3.8'
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.12.1
+    environment:
+      - discovery.type=single-node
+      - "ES_JAVA_OPTS=-Xms1g -Xmx1g"
+      - xpack.security.enabled=false
+      - "thread_pool.write.queue_size=1000"
+      - logger.org.elasticsearch.threadpool.ThreadPool=ERROR
+      - logger.level=ERROR
+    ports:
+      - "9200:9200"
+    volumes:
+      - es_data:/usr/share/elasticsearch/data
+      - /etc/localtime:/etc/localtime:ro
+      - /etc/timezone:/etc/timezone:ro
+      - ./Utils:/app/Utils
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    deploy:
+      resources:
+        limits:
+          memory: 2G
+    healthcheck:
+      test: ["CMD-SHELL", "curl -s http://localhost:9200 || exit 1"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
+  dash:
+    build:
+      context: .
+      dockerfile: dashboard/Dockerfile
+    ports:
+      - "8050:8050"
+    environment:
+      - ES_HOST=elasticsearch:9200
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    volumes:
+      - ./dashboard:/app/dashboard
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/ssl:/etc/nginx/ssl
+      - ./nginx/logs:/var/log/nginx
+    depends_on:
+      - dash
+      - elasticsearch
+    networks:
+      - default
+    restart: unless-stopped
+
+  francetravail:
+    build:
+      context: ./ETL/Extract/FranceTravail
+      dockerfile: Dockerfile
+    environment: # A définir dans .env
+      - ES_HOST=${ES_HOST}
+      - DATA_RAW_DIR=${DATA_RAW_DIR}
+      - DATA_LOG_DIR=${DATA_LOG_DIR}
+    volumes:
+      # - ./ETL/Extract/FranceTravail/src:/app/src
+      # - ./ETL/Transform:/app/ETL/Transform
+      - ./ETL:/app/ETL
+      - ./data/raw/francetravail:/app/data/raw/francetravail
+      - ./data/transformed/francetravail:/app/data/transformed/francetravail
+      - ./data/processed/francetravail:/app/data/processed/francetravail
+      - ./data/logs/francetravail:/app/data/logs/francetravail
+      - ./Utils:/app/Utils
+    networks:
+      - default
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    entrypoint: ["tail", "-f", "/dev/null"]
+    restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
+
+networks:
+  default:
+    name: jobmarket-network
+
+volumes:
+  es_data:
+    name: jobmarket_elasticsearch_data

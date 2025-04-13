@@ -7,7 +7,9 @@ env/
 
 # Environnement
 .env
-.env.local
+.env.*
+!.env.example
+
 # IDE
 .vscode/
 .idea/
@@ -16,8 +18,38 @@ env/
 .DS_Store
 Thumbs.db
 
-# autre
-error*.png
-*.json
-# Dossier test scrapping FranceTravail
+# Données
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+data/transformed/*
+!data/transformed/.gitkeep
+data/logs/*
+!data/logs/.gitkeep
+
+# NGINX
+config/nginx/logs/*
+!config/nginx/logs/.gitkeep
+config/nginx/ssl/*
+!config/nginx/ssl/.gitkeep
+
+# Tests
 ETL/Extract/FranceTravail/src/tests/
+
+# Fichiers JSON temporaires
+ETL/Extract/FranceTravail/json_temp/*.json
+
+# Données Indeed et WTTJ
+data/Indeed_wttj/*.json
+
+# Données FranceTravail
+data/processed/francetravail/*.json
+data/raw/francetravail/*.json
+data/raw/francetravail/old_Json/*.json
+
+# Garder villes_departements.json
+!ETL/Transform/villes_departements.json
+
+# Autre
+error*.png
