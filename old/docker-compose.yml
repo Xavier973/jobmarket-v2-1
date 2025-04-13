@@ -45,6 +45,21 @@ services:
     volumes:
       - ./dashboard:/app/dashboard
     restart: unless-stopped # Redémarre le conteneur sauf si arret manuel
+  nginx:
+    image: nginx:alpine
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/ssl:/etc/nginx/ssl
+      - ./nginx/logs:/var/log/nginx
+    depends_on:
+      - dash
+      - elasticsearch
+    networks:
+      - default
+    restart: unless-stopped
 
   francetravail:
     build:
