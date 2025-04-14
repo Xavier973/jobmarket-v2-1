@@ -22,7 +22,7 @@ services:
     deploy:
       resources:
         limits:
-          memory: 2G
+          memory: 1.5G
     healthcheck:
       test: ["CMD-SHELL", "curl -s http://localhost:9200 || exit 1"]
       interval: 30s
@@ -46,7 +46,7 @@ services:
   nginx:
     image: nginx:alpine
     volumes:
-      - ../../nginx/logs:/var/log/nginx
+      - ../nginx/logs:/var/log/nginx
     depends_on:
       - dash
       - elasticsearch

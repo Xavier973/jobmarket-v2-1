@@ -10,8 +10,8 @@ cd "$(dirname "$0")/.." || exit
 required_dirs=(
     "config/nginx/local"
     "config/nginx/prod"
-    "nginx/logs"
-    "nginx/ssl"
+    "config/nginx/logs"
+    "config/nginx/ssl"
     "data/raw/francetravail"
     "data/transformed/francetravail"
     "data/processed/francetravail"

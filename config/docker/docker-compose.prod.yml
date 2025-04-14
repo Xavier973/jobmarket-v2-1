@@ -16,7 +16,7 @@ services:
       - "80:80"
       - "443:443"                        # HTTPS en prod
     volumes:
-      - ./config/nginx/prod:/etc/nginx/conf.d
-      - ./nginx/logs:/var/log/nginx
+      - ../nginx/prod:/etc/nginx/conf.d
+      - ../nginx/logs:/var/log/nginx
       - /etc/letsencrypt/live/jobmarketv2.eastus.cloudapp.azure.com/fullchain.pem:/etc/nginx/ssl/fullchain.pem:ro
       - /etc/letsencrypt/live/jobmarketv2.eastus.cloudapp.azure.com/privkey.pem:/etc/nginx/ssl/privkey.pem:ro
