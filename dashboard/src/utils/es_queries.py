@@ -1,7 +1,19 @@
+import os
 from elasticsearch import Elasticsearch
 
 def get_es_client():
-    return Elasticsearch(['http://elasticsearch:9200'])
+    # Configuration de base
+    es_host = os.getenv('ES_HOST', 'elasticsearch:9200')
+    es_config = {
+        'hosts': [f'http://{es_host}']
+    }
+    
+    # Ajout de l'authentification si le mot de passe est défini
+    es_password = os.getenv('ES_PASSWORD')
+    if es_password:
+        es_config['basic_auth'] = ('elastic', es_password)
+    
+    return Elasticsearch(**es_config)
 
 def get_offers_by_source():
     es = get_es_client()

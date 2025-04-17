@@ -1,7 +1,6 @@
 #!/bin/bash
 
 ENV=$1
-CONFIG_DIR="config/docker"
 
 # Se placer dans le répertoire racine du projet
 cd "$(dirname "$0")/.." || exit
@@ -52,33 +51,21 @@ done
 case $ENV in
     "local")
         echo "Déploiement en local..."
-        cp config/env/.env.local .env
         
         echo "Arrêt des conteneurs existants..."
-        docker compose -f $CONFIG_DIR/docker-compose.yml \
-                      -f $CONFIG_DIR/docker-compose.local.yml \
-                      down
+        docker compose down
 
         echo "Démarrage des conteneurs..."
-        docker compose -p jobmarket \
-                      -f $CONFIG_DIR/docker-compose.yml \
-                      -f $CONFIG_DIR/docker-compose.local.yml \
-                      up -d
+        docker compose -p jobmarket up -d
         ;;
     "prod")
         echo "Déploiement en production..."
-        cp config/env/.env.prod .env
         
         echo "Arrêt des conteneurs existants..."
-        docker compose -f $CONFIG_DIR/docker-compose.yml \
-                      -f $CONFIG_DIR/docker-compose.prod.yml \
-                      down
+        docker compose down
 
         echo "Démarrage des conteneurs..."
-        docker compose -p jobmarket \
-                      -f $CONFIG_DIR/docker-compose.yml \
-                      -f $CONFIG_DIR/docker-compose.prod.yml \
-                      up -d
+        docker compose -p jobmarket up -d
         ;;
     *)
         echo "Usage: ./deploy.sh [local|prod]"
