@@ -24,7 +24,7 @@ def get_offers_by_source():
         "aggs": {
             "sources": {
                 "terms": {
-                    "field": "source",
+                    "field": "source.keyword",
                     "size": 10
                 }
             }
@@ -57,7 +57,7 @@ def get_offers_evolution():
                 "aggs": {
                     "by_source": {
                         "terms": {
-                            "field": "source"
+                            "field": "source.keyword"
                         }
                     }
                 }
