@@ -3,27 +3,48 @@ import glob
 import os
 from elasticsearch import Elasticsearch
 
-# Configuration pour la VM
-ES_HOST = "localhost:9200"
+# Configuration depuis les variables d'environnement
+ES_HOST = os.getenv('ES_HOST', 'elasticsearch:9200')
+ES_PASSWORD = os.getenv('ES_PASSWORD', 'JobMarket2024Secure!')  # Valeur par défaut du mot de passe
 JOBMARKET_INDEX = "jobmarket"
 DATA_PATH = "/home/ubuntu/JobmarketV2/data/transformed/francetravail/*.json"
 
 def get_es_client():
     try:
-        es = Elasticsearch(
-            [f"http://{ES_HOST}"],
-            retry_on_timeout=True,
-            timeout=30
-        )
-        if es.ping():
-            print(f"Connecté à Elasticsearch sur {ES_HOST}")
-            return es
-        else:
-            print("Impossible de se connecter à Elasticsearch")
+        print(f"Tentative de connexion à Elasticsearch sur {ES_HOST}")
+        print(f"Authentification activée: {'Oui' if ES_PASSWORD else 'Non'}")
+        
+        # Configuration de base
+        es_config = {
+            'hosts': [f'http://{ES_HOST}'],
+            'retry_on_timeout': True,
+            'request_timeout': 30,
+            'verify_certs': False,
+            'basic_auth': ('elastic', ES_PASSWORD)  # Toujours utiliser l'authentification
+        }
+        
+        es = Elasticsearch(**es_config)
+        
+        # Test de connexion plus détaillé
+        try:
+            if es.ping():
+                print(f"✅ Connecté à Elasticsearch sur {ES_HOST}")
+                info = es.info()
+                print(f"Version: {info['version']['number']}")
+                print(f"Cluster: {info['cluster_name']}")
+                return es
+            else:
+                print("❌ Impossible de se connecter à Elasticsearch - Le ping a échoué")
+                return None
+        except Exception as e:
+            print(f"❌ Erreur lors du ping: {str(e)}")
             return None
+            
     except Exception as e:
-        print(f"Erreur de connexion : {e}")
+        print(f"❌ Erreur de connexion à Elasticsearch: {str(e)}")
         return None
+
+
 
 def load_json_files():
     es = get_es_client()

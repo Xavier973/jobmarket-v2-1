@@ -5,7 +5,8 @@ from elasticsearch import Elasticsearch
 import shutil
 
 # Configuration pour le conteneur
-ES_HOST = "elasticsearch:9200"
+ES_HOST = os.getenv('ES_HOST', 'elasticsearch:9200')
+ES_PASSWORD = os.getenv('ES_PASSWORD', 'JobMarket2024Secure!')
 JOBMARKET_INDEX = "jobmarket"
 # DATA_PATH = "/app/data/transformed/francetravail/*.json"
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) 
@@ -15,19 +16,37 @@ DATA_TRANSFORM_FOLDER = os.path.join(BASE_PATH, "data", "transformed", "francetr
 
 def get_es_client():
     try:
-        es = Elasticsearch(
-            [f"http://{ES_HOST}"],
-            retry_on_timeout=True,
-            timeout=30
-        )
-        if es.ping():
-            print(f"Connecté à Elasticsearch sur {ES_HOST}")
-            return es
-        else:
-            print("Impossible de se connecter à Elasticsearch")
+        print(f"Tentative de connexion à Elasticsearch sur {ES_HOST}")
+        print(f"Authentification activée: {'Oui' if ES_PASSWORD else 'Non'}")
+        
+        # Configuration de base
+        es_config = {
+            'hosts': [f'http://{ES_HOST}'],
+            'retry_on_timeout': True,
+            'request_timeout': 30,
+            'verify_certs': False,
+            'basic_auth': ('elastic', ES_PASSWORD)
+        }
+        
+        es = Elasticsearch(**es_config)
+        
+        # Test de connexion plus détaillé
+        try:
+            if es.ping():
+                print(f"✅ Connecté à Elasticsearch sur {ES_HOST}")
+                info = es.info()
+                print(f"Version: {info['version']['number']}")
+                print(f"Cluster: {info['cluster_name']}")
+                return es
+            else:
+                print("❌ Impossible de se connecter à Elasticsearch - Le ping a échoué")
+                return None
+        except Exception as e:
+            print(f"❌ Erreur lors du ping: {str(e)}")
             return None
+            
     except Exception as e:
-        print(f"Erreur de connexion : {e}")
+        print(f"❌ Erreur de connexion à Elasticsearch: {str(e)}")
         return None
 
 def load_json_files():

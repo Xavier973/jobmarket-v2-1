@@ -102,8 +102,9 @@ def get_offers_by_job():
                 "aggs": {
                     "jobs": {
                         "terms": {
-                            "field": "job.keyword",
-                            "size": 10 # Top 10 des postes les plus demandés
+                            "field": "job",  # Le champ est déjà de type keyword
+                            "size": 10,
+                            "missing": "Non spécifié"
                         }
                     }
                 }
@@ -119,8 +120,8 @@ def get_offers_by_job():
         return jobs, counts
         
     except Exception as e:
-        print(f"Erreur lors de la récupération des offres par job: {e}")
-        return [], [] 
+        print(f"❌ Erreur lors de la récupération des offres par job: {str(e)}")
+        return ["Erreur de données"], [0]
 
 def get_offers_by_department():
     """Récupère la répartition des offres par département"""
@@ -133,7 +134,7 @@ def get_offers_by_department():
                 "aggs": {
                     "departments": {
                         "terms": {
-                            "field": "location.keyword",
+                            "field": "location",
                             "size": 100
                         }
                     }
@@ -164,7 +165,7 @@ def get_offers_by_contract():
                 "aggs": {
                     "contracts": {
                         "terms": {
-                            "field": "contract_type.keyword",
+                            "field": "contract_type",
                             "size": 10
                         }
                     }
