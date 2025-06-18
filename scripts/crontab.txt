@@ -1,0 +1,4 @@
+# Exécution du scraper France Travail tous les jours à 4h du matin
+0 4 * * * /home/ubuntu/jobmarket-v2-1/scripts/run_francetravail_scraper.sh
+
+# echo -e "# Exécution du scraper France Travail tous les jours à 4h du matin\n0 4 * * * /home/ubuntu/jobmarket-v2-1/scripts/run_francetravail_scraper.sh\n" | crontab -

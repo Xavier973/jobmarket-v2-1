@@ -1,8 +1,17 @@
+import os
+print("ES_HOST =", os.getenv("ES_HOST"))
+print("ES_USERNAME =", os.getenv("ES_USERNAME"))
+print("ES_PASSWORD =", os.getenv("ES_PASSWORD"))
+
 from elastic import get_es_client, JOBMARKET_INDEX
-from Elasticsearch.src.elastic import get_es_client, JOBMARKET_INDEX
 
 def create_index():
     es = get_es_client()
+    print("es =", es)
+    
+    if es is None:
+        print("Impossible de se connecter à Elasticsearch")
+        return
     
     # Vérifier si l'index existe déjà
     if not es.indices.exists(index=JOBMARKET_INDEX):

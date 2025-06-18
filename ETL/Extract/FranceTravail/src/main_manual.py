@@ -61,16 +61,16 @@ print("==================================================\n")
 
 # List of search terms for web scraping.
 Search_term = [
-    "data architect",
-    "data engineer",
+    #"data architect",
+    #"data engineer",
     "data scientist",
-    "data analyst",
+    #"data analyst",
     "data manager",
-    "software engineer",
-    "Data Warehousing Engineer",
+    #"software engineer",
+    #"Data Warehousing Engineer",
     "Machine Learning Engineer",
-    "cloud architect",
-    "solution architect",
+    #"cloud architect",
+    #"solution architect",
     "cloud engineer",
     "big data engineer",
     "Data Infrastructure Engineer",

@@ -13,8 +13,16 @@ def get_es_client():
     for attempt in range(max_retries):
         try:
             es_host = os.getenv("ES_HOST", "localhost:9200")
+            es_username = os.getenv("ES_USERNAME", "elastic")
+            es_password = os.getenv("ES_PASSWORD")
+
+            if not es_password:
+                print("Erreur: ES_PASSWORD n'est pas défini")
+                return None
+
             es = Elasticsearch(
                 hosts=[f"http://{es_host}"],
+                basic_auth=(es_username, es_password),
                 retry_on_timeout=True,
                 timeout=30
             )

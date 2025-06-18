@@ -1,0 +1,22 @@
+version: '3.8'
+
+services:
+  elasticsearch:
+    environment:
+      - "ES_JAVA_OPTS=-Xms2g -Xmx2g"    # Plus de mémoire en prod
+      - xpack.security.enabled=true      # Sécurité activée en prod
+      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
+
+  dash:
+    environment:
+      - ES_PASSWORD=${ELASTIC_PASSWORD}  # Authentification en prod
+
+  nginx:
+    ports:
+      - "80:80"
+      - "443:443"                        # HTTPS en prod
+    volumes:
+      - ../nginx/prod:/etc/nginx/conf.d
+      - ../nginx/logs:/var/log/nginx
+      - ../nginx/ssl/fullchain.pem:/etc/nginx/ssl/fullchain.pem:ro
+      - ../nginx/ssl/privkey.pem:/etc/nginx/ssl/privkey.pem:ro

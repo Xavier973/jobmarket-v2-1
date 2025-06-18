@@ -24,7 +24,7 @@ def get_offers_by_source():
         "aggs": {
             "sources": {
                 "terms": {
-                    "field": "source.keyword",
+                    "field": "source",
                     "size": 10
                 }
             }
@@ -57,7 +57,7 @@ def get_offers_evolution():
                 "aggs": {
                     "by_source": {
                         "terms": {
-                            "field": "source.keyword"
+                            "field": "source"
                         }
                     }
                 }
@@ -205,13 +205,13 @@ def get_all_skills(job_filter=None):
                 "match_all": {}
             } if job_filter is None else {
                 "term": {
-                    "job.keyword": job_filter
+                    "job": job_filter
                 }
             },
             "aggs": {
                 category: {
                     "terms": {
-                        "field": f"skills.{category}.keyword",
+                        "field": f"skills.{category}",
                         "size": 25
                     }
                 } for category in skills_categories
