@@ -23,13 +23,58 @@ def create_index():
                     "job_title": {"type": "text"},
                     "job": {"type": "keyword"},
                     "contract_type": {"type": "keyword"},
+                    "contract_type_raw": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "salary": {"type": "keyword"},
                     "company": {"type": "keyword"},
                     "location": {"type": "keyword"},
+                    "location_raw": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "remote": {"type": "keyword"},
                     "experience": {"type": "keyword"},
+                    "experience_raw": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "education_level": {"type": "keyword"},
+                    "education_level_raw": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "publication_date": {"type": "date"},
+                    "ft_reference": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "company_data": {
                         "properties": {
                             "sector": {"type": "keyword"},
