@@ -34,11 +34,15 @@ jobs = []
 time_file = datetime.now().strftime("%Y%m%d_%H%M%S")
 time_offer = datetime.now().strftime("%Y-%m-%dT%H:%M:%SZ")
 
+# Nom de la source
+SOURCE_NAME = "francetravail"
+
 # Définir les chemins de sauvegarde à partir des variables d'environnement
-json_raw_directory = os.getenv('DATA_RAW_DIR', '/app/data/raw/francetravail')
-json_transformed_directory = os.getenv('DATA_TRANSFORMED_DIR', '/app/data/transformed/francetravail')
+json_raw_directory = os.path.join(os.getenv('DATA_RAW_DIR', '/app/data/raw'), SOURCE_NAME)
+json_transformed_directory = os.path.join(os.getenv('DATA_TRANSFORMED_DIR', '/app/data/transformed'), SOURCE_NAME)
 log_file_path = os.path.join(
-    os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail'),
+    os.getenv('DATA_LOG_DIR', '/app/data/logs'),
+    SOURCE_NAME,
     'ft_scraping_log.txt'
 )
 
@@ -438,7 +442,8 @@ def scraping_and_process(term, driver, collect_all=False):
         # Génération du nom de fichier log avec timestamp
         timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
         transform_log_path = os.path.join(
-            os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail'),
+            os.getenv('DATA_LOG_DIR', '/app/data/logs'),
+            SOURCE_NAME,
             f"transform_ft_{timestamp}.txt"
         )
         
