@@ -1,114 +1,85 @@
 """
-This module contains all the functions needed to manage pagination and retrieve pages from html code.
+Ce module contient toutes les fonctions nécessaires pour gérer la pagination et récupérer les pages HTML avec Selenium.
 """
 
 import logging
-
-import httpx
 import validators
 from fake_useragent import UserAgent
-from playwright.async_api import TimeoutError, async_playwright
-from playwright_stealth import Stealth
 from selectolax.parser import HTMLParser
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException, WebDriverException
 
 logger = logging.getLogger("WelcomeToTheJungle.pagination_functions")
 
-
-async def get_html(url: str):
+def get_html(driver, url: str):
     """
-    Function for parsing the required html page.
-    A different UserAgent is used for each function call to avoid being blocked by the scraped site.
-    :param url: url of the page we want to scrape (job details pages)
+    Fonction pour parser la page HTML requise avec Selenium.
+    :param driver: instance du navigateur Selenium
+    :param url: url de la page à scraper
+    :return: HTMLParser de la page
     """
-    user_agent = UserAgent().random  # Generate a random User-Agent for each call
-    headers = {"User-Agent": user_agent}
+    try:
+        user_agent = UserAgent().random
+        driver.execute_cdp_cmd('Network.setUserAgentOverride', {"userAgent": user_agent})
+    except Exception as e:
+        logger.warning(f"Impossible de changer le User-Agent : {e}")
+    try:
+        driver.get(url)
+        # Attendre que la page soit chargée (on peut adapter le sélecteur si besoin)
+        WebDriverWait(driver, 10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+        html = HTMLParser(driver.page_source)
+        return html
+    except Exception as e:
+        logger.error(f"Erreur lors du chargement de {url} : {e}")
+        return None
 
-    async with httpx.AsyncClient() as client:
-        try:
-            resp = await client.get(url, headers=headers)
-            resp.raise_for_status()
-            html = HTMLParser(resp.text)
-        except httpx.HTTPError as e:
-            logging.error(f"HTTP error while fetching {url}: {e}")
-            return None
-        except Exception as e:
-            logging.error(f"An error occurred while fetching {url}: {e}")
-            return None
-    return html
-
-
-import logging
-
-import validators
-from playwright.async_api import TimeoutError, async_playwright
-
-
-async def get_total_pages(baseurl: str, total_page_selector: str, job: str):
+def get_total_pages(driver, baseurl: str, total_page_selector: str, job: str):
     """
-    Function to return the total number of pages in our search.
-    Use of playwright because the page is coded in JavaScript.
-
-    :param baseurl: URL of the first page returned after entering the desired job in the search bar.
-    :param total_page_selector: JavaScript selector containing the number of pages.
-    :return int: The number corresponding to the last page of our search.
+    Retourne le nombre total de pages pour une recherche donnée, en utilisant Selenium.
+    :param driver: instance du navigateur Selenium
+    :param baseurl: URL de la première page de recherche
+    :param total_page_selector: sélecteur CSS de la pagination
+    :param job: nom du job (pour debug)
+    :return: int ou None
     """
     max_attempts = 2
     attempt = 0
-
     while attempt < max_attempts:
         try:
             if not validators.url(baseurl):
                 raise ValueError("Invalid URL")
-
-            async with async_playwright() as p:
-                browser = await p.chromium.launch(headless=True)
-                print(f"Browser launched")
-                stealth = Stealth()
-                context = await browser.new_context()
-                for script in stealth.enabled_scripts:
-                    await context.add_init_script(script)
-                page = await context.new_page()
-                try:
-                    print(f"Going to {baseurl}")
-                    await page.goto(baseurl, timeout=5000)
-
-                    # Dump du HTML pour debug
-                    html = await page.content()
-                    with open(f"debug_{job}.html", "w", encoding="utf-8") as f:
-                        f.write(html)
-
-                    # Attendre que les liens de pagination soient attachés au DOM
-                    await page.wait_for_selector(total_page_selector, state="attached", timeout=15000)
-                    elements = await page.query_selector_all(total_page_selector)
-                    if elements:
-                        last = elements[-1]
-                        total_pages_text = await last.inner_text()
-                        total_pages = int(total_pages_text.strip())
-                        print(f"Total pages: {total_pages}")
-                        return total_pages if total_pages else None
-                    else:
-                        print(f"No elements found - total pages fixed to 1")
-                        return 1
-
-                except TimeoutError as e:
-                    logging.error(
-                        f"Timeout error while extracting total number of pages: {str(e)}"
-                    )
-                except Exception as e:
-                    logging.error(
-                        f"Error while extracting total number of pages: {str(e)}"
-                    )
-                finally:
-                    await browser.close()
-
+            driver.get(baseurl)
+            # Dump du HTML pour debug dès que la page est chargée
+            with open(f"debug_{job}.html", "w", encoding="utf-8") as f:
+                f.write(driver.page_source)
+            # Attendre que la pagination soit présente
+            try:
+                WebDriverWait(driver, 15).until(
+                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, total_page_selector))
+                )
+                elements = driver.find_elements(By.CSS_SELECTOR, total_page_selector)
+                if elements:
+                    last = elements[-1]
+                    total_pages_text = last.text.strip()
+                    total_pages = int(total_pages_text)
+                    return total_pages if total_pages else None
+                else:
+                    logger.info(f"Aucun élément trouvé - total pages fixé à 1")
+                    return 1
+            except TimeoutException:
+                logger.error(f"Timeout lors de l'extraction du nombre de pages pour {baseurl}")
+            except Exception as e:
+                logger.error(f"Erreur lors de l'extraction du nombre de pages : {e}")
         except ValueError as ve:
-            logging.error(f"Invalid URL: {str(ve)}")
+            logger.error(f"URL invalide : {str(ve)}")
             break
+        except WebDriverException as e:
+            logger.error(f"Erreur WebDriver : {str(e)}")
         except Exception as e:
-            logging.error(f"Error while processing the base URL: {str(e)}")
-
-        logging.info(f"Retrying... Attempt {attempt + 1} of {max_attempts}")
+            logger.error(f"Erreur lors du traitement de l'URL de base : {str(e)}")
+        logger.info(f"Nouvelle tentative... {attempt + 1} sur {max_attempts}")
         attempt += 1
-
-    logging.error("Failed to retrieve total number of pages after multiple attempts")
+    logger.error("Impossible de récupérer le nombre de pages après plusieurs tentatives")
     return None

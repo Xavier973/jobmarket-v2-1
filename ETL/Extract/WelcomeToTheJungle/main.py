@@ -1,4 +1,3 @@
-import asyncio
 import datetime
 import json
 import logging
@@ -6,8 +5,16 @@ import logging.config
 import sys
 from pathlib import Path
 import os
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import WebDriverException
+from fake_useragent import UserAgent
+from selenium_stealth import stealth
 
-from playwright.async_api import async_playwright
 from constants import (
     COMPANY_INFO_SELECTOR,
     COMPANY_SELECTORS,
@@ -76,69 +83,10 @@ logging_config = {
 logging.config.dictConfig(logging_config)
 
 
-async def generate_job_search_url(job, page_number):
+def generate_job_search_url(job, page_number):
     url = f"https://www.welcometothejungle.com/fr/jobs?query={job.replace(' ', '%20')}&page={page_number}&aroundQuery=worldwide"
     logging.info(f"Generated URL: {url}")
     return url
-
-
-async def scrape_job_offers(page, job, page_number, final_file):
-    job_search_url = await generate_job_search_url(job, page_number)
-    logging.info(f"Scraping URL: {job_search_url}")
-    try:
-        await page.goto(job_search_url, timeout=30000)
-        await page.wait_for_load_state("networkidle")
-        job_links = await extract_links(page, job_search_url, JOB_LINK_SELECTOR)
-        logging.info(f"Extracted job links: {job_links}")
-
-        if not job_links:
-            logging.warning(f"No job links found for URL: {job_search_url}")
-            return []
-
-        job_offers = []
-
-        for link in job_links:
-            if link is None:
-                logging.error("Extracted link is None, skipping...")
-                continue
-
-            complete_url = f"{RACINE_URL}{link}"
-            logging.info(f"Fetching job details from: {complete_url}")
-            try:
-                html = await get_html(complete_url)
-                if html:
-                    logging.info(f"Fetched HTML for {complete_url}")
-                    job_offer = {
-                        "source": "welcometothejungle",
-                        "link": complete_url, 
-                        **await get_contract_elements(
-                            html, CONTRACT_INFO_SELECTOR, CONTRACT_SELECTORS
-                        ),
-                        "company_data": await get_company_elements(
-                            html, COMPANY_INFO_SELECTOR, COMPANY_SELECTORS
-                        ),
-                        "description": await get_raw_description(
-                            html, RAW_DESCRIPTION_SELECTORS
-                        ),
-                    }
-                    job_offers.append(job_offer)
-
-                    # Append each job offer to the JSON list in the final file
-                    append_to_json_list(final_file, job_offer)
-                    logging.info(f"Successfully wrote job offer to {final_file}")
-                else:
-                    logging.error(f"Failed to fetch HTML from {complete_url}, got None")
-
-                await asyncio.sleep(0.5)
-
-            except Exception as e:
-                logging.error(f"Failed to fetch job details from {complete_url}: {e}")
-
-        return job_offers
-
-    except Exception as e:
-        logging.error(f"Failed to scrape {job_search_url}: {e}")
-        return []
 
 
 def append_to_json_list(file_path, item):
@@ -164,29 +112,99 @@ def append_to_json_list(file_path, item):
         logging.error(f"Error while appending to JSON list: {e}")
 
 
-async def launch_browser():
-    playwright = await async_playwright().start()
-    browser = await playwright.chromium.launch()
-    return browser, playwright
+def launch_browser():
+    options = Options()
+    options.add_argument('--headless=new')
+    options.add_argument('--disable-blink-features=AutomationControlled')
+    options.add_argument('--no-sandbox')
+    options.add_argument('--disable-dev-shm-usage')
+    user_agent = UserAgent().random
+    options.add_argument(f'user-agent={user_agent}')
+    driver = webdriver.Chrome(options=options)
+    # Appliquer selenium-stealth
+    stealth(driver,
+        languages=["fr-FR", "fr"],
+        vendor="Google Inc.",
+        platform="Linux x86_64",
+        webgl_vendor="Intel Inc.",
+        renderer="Intel Iris OpenGL Engine",
+        fix_hairline=True,
+    )
+    return driver
 
 
-async def close_browser(browser, playwright):
-    await browser.close()
-    await playwright.stop()
+def close_browser(driver):
+    driver.quit()
 
 
-async def scrape_jobs(page, final_file):
+def scrape_job_offers(driver, job, page_number, final_file):
+    job_search_url = generate_job_search_url(job, page_number)
+    logging.info(f"Scraping URL: {job_search_url}")
+    try:
+        # Dump du HTML de la page de résultats (avant extraction des liens)
+        driver.get(job_search_url)
+        page_html = driver.page_source
+        safe_job = job.replace(' ', '_').replace('/', '_')
+        html_capture = f"html_dump_{safe_job}_{page_number}.html"
+        print(f"HTML dump: {html_capture}")
+        with open(html_capture, "w", encoding="utf-8") as f:
+            f.write(page_html)
+        # Extraction des liens sur la page
+        job_links = extract_links(driver, job_search_url, JOB_LINK_SELECTOR)
+        logging.info(f"Extracted job links: {job_links}")
+        if not job_links:
+            logging.warning(f"No job links found for URL: {job_search_url}")
+            return []
+        job_offers = []
+        for link in job_links:
+            if link is None:
+                logging.error("Extracted link is None, skipping...")
+                continue
+            complete_url = f"{RACINE_URL}{link}"
+            logging.info(f"Fetching job details from: {complete_url}")
+            try:
+                html = get_html(driver, complete_url)
+                if html:
+                    logging.info(f"Fetched HTML for {complete_url}")
+                    job_offer = {
+                        "source": "welcometothejungle",
+                        "link": complete_url,
+                        **get_contract_elements(
+                            html, CONTRACT_INFO_SELECTOR, CONTRACT_SELECTORS
+                        ),
+                        "company_data": get_company_elements(
+                            html, COMPANY_INFO_SELECTOR, COMPANY_SELECTORS
+                        ),
+                        "description": get_raw_description(
+                            html, RAW_DESCRIPTION_SELECTORS
+                        ),
+                    }
+                    job_offers.append(job_offer)
+                    append_to_json_list(final_file, job_offer)
+                    logging.info(f"Successfully wrote job offer to {final_file}")
+                else:
+                    logging.error(f"Failed to fetch HTML from {complete_url}, got None")
+            except Exception as e:
+                logging.error(f"Failed to fetch job details from {complete_url}: {e}")
+        return job_offers
+    except Exception as e:
+        logging.error(f"Failed to scrape {job_search_url}: {e}")
+        return []
+
+
+def scrape_jobs(driver, final_file):
     for job in JOBS:
-        baseurl = await generate_job_search_url(job, 1)
-        total_pages = await get_total_pages(baseurl, TOTAL_PAGE_SELECTOR, job)
+        baseurl = generate_job_search_url(job, 1)
+        total_pages = get_total_pages(driver, baseurl, TOTAL_PAGE_SELECTOR, job)
         if total_pages is None:
             logging.error(f"Could not determine total pages for job: {job}")
             continue
         for page_number in range(1, total_pages + 1):
-            await scrape_job_offers(page, job, page_number, final_file)
+            scrape_job_offers(driver, job, page_number, final_file)
 
 
-async def main():
+def main():
+    print("Scraping Welcome to the Jungle")
     logger = logging.getLogger(__name__)
 
     # Obtenir la date actuelle sous forme de chaîne formatée
@@ -194,24 +212,24 @@ async def main():
 
     # Construire le nom de fichier final avec la date
     final_file = output_dir / f"wttj_database_{current_date}.json"
-
+    print(f"Final file: {final_file}")
     # Initialize final file with an empty list if it doesn't exist
     if not final_file.exists():
         with open(final_file, "w", encoding="utf-8") as f:
             f.write("[]")  # Initialize with empty list
 
     # Launch browser
-    browser, playwright = await launch_browser()
-    page = await browser.new_page()
+    driver = launch_browser()
+    print("Browser launched")
 
     try:
         # Scrape jobs
-        await scrape_jobs(page, final_file)
+        scrape_jobs(driver, final_file)
     finally:
         # Ensure browser is closed
-        await close_browser(browser, playwright)
+        close_browser(driver)
 
 
 if __name__ == "__main__":
-    asyncio.run(main())
+    main()
     sys.exit()
