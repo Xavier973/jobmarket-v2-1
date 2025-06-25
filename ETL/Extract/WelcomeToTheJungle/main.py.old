@@ -1,0 +1,25 @@
+from pagination_functions import get_total_pages
+from data_extraction import extract_links
+from file_operations import save_file
+from constants import BASEURL, TOTAL_PAGE_SELECTOR, JOB_LINK_SELECTOR
+from playwright.async_api import async_playwright
+import asyncio
+
+async def main():
+    total_pages = await get_total_pages(BASEURL, TOTAL_PAGE_SELECTOR)
+    print(f"Total pages: {total_pages}")
+    all_links = []
+
+    async with async_playwright() as p:
+        browser = await p.chromium.launch()
+        page = await browser.new_page()
+        for page_num in range(1, total_pages + 1):
+            url = f"{BASEURL}?page={page_num}"
+            links = await extract_links(page, url, JOB_LINK_SELECTOR)
+            all_links.extend(links)
+        await browser.close()
+
+    save_file(all_links, "output_wttj_links.json")
+
+if __name__ == "__main__":
+    asyncio.run(main())

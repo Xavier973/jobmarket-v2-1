@@ -1,0 +1,5 @@
+httpx
+validators
+fake-useragent
+playwright
+selectolax
