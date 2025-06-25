@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Configuration du logging
-LOG_FILE="/home/ubuntu/jobmarket-v2-1/data/logs/francetravail/cron.log"
+LOG_FILE="/home/ubuntu/jobmarket-v2-1/data/logs/cron.log"
 mkdir -p "$(dirname "$LOG_FILE")"
 
 # Fonction de logging
@@ -9,7 +9,6 @@ log() {
     echo "$(date '+%Y-%m-%d %H:%M:%S'): $1" >> "$LOG_FILE"
 }
 
-# Début de l'exécution
 log "Début de l'exécution du scraper France Travail"
 
 # Vérification du répertoire

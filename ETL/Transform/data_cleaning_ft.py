@@ -182,9 +182,6 @@ def process_location(nom_location, location_dict):
     print(f"No match found for: {nom_location}")  # Debug print
     return None
 
-
-
-
 def find_job_title(title, jobs_dict):
     title_lower = title.lower()
     for job, keywords in jobs_dict.items():
@@ -307,7 +304,8 @@ def transform_json_file(input_file, output_folder, log_file_path):
     if not os.path.exists(output_folder):
         os.makedirs(output_folder)
 
-    with open(log_file_path, 'w', encoding='utf-8') as log_file:
+    # Ouvrir le fichier log en mode append ('a')
+    with open(log_file_path, 'a', encoding='utf-8') as log_file:
         if input_file.endswith(".json"):
             with open(input_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
@@ -334,9 +332,6 @@ def transform_json_file(input_file, output_folder, log_file_path):
                     entry['location'] = None
                                 
                 if "experience_raw" in entry and entry["experience_raw"] is not None:
-                    # experience_clean = clean_experience(entry["experience_raw"])
-                    #experience_transformed = [transform_list_to_string(exp) for exp in experience_clean]
-                    #entry["experience"] = ', '.join(set(exp.lower() for exp in experience_transformed if exp))
                     entry["experience"] = process_experience(entry["experience_raw"])
 
                 if "education_level_raw" in entry and entry["education_level_raw"] is not None:
@@ -346,7 +341,6 @@ def transform_json_file(input_file, output_folder, log_file_path):
                 if description:
                     entry['skills'] = {}
 
-
                     for variable, keywords in skills.items():
                         found_keywords = find_keywords(description, keywords)
                         if found_keywords:
@@ -355,7 +349,6 @@ def transform_json_file(input_file, output_folder, log_file_path):
             with open(output_filepath, 'w', encoding='utf-8') as f:
                 json.dump(data, f, ensure_ascii=False, indent=4)
 
-    log_file.close()
     print("Les données mises à jour ont été sauvegardées.")
 
 
@@ -368,12 +361,10 @@ if __name__ == "__main__":
     args = parser.parse_args()
     
     # Utiliser les mêmes variables d'environnement que main.py
-    log_dir = os.getenv('DATA_LOG_DIR', '/app/data/logs/francetravail')
+    log_base_dir = os.getenv('DATA_LOG_DIR', '/app/data/logs/')
+    log_dir = os.path.join(log_base_dir, 'transform')
     Path(log_dir).mkdir(parents=True, exist_ok=True)
+    log_file_path = os.path.join(log_dir, "transform_ft.log")
     
-    # Génération du nom de fichier log avec timestamp
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    log_file_path = os.path.join(log_dir, f"transform_ft_{timestamp}.txt")
-    
-    print(f"Création du fichier log: {log_file_path}")
+    print(f"Utilisation du fichier log: {log_file_path}")
     transform_json_file(args.input_file, args.output_folder, log_file_path)

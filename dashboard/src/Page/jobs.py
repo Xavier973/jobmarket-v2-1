@@ -72,10 +72,10 @@ def create_jobs_page():
                             {'name': 'Contrat', 'id': 'Contrat'},
                             {'name': 'Lieu', 'id': 'Lieu'},
                             {'name': 'Recruteur', 'id': 'Recruteur'},
-                            {'name': 'Télétravail', 'id': 'Teletravail'},
                             {'name': 'Expérience', 'id': 'Experience'},
                             {'name': 'Niveau d\'étude', 'id': 'Niveau d\'étude'},
                             {'name': 'Salaire', 'id': 'Salaire'},
+                            {'name': 'Télétravail', 'id': 'Teletravail'},   
                             {'name': 'Lien', 'id': 'Lien', 'presentation': 'markdown'},
                             {'name': 'Référence', 'id': 'Référence'}
                         ],
@@ -83,9 +83,11 @@ def create_jobs_page():
                         style_table={'overflowX': 'auto'},
                         style_cell={
                             'textAlign': 'left',
-                            'padding': '10px',
+                            'padding': '5px',
                             'whiteSpace': 'normal',
                             'height': 'auto',
+                            'fontSize': '14px',
+                            'textAlign': 'center'
                         },
                         style_cell_conditional=[
                             {
@@ -106,6 +108,13 @@ def create_jobs_page():
                                 'width': '120px',
                                 'maxWidth': '120px',
                                 'minWidth': '120px'
+                            },
+                            {
+                                'if': {'column_id': 'Contrat'},
+                                'width': '75px',
+                                'maxWidth': '75px',
+                                'minWidth': '75px',
+                                'textAlign': 'center'
                             }
                         ],
                         style_header={
