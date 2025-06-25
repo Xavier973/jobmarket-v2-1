@@ -1,0 +1,222 @@
+{
+    "project": {
+        "name": "jobmarket-v2-1",
+        "type": "data-analytics",
+        "description": "Application d'analyse du marché de l'emploi avec ETL et dashboard"
+    },
+    "architecture": {
+        "components": [
+            {
+                "name": "ETL",
+                "path": "./ETL",
+                "subcomponents": {
+                    "Extract": "Extraction des données des sites france travail, welcome to the jungle, linkedin, indeed",
+                    "Transform": "Transformation et nettoyage des données",
+                    "Load": "Chargement des données dans Elasticsearch"
+                }
+            },
+            {
+                "name": "dashboard",
+                "path": "./dashboard",
+                "framework": "Dash",
+                "structure": {
+                    "src/Page": "Pages de l'application",
+                    "src/components": "Composants réutilisables",
+                    "src/utils": "Utilitaires et requêtes Elasticsearch"
+                }
+            },
+            {
+                "name": "Elasticsearch",
+                "path": "./Elasticsearch",
+                "description": "Configuration et helpers Elasticsearch"
+            }
+        ]
+    },
+    "conventions": {
+        "naming": {
+            "python_files": "snake_case",
+            "python_classes": "PascalCase",
+            "python_functions": "snake_case",
+            "python_variables": "snake_case"
+        },
+        "structure": {
+            "data_directory": {
+                "raw": "Données brutes",
+                "processed": "Données traitées",
+                "transformed": "Données transformées",
+                "logs": "Fichiers de logs"
+            }
+        }
+    },
+    "dependencies": {
+        "services": [
+            {
+                "name": "elasticsearch",
+                "version": "8.12.1",
+                "required": true
+            },
+            {
+                "name": "nginx",
+                "version": "alpine",
+                "required": true
+            }
+        ],
+        "python": {
+            "dashboard": [
+                "dash",
+                "dash-bootstrap-components",
+                "elasticsearch"
+            ]
+        }
+    },
+    "deployment": {
+        "containerization": "docker",
+        "orchestration": "docker-compose",
+        "environment_variables": [
+            "ES_HOST",
+            "ES_PORT",
+            "ES_HEAP_SIZE",
+            "ES_SECURITY_ENABLED",
+            "ELASTIC_PASSWORD",
+            "ES_USER",
+            "DASH_PORT",
+            "NGINX_HTTP_PORT",
+            "NGINX_HTTPS_PORT",
+            "DOMAIN_NAME",
+            "DATA_RAW_DIR",
+            "DATA_TRANSFORMED_DIR",
+            "DATA_PROCESSED_DIR",
+            "DATA_LOG_DIR"
+        ]
+    },
+    "local_environment": {
+        "note": "Ces valeurs sont pour l'environnement de développement local et peuvent contenir des informations sensibles. Ne pas commiter ce fichier si les secrets sont décommentés.",
+        "elasticsearch": {
+            "ES_HOST": "localhost",
+            "ES_PORT": "9200",
+            "ES_USER": "elastic",
+            "ELASTIC_PASSWORD": "JobMarket2024Secure!",
+            "ES_SECURITY_ENABLED": "true"
+        }
+    },
+    "code_generation_rules": {
+        "dashboard": {
+            "new_pages": {
+                "template": "./dashboard/src/Page",
+                "required_functions": ["create_*_page"]
+            },
+            "components": {
+                "location": "./dashboard/src/components",
+                "naming": "*_component.py"
+            }
+        },
+        "etl": {
+            "extractors": {
+                "location": "./ETL/Extract",
+                "required_methods": ["extract", "validate"],
+                "sources": [
+                    {"name": "France Travail", "abbreviation": "ft"},
+                    {"name": "Welcome To The Jungle", "abbreviation": "wttj"},
+                    {"name": "LinkedIn", "abbreviation": "liki"},
+                    {"name": "Indeed", "abbreviation": "ind"}
+                ],
+                "naming_convention": "Utiliser l'abréviation de la source (ft, wttj, liki, ind) comme préfixe ou suffixe dans les noms de fichiers et fonctions liés à l'extraction ou au traitement de cette source. Exemple : data_cleaning_ft.py, extract_wttj.py, validate_liki.py, load_data_ind.py."
+            },
+            "transformers": {
+                "location": "./ETL/Transform",
+                "required_methods": ["transform", "clean"]
+            },
+            "path_generation": {
+                "rule": "Les scripts doivent construire les chemins de données en utilisant les variables d'environnement (DATA_*_DIR) et un nom de source.",
+                "example": "os.path.join(os.getenv('DATA_RAW_DIR'), 'francetravail')"
+            }
+        }
+    },
+    "elasticsearch_schema": {
+        "index_name": "jobmarket",
+        "mapping": {
+            "properties": {
+                "source": { "type": "keyword" },
+                "job_title": { "type": "text" },
+                "job": { "type": "keyword" },
+                "contract_type": { "type": "keyword" },
+                "contract_type_raw": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": { "type": "keyword", "ignore_above": 256 }
+                    }
+                },
+                "salary": { "type": "keyword" },
+                "company": { "type": "keyword" },
+                "location": { "type": "keyword" },
+                "location_raw": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": { "type": "keyword", "ignore_above": 256 }
+                    }
+                },
+                "remote": { "type": "keyword" },
+                "experience": { "type": "keyword" },
+                "experience_raw": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": { "type": "keyword", "ignore_above": 256 }
+                    }
+                },
+                "education_level": { "type": "keyword" },
+                "education_level_raw": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": { "type": "keyword", "ignore_above": 256 }
+                    }
+                },
+                "publication_date": { "type": "date" },
+                "ft_reference": {
+                    "type": "text",
+                    "fields": {
+                        "keyword": { "type": "keyword", "ignore_above": 256 }
+                    }
+                },
+                "company_data": {
+                    "properties": {
+                        "sector": { "type": "keyword" },
+                        "company_size": { "type": "keyword" },
+                        "creation_date": { "type": "keyword" },
+                        "address": { "type": "keyword" },
+                        "average_age_of_employees": { "type": "keyword" },
+                        "turnover_in_millions": { "type": "keyword" },
+                        "proportion_female": { "type": "keyword" },
+                        "proportion_male": { "type": "keyword" }
+                    }
+                },
+                "skills": {
+                    "properties": {
+                        "ProgLanguage": { "type": "keyword" },
+                        "DataBase": { "type": "keyword" },
+                        "DataAnalytics": { "type": "keyword" },
+                        "BigData": { "type": "keyword" },
+                        "MachineLearning": { "type": "keyword" },
+                        "DataSerialization": { "type": "keyword" },
+                        "DataVisualisation": { "type": "keyword" },
+                        "Statistics": { "type": "keyword" },
+                        "CloudComputing": { "type": "keyword" },
+                        "DevTools": { "type": "keyword" },
+                        "OS": { "type": "keyword" },
+                        "DBMS": { "type": "keyword" },
+                        "SoftBigDataProcessing": { "type": "keyword" },
+                        "Automation": { "type": "keyword" },
+                        "InfrastructureAsCode": { "type": "keyword" },
+                        "NetworkSecurty": { "type": "keyword" },
+                        "Virtualisation": { "type": "keyword" },
+                        "Containers": { "type": "keyword" },
+                        "Collaboration": { "type": "keyword" },
+                        "Other": { "type": "keyword" },
+                        "EnSoftSkils": { "type": "keyword" }
+                    }
+                },
+                "link": { "type": "keyword" },
+                "description": { "type": "text" }
+            }
+        }
+    }
+} 

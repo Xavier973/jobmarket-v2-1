@@ -8,7 +8,10 @@ def get_job_offers():
     es = get_es_client()
     
     query = {
-        "size": 10000,  # Limite à 1000 résultats
+        "size": 1000,
+        "sort": [
+            { "publication_date": "desc" }
+        ],
         "_source": ["source", "ft_reference", "publication_date", "job", 
                    "job_title", "contract_type", "location", "link", 
                    "company", "Remote", "experience", "education_level",
