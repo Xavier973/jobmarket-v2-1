@@ -88,6 +88,31 @@ services:
     entrypoint: ["tail", "-f", "/dev/null"]
     restart: unless-stopped
 
+  wttj:
+    build:
+      context: ./ETL/Extract/WelcomeToTheJungle
+      dockerfile: Dockerfile
+    environment:
+      - ES_HOST=${ES_HOST}
+      - DATA_RAW_DIR=${DATA_RAW_DIR}
+      - DATA_LOG_DIR=${DATA_LOG_DIR}
+      - DATA_TRANSFORMED_DIR=${DATA_TRANSFORMED_DIR}
+      - DISPLAY=${DISPLAY:-:99}
+    ports:
+      - "9222:9222"  # Port de débogage Chrome
+    volumes:
+      - ./ETL:/app/ETL
+      - ./data:/app/data
+      - ./Utils:/app/Utils
+      - /tmp/.X11-unix:/tmp/.X11-unix:rw  # Pour l'affichage X11
+    networks:
+      - default
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+    entrypoint: ["tail", "-f", "/dev/null"]
+    restart: unless-stopped
+
 networks:
   default:
     name: jobmarket-network

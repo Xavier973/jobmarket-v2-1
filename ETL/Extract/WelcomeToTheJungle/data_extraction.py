@@ -9,7 +9,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
 # Configuration du journal dans un fichier
-logger = logging.getLogger("WelcomeToTheJungle.data_extraction")
+logger = logging.getLogger("Wttj.data_extraction")
 
 def extract_links(driver, job_search_url: str, job_links_selector: str):
     """
@@ -81,7 +81,7 @@ def get_contract_elements(html, contract_info_selector, CONTRACT_SELECTORS):
     """
     contract_elements = html.css_first(contract_info_selector)
     try:
-        title = get_info(contract_elements, CONTRACT_SELECTORS["title"], parent=False)
+        job_title = get_info(contract_elements, CONTRACT_SELECTORS["title"], parent=False)
         contract_type = get_info(contract_elements, CONTRACT_SELECTORS["contract_type"])
         salary = get_info(contract_elements, CONTRACT_SELECTORS["salary"])
         company = get_info(
@@ -98,17 +98,20 @@ def get_contract_elements(html, contract_info_selector, CONTRACT_SELECTORS):
             time_element.attributes["datetime"][0:10] if time_element else None
         )
         contract_data = {
-            "title": title,
+            "job_title": job_title,
+            "job":"",
+            "contract_type_raw": contract_type,
+            "salary": salary,
             "company": company,
-            "location": location,
+            "location_raw": location,
+            "location": None,
             "remote": remote,
+            "experience_raw": experience,
+            "experience": None,
             "publication_date": publication_date,
-            "details": {
-                "TypeContract": contract_type,
-                "Salary": salary,
-                "Experience": experience,
-                "Level": education_level,
-            },
+            "education_level_raw": education_level,
+            "education_level": None,
+            "publication_date": publication_date,
         }
         return contract_data
     except Exception as e:
@@ -138,9 +141,14 @@ def get_company_elements(html, company_info_selector, COMPANY_SELECTORS):
 
 def get_raw_description(html, selector):
     try:
-        description = html.css_first(selector)
-        if description:
-            return description.text()
+        # Sélectionne tous les div correspondant à la description
+        description_divs = html.css(selector)
+        if description_divs and len(description_divs) > 1:
+            # On ignore le dernier (consacré à l'entreprise)
+            texts = [div.text() for div in description_divs[:-1]]
+            return "\n\n".join(texts)
+        elif description_divs:
+            return description_divs[0].text()
         else:
             return None
     except Exception as e:

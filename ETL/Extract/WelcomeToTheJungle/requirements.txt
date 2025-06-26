@@ -1,5 +1,6 @@
 httpx
 validators
 fake-useragent
-playwright
 selectolax
+selenium
+selenium-stealth

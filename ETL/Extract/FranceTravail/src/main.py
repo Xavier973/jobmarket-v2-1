@@ -70,7 +70,7 @@ Search_term = [
     "data scientist",
     "data analyst",
     "data manager",
-    "software engineer",,
+    "software engineer",
     "Machine Learning Engineer",
     "cloud architect",
     "solution architect",
@@ -79,8 +79,7 @@ Search_term = [
     "Data Infrastructure Engineer",
     "Data Pipeline Engineer",
     "ETL Developer",
-    "sysops"
-]
+    "sysops"]
 # log function
 def log_scraping_results(log_file_path, term, num_jobs, status="success", error_message=""):
     with open(log_file_path, 'a') as log_file:

@@ -1,0 +1,39 @@
+# Scraping Welcome To The Jungle
+FROM python:3.9-slim
+
+# Installation des dépendances système nécessaires
+RUN apt-get update && apt-get install -y \
+    wget \
+    gnupg \
+    unzip \
+    chromium \
+    chromium-driver \
+    xvfb \
+    x11-utils \
+    && rm -rf /var/lib/apt/lists/*
+
+# Création et définition du répertoire de travail
+WORKDIR /app
+
+# Création du répertoire temporaire pour Chrome
+RUN mkdir -p /tmp/chrome-user-data && chmod 777 /tmp/chrome-user-data
+
+# Copie des fichiers nécessaires
+COPY requirements.txt .
+
+# Installation des dépendances Python
+RUN pip install --no-cache-dir -r requirements.txt
+
+# Définition des variables d'environnement
+ENV PYTHONUNBUFFERED=1
+ENV DISPLAY=:99
+ENV CHROME_BIN=/usr/bin/chromium
+ENV ES_HOST=elasticsearch:9200
+ENV PYTHONPATH=/app
+
+# Script de démarrage
+COPY start.sh /start.sh
+RUN chmod +x /start.sh
+
+ENTRYPOINT ["/start.sh"]
+# CMD ["--all"] 

@@ -21,7 +21,7 @@ JOBS = ["data architect",
     "ETL Developer",
     "sysops"]
 RACINE_URL = 'https://www.welcometothejungle.com'
-JOB_LINK_SELECTOR = 'div.sc-1gjh7r6-7.fCBkLE > a'
+JOB_LINK_SELECTOR = 'div.sc-flttKd.hSdoDt > a'
 TOTAL_PAGE_SELECTOR = "a.sc-kVjqSu.gEPmms"
 CONTRACT_INFO_SELECTOR = '[data-testid="job-metadata-block"]'
 COMPANY_INFO_SELECTOR = '.sc-bXCLTC.dBpdut'
@@ -29,7 +29,7 @@ CONTRACT_SELECTORS = {
     'title': 'h2',
     'contract_type': '[name="contract"]',
     'salary': '[name="salary"]',
-    'company': '.sc-bXCLTC.dPVkkc',
+    'company': '.sc-dPhEwk.bSVjaH.wui-text',
     'location': '[name="location"]',
     'remote': '[name="remote"]',
     'experience': '[name="suitcase"]',
@@ -40,4 +40,4 @@ COMPANY_SELECTORS = {
     'company_size': '[name="department"]',
     'turnover_in_millions': '[name="euro_currency"]',
 }
-RAW_DESCRIPTION_SELECTORS = '.sc-bXCLTC.enCjpg'
+RAW_DESCRIPTION_SELECTORS = 'div.sc-eCEBvo.jswODj'
