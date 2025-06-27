@@ -71,7 +71,6 @@ Search_term = [
     "data analyst",
     "data manager",
     "software engineer",
-    "Data Warehousing Engineer",
     "Machine Learning Engineer",
     "cloud architect",
     "solution architect",
