@@ -39,13 +39,16 @@ from pagination_functions import get_html, get_total_pages, handle_geographic_re
 # Nom de la source
 SOURCE_NAME = "wttj"
 
+# Obtenir la date et l'heure actuelle pour le nom du fichier de log
+current_datetime = datetime.datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+
 # Définir les chemins de sauvegarde à partir des variables d'environnement
 json_raw_directory = os.path.join(os.getenv('DATA_RAW_DIR', '/app/data/raw'), SOURCE_NAME)
 json_transformed_directory = os.path.join(os.getenv('DATA_TRANSFORMED_DIR', '/app/data/transformed'), SOURCE_NAME)
 log_file_path = os.path.join(
     os.getenv('DATA_LOG_DIR', '/app/data/logs'),
     SOURCE_NAME,
-    'wttj_scraping_log.txt'
+    f'wttj_scraping_log_{current_datetime}.txt'
 )
 
 # Créer les dossiers s'ils n'existent pas
@@ -53,17 +56,17 @@ os.makedirs(json_raw_directory, exist_ok=True)
 os.makedirs(json_transformed_directory, exist_ok=True)
 os.makedirs(os.path.dirname(log_file_path), exist_ok=True)
 
-print("===========================================================================\n")
-print("******* Scraping de Welcome To The Jungle - Projet JobMarket V2.2.1 *******\n")
-print("===========================================================================\n")
+print("===============================================================================\n")
+print("********* Scraping de Welcome To The Jungle - Projet JobMarket V2.2.1 *********\n")
+print("===============================================================================\n")
 
 # Debug info
-print("\n================= Configuration =================\n")
-print(f"Dossier de sauvegarde : {json_raw_directory}")
-print(f"Dossier transformé : {json_transformed_directory}")
-print(f"Fichier de log : {log_file_path}")
-print(f"ES_HOST : {os.getenv('ES_HOST')}")
-print("==================================================\n")
+print("================================ Configuration ================================")
+print(f"-> Dossier de sauvegarde : {json_raw_directory}")
+print(f"-> Dossier transformé : {json_transformed_directory}")
+print(f"-> Fichier de log : {log_file_path}")
+print(f"-> ES_HOST : {os.getenv('ES_HOST')}")
+print("================================================================================\n")
 
 # Configuration du logging
 logging_config = {
@@ -178,15 +181,16 @@ def scrape_job_offers(driver, job, page_number, final_file):
         driver.get(job_search_url)
         # Gérer la redirection géographique si elle apparaît
         handle_geographic_redirect(driver)
-        page_html = driver.page_source
-        safe_job = job.replace(' ', '_').replace('/', '_')
-        html_capture = f"html_dump_{safe_job}_{page_number}.html"
-        print(f"HTML dump: {html_capture}")
-        with open(html_capture, "w", encoding="utf-8") as f:
-            f.write(page_html)
+        # page_html = driver.page_source
+        # safe_job = job.replace(' ', '_').replace('/', '_')
+        # html_capture = f"html_dump_{safe_job}_{page_number}.html"
+        # print(f"HTML dump: {html_capture}")
+        #with open(html_capture, "w", encoding="utf-8") as f:
+        #    f.write(page_html)
+        
         # Extraction des liens sur la page
         job_links = extract_links(driver, job_search_url, JOB_LINK_SELECTOR)
-        logging.info(f"Extracted job links: {job_links}")
+        # logging.info(f"Extracted job links: {job_links}")
         # print(f"Job links: {job_links}")
         if not job_links:
             logging.warning(f"No job links found for URL: {job_search_url}")
@@ -200,14 +204,14 @@ def scrape_job_offers(driver, job, page_number, final_file):
                 complete_url = link
             else:
                 complete_url = f"{RACINE_URL}{link}"
-            logging.info(f"Fetching job details from: {complete_url}")
-            wait = round(random.uniform(1, 5), 2)
+            # logging.info(f"Fetching job details from: {complete_url}")
+            wait = round(random.uniform(1, 3), 2)
             # print(f"Waiting for {wait} seconds")
             WebDriverWait(driver, wait)
             try:
                 html = get_html(driver, complete_url)
                 if html:
-                    logging.info(f"Fetched HTML for {complete_url}")
+                    # logging.info(f"Fetched HTML for {complete_url}")
                     job_offer = {
                         "source": "wttj",
                         **get_contract_elements(
@@ -223,7 +227,7 @@ def scrape_job_offers(driver, job, page_number, final_file):
                     }
                     job_offers.append(job_offer)
                     append_to_json_list(final_file, job_offer)
-                    logging.info(f"Successfully wrote job offer to {final_file}")
+                    # logging.info(f"Successfully wrote job offer to {final_file}")
                 else:
                     logging.error(f"Failed to fetch HTML from {complete_url}, got None")
             except Exception as e:
@@ -265,7 +269,7 @@ def scrape_jobs(driver, final_file):
 
 
 def main():
-    print("Scraping Welcome to the Jungle")
+    # print("Scraping Welcome to the Jungle")
     logger = logging.getLogger(__name__)
 
     # Obtenir la date actuelle sous forme de chaîne formatée
@@ -273,7 +277,7 @@ def main():
 
     # Construire le nom de fichier final avec la date
     final_file = Path(os.path.join(json_raw_directory, f"wttj_database_{current_date}.json"))
-    print(f"Final file: {final_file}")
+    print(f"Json: {final_file}")
     # Initialize final file with an empty list if it doesn't exist
     if not final_file.exists():
         with open(final_file, "w", encoding="utf-8") as f:

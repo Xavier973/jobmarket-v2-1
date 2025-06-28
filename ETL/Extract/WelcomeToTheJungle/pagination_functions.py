@@ -101,8 +101,8 @@ def get_total_pages(driver, baseurl: str, total_page_selector: str, job: str):
             # Gérer la redirection géographique si elle apparaît
             handle_geographic_redirect(driver)
             # Dump du HTML pour debug dès que la page est chargée
-            with open(f"debug_{job}.html", "w", encoding="utf-8") as f:
-                f.write(driver.page_source)
+            # with open(f"debug_{job}.html", "w", encoding="utf-8") as f:
+            #    f.write(driver.page_source)
                 # input("Press Enter to continue...")
             # Attendre que la pagination soit présente
             try:
