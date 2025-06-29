@@ -6,7 +6,7 @@ mkdir -p "$(dirname "$LOG_FILE")"
 
 # Fonction de log
 log() {
-    echo "$(date '+%Y-%m-%d %H:%M:%S'): $1" >> "$LOG_FILE"
+    echo "$(date '+%Y-%m-%d %H:%M:%S'): FranceTravail $1" >> "$LOG_FILE"
 }
 
 log "Début de l'exécution du chargement des données dans Elasticsearch"
@@ -26,7 +26,7 @@ fi
 
 # Exécution du chargement
 log "Lancement du script de chargement dans le conteneur"
-if ./scripts/dc.sh exec -T francetravail python /app/ETL/Load/load_data_container.py; then
+if ./scripts/dc.sh exec -T francetravail python /app/ETL/Load/load_data_ft.py; then
     log "Chargement des données terminé avec succès"
 else
     log "ERREUR: L'exécution du chargement a échoué"

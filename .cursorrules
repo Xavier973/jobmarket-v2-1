@@ -219,6 +219,7 @@
             }
         },
         "maintenance": {
-        "rule": "Toute évolution de l'application (structure, conventions, variables d'environnement, dépendances, etc.) doit entraîner une mise à jour du fichier .cursorrules."
+            "rule": "Toute évolution de l'application (structure, conventions, variables d'environnement, dépendances, etc.) doit entraîner une mise à jour du fichier .cursorrules."
+        }
     }
 } 
