@@ -7,6 +7,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
+import re
 
 # Configuration du journal dans un fichier
 logger = logging.getLogger("Wttj.data_extraction")
@@ -37,6 +38,18 @@ def extract_links(driver, job_search_url: str, job_links_selector: str):
     except Exception as e:
         logger.error(f"Erreur lors de l'extraction des liens : {str(e)}")
         return []
+
+def extract_wttj_ref(link):
+    """
+    Fonction qui extrait le wttj_ref à partir du lien.
+    """
+    if not isinstance(link, str):
+        return None
+    # On cherche la partie entre '/companies/' et le prochain '?', ou la fin du lien
+    match = re.search(r"/companies/([^?]+)", link)
+    if match:
+        return match.group(1)
+    return None
 
 def get_info(html, selector, parent=True):
     """

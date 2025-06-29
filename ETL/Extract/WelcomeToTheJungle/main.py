@@ -32,6 +32,7 @@ from data_extraction import (
     get_company_elements,
     get_contract_elements,
     get_raw_description,
+    extract_wttj_ref,
 )
 from file_operations import save_file
 from pagination_functions import get_html, get_total_pages, handle_geographic_redirect
@@ -217,6 +218,7 @@ def scrape_job_offers(driver, job, page_number, final_file):
                         **get_contract_elements(
                             html, CONTRACT_INFO_SELECTOR, CONTRACT_SELECTORS
                         ),
+                        "wttj_ref": extract_wttj_ref(link),
                         "company_data": get_company_elements(
                             html, COMPANY_INFO_SELECTOR, COMPANY_SELECTORS
                         ),
