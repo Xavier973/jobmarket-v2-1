@@ -104,25 +104,25 @@ def get_total_pages(driver, baseurl: str, total_page_selector: str, job: str):
             # with open(f"debug_{job}.html", "w", encoding="utf-8") as f:
             #    f.write(driver.page_source)
                 # input("Press Enter to continue...")
-            # Attendre que la pagination soit présente
-            try:
-                WebDriverWait(driver, 15).until(
-                    EC.presence_of_all_elements_located((By.CSS_SELECTOR, total_page_selector))
-                )
-                elements = driver.find_elements(By.CSS_SELECTOR, total_page_selector)
-                if elements:
-                    last = elements[-1]
-                    total_pages_text = last.text.strip()
-                    total_pages = int(total_pages_text)
-                    print(f"Nombre de pages trouvées : {total_pages}")
-                    return total_pages if total_pages else None
-                else:
-                    logger.info(f"Aucun élément trouvé - total pages fixé à 1")
-                    return 1
-            except TimeoutException:
-                logger.error(f"Timeout lors de l'extraction du nombre de pages pour {baseurl}")
-            except Exception as e:
-                logger.error(f"Erreur lors de l'extraction du nombre de pages : {e}")
+            
+            # Attendre que la page soit complètement chargée
+            WebDriverWait(driver, 10).until(lambda d: d.execute_script('return document.readyState') == 'complete')
+            
+            # Vérifier d'abord s'il y a des éléments de pagination
+            elements = driver.find_elements(By.CSS_SELECTOR, total_page_selector)
+            
+            if not elements:
+                # Aucun élément de pagination trouvé, cela signifie qu'il n'y a qu'une seule page
+                logger.info(f"Aucun élément de pagination trouvé - total pages fixé à 1")
+                return 1
+            
+            # Si des éléments sont trouvés, prendre le dernier pour obtenir le nombre total de pages
+            last = elements[-1]
+            total_pages_text = last.text.strip()
+            total_pages = int(total_pages_text)
+            print(f"Nombre de pages trouvées : {total_pages}")
+            return total_pages if total_pages else None
+            
         except ValueError as ve:
             logger.error(f"URL invalide : {str(ve)}")
             break

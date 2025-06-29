@@ -48,7 +48,7 @@ json_transformed_directory = os.path.join(os.getenv('DATA_TRANSFORMED_DIR', '/ap
 log_file_path = os.path.join(
     os.getenv('DATA_LOG_DIR', '/app/data/logs'),
     SOURCE_NAME,
-    f'wttj_scraping_log_{current_datetime}.txt'
+    f'wttj_scraping_log_{current_datetime}.log'
 )
 
 # Créer les dossiers s'ils n'existent pas
@@ -276,7 +276,7 @@ def main():
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
     # Construire le nom de fichier final avec la date
-    final_file = Path(os.path.join(json_raw_directory, f"wttj_database_{current_date}.json"))
+    final_file = Path(os.path.join(json_raw_directory, f"wttj_{current_date}.json"))
     print(f"Json: {final_file}")
     # Initialize final file with an empty list if it doesn't exist
     if not final_file.exists():
