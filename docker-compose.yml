@@ -76,6 +76,8 @@ services:
       - DATA_RAW_DIR=${DATA_RAW_DIR}
       - DATA_LOG_DIR=${DATA_LOG_DIR}
       - DATA_TRANSFORMED_DIR=${DATA_TRANSFORMED_DIR}
+      - DATA_PROCESSED_DIR=${DATA_PROCESSED_DIR}
+      - ELASTIC_PASSWORD=${ELASTIC_PASSWORD}
     volumes:
       - ./ETL:/app/ETL
       - ./data:/app/data

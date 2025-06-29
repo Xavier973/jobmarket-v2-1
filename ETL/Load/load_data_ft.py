@@ -8,11 +8,10 @@ import shutil
 ES_HOST = os.getenv('ES_HOST', 'elasticsearch:9200')
 ES_PASSWORD = os.getenv('ES_PASSWORD', 'JobMarket2024Secure!')
 JOBMARKET_INDEX = "jobmarket"
-# DATA_PATH = "/app/data/transformed/francetravail/*.json"
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__)) 
-BASE_PATH = os.path.dirname(os.path.dirname(SCRIPT_DIR))
-DATA_PROCESSED_FOLDER = os.path.join(BASE_PATH, "data", "processed", "francetravail")
-DATA_TRANSFORM_FOLDER = os.path.join(BASE_PATH, "data", "transformed", "francetravail")
+DATA_TRANSFORMED_FOLDER = os.getenv('DATA_TRANSFORMED_DIR', '/app/data/transformed')
+DATA_PROCESSED_FOLDER = os.getenv('DATA_PROCESSED_DIR', '/app/data/processed')
+FT_TRANSFORMED_FOLDER = os.path.join(DATA_TRANSFORMED_FOLDER, "francetravail")
+FT_PROCESSED_FOLDER = os.path.join(DATA_PROCESSED_FOLDER, "francetravail")
 
 def get_es_client():
     try:
@@ -59,7 +58,7 @@ def load_json_files():
     success_docs = 0
     
     # Parcourir tous les fichiers JSON
-    for file_path in glob.glob(os.path.join(DATA_TRANSFORM_FOLDER, "*.json")):
+    for file_path in glob.glob(os.path.join(FT_TRANSFORMED_FOLDER, "*.json")):
         try:
             print(f"\nTraitement du fichier : {os.path.basename(file_path)}")
             
@@ -99,8 +98,8 @@ def load_json_files():
                 if file_processed_successfully:
                     try:
                         filename = os.path.basename(file_path)
-                        destination = os.path.join(DATA_PROCESSED_FOLDER, filename)
-                        os.makedirs(DATA_PROCESSED_FOLDER, exist_ok=True)
+                        destination = os.path.join(FT_PROCESSED_FOLDER, filename)
+                        os.makedirs(FT_PROCESSED_FOLDER, exist_ok=True)
                         shutil.move(file_path, destination)
                         print(f"Fichier déplacé vers : {destination}")
                     except Exception as e:
