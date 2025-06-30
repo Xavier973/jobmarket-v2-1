@@ -1,3 +1,0 @@
-FT_20250211_021548_data analyst.json : Aucune correspondance trouvée pour location_raw: MARSEILLE 16E ARRONDISSEMENT
-FT_20250211_021548_data analyst.json : Aucune correspondance trouvée pour location_raw: VALBONNE
-FT_20250211_021548_data analyst.json : Aucune correspondance trouvée pour location_raw: WASQUEHAL

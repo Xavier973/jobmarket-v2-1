@@ -75,6 +75,15 @@ def create_index():
                             }
                         }
                     },
+                    "wttj_reference": {
+                        "type": "text",
+                        "fields": {
+                            "keyword": {
+                                "type": "keyword",
+                                "ignore_above": 256
+                            }
+                        }
+                    },
                     "company_data": {
                         "properties": {
                             "sector": {"type": "keyword"},
