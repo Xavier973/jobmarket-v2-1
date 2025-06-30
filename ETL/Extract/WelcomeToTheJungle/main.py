@@ -70,13 +70,14 @@ print(f"-> Fichier de log : {log_file_path}")
 print(f"-> ES_HOST : {os.getenv('ES_HOST')}")
 print("================================================================================\n")
 
-# Configuration du logging
+# Configuration du logging avec fuseau horaire
 logging_config = {
     "version": 1,
     "disable_existing_loggers": False,
     "formatters": {
         "default": {
             "format": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+            "datefmt": "%Y-%m-%d %H:%M:%S %Z",
         },
     },
     "handlers": {
