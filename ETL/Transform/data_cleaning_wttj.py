@@ -3,6 +3,7 @@ import json
 import re
 import unicodedata
 from pathlib import Path
+import shutil
 
 # Dictionnaire des métiers (repris de data_cleaning_ft.py)
 JOBS = {
@@ -255,8 +256,10 @@ def main():
     input_dir = "/home/ubuntu/jobmarket-v2-1/data/raw/wttj/"
     output_dir = "/home/ubuntu/jobmarket-v2-1/data/transformed/wttj/"
     log_dir = "/home/ubuntu/jobmarket-v2-1/data/logs/Transform"
+    raw_cleaned_dir = "/home/ubuntu/jobmarket-v2-1/data/raw/wttj/raw_cleaned/"
     os.makedirs(output_dir, exist_ok=True)
     os.makedirs(log_dir, exist_ok=True)
+    os.makedirs(raw_cleaned_dir, exist_ok=True)
     log_file_path = os.path.join(log_dir, "transform.log")
 
     # Lister tous les fichiers .json du dossier (hors sous-dossiers)
@@ -274,6 +277,8 @@ def main():
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(cleaned_data, f, ensure_ascii=False, indent=2)
         print(f"Fichier nettoyé sauvegardé sous : {output_file}")
+        # Déplacer le fichier d'entrée vers raw_cleaned
+        shutil.move(input_file, os.path.join(raw_cleaned_dir, filename))
     print(f"Log écrit dans : {log_file_path}")
 
 if __name__ == "__main__":

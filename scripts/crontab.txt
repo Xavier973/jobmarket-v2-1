@@ -1,3 +1,8 @@
-# Crontab pour VM (UTC)
-# Exécution du scraper France Travail tous les jours à 4h du matin
+# Exécution du scraper France Travail tous les jours à 4h du matin UTC
 0 4 * * * /home/ubuntu/jobmarket-v2-1/scripts/run_francetravail_scraper.sh
+# Exécution du loader France Travail  tous les jours à 8h du matin UTC
+0 8 * * * /home/ubuntu/jobmarket-v2-1/scripts/run_load_data_ft.sh
+# Exécution de data_cleaning_wttj tous les jours à 18h15 UTC (21h15 CAY)
+15 18 * * * /usr/bin/python3 /home/ubuntu/jobmarket-v2-1/ETL/Transform/data_cleaning_wttj.py
+# Exécution du loader Welcome To The Jungle tous les jours à 18h30 UTC (21h30 CAY)
+30 18 * * * /home/ubuntu/jobmarket-v2-1/scripts/run_load_data_wttj.sh
