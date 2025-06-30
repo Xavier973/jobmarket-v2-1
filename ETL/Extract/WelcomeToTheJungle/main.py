@@ -15,6 +15,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import WebDriverException
 from fake_useragent import UserAgent
 from selenium_stealth import stealth
+import argparse
 
 from constants import (
     COMPANY_INFO_SELECTOR,
@@ -120,9 +121,18 @@ def log_scraping_results(log_file_path, term, num_jobs, status="success", error_
         log_entry += "\n"
         log_file.write(log_entry)
 
+# --- Début des ajouts pour le mode récent/all ---
+script_start_time = datetime.datetime.now()
 
-def generate_job_search_url(job, page_number):
+parser = argparse.ArgumentParser(description="Scraping WTTJ: mode -all pour tout scraper, sinon <24h.")
+parser.add_argument('-all', action='store_true', help='Scraper toutes les offres (pas seulement les récentes)')
+args, unknown = parser.parse_known_args()
+MODE_ALL = args.all
+
+def generate_job_search_url(job, page_number, sort_by_recent=True):
     url = f"https://www.welcometothejungle.com/fr/jobs?query={job.replace(' ', '%20')}&page={page_number}&aroundQuery=worldwide"
+    if sort_by_recent:
+        url += "&sortBy=mostRecent"
     logging.info(f"Generated URL: {url}")
     return url
 
@@ -173,26 +183,15 @@ def close_browser(driver):
     driver.quit()
 
 
-def scrape_job_offers(driver, job, page_number, final_file):
-    job_search_url = generate_job_search_url(job, page_number)
+def scrape_job_offers(driver, job, page_number, final_file, sort_by_recent=True):
+    job_search_url = generate_job_search_url(job, page_number, sort_by_recent=sort_by_recent)
     logging.info(f"Scraping URL: {job_search_url}")
     try:
         print(f"Scraping job offers for {job} on page {page_number}")
-        # Dump du HTML de la page de résultats (avant extraction des liens)
         driver.get(job_search_url)
         # Gérer la redirection géographique si elle apparaît
         handle_geographic_redirect(driver)
-        # page_html = driver.page_source
-        # safe_job = job.replace(' ', '_').replace('/', '_')
-        # html_capture = f"html_dump_{safe_job}_{page_number}.html"
-        # print(f"HTML dump: {html_capture}")
-        #with open(html_capture, "w", encoding="utf-8") as f:
-        #    f.write(page_html)
-        
-        # Extraction des liens sur la page
         job_links = extract_links(driver, job_search_url, JOB_LINK_SELECTOR)
-        # logging.info(f"Extracted job links: {job_links}")
-        # print(f"Job links: {job_links}")
         if not job_links:
             logging.warning(f"No job links found for URL: {job_search_url}")
             return []
@@ -205,14 +204,11 @@ def scrape_job_offers(driver, job, page_number, final_file):
                 complete_url = link
             else:
                 complete_url = f"{RACINE_URL}{link}"
-            # logging.info(f"Fetching job details from: {complete_url}")
             wait = round(random.uniform(1, 3), 2)
-            # print(f"Waiting for {wait} seconds")
             WebDriverWait(driver, wait)
             try:
                 html = get_html(driver, complete_url)
                 if html:
-                    # logging.info(f"Fetched HTML for {complete_url}")
                     job_offer = {
                         "source": "wttj",
                         **get_contract_elements(
@@ -227,9 +223,18 @@ def scrape_job_offers(driver, job, page_number, final_file):
                             html, RAW_DESCRIPTION_SELECTORS
                         ),
                     }
+                    # --- Filtrage sur la date de publication ---
+                    pub_date_str = job_offer.get("publication_date")
+                    if pub_date_str and not MODE_ALL:
+                        try:
+                            pub_date = datetime.datetime.fromisoformat(pub_date_str)
+                            delta = script_start_time - pub_date
+                            if delta.total_seconds() > 86400:
+                                continue  # On saute les offres de plus de 24h
+                        except Exception as e:
+                            logging.warning(f"Erreur parsing date: {pub_date_str} : {e}")
                     job_offers.append(job_offer)
                     append_to_json_list(final_file, job_offer)
-                    # logging.info(f"Successfully wrote job offer to {final_file}")
                 else:
                     logging.error(f"Failed to fetch HTML from {complete_url}, got None")
             except Exception as e:
@@ -246,35 +251,32 @@ def scrape_jobs(driver, final_file):
         print(f"Scraping job: {job}")
         job_count = 0
         try:
-            baseurl = generate_job_search_url(job, 1)
-            total_pages = get_total_pages(driver, baseurl, TOTAL_PAGE_SELECTOR, job)
+            sort_by_recent = not MODE_ALL
+            baseurl = generate_job_search_url(job, 1, sort_by_recent=sort_by_recent)
+            if sort_by_recent:
+                total_pages = 1
+            else:
+                total_pages = get_total_pages(driver, baseurl, TOTAL_PAGE_SELECTOR, job)
             if total_pages is None:
                 logging.error(f"Could not determine total pages for job: {job}")
                 log_scraping_results(log_file_path, job, 0, "error", "Could not determine total pages")
                 continue
-            
             for page_number in range(1, total_pages + 1):
-                job_offers = scrape_job_offers(driver, job, page_number, final_file)
+                job_offers = scrape_job_offers(driver, job, page_number, final_file, sort_by_recent=sort_by_recent)
                 job_count += len(job_offers)
-            
             total_jobs_scraped += job_count
             log_scraping_results(log_file_path, job, job_count, "success")
             print(f"Scraped {job_count} jobs for '{job}'")
-            
         except Exception as e:
             error_msg = str(e)
             logging.error(f"Error scraping job '{job}': {error_msg}")
             log_scraping_results(log_file_path, job, job_count, "error", error_msg)
-    
     print(f"\nTotal jobs scraped: {total_jobs_scraped}")
     return total_jobs_scraped
 
 
 def main():
-    # print("Scraping Welcome to the Jungle")
     logger = logging.getLogger(__name__)
-
-    # Obtenir la date actuelle sous forme de chaîne formatée
     current_date = datetime.datetime.now().strftime("%Y-%m-%d")
 
     # Construire le nom de fichier final avec la date
@@ -283,18 +285,13 @@ def main():
     # Initialize final file with an empty list if it doesn't exist
     if not final_file.exists():
         with open(final_file, "w", encoding="utf-8") as f:
-            f.write("[]")  # Initialize with empty list
-
-    # Launch browser
+            f.write("[]")
     driver = launch_browser()
     print("Browser launched")
-
     try:
-        # Scrape jobs
         total_scraped = scrape_jobs(driver, final_file)
         print(f"\nScraping terminé. Total: {total_scraped} offres d'emploi extraites.")
     finally:
-        # Ensure browser is closed
         close_browser(driver)
 
 
